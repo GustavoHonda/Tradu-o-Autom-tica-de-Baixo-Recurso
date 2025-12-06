@@ -5,6 +5,7 @@ import pandas as pd
 
 def prep_data(path: str):
     df = open_xlsx_file(path)
+    df.dropna(inplace=True)
     df.rename(columns={df.columns[0]: "pt"}, inplace=True)
     df.rename(columns={df.columns[1]: "tp"}, inplace=True)
     x = df.iloc[:, 0]

@@ -38,7 +38,7 @@ def zero_shot(path: str, batch_size=8):
 
     df = pd.DataFrame({
         "Input": x_test,
-        "Predicted": predictions,
+        "Predicted": predictions,  
         "Actual": y_test
     })
     create_dir("./outputs")

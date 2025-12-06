@@ -1,32 +1,45 @@
+import re
 import evaluate
 
-
-def compute_metrics(predictions, references, results_path="translation_results.csv"):
-    # BLEU
-    bleu = evaluate.load("bleu")
-
-    # ChrF
+def compute_metrics(predictions, references, output_file):
+    bleu = evaluate.load("sacrebleu")
     chrf = evaluate.load("chrf")
 
-    # predictions = ["Olá, como você está?", "Bom dia"]
-    # references = [["Olá, como você está?"], ["Bom dia"]]
+    references_bleu = [ref[0] if isinstance(ref, list) else ref for ref in references]
+    references_bleu = [[ref] for ref in references_bleu]
+        
 
-    results = bleu.compute(predictions=[p.split() for p in predictions],references=[[r[0].split() for r in ref] for ref in references])
-    results_chrf1 = chrf.compute(predictions=predictions, references=[r[0] for r in references], order=1)
-    results_chrf3 = chrf.compute(predictions=predictions, references=[r[0] for r in references], order=3)
+    bleu_result = bleu.compute(
+        predictions=predictions,
+        references=references_bleu
+    )
 
-    print("BLEU score:", results["bleu"])
-    print("ChrF1:", results_chrf1["score"])
-    print("ChrF3:", results_chrf3["score"])
 
-    df_results = pd.DataFrame({
-    "prediction": predictions,
-    "reference": references
-    })
+    chrf1 = chrf.compute(
+        predictions=predictions,
+        references=references,
+        word_order=1
+    )
+    chrf3 = chrf.compute(
+        predictions=predictions,
+        references=references,
+        word_order=3
+    )
 
-    df_results["bleu"] = bleu_score
-    df_results["chrF1"] = chrf1_score
-    df_results["chrF3"] = chrf3_score
+    with open(output_file, "w") as f:
+        f.write("===== METRICS =====\n")
+        f.write(f"BLEU:  {bleu_result['score']}\n")
+        f.write(f"chrF1: {chrf1['score']}\n")
+        f.write(f"chrF3: {chrf3['score']}\n\n")
 
-    df_results.to_csv(results_path, index=False)
-    return results, results_chrf1, results_chrf3
+        f.write("===== PREDICTIONS =====\n")
+        for pred, ref in zip(predictions, references):
+            f.write(f"PRED: {pred}\n")
+            f.write(f"REF:  {ref}\n")
+            f.write("---\n")
+
+    return {
+        "bleu": bleu_result,
+        "chrf1": chrf1,
+        "chrf3": chrf3
+    }
