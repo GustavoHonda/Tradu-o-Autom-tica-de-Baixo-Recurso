@@ -26,7 +26,7 @@ def compute_metrics(predictions, references, output_file):
         word_order=3
     )
 
-    with open(output_file, "w") as f:
+    with open(output_file, "w", encoding="utf-8") as f:
         f.write("===== METRICS =====\n")
         f.write(f"BLEU:  {bleu_result['score']}\n")
         f.write(f"chrF1: {chrf1['score']}\n")

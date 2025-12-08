@@ -1,5436 +1,5436 @@
 ===== METRICS =====
-BLEU:  100.00000000000004
-chrF1: 100.0
-chrF3: 100.0
+BLEU:  0.008560276218397986
+chrF1: 2.8753654862180693
+chrF3: 2.2363953781696098
 
 ===== PREDICTIONS =====
-PRED: Aîmorambûerukar ahẽ rekorambûera
+PRED: <extra_id_0>
 REF:  Aîmorambûerukar ahẽ rekorambûera
 ---
-PRED: Xe py-piru'a
+PRED: <extra_id_0>.
 REF:  Xe py-piru'a
 ---
-PRED: Ixé aé ã a'é umûã nakó peẽme
+PRED: <extra_id_0>
 REF:  Ixé aé ã a'é umûã nakó peẽme
 ---
-PRED: Peîori, peîaîubã pitangĩ-moraûsubara
+PRED: <extra_id_0>
 REF:  Peîori, peîaîubã pitangĩ-moraûsubara
 ---
-PRED: korite'ĩ-aíb-eté
+PRED: <extra_id_0>.
 REF:  korite'ĩ-aíb-eté
 ---
-PRED: Amembek
+PRED: <extra_id_0>
 REF:  Amembek
 ---
-PRED: Marãpe asé rekóû Tupã remimotara moporagûama resé
+PRED: <extra_id_0>.
 REF:  Marãpe asé rekóû Tupã remimotara moporagûama resé
 ---
-PRED: Mba'e-embegûasu!
+PRED: <extra_id_0>!
 REF:  Mba'e-embegûasu!
 ---
-PRED: Marãîasûaramo turi mã!
+PRED: <extra_id_0>
 REF:  Marãîasûaramo turi mã!
 ---
-PRED: Aruretá kó reri
+PRED: <extra_id_0>.
 REF:  Aruretá kó reri
 ---
-PRED: T'oîkó umẽ moxy xe ypybo
+PRED: <extra_id_0>.
 REF:  T'oîkó umẽ moxy xe ypybo
 ---
-PRED: Xe aŷpygûasu
+PRED: <extra_id_0>.
 REF:  Xe aŷpygûasu
 ---
-PRED: Aîmonhã-memûã
+PRED: <extra_id_0>.
 REF:  Aîmonhã-memûã
 ---
-PRED: Our paranã - Subiu a água do mar Ourusu 'y
+PRED: <extra_id_0>
 REF:  Our paranã - Subiu a água do mar Ourusu 'y
 ---
-PRED: Marãnamope asé îobasabetá-etáûne?
+PRED: <extra_id_0>.
 REF:  Marãnamope asé îobasabetá-etáûne?
 ---
-PRED: A'epe supindûare'yma resé Tupã renõîndara, marã?
+PRED: <extra_id_0>.
 REF:  A'epe supindûare'yma resé Tupã renõîndara, marã?
 ---
-PRED: Asobaún
+PRED: <extra_id_0>
 REF:  Asobaún
 ---
-PRED: Te'inhẽne oîkóbo ká
+PRED: <extra_id_0>.
 REF:  Te'inhẽne oîkóbo ká
 ---
-PRED: Ten i mo'îabo
+PRED: <extra_id_0>.
 REF:  Ten i mo'îabo
 ---
-PRED: Nde resá-popybo ema'ẽmo
+PRED: <extra_id_0>.
 REF:  Nde resá-popybo ema'ẽmo
 ---
-PRED: Onhemombe'upe abá gûarinĩnamo o só îanondé, ygarusupe o 'ar-y îanondé?
+PRED: <extra_id_0>.
 REF:  Onhemombe'upe abá gûarinĩnamo o só îanondé, ygarusupe o 'ar-y îanondé?
 ---
-PRED: Eîori muru mondyîa, t'opu'am umẽ oré ri
+PRED: <extra_id_0>.
 REF:  Eîori muru mondyîa, t'opu'am umẽ oré ri
 ---
-PRED: Umã? Akó Rorẽ-ka'ẽ?
+PRED: <extra_id_0>.
 REF:  Umã? Akó Rorẽ-ka'ẽ?
 ---
-PRED: Ybyoka asapekóne, Itaoka abé aîpobu, rumby, Îupaogûaóne
+PRED: <extra_id_0>.
 REF:  Ybyoka asapekóne, Itaoka abé aîpobu, rumby, Îupaogûaóne
 ---
-PRED: ybyrá ku'i
+PRED: <extra_id_0>.
 REF:  ybyrá ku'i
 ---
-PRED: Ndaroîaî mamõ xe sóû
+PRED: <extra_id_0>.
 REF:  Ndaroîaî mamõ xe sóû
 ---
-PRED: Eîori, mba'enem, mba'e-poxy, mborá!
+PRED: <extra_id_0>
 REF:  Eîori, mba'enem, mba'e-poxy, mborá!
 ---
-PRED: Xe resaraî é gûitekóbo, n'aseîá-potá ruã!
+PRED: <extra_id_0>.
 REF:  Xe resaraî é gûitekóbo, n'aseîá-potá ruã!
 ---
-PRED: N'orogûeruri xûémo ndebe i angaîpabe'ỹmemo
+PRED: <extra_id_0>.
 REF:  N'orogûeruri xûémo ndebe i angaîpabe'ỹmemo
 ---
-PRED: I mba'eba'e ixé
+PRED: <extra_id_0>
 REF:  I mba'eba'e ixé
 ---
-PRED: Ygarusu nungara
+PRED: <extra_id_0>
 REF:  Ygarusu nungara
 ---
-PRED: aîogûasu
+PRED: <extra_id_0>
 REF:  aîogûasu
 ---
-PRED: Agûatá ko'arapukuî nde rerapûana resé
+PRED: <extra_id_0>
 REF:  Agûatá ko'arapukuî nde rerapûana resé
 ---
-PRED: Xe mendasabeté resé nhõ t'aîkóne
+PRED: <extra_id_0>.
 REF:  Xe mendasabeté resé nhõ t'aîkóne
 ---
-PRED: Ereîmombo'irype kunhã amõ i mena suí?
+PRED: <extra_id_0>?
 REF:  Ereîmombo'irype kunhã amõ i mena suí?
 ---
-PRED: Eîori oré rekyîa
+PRED: <extra_id_0>
 REF:  Eîori oré rekyîa
 ---
-PRED: Aûîebé-temo xe só-umani
+PRED: <extra_id_0>
 REF:  Aûîebé-temo xe só-umani
 ---
-PRED: Xe resaraî-potar
+PRED: <extra_id_0>.
 REF:  Xe resaraî-potar
 ---
-PRED: Ne'ĩ taûîé xe reîyîa!
+PRED: <extra_id_0>
 REF:  Ne'ĩ taûîé xe reîyîa!
 ---
-PRED: ybyty-bytyra
+PRED: <extra_id_0>.
 REF:  ybyty-bytyra
 ---
-PRED: Amõ seba'e irũmo nhẽ
+PRED: <extra_id_0>.
 REF:  Amõ seba'e irũmo nhẽ
 ---
-PRED: abá-pûapẽîara
+PRED: <extra_id_0> 
 REF:  abá-pûapẽîara
 ---
-PRED: Nde poxype nde remirekó asykûereté amõ resé koîpó i mũ-mbyryba?
+PRED: <extra_id_0>?
 REF:  Nde poxype nde remirekó asykûereté amõ resé koîpó i mũ-mbyryba?
 ---
-PRED: Na xe îuru-pyki
+PRED: <extra_id_0>.
 REF:  Na xe îuru-pyki
 ---
-PRED: Nhoesembé robabo i kûáî
+PRED: <extra_id_0>
 REF:  Nhoesembé robabo i kûáî
 ---
-PRED: Anhẽ, n'i tekokuabi
+PRED: <extra_id_0>
 REF:  Anhẽ, n'i tekokuabi
 ---
-PRED: Oîxamysyk sero'ama
+PRED: <extra_id_0>.
 REF:  Oîxamysyk sero'ama
 ---
-PRED: Ybakype asé 'anga rerasóbo
+PRED: <extra_id_0>.
 REF:  Ybakype asé 'anga rerasóbo
 ---
-PRED: ka'a mosanga ra'anga
+PRED: <extra_id_0>.
 REF:  ka'a mosanga ra'anga
 ---
-PRED: Aîpi-momemûã
+PRED: <extra_id_0>
 REF:  Aîpi-momemûã
 ---
-PRED: Nde arybé Anheté kó nde rapé
+PRED: <extra_id_0>
 REF:  Nde arybé Anheté kó nde rapé
 ---
-PRED: Teumẽ ké serasóbo rá
+PRED: <extra_id_0>.
 REF:  Teumẽ ké serasóbo rá
 ---
-PRED: Asé rekokaturama mombegûabo
+PRED: <extra_id_0>.
 REF:  Asé rekokaturama mombegûabo
 ---
-PRED: Anhemombeb gûitena
+PRED: <extra_id_0>
 REF:  Anhemombeb gûitena
 ---
-PRED: T'okaî nde ratá pupé, ta sepy muru angaîpaba
+PRED: <extra_id_0>.
 REF:  T'okaî nde ratá pupé, ta sepy muru angaîpaba
 ---
-PRED: xe remimbo'epûera
+PRED: <extra_id_0>
 REF:  xe remimbo'epûera
 ---
-PRED: kó Yby'apapesûara
+PRED: <extra_id_0>.
 REF:  kó Yby'apapesûara
 ---
-PRED: Setá tekó oporomondyîba'ene
+PRED: <extra_id_0>.,ловна
 REF:  Setá tekó oporomondyîba'ene
 ---
-PRED: y robaî
+PRED: <extra_id_0>.
 REF:  y robaî
 ---
-PRED: Xe îyboîa, xe sokó, xe tamuîusu Aîmbiré
+PRED: <extra_id_0>.
 REF:  Xe îyboîa, xe sokó, xe tamuîusu Aîmbiré
 ---
-PRED: Karaibebé a'e, moroîubyka puaîtara
+PRED: <extra_id_0>.
 REF:  Karaibebé a'e, moroîubyka puaîtara
 ---
-PRED: Kó ygara ruri Osó-te
+PRED: <extra_id_0>.
 REF:  Kó ygara ruri Osó-te
 ---
-PRED: Abá angaîpá-nhemima i kuapare'yma supé mombegûabo
+PRED: <extra_id_0>.
 REF:  Abá angaîpá-nhemima i kuapare'yma supé mombegûabo
 ---
-PRED: i xo'opyra
+PRED: <extra_id_0>
 REF:  i xo'opyra
 ---
-PRED: Xe t'oropysykatu, xe mundépe nde mbo'a
+PRED: <extra_id_0>
 REF:  Xe t'oropysykatu, xe mundépe nde mbo'a
 ---
-PRED: Aîopûaî Pedro îepeaba resé
+PRED: <extra_id_0>
 REF:  Aîopûaî Pedro îepeaba resé
 ---
-PRED: Ereképe, Gûaîxará?
+PRED: <extra_id_0>.
 REF:  Ereképe, Gûaîxará?
 ---
-PRED: Mobype erenhemombe'u koîpó eretupãar?
+PRED: <extra_id_0>
 REF:  Mobype erenhemombe'u koîpó eretupãar?
 ---
-PRED: i py
+PRED: <extra_id_0>
 REF:  i py
 ---
-PRED: Ikó 'ara pupé abiã Tupã remimonhangûera i porãngatu, memetipó ebapó ybakypy
+PRED: <extra_id_0>.
 REF:  Ikó 'ara pupé abiã Tupã remimonhangûera i porãngatu, memetipó ebapó ybakypy
 ---
-PRED: Aîmoangaîpá pá benhẽne
+PRED: <extra_id_0>
 REF:  Aîmoangaîpá pá benhẽne
 ---
-PRED: mba'easybora nde kotypendûara
+PRED: <extra_id_0>.
 REF:  mba'easybora nde kotypendûara
 ---
-PRED: Tupã koîpó o 'anga koîpó cruz koîpó anheté renõîa
+PRED: <extra_id_0>
 REF:  Tupã koîpó o 'anga koîpó cruz koîpó anheté renõîa
 ---
-PRED: Oîkuá-katupe a'e suí o semagûama?
+PRED: <extra_id_0>.
 REF:  Oîkuá-katupe a'e suí o semagûama?
 ---
-PRED: I mba'e-potar îagûara
+PRED: <extra_id_0>.
 REF:  I mba'e-potar îagûara
 ---
-PRED: Oroîoerokûab
+PRED: <extra_id_0>
 REF:  Oroîoerokûab
 ---
-PRED: A'e îandé resé Tupã t'omoma'enduar
+PRED: <extra_id_0>
 REF:  A'e îandé resé Tupã t'omoma'enduar
 ---
-PRED: Nde porãngatu raûsupa
+PRED: <extra_id_0>.
 REF:  Nde porãngatu raûsupa
 ---
-PRED: T'îanhe'engá-mirĩ ranhẽ
+PRED: <extra_id_0>.,ловна
 REF:  T'îanhe'engá-mirĩ ranhẽ
 ---
-PRED: Anhe'ẽ-îeaseî
+PRED: <extra_id_0>.
 REF:  Anhe'ẽ-îeaseî
 ---
-PRED: angûera resé Tupã mongetasagûama
+PRED: <extra_id_0>
 REF:  angûera resé Tupã mongetasagûama
 ---
-PRED: Ererokûé-rokûerype abá amõ?
+PRED: <extra_id_0>
 REF:  Ererokûé-rokûerype abá amõ?
 ---
-PRED: Eîepe'a!
+PRED: <extra_id_0>!
 REF:  Eîepe'a!
 ---
-PRED: Xe moapysy-katu
+PRED: <extra_id_0>.,ловна
 REF:  Xe moapysy-katu
 ---
-PRED: I mbo'a tiruã, i mbo'ar' e'ymebé, a'erame'ĩ i mbo'ar'iré, omarane'ymamo
+PRED: <extra_id_0>.
 REF:  I mbo'a tiruã, i mbo'ar' e'ymebé, a'erame'ĩ i mbo'ar'iré, omarane'ymamo
 ---
-PRED: Aîkûatiar
+PRED: <extra_id_0>
 REF:  Aîkûatiar
 ---
-PRED: ara papápe
+PRED: <extra_id_0>
 REF:  ara papápe
 ---
-PRED: Endé, nde îybápe, Îesu eresupi
+PRED: <extra_id_0>
 REF:  Endé, nde îybápe, Îesu eresupi
 ---
-PRED: Kûesé bé mba'e n'a'uî
+PRED: <extra_id_0>.
 REF:  Kûesé bé mba'e n'a'uî
 ---
-PRED: T'ereîu ybaté xe rerasóbo
+PRED: <extra_id_0>
 REF:  T'ereîu ybaté xe rerasóbo
 ---
-PRED: Aindé
+PRED: <extra_id_0>.
 REF:  Aindé
 ---
-PRED: Opá xe ramyîa ma'epûera aîtyk
+PRED: <extra_id_0>.
 REF:  Opá xe ramyîa ma'epûera aîtyk
 ---
-PRED: Osó é ahẽ îabynomã
+PRED: <extra_id_0>.,ловна
 REF:  Osó é ahẽ îabynomã
 ---
-PRED: Kori é t'oromondóne
+PRED: <extra_id_0>
 REF:  Kori é t'oromondóne
 ---
-PRED: Iké nhẽ peîkó xe rarõmo, xe pyri, pekere'yma
+PRED: <extra_id_0>
 REF:  Iké nhẽ peîkó xe rarõmo, xe pyri, pekere'yma
 ---
-PRED: Pitangamo seni Maria îybápe
+PRED: <extra_id_0>.
 REF:  Pitangamo seni Maria îybápe
 ---
-PRED: Ixé aé ã a'é umûã nakó peẽme
+PRED: <extra_id_0>
 REF:  Ixé aé ã a'é umûã nakó peẽme
 ---
-PRED: Nde membyrápe erimba'e nde remimotarybo?
+PRED: <extra_id_0>.
 REF:  Nde membyrápe erimba'e nde remimotarybo?
 ---
-PRED: Nde porãngatu raûsupa
+PRED: <extra_id_0>.
 REF:  Nde porãngatu raûsupa
 ---
-PRED: A'e suí turi oîkobeba'e omanõba'epûera pabẽ rekomonhangane
+PRED: <extra_id_0>.
 REF:  A'e suí turi oîkobeba'e omanõba'epûera pabẽ rekomonhangane
 ---
-PRED: Asé sy o membypitanga raûsuba sosé asé raûsume nhẽ
+PRED: <extra_id_0>.
 REF:  Asé sy o membypitanga raûsuba sosé asé raûsume nhẽ
 ---
-PRED: Abá sosé pabẽ i momorangi
+PRED: <extra_id_0>
 REF:  Abá sosé pabẽ i momorangi
 ---
-PRED: Aîukae'ym
+PRED: <extra_id_0>.
 REF:  Aîukae'ym
 ---
-PRED: Ambyasybora poîa
+PRED: <extra_id_0>.
 REF:  Ambyasybora poîa
 ---
-PRED: Kûepe kunhã-mendarûera ereîmomoxy-moxy
+PRED: <extra_id_0>
 REF:  Kûepe kunhã-mendarûera ereîmomoxy-moxy
 ---
-PRED: São Lourenço pytybõana
+PRED: <extra_id_0>.
 REF:  São Lourenço pytybõana
 ---
-PRED: Ererupe nde petyma?
+PRED: <extra_id_0>
 REF:  Ererupe nde petyma?
 ---
-PRED: ysypó-tyba
+PRED: <extra_id_0>.
 REF:  ysypó-tyba
 ---
-PRED: Peîuká!
+PRED: <extra_id_0>
 REF:  Peîuká!
 ---
-PRED: Tamũîa, kyre'ymbagûera, omombab erimba'e
+PRED: <extra_id_0>
 REF:  Tamũîa, kyre'ymbagûera, omombab erimba'e
 ---
-PRED: Marã-pakó xe sy xe mbo'ari erimba'e?
+PRED: <extra_id_0>.
 REF:  Marã-pakó xe sy xe mbo'ari erimba'e?
 ---
-PRED: okytá
+PRED: <extra_id_0>.
 REF:  okytá
 ---
-PRED: Ereîkuá ranhẽ meémo emonã nde rekorama
+PRED: <extra_id_0>.
 REF:  Ereîkuá ranhẽ meémo emonã nde rekorama
 ---
-PRED: Asó-potá nde retãme
+PRED: <extra_id_0>.
 REF:  Asó-potá nde retãme
 ---
-PRED: Marã e'ipe Îudeus i piaretá i xupé?
+PRED: <extra_id_0>.
 REF:  Marã e'ipe Îudeus i piaretá i xupé?
 ---
-PRED: Eboûĩ nde resá erobak oré koty
+PRED: <extra_id_0>.
 REF:  Eboûĩ nde resá erobak oré koty
 ---
-PRED: O manõ riré toryba rerekóbo
+PRED: <extra_id_0>.
 REF:  O manõ riré toryba rerekóbo
 ---
-PRED: moîasukaba
+PRED: <extra_id_0>.
 REF:  moîasukaba
 ---
-PRED: Memeté a'e morero'arupîara
+PRED: <extra_id_0>.es
 REF:  Memeté a'e morero'arupîara
 ---
-PRED: T'osó umẽ temirekó kûepe
+PRED: <extra_id_0>.
 REF:  T'osó umẽ temirekó kûepe
 ---
-PRED: i mokõîa
+PRED: <extra_id_0>.
 REF:  i mokõîa
 ---
-PRED: I angaîpá kó kena'ĩ
+PRED: <extra_id_0>.
 REF:  I angaîpá kó kena'ĩ
 ---
-PRED: Peteumẽ xe rapirõmo
+PRED: <extra_id_0>
 REF:  Peteumẽ xe rapirõmo
 ---
-PRED: îerobîá-tenhẽa
+PRED: <extra_id_0>
 REF:  îerobîá-tenhẽa
 ---
-PRED: O monhangaramo nde rekó kuapa
+PRED: <extra_id_0>.
 REF:  O monhangaramo nde rekó kuapa
 ---
-PRED: Ereîtykype kunumĩ amõ nde abiîxûara nde 'arybo moropotara suí?
+PRED: <extra_id_0> sensual?
 REF:  Ereîtykype kunumĩ amõ nde abiîxûara nde 'arybo moropotara suí?
 ---
-PRED: Pesapîá abaré, pe mbo'esara
+PRED: <extra_id_0>
 REF:  Pesapîá abaré, pe mbo'esara
 ---
-PRED: Eresugûykápe kunhataĩ amõ?
+PRED: <extra_id_0>
 REF:  Eresugûykápe kunhataĩ amõ?
 ---
-PRED: Mosapy ipó xe boîáramo nde rekó ereîkuakub mokõî gûyrá sapukaî'e'ymebéne
+PRED: <extra_id_0>
 REF:  Mosapy ipó xe boîáramo nde rekó ereîkuakub mokõî gûyrá sapukaî'e'ymebéne
 ---
-PRED: Ereî'apixabype amõno?
+PRED: <extra_id_0>?
 REF:  Ereî'apixabype amõno?
 ---
-PRED: Xe kuaukámo xe rubixaba supémo
+PRED: <extra_id_0>
 REF:  Xe kuaukámo xe rubixaba supémo
 ---
-PRED: Peró turusu-eté nde suí
+PRED: <extra_id_0>.
 REF:  Peró turusu-eté nde suí
 ---
-PRED: Aîpotá-te kûé kunhã-mendara mã!
+PRED: <extra_id_0>!
 REF:  Aîpotá-te kûé kunhã-mendara mã!
 ---
-PRED: Xe pukusam
+PRED: <extra_id_0>.
 REF:  Xe pukusam
 ---
-PRED: tĩmuku
+PRED: <extra_id_0>
 REF:  tĩmuku
 ---
-PRED: Ara yby sokeme, xe ruri
+PRED: <extra_id_0>
 REF:  Ara yby sokeme, xe ruri
 ---
-PRED: Xe rekó-aé arekó
+PRED: <extra_id_0>
 REF:  Xe rekó-aé arekó
 ---
-PRED: Okûabépe irã so'o, gûyrá?
+PRED: <extra_id_0>.
 REF:  Okûabépe irã so'o, gûyrá?
 ---
-PRED: Ybakype îandé sorama monhanga
+PRED: <extra_id_0>.
 REF:  Ybakype îandé sorama monhanga
 ---
-PRED: Sesé Tupã resé bé o îerobîasápe
+PRED: <extra_id_0>
 REF:  Sesé Tupã resé bé o îerobîasápe
 ---
-PRED: Xe asang
+PRED: <extra_id_0>
 REF:  Xe asang
 ---
-PRED: Abáp'amẽ asé osenõî oîkotebẽmo?
+PRED: <extra_id_0>.
 REF:  Abáp'amẽ asé osenõî oîkotebẽmo?
 ---
-PRED: Ereîpotápe îandy-karaíba pupé ixé nde pixyba?
+PRED: <extra_id_0>?
 REF:  Ereîpotápe îandy-karaíba pupé ixé nde pixyba?
 ---
-PRED: Xe mba'ekugûab
+PRED: <extra_id_0>
 REF:  Xe mba'ekugûab
 ---
-PRED: abo'o-bo'o
+PRED: <extra_id_0>.
 REF:  abo'o-bo'o
 ---
-PRED: Oîkobé xe pytybõanameté, tubixá-katu Aîmbiré, apŷaba moangaîpapara
+PRED: <extra_id_0>.
 REF:  Oîkobé xe pytybõanameté, tubixá-katu Aîmbiré, apŷaba moangaîpapara
 ---
-PRED: ybyrakytĩabusu
+PRED: <extra_id_0>.
 REF:  ybyrakytĩabusu
 ---
-PRED: E'ikatu bépe amõ 'ara pupé amõme asé tara?
+PRED: <extra_id_0>.
 REF:  E'ikatu bépe amõ 'ara pupé amõme asé tara?
 ---
-PRED: Mamõ nhẽ kanhẽ-motara i py'a îaîporaká
+PRED: <extra_id_0>.
 REF:  Mamõ nhẽ kanhẽ-motara i py'a îaîporaká
 ---
-PRED: A'e iî abaíbymo abá supé xe ro'o 'u
+PRED: <extra_id_0>
 REF:  A'e iî abaíbymo abá supé xe ro'o 'u
 ---
-PRED: I por nde rygé
+PRED: <extra_id_0>
 REF:  I por nde rygé
 ---
-PRED: Aîpokupé-petek
+PRED: <extra_id_0>.
 REF:  Aîpokupé-petek
 ---
-PRED: Eîmoîar, eîmoîar ybyrá îoasaba resé
+PRED: <extra_id_0>.
 REF:  Eîmoîar, eîmoîar ybyrá îoasaba resé
 ---
-PRED: N'aîkuakubi mba'e
+PRED: <extra_id_0>.
 REF:  N'aîkuakubi mba'e
 ---
-PRED: Abá resé nhoamotare'yma rerekouká abá supé
+PRED: <extra_id_0>.
 REF:  Abá resé nhoamotare'yma rerekouká abá supé
 ---
-PRED: Îandé-te îapyk umẽ senõîa
+PRED: <extra_id_0>
 REF:  Îandé-te îapyk umẽ senõîa
 ---
-PRED: Asekobîarõ seîmbaba i xupé
+PRED: <extra_id_0>.,ловна
 REF:  Asekobîarõ seîmbaba i xupé
 ---
-PRED: Tupinakyîa, keygûara, tĩapyra moroupîara
+PRED: <extra_id_0>.
 REF:  Tupinakyîa, keygûara, tĩapyra moroupîara
 ---
-PRED: Xe reté ã n'oîkoetéî, omembeka
+PRED: <extra_id_0>.
 REF:  Xe reté ã n'oîkoetéî, omembeka
 ---
-PRED: Apysá-îtyk
+PRED: <extra_id_0>.
 REF:  Apysá-îtyk
 ---
-PRED: Ereîmombe'upe kunhã resé nde pokó-pokokagûera abá supé?
+PRED: <extra_id_0>?
 REF:  Ereîmombe'upe kunhã resé nde pokó-pokokagûera abá supé?
 ---
-PRED: I apaîé - Ele está maduro I apaîegûasu
+PRED: <extra_id_0>.
 REF:  I apaîé - Ele está maduro I apaîegûasu
 ---
-PRED: Îaîuká memẽ aîpó 'îara
+PRED: <extra_id_0>.
 REF:  Îaîuká memẽ aîpó 'îara
 ---
-PRED: Osem okarype, oîase'o-asy-katûabo
+PRED: <extra_id_0>
 REF:  Osem okarype, oîase'o-asy-katûabo
 ---
-PRED: i nambi mondoka
+PRED: <extra_id_0>.
 REF:  i nambi mondoka
 ---
-PRED: Missa mondykápe épe ereîké îepi?
+PRED: <extra_id_0>.
 REF:  Missa mondykápe épe ereîké îepi?
 ---
-PRED: Nde reroŷrõ, nde mombóne
+PRED: <extra_id_0>
 REF:  Nde reroŷrõ, nde mombóne
 ---
-PRED: Kó a'e xe kyre'ymbaba oîkuá morapiti
+PRED: <extra_id_0>
 REF:  Kó a'e xe kyre'ymbaba oîkuá morapiti
 ---
-PRED: aîpi 'y
+PRED: <extra_id_0>
 REF:  aîpi 'y
 ---
-PRED: mbaba
+PRED: <extra_id_0>
 REF:  mbaba
 ---
-PRED: Iîabaíbeté aîpó!
+PRED: <extra_id_0>.
 REF:  Iîabaíbeté aîpó!
 ---
-PRED: Asó ybyrá piaramo
+PRED: <extra_id_0>.
 REF:  Asó ybyrá piaramo
 ---
-PRED: Na mba'e 'u potá ruã aîur
+PRED: <extra_id_0>.
 REF:  Na mba'e 'u potá ruã aîur
 ---
-PRED: T'orobasẽne ybakype
+PRED: <extra_id_0>
 REF:  T'orobasẽne ybakype
 ---
-PRED: Nd'e'i te'e moxy onhana oîoa'o-marangatûabo
+PRED: <extra_id_0>
 REF:  Nd'e'i te'e moxy onhana oîoa'o-marangatûabo
 ---
-PRED: Erepokokype nde rapopé resé i pipekábo?
+PRED: <extra_id_0>
 REF:  Erepokokype nde rapopé resé i pipekábo?
 ---
-PRED: Aroîyb aoba
+PRED: <extra_id_0>.
 REF:  Aroîyb aoba
 ---
-PRED: miapé îyba
+PRED: <extra_id_0>.
 REF:  miapé îyba
 ---
-PRED: Anhe'angepîak
+PRED: <extra_id_0>
 REF:  Anhe'angepîak
 ---
-PRED: ygara rokabytera
+PRED: <extra_id_0>. <extra_id_10>e <extra_id_10>
 REF:  ygara rokabytera
 ---
-PRED: Aî'ybab
+PRED: <extra_id_0>
 REF:  Aî'ybab
 ---
-PRED: Oporoîrarõ mbá
+PRED: <extra_id_0>.,ловна
 REF:  Oporoîrarõ mbá
 ---
-PRED: Se'yî i kuabypyre'yma Tupã i monhangara remingûaba nhõ
+PRED: <extra_id_0>.
 REF:  Se'yî i kuabypyre'yma Tupã i monhangara remingûaba nhõ
 ---
-PRED: I mba'epepe i nhybõû?
+PRED: <extra_id_0>.
 REF:  I mba'epepe i nhybõû?
 ---
-PRED: Sasy xe akanga xe suí
+PRED: <extra_id_0>.
 REF:  Sasy xe akanga xe suí
 ---
-PRED: Gûyrá taté u'uba sóû
+PRED: <extra_id_0>.
 REF:  Gûyrá taté u'uba sóû
 ---
-PRED: ta'yrĩ-rĩ
+PRED: <extra_id_0>.,ловна 
 REF:  ta'yrĩ-rĩ
 ---
-PRED: Abá abiã é o a'yra ogûerekó-katu, memetipó Tupã asé raûsubáne
+PRED: <extra_id_0>.
 REF:  Abá abiã é o a'yra ogûerekó-katu, memetipó Tupã asé raûsubáne
 ---
-PRED: Rerityba
+PRED: <extra_id_0>
 REF:  Rerityba
 ---
-PRED: Eîori, mba'enem, mba'e-poxy, tamarutaka!
+PRED: <extra_id_0>
 REF:  Eîori, mba'enem, mba'e-poxy, tamarutaka!
 ---
-PRED: Asé aé oîemoabangá i mborypa
+PRED: <extra_id_0>.
 REF:  Asé aé oîemoabangá i mborypa
 ---
-PRED: anhẽ rakó!
+PRED: <extra_id_0>.
 REF:  anhẽ rakó!
 ---
-PRED: Aîuká ipó irãne
+PRED: <extra_id_0>
 REF:  Aîuká ipó irãne
 ---
-PRED: y-îebyra
+PRED: <extra_id_0>
 REF:  y-îebyra
 ---
-PRED: Pe apysykĩ serã peîkóbo te'õ repîakare'yma rame'ĩ?
+PRED: <extra_id_0>
 REF:  Pe apysykĩ serã peîkóbo te'õ repîakare'yma rame'ĩ?
 ---
-PRED: Aî'apirabo'o
+PRED: <extra_id_0>.
 REF:  Aî'apirabo'o
 ---
-PRED: anhurĩ
+PRED: <extra_id_0>
 REF:  anhurĩ
 ---
-PRED: Nd'e'i te'e abá mondá iî aîubykypyramo oîkóbo o mondarõagûera repyramo nhẽ
+PRED: <extra_id_0>.
 REF:  Nd'e'i te'e abá mondá iî aîubykypyramo oîkóbo o mondarõagûera repyramo nhẽ
 ---
-PRED: taîasu remi'uru
+PRED: <extra_id_0>
 REF:  taîasu remi'uru
 ---
-PRED: Aroker aoba
+PRED: <extra_id_0>.
 REF:  Aroker aoba
 ---
-PRED: Ereîpotápe nde nhemoîasuka?
+PRED: <extra_id_0>
 REF:  Ereîpotápe nde nhemoîasuka?
 ---
-PRED: Aîmomburu'a
+PRED: <extra_id_0>
 REF:  Aîmomburu'a
 ---
-PRED: Sekó-nhemima monduîa
+PRED: <extra_id_0>.
 REF:  Sekó-nhemima monduîa
 ---
-PRED: T'asabeypóne 'ara mokanhema
+PRED: <extra_id_0>.
 REF:  T'asabeypóne 'ara mokanhema
 ---
-PRED: Serobîasare'yma potyrõû, iî ybõîybõmo
+PRED: <extra_id_0>
 REF:  Serobîasare'yma potyrõû, iî ybõîybõmo
 ---
-PRED: I nhe'engasy n'opabi
+PRED: <extra_id_0>.,ловна
 REF:  I nhe'engasy n'opabi
 ---
-PRED: Aûîé aîub
+PRED: <extra_id_0>
 REF:  Aûîé aîub
 ---
-PRED: Aûîé nipó! Kasianamo t'aîkó
+PRED: <extra_id_0>
 REF:  Aûîé nipó! Kasianamo t'aîkó
 ---
-PRED: Morubixaba tuîba'e onhe'eng memẽ i xupé, senonhena, i akakapa
+PRED: <extra_id_0>.
 REF:  Morubixaba tuîba'e onhe'eng memẽ i xupé, senonhena, i akakapa
 ---
-PRED: y-akã
+PRED: <extra_id_0> de
 REF:  y-akã
 ---
-PRED: Eîori i momosema
+PRED: <extra_id_0>
 REF:  Eîori i momosema
 ---
-PRED: kûarasy sembaba
+PRED: <extra_id_0> do sol
 REF:  kûarasy sembaba
 ---
-PRED: Erobîá, xe rubangab, ta nde moembiá kori
+PRED: <extra_id_0>.
 REF:  Erobîá, xe rubangab, ta nde moembiá kori
 ---
-PRED: Xe apyri tuî - Ele mora a meu lado O îoapyri oré roka ruî
+PRED: <extra_id_0>
 REF:  Xe apyri tuî - Ele mora a meu lado O îoapyri oré roka ruî
 ---
-PRED: Oîabab i xuí, seîá
+PRED: <extra_id_0>.
 REF:  Oîabab i xuí, seîá
 ---
-PRED: Ara pab'iré, i moingobeîebyri-ne
+PRED: <extra_id_0>
 REF:  Ara pab'iré, i moingobeîebyri-ne
 ---
-PRED: Nãmo oroapin
+PRED: <extra_id_0>.,ловна 
 REF:  Nãmo oroapin
 ---
-PRED: Aru-pab
+PRED: <extra_id_0>.
 REF:  Aru-pab
 ---
-PRED: u'ubá-tyba
+PRED: <extra_id_0>
 REF:  u'ubá-tyba
 ---
-PRED: akanga îepotasaba
+PRED: <extra_id_0>.
 REF:  akanga îepotasaba
 ---
-PRED: Aîkoé
+PRED: <extra_id_0>.
 REF:  Aîkoé
 ---
-PRED: Asé monhemombegûabo
+PRED: <extra_id_0>.
 REF:  Asé monhemombegûabo
 ---
-PRED: Nde erimba'e xe pysyrõ îepé
+PRED: <extra_id_0>.,ловна
 REF:  Nde erimba'e xe pysyrõ îepé
 ---
-PRED: Akanhẽ-kanhem
+PRED: <extra_id_0>
 REF:  Akanhẽ-kanhem
 ---
-PRED: A'ypîasó
+PRED: <extra_id_0>
 REF:  A'ypîasó
 ---
-PRED: xe potaba
+PRED: <extra_id_0>.
 REF:  xe potaba
 ---
-PRED: Sekoaba nhẽpe?
+PRED: <extra_id_0>?
 REF:  Sekoaba nhẽpe?
 ---
-PRED: T'orosaûsu îandé ruba
+PRED: <extra_id_0>
 REF:  T'orosaûsu îandé ruba
 ---
-PRED: Ka'abo asó
+PRED: <extra_id_0>.
 REF:  Ka'abo asó
 ---
-PRED: O sy rygépe o pitanga reropytá îabé, t'opytá pe pupé
+PRED: <extra_id_0>.
 REF:  O sy rygépe o pitanga reropytá îabé, t'opytá pe pupé
 ---
-PRED: Irõ bé!
+PRED: <extra_id_0>!
 REF:  Irõ bé!
 ---
-PRED: Mba'e resépe ereîur xe remiaûsukatu gûi?
+PRED: <extra_id_0>.
 REF:  Mba'e resépe ereîur xe remiaûsukatu gûi?
 ---
-PRED: Herodes meémo ikó oîme'eng te'õ supé i angaîpaba kuapa
+PRED: <extra_id_0>.
 REF:  Herodes meémo ikó oîme'eng te'õ supé i angaîpaba kuapa
 ---
-PRED: Kûesé, karaíba ri i pokoki
+PRED: <extra_id_0>.
 REF:  Kûesé, karaíba ri i pokoki
 ---
-PRED: Mba'e-mba'epe asé suí i pitubypyra?
+PRED: <extra_id_0>.
 REF:  Mba'e-mba'epe asé suí i pitubypyra?
 ---
-PRED: Aîmombor ybype
+PRED: <extra_id_0>.
 REF:  Aîmombor ybype
 ---
-PRED: Nd'e'i 'ara
+PRED: <extra_id_0>.,ловна 
 REF:  Nd'e'i 'ara
 ---
-PRED: Sa'ĩ xe îukae'ymi
+PRED: <extra_id_0>.
 REF:  Sa'ĩ xe îukae'ymi
 ---
-PRED: Akó xe remiybõmbûera?
+PRED: <extra_id_0>.
 REF:  Akó xe remiybõmbûera?
 ---
-PRED: Peîori pitanga gûabo, kunumĩ mokona mbá
+PRED: <extra_id_0>
 REF:  Peîori pitanga gûabo, kunumĩ mokona mbá
 ---
-PRED: Xe rarûab
+PRED: <extra_id_0>
 REF:  Xe rarûab
 ---
-PRED: Esepenhan, Saraûaî!
+PRED: <extra_id_0>!
 REF:  Esepenhan, Saraûaî!
 ---
-PRED: Eresaûsubarype i mba'easyreme, satá-á
+PRED: <extra_id_0>.
 REF:  Eresaûsubarype i mba'easyreme, satá-á
 ---
-PRED: Mokõî oîoirundyk oito 'ara sykeme, i 'apira mondoki
+PRED: <extra_id_0>
 REF:  Mokõî oîoirundyk oito 'ara sykeme, i 'apira mondoki
 ---
-PRED: Xe resá-ynhusu
+PRED: <extra_id_0>.
 REF:  Xe resá-ynhusu
 ---
-PRED: Apindó-pûaî
+PRED: <extra_id_0>.
 REF:  Apindó-pûaî
 ---
-PRED: Aûîebé-temo xe nupãû anhe'engĩmo
+PRED: <extra_id_0>
 REF:  Aûîebé-temo xe nupãû anhe'engĩmo
 ---
-PRED: Akopîasó
+PRED: <extra_id_0>.
 REF:  Akopîasó
 ---
-PRED: Mba'epe ké kanindeoby îasûara?
+PRED: <extra_id_0>
 REF:  Mba'epe ké kanindeoby îasûara?
 ---
-PRED: Og uba rupi ahẽ resatingamo
+PRED: <extra_id_0>.
 REF:  Og uba rupi ahẽ resatingamo
 ---
-PRED: Abá ra'yrape nde?
+PRED: <extra_id_0>
 REF:  Abá ra'yrape nde?
 ---
-PRED: Erenhe'eng-aparatãpe abá supé, i moroŷrõmo, i moporoamotare'yma?
+PRED: <extra_id_0>?
 REF:  Erenhe'eng-aparatãpe abá supé, i moroŷrõmo, i moporoamotare'yma?
 ---
-PRED: Kuîa nhẽ i tĩ-ngá-tĩ-ngábo, ereîanga'o abá
+PRED: <extra_id_0>
 REF:  Kuîa nhẽ i tĩ-ngá-tĩ-ngábo, ereîanga'o abá
 ---
-PRED: Oromoeté-katu nde xe pysyrõagûera resé
+PRED: <extra_id_0>
 REF:  Oromoeté-katu nde xe pysyrõagûera resé
 ---
-PRED: Ereîe'aîtykype kunhã amõ supé?
+PRED: <extra_id_0>?
 REF:  Ereîe'aîtykype kunhã amõ supé?
 ---
-PRED: Ne'ĩ xe atuasar
+PRED: <extra_id_0>
 REF:  Ne'ĩ xe atuasar
 ---
-PRED: Pene'ĩ pesóbo
+PRED: <extra_id_0>
 REF:  Pene'ĩ pesóbo
 ---
-PRED: Na xe îáî
+PRED: <extra_id_0>.
 REF:  Na xe îáî
 ---
-PRED: Oré moingobé îepé
+PRED: <extra_id_0>.
 REF:  Oré moingobé îepé
 ---
-PRED: Asendubaíb nde nhe'enga
+PRED: <extra_id_0>
 REF:  Asendubaíb nde nhe'enga
 ---
-PRED: Tupã moîerekûapa
+PRED: <extra_id_0>.
 REF:  Tupã moîerekûapa
 ---
-PRED: Eresem ymã putunusu suí
+PRED: <extra_id_0>.
 REF:  Eresem ymã putunusu suí
 ---
-PRED: Emogûeb tatá
+PRED: <extra_id_0>.
 REF:  Emogûeb tatá
 ---
-PRED: Aîakangeky-ekyî
+PRED: <extra_id_0>
 REF:  Aîakangeky-ekyî
 ---
-PRED: Apŷá-serokypyra kó 'ara oîmoeté
+PRED: <extra_id_0>
 REF:  Apŷá-serokypyra kó 'ara oîmoeté
 ---
-PRED:  Mba'eramo i moîa'okypyra rekóreme
+PRED: <extra_id_0>
 REF:   Mba'eramo i moîa'okypyra rekóreme
 ---
-PRED: Xe îagûareteporu!
+PRED: <extra_id_0>!
 REF:  Xe îagûareteporu!
 ---
-PRED: Xe nhe'ẽrueru
+PRED: <extra_id_0>
 REF:  Xe nhe'ẽrueru
 ---
-PRED: amõneme nhõ
+PRED: <extra_id_0>
 REF:  amõneme nhõ
 ---
-PRED: so'o ma'e'ĩndaba
+PRED: <extra_id_0>
 REF:  so'o ma'e'ĩndaba
 ---
-PRED: Ybakype i xoagûera rerobîá
+PRED: <extra_id_0>
 REF:  Ybakype i xoagûera rerobîá
 ---
-PRED: N'aîmopanemi tupãoka
+PRED: <extra_id_0>.
 REF:  N'aîmopanemi tupãoka
 ---
-PRED: nde rokype oîkébo
+PRED: <extra_id_0>.
 REF:  nde rokype oîkébo
 ---
-PRED: tupinakyîa keygûara
+PRED: <extra_id_0>
 REF:  tupinakyîa keygûara
 ---
-PRED: Oîké îugûasu, i akanga kutuka
+PRED: <extra_id_0>.
 REF:  Oîké îugûasu, i akanga kutuka
 ---
-PRED: Mobype a'e asé rekomonhangaba?
+PRED: <extra_id_0>.
 REF:  Mobype a'e asé rekomonhangaba?
 ---
-PRED: Xe moobaybaka
+PRED: <extra_id_0>
 REF:  Xe moobaybaka
 ---
-PRED: Akûeîme apytá memẽ nde pyri, ybytyrapûápe
+PRED: <extra_id_0>
 REF:  Akûeîme apytá memẽ nde pyri, ybytyrapûápe
 ---
-PRED: Memẽ nhẽ moxy îandébo marã e'i-memûã-memûã
+PRED: <extra_id_0>
 REF:  Memẽ nhẽ moxy îandébo marã e'i-memûã-memûã
 ---
-PRED: N'aîari kó sekó-angaturama
+PRED: <extra_id_0>.
 REF:  N'aîari kó sekó-angaturama
 ---
-PRED: Nde resé te'õ n'osyki
+PRED: <extra_id_0>
 REF:  Nde resé te'õ n'osyki
 ---
-PRED: Asykûera aîasy'ab
+PRED: <extra_id_0>.
 REF:  Asykûera aîasy'ab
 ---
-PRED: nhau'umoka
+PRED: <extra_id_0>
 REF:  nhau'umoka
 ---
-PRED: Anhemongatyrõ
+PRED: <extra_id_0>
 REF:  Anhemongatyrõ
 ---
-PRED: Oré rysy
+PRED: <extra_id_0>.
 REF:  Oré rysy
 ---
-PRED: Iesus boîá ã ikó
+PRED: <extra_id_0>
 REF:  Iesus boîá ã ikó
 ---
-PRED: Aîepoká-poká
+PRED: <extra_id_0>.
 REF:  Aîepoká-poká
 ---
-PRED: Aûîebeté ereîkó xe îar-y gûé!
+PRED: <extra_id_0>.
 REF:  Aûîebeté ereîkó xe îar-y gûé!
 ---
-PRED: Abámo mba'e-katu 'uagûera n'oîkuabi xûé sé katûagûera resé o esaraîamo?
+PRED: <extra_id_0>.
 REF:  Abámo mba'e-katu 'uagûera n'oîkuabi xûé sé katûagûera resé o esaraîamo?
 ---
-PRED: Xe rebykatãgûasu
+PRED: <extra_id_0>.
 REF:  Xe rebykatãgûasu
 ---
-PRED: Sesé oma'enduaramo
+PRED: <extra_id_0>.
 REF:  Sesé oma'enduaramo
 ---
-PRED: Aîkurá-kurab
+PRED: <extra_id_0>.
 REF:  Aîkurá-kurab
 ---
-PRED: A'eboé tuî
+PRED: <extra_id_0>.
 REF:  A'eboé tuî
 ---
-PRED: kó amoaé
+PRED: <extra_id_0>.
 REF:  kó amoaé
 ---
-PRED: itangapẽ-mbora
+PRED: <extra_id_0>
 REF:  itangapẽ-mbora
 ---
-PRED: amõ amõ santos
+PRED: <extra_id_0>.,ловна 
 REF:  amõ amõ santos
 ---
-PRED: Iîá muru senonhana!
+PRED: <extra_id_0>.
 REF:  Iîá muru senonhana!
 ---
-PRED: A'eîbé Pilatos supé oîerekûabamo
+PRED: <extra_id_0>
 REF:  A'eîbé Pilatos supé oîerekûabamo
 ---
-PRED: ygá-pype
+PRED: <extra_id_0>.
 REF:  ygá-pype
 ---
-PRED: Xe pytu-muku
+PRED: <extra_id_0>.
 REF:  Xe pytu-muku
 ---
-PRED: Xe îase'opyoú
+PRED: <extra_id_0>.
 REF:  Xe îase'opyoú
 ---
-PRED: Oîposanong i nambi atõîa nhote, aûnhenhẽ i monga'ẽmo, i moîepotá
+PRED: <extra_id_0>.
 REF:  Oîposanong i nambi atõîa nhote, aûnhenhẽ i monga'ẽmo, i moîepotá
 ---
-PRED: tykuba'e
+PRED: <extra_id_0>
 REF:  tykuba'e
 ---
-PRED: Moraseîa é i katu, îegûaka, petymbu
+PRED: <extra_id_0>.
 REF:  Moraseîa é i katu, îegûaka, petymbu
 ---
-PRED: kaûĩ ratá
+PRED: <extra_id_0>
 REF:  kaûĩ ratá
 ---
-PRED: Aytarõ
+PRED: <extra_id_0>
 REF:  Aytarõ
 ---
-PRED: ambé-aîó
+PRED: <extra_id_0>
 REF:  ambé-aîó
 ---
-PRED: Asepy-sepyk
+PRED: <extra_id_0>
 REF:  Asepy-sepyk
 ---
-PRED: Pysaré kó i kere'ymi
+PRED: <extra_id_0>.
 REF:  Pysaré kó i kere'ymi
 ---
-PRED: Ererobîarype paîé porapiti mo'anga'uba?
+PRED: <extra_id_0>
 REF:  Ererobîarype paîé porapiti mo'anga'uba?
 ---
-PRED: A'e 'ara îepubur'iré a'ereme karaibebé ruri
+PRED: <extra_id_0>.
 REF:  A'e 'ara îepubur'iré a'ereme karaibebé ruri
 ---
-PRED: Aûîebé-te asó
+PRED: <extra_id_0>.
 REF:  Aûîebé-te asó
 ---
-PRED: Mba'easybora repîaka
+PRED: <extra_id_0>.
 REF:  Mba'easybora repîaka
 ---
-PRED: O a'yra, o embiaûsuba omoporabykyba'e
+PRED: <extra_id_0>.
 REF:  O a'yra, o embiaûsuba omoporabykyba'e
 ---
-PRED: tapi'i-kaba
+PRED: <extra_id_0>.
 REF:  tapi'i-kaba
 ---
-PRED: kûeîpe suí
+PRED: <extra_id_0>
 REF:  kûeîpe suí
 ---
-PRED: Xe ky'a
+PRED: <extra_id_0>.
 REF:  Xe ky'a
 ---
-PRED: Tupãoka suí i mosemymbyra
+PRED: <extra_id_0>.
 REF:  Tupãoka suí i mosemymbyra
 ---
-PRED: itamaraká-mirĩ
+PRED: <extra_id_0>
 REF:  itamaraká-mirĩ
 ---
-PRED: Kunhã kuauká i mena supé
+PRED: <extra_id_0>.,ловна
 REF:  Kunhã kuauká i mena supé
 ---
-PRED: Xe rekó-aé arekó
+PRED: <extra_id_0>.
 REF:  Xe rekó-aé arekó
 ---
-PRED: Ereîeîuru-mopiningype, abá supé epukamirĩamo?
+PRED: <extra_id_0>
 REF:  Ereîeîuru-mopiningype, abá supé epukamirĩamo?
 ---
-PRED: Gûyrá koîpó îagûara nhe'enga supé morangygûana o'îabo
+PRED: <extra_id_0>
 REF:  Gûyrá koîpó îagûara nhe'enga supé morangygûana o'îabo
 ---
-PRED: Abá mondarõagûera o'uba'e koîpó og okype ogûerasoba'e
+PRED: <extra_id_0>.
 REF:  Abá mondarõagûera o'uba'e koîpó og okype ogûerasoba'e
 ---
-PRED: Xe 'ang - Eu tenho abrigo, eu estou abrigado Xe 'ãngatu
+PRED: <extra_id_0>
 REF:  Xe 'ang - Eu tenho abrigo, eu estou abrigado Xe 'ãngatu
 ---
-PRED: Aîuká-matutenhẽ
+PRED: <extra_id_0>.
 REF:  Aîuká-matutenhẽ
 ---
-PRED: Emonãnamope Tupã îandé rubypy arukanga nhẽ apóû semirekóramo?
+PRED: <extra_id_0>.
 REF:  Emonãnamope Tupã îandé rubypy arukanga nhẽ apóû semirekóramo?
 ---
-PRED: Eresópe abá îeky-'ye'ẽ supa, i pora rá?
+PRED: <extra_id_0>.
 REF:  Eresópe abá îeky-'ye'ẽ supa, i pora rá?
 ---
-PRED: Xe rekoruînhẽ
+PRED: <extra_id_0>.
 REF:  Xe rekoruînhẽ
 ---
-PRED: kopûera
+PRED: <extra_id_0>
 REF:  kopûera
 ---
-PRED: Abá-angaîpabĩ takó mba'e-katu ogûerekó xe suí mã!
+PRED: <extra_id_0>.
 REF:  Abá-angaîpabĩ takó mba'e-katu ogûerekó xe suí mã!
 ---
-PRED: Kó-tene i îaeté
+PRED: <extra_id_0>
 REF:  Kó-tene i îaeté
 ---
-PRED: Aîtyk ygara
+PRED: <extra_id_0>.
 REF:  Aîtyk ygara
 ---
-PRED: Oîkuakumo amõ abá tekopûera oîepé'ĩ nhõmo, Tupana n'i nhyrõî xómo
+PRED: <extra_id_0>.
 REF:  Oîkuakumo amõ abá tekopûera oîepé'ĩ nhõmo, Tupana n'i nhyrõî xómo
 ---
-PRED: Mamõpe i xóû o mba'e'u-pab'iré?
+PRED: <extra_id_0>?
 REF:  Mamõpe i xóû o mba'e'u-pab'iré?
 ---
-PRED: T'oré pyatã, angá, mba'e-asy porarábo
+PRED: <extra_id_0>.
 REF:  T'oré pyatã, angá, mba'e-asy porarábo
 ---
-PRED: Adão, oré rubypy, oré mokanhemeté
+PRED: <extra_id_0>.
 REF:  Adão, oré rubypy, oré mokanhemeté
 ---
-PRED: y-eté
+PRED: <extra_id_0>.
 REF:  y-eté
 ---
-PRED: Supixûar ikó paîé-angaíba
+PRED: <extra_id_0>.
 REF:  Supixûar ikó paîé-angaíba
 ---
-PRED: Nde ereîemosusuni, oré moingobé-potá
+PRED: <extra_id_0>
 REF:  Nde ereîemosusuni, oré moingobé-potá
 ---
-PRED: Mba'epe sepyrama?
+PRED: <extra_id_0>?
 REF:  Mba'epe sepyrama?
 ---
-PRED: Osó nhẽmope asé ybakype o nhemongaraibireme?
+PRED: <extra_id_0>.
 REF:  Osó nhẽmope asé ybakype o nhemongaraibireme?
 ---
-PRED: Xe anama xe mbouri
+PRED: <extra_id_0>.,ловна <extra_id_12>
 REF:  Xe anama xe mbouri
 ---
-PRED: Kó abá semirekó abé opá o mba'e mombabi
+PRED: <extra_id_0>.
 REF:  Kó abá semirekó abé opá o mba'e mombabi
 ---
-PRED: Asapûapin
+PRED: <extra_id_0>.
 REF:  Asapûapin
 ---
-PRED: gûaîbĩ-marã serã-serã
+PRED: <extra_id_0>
 REF:  gûaîbĩ-marã serã-serã
 ---
-PRED: Eîori nde retamûama repîaka
+PRED: <extra_id_0>
 REF:  Eîori nde retamûama repîaka
 ---
-PRED: Sesé orosó
+PRED: <extra_id_0>
 REF:  Sesé orosó
 ---
-PRED: Xe anhanga moropé
+PRED: <extra_id_0>.
 REF:  Xe anhanga moropé
 ---
-PRED: ka'a-pa'ũ
+PRED: <extra_id_0> 
 REF:  ka'a-pa'ũ
 ---
-PRED: Mba'e-akuba, mba'e-robeté tukutuku okûapa
+PRED: <extra_id_0>
 REF:  Mba'e-akuba, mba'e-robeté tukutuku okûapa
 ---
-PRED: Nde resé serosypyra
+PRED: <extra_id_0>
 REF:  Nde resé serosypyra
 ---
-PRED: Nde 'anga osapy satá
+PRED: <extra_id_0>
 REF:  Nde 'anga osapy satá
 ---
-PRED: Eropytá nde boîá'ĩ orébo
+PRED: <extra_id_0>
 REF:  Eropytá nde boîá'ĩ orébo
 ---
-PRED: Peîori sapirõagûama resé pe pupé seîkéreme
+PRED: <extra_id_0>
 REF:  Peîori sapirõagûama resé pe pupé seîkéreme
 ---
-PRED: Nd'e'i te'e oá nhote i xuí, nd'i pekábo ruã
+PRED: <extra_id_0>
 REF:  Nd'e'i te'e oá nhote i xuí, nd'i pekábo ruã
 ---
-PRED: T'îasó maranatãûãme o îoupé oîobaúpa?
+PRED: <extra_id_0>.
 REF:  T'îasó maranatãûãme o îoupé oîobaúpa?
 ---
-PRED: Pitanga robá sesãî i xupé
+PRED: <extra_id_0> 
 REF:  Pitanga robá sesãî i xupé
 ---
-PRED: Xe pûeraî mbyté
+PRED: <extra_id_0>.
 REF:  Xe pûeraî mbyté
 ---
-PRED: ugûera
+PRED: <extra_id_0>
 REF:  ugûera
 ---
-PRED: ta'yrypy
+PRED: <extra_id_0>.
 REF:  ta'yrypy
 ---
-PRED: Nde resé i pûaragûera moasŷabo
+PRED: <extra_id_0>.
 REF:  Nde resé i pûaragûera moasŷabo
 ---
-PRED: Nde 'anga sepy-etéba'e
+PRED: <extra_id_0>.,ловна
 REF:  Nde 'anga sepy-etéba'e
 ---
-PRED: Omanõaibí abá o poraseîtápe bé
+PRED: <extra_id_0>.
 REF:  Omanõaibí abá o poraseîtápe bé
 ---
-PRED: sapi'a'okypyra
+PRED: <extra_id_0>
 REF:  sapi'a'okypyra
 ---
-PRED: Asem
+PRED: <extra_id_0>
 REF:  Asem
 ---
-PRED: Aporero'ar
+PRED: <extra_id_0>.
 REF:  Aporero'ar
 ---
-PRED: Abápe asé sumarã?
+PRED: <extra_id_0>.
 REF:  Abápe asé sumarã?
 ---
-PRED: Xe typa'am
+PRED: <extra_id_0>.
 REF:  Xe typa'am
 ---
-PRED: Nde pó gûyrype oroîkó, nde resé oroîekoka
+PRED: <extra_id_0>.
 REF:  Nde pó gûyrype oroîkó, nde resé oroîekoka
 ---
-PRED: o apixara rerekoaíba
+PRED: <extra_id_0>.
 REF:  o apixara rerekoaíba
 ---
-PRED: N'aker-angáî sekasápe
+PRED: <extra_id_0>.
 REF:  N'aker-angáî sekasápe
 ---
-PRED: Nde atybak, nde resá-popybo ema'ẽmo, epukamirĩamo, eîepokábo tenhẽ
+PRED: <extra_id_0>.
 REF:  Nde atybak, nde resá-popybo ema'ẽmo, epukamirĩamo, eîepokábo tenhẽ
 ---
-PRED: Aîpó e'ymeté, ko'arapukuî, pysaré nde maînanĩ nde 'anga resé-ne
+PRED: <extra_id_0>
 REF:  Aîpó e'ymeté, ko'arapukuî, pysaré nde maînanĩ nde 'anga resé-ne
 ---
-PRED: Tekatueté mã!
+PRED: <extra_id_0>.
 REF:  Tekatueté mã!
 ---
-PRED: inhanhã
+PRED: <extra_id_0>
 REF:  inhanhã
 ---
-PRED: Xe reté-piring
+PRED: <extra_id_0>
 REF:  Xe reté-piring
 ---
-PRED: Eîori t'eremondó xe suí tekoangaîpaba
+PRED: <extra_id_0>
 REF:  Eîori t'eremondó xe suí tekoangaîpaba
 ---
-PRED: Nde arũaípe nde rapixara 'arybo eîupa?
+PRED: <extra_id_0>.
 REF:  Nde arũaípe nde rapixara 'arybo eîupa?
 ---
-PRED: Pe 'angyme oîkeba'epûera
+PRED: <extra_id_0>.
 REF:  Pe 'angyme oîkeba'epûera
 ---
-PRED: A'e pe mopyatã
+PRED: <extra_id_0>
 REF:  A'e pe mopyatã
 ---
-PRED: Aîeîuká-ukar
+PRED: <extra_id_0>.
 REF:  Aîeîuká-ukar
 ---
-PRED: a-pixapaba
+PRED: <extra_id_0>.,ловна <extra_id_12>
 REF:  a-pixapaba
 ---
-PRED: Xe apebĩ
+PRED: <extra_id_0>
 REF:  Xe apebĩ
 ---
-PRED: Nde rera rendupa abé, Anhanga ryryî okûapa
+PRED: <extra_id_0>
 REF:  Nde rera rendupa abé, Anhanga ryryî okûapa
 ---
-PRED: o apixara reîmbaba îagûara remimomosẽgûera
+PRED: <extra_id_0>.
 REF:  o apixara reîmbaba îagûara remimomosẽgûera
 ---
-PRED: -Mba'epe aûîeramanhẽ serekopyrama ikó 'ara pupé? -Aani ã biã - Que é o que será conservado para sempre neste mundo?
+PRED: <extra_id_0>.
 REF:  -Mba'epe aûîeramanhẽ serekopyrama ikó 'ara pupé? -Aani ã biã - Que é o que será conservado para sempre neste mundo?
 ---
-PRED: Aygapukuî
+PRED: <extra_id_0>.
 REF:  Aygapukuî
 ---
-PRED: Yby rupi bépe sugûy syryki?
+PRED: <extra_id_0>.
 REF:  Yby rupi bépe sugûy syryki?
 ---
-PRED: Nd'e'ikatuî abá îuru Anhanga ratápe tekó-asyeté mombegûabo
+PRED: <extra_id_0>.
 REF:  Nd'e'ikatuî abá îuru Anhanga ratápe tekó-asyeté mombegûabo
 ---
-PRED: ypîasoara
+PRED: <extra_id_0>.
 REF:  ypîasoara
 ---
-PRED: Sepyápe, ereîakasó
+PRED: <extra_id_0>.
 REF:  Sepyápe, ereîakasó
 ---
-PRED: Emonã ûĩ sekóû
+PRED: <extra_id_0>.
 REF:  Emonã ûĩ sekóû
 ---
-PRED: Oîepé-ĩombé, nipó, i angaîpab amõme é
+PRED: <extra_id_0>.
 REF:  Oîepé-ĩombé, nipó, i angaîpab amõme é
 ---
-PRED: Asapy
+PRED: <extra_id_0>.
 REF:  Asapy
 ---
-PRED: Oporombo'e-a'u Tupã nhe'enga ra'anga
+PRED: <extra_id_0>.
 REF:  Oporombo'e-a'u Tupã nhe'enga ra'anga
 ---
-PRED: Eresó ûĩ
+PRED: <extra_id_0>.
 REF:  Eresó ûĩ
 ---
-PRED: Anhanga o îaramo sekó potare'yma
+PRED: <extra_id_0>
 REF:  Anhanga o îaramo sekó potare'yma
 ---
-PRED: îandé ma'enduaramo
+PRED: <extra_id_0>
 REF:  îandé ma'enduaramo
 ---
-PRED: Abápe opytá a'epe?
+PRED: <extra_id_0>
 REF:  Abápe opytá a'epe?
 ---
-PRED: T'oroîtyk oré poxy, paîé rerobîare'yma, moraseîa, mbyryryma karaimonhanga ndi
+PRED: <extra_id_0>.
 REF:  T'oroîtyk oré poxy, paîé rerobîare'yma, moraseîa, mbyryryma karaimonhanga ndi
 ---
-PRED: Missa mondykápe épe ereîké îepi, nde îesûere'yîpe
+PRED: <extra_id_0>.
 REF:  Missa mondykápe épe ereîké îepi, nde îesûere'yîpe
 ---
-PRED: Tekokatueté rerekoara o emimotarybo é i mba'ee'ymba'e
+PRED: <extra_id_0>.
 REF:  Tekokatueté rerekoara o emimotarybo é i mba'ee'ymba'e
 ---
-PRED: Eresaûsubápe nde sy nde ruba i mba'easy tume, sesé nde morerekoaramo?
+PRED: <extra_id_0>.
 REF:  Eresaûsubápe nde sy nde ruba i mba'easy tume, sesé nde morerekoaramo?
 ---
-PRED: A'eboépe Tupã rasara Tupã rari amõme, îepi?
+PRED: <extra_id_0>.
 REF:  A'eboépe Tupã rasara Tupã rari amõme, îepi?
 ---
-PRED: Erur 'y ixébe
+PRED: <extra_id_0>.
 REF:  Erur 'y ixébe
 ---
-PRED: O îoybyri se'õmbûera paranã ybyri i kûáî
+PRED: <extra_id_0>
 REF:  O îoybyri se'õmbûera paranã ybyri i kûáî
 ---
-PRED: I xy n'i membyrasyî
+PRED: <extra_id_0>.,ловна
 REF:  I xy n'i membyrasyî
 ---
-PRED: I 'ã i 'ang xe retãme xe rekoagûera ixébo
+PRED: <extra_id_0>
 REF:  I 'ã i 'ang xe retãme xe rekoagûera ixébo
 ---
-PRED: Marã e'ipe Pilatos serekoaretá supé?
+PRED: <extra_id_0>.
 REF:  Marã e'ipe Pilatos serekoaretá supé?
 ---
-PRED: Aîpó kuapamo, ereîmorambûé Tupã nhe'enga abyrambûeramo
+PRED: <extra_id_0>
 REF:  Aîpó kuapamo, ereîmorambûé Tupã nhe'enga abyrambûeramo
 ---
-PRED: Oîoirundyk îeapyká sykápe
+PRED: <extra_id_0>.
 REF:  Oîoirundyk îeapyká sykápe
 ---
-PRED: Temone ko'yr Anhanga ratá pora, abá amõ opu'ama iké îandé re'yîpemo
+PRED: <extra_id_0>.
 REF:  Temone ko'yr Anhanga ratá pora, abá amõ opu'ama iké îandé re'yîpemo
 ---
-PRED: Ko'ẽme gûemi'urama resé onhemosaînana
+PRED: <extra_id_0>.
 REF:  Ko'ẽme gûemi'urama resé onhemosaînana
 ---
-PRED: T'ereîuká ixébe paîé-aíba supé
+PRED: <extra_id_0>.
 REF:  T'ereîuká ixébe paîé-aíba supé
 ---
-PRED: y-mombukaba
+PRED: <extra_id_0>.
 REF:  y-mombukaba
 ---
-PRED: Oîá nhote kagûarape, marã?
+PRED: <extra_id_0>.
 REF:  Oîá nhote kagûarape, marã?
 ---
-PRED: mangaby
+PRED: <extra_id_0>
 REF:  mangaby
 ---
-PRED: marã-te-p'iã-ne?
+PRED: <extra_id_0>.
 REF:  marã-te-p'iã-ne?
 ---
-PRED: mokõî îasy
+PRED: <extra_id_0>
 REF:  mokõî îasy
 ---
-PRED: T'aîpobu kori ygasaba
+PRED: <extra_id_0>
 REF:  T'aîpobu kori ygasaba
 ---
-PRED: Perobîar-y-tepe aé Tupã?
+PRED: <extra_id_0>
 REF:  Perobîar-y-tepe aé Tupã?
 ---
-PRED: Asendu-potakatu
+PRED: <extra_id_0>
 REF:  Asendu-potakatu
 ---
-PRED: pobandara
+PRED: <extra_id_0>.
 REF:  pobandara
 ---
-PRED: Marã e'ipe Îandé Îara og obá petekarûera supé?
+PRED: <extra_id_0>.
 REF:  Marã e'ipe Îandé Îara og obá petekarûera supé?
 ---
-PRED: Oré remi'u 'ara îabi'õndûara eîme'eng kori orébe
+PRED: <extra_id_0>.
 REF:  Oré remi'u 'ara îabi'õndûara eîme'eng kori orébe
 ---
-PRED: miapepûera
+PRED: <extra_id_0>.
 REF:  miapepûera
 ---
-PRED: Opápe turi?
+PRED: <extra_id_0>en <extra_id_10>e
 REF:  Opápe turi?
 ---
-PRED: Cruz resé i moîari, i îeruresabo é
+PRED: <extra_id_0>
 REF:  Cruz resé i moîari, i îeruresabo é
 ---
-PRED: tining-atã
+PRED: <extra_id_0>?
 REF:  tining-atã
 ---
-PRED: Abápe aîpoba'e oîmomaran?
+PRED: <extra_id_0>
 REF:  Abápe aîpoba'e oîmomaran?
 ---
-PRED: O pó, o py, o yké kutukagûera bépe erimba'e ogûeropu'am?
+PRED: <extra_id_0>.
 REF:  O pó, o py, o yké kutukagûera bépe erimba'e ogûeropu'am?
 ---
-PRED: Ereîmombukype kunhataĩ amõ?
+PRED: <extra_id_0>
 REF:  Ereîmombukype kunhataĩ amõ?
 ---
-PRED: Oú tubixá-katu
+PRED: <extra_id_0>.
 REF:  Oú tubixá-katu
 ---
-PRED: osóbo bé
+PRED: <extra_id_0>.
 REF:  osóbo bé
 ---
-PRED: Aî'apirungá
+PRED: <extra_id_0>.
 REF:  Aî'apirungá
 ---
-PRED: T'oroîtyk oré poxy, paîé rerobîare'yma, moraseîa, mbyryryma
+PRED: <extra_id_0>.
 REF:  T'oroîtyk oré poxy, paîé rerobîare'yma, moraseîa, mbyryryma
 ---
-PRED: A'epe bé ogûekokatu pupé o 'anga nongatusarûera oína
+PRED: <extra_id_0>
 REF:  A'epe bé ogûekokatu pupé o 'anga nongatusarûera oína
 ---
-PRED: Mamõpe erimba'e te'yî-katupabẽ Îandé Îara rerasóû?
+PRED: <extra_id_0>
 REF:  Mamõpe erimba'e te'yî-katupabẽ Îandé Îara rerasóû?
 ---
-PRED: Seroŷrõmo opakatu ikó 'ara pupé seroŷrõmbyra sosé
+PRED: <extra_id_0>.
 REF:  Seroŷrõmo opakatu ikó 'ara pupé seroŷrõmbyra sosé
 ---
-PRED: y-tororoma
+PRED: <extra_id_0>
 REF:  y-tororoma
 ---
-PRED: Opûerab amõnyme, Tupã asé rerekokuapaba rupi é
+PRED: <extra_id_0>.
 REF:  Opûerab amõnyme, Tupã asé rerekokuapaba rupi é
 ---
-PRED: A'eba'e i moapysykypyramo sekóûne
+PRED: <extra_id_0>.
 REF:  A'eba'e i moapysykypyramo sekóûne
 ---
-PRED: Xe ryapûanusu
+PRED: <extra_id_0>
 REF:  Xe ryapûanusu
 ---
-PRED: Xe apy'am
+PRED: <extra_id_0>.
 REF:  Xe apy'am
 ---
-PRED: Aîukatu
+PRED: <extra_id_0>
 REF:  Aîukatu
 ---
-PRED: - Akó morotinga, i amandaba bé asé osepîak
+PRED: <extra_id_0>.
 REF:  - Akó morotinga, i amandaba bé asé osepîak
 ---
-PRED: Sesé onhemonane'yma, oîabé sekó potare'yma
+PRED: <extra_id_0>. <extra_id_9>.
 REF:  Sesé onhemonane'yma, oîabé sekó potare'yma
 ---
-PRED: Taûîé pe poreaûsubagûama rapirõmo, peîemoangekoaíb peína
+PRED: <extra_id_0>
 REF:  Taûîé pe poreaûsubagûama rapirõmo, peîemoangekoaíb peína
 ---
-PRED: Abebé kó ybytu îá
+PRED: <extra_id_0>.
 REF:  Abebé kó ybytu îá
 ---
-PRED: mbyru'apûera
+PRED: <extra_id_0>.
 REF:  mbyru'apûera
 ---
-PRED: Xe akym
+PRED: <extra_id_0>.)
 REF:  Xe akym
 ---
-PRED: Aîerekoaibeté xe angaîpá-katu suí
+PRED: <extra_id_0>
 REF:  Aîerekoaibeté xe angaîpá-katu suí
 ---
-PRED: Ema'enãngatu xe ri, xe mbo'are'ym-uká
+PRED: <extra_id_0>.
 REF:  Ema'enãngatu xe ri, xe mbo'are'ym-uká
 ---
-PRED: Xe mene'õ
+PRED: <extra_id_0>.
 REF:  Xe mene'õ
 ---
-PRED: nãmo-nhõta'ub
+PRED: <extra_id_0>.
 REF:  nãmo-nhõta'ub
 ---
-PRED: Xe membyrakyrar
+PRED: <extra_id_0>.
 REF:  Xe membyrakyrar
 ---
-PRED: T'asó aîpó nhe'enga mopó
+PRED: <extra_id_0>.
 REF:  T'asó aîpó nhe'enga mopó
 ---
-PRED: N'i rambûé-mirĩî xûé aîpó tekorama resé xe nhe'engane
+PRED: <extra_id_0>.
 REF:  N'i rambûé-mirĩî xûé aîpó tekorama resé xe nhe'engane
 ---
-PRED: Xe moory-katu îepé, inã tekó mombegûabo
+PRED: <extra_id_0>
 REF:  Xe moory-katu îepé, inã tekó mombegûabo
 ---
-PRED: Asé rarõanamo-tepe karaibebé rekóû?
+PRED: <extra_id_0>.
 REF:  Asé rarõanamo-tepe karaibebé rekóû?
 ---
-PRED: Ebapó ta peîkó pe îebyragûama resé ixé nde momorandube'yma pukuî
+PRED: <extra_id_0>
 REF:  Ebapó ta peîkó pe îebyragûama resé ixé nde momorandube'yma pukuî
 ---
-PRED: ypypûera
+PRED: <extra_id_0>.,ловна
 REF:  ypypûera
 ---
-PRED: Setá nhẽ ygasabusu
+PRED: <extra_id_0>.
 REF:  Setá nhẽ ygasabusu
 ---
-PRED: Xe tekokuabar
+PRED: <extra_id_0>.
 REF:  Xe tekokuabar
 ---
-PRED: Setápe asé nhemongaraíbi?
+PRED: <extra_id_0>?
 REF:  Setápe asé nhemongaraíbi?
 ---
-PRED: Xe rekosûé-katu
+PRED: <extra_id_0>.
 REF:  Xe rekosûé-katu
 ---
-PRED: T'oropyk
+PRED: <extra_id_0>
 REF:  T'oropyk
 ---
-PRED: Nd'e'i te'e oîoepîaka'upa, o karukasyramo
+PRED: <extra_id_0>.
 REF:  Nd'e'i te'e oîoepîaka'upa, o karukasyramo
 ---
-PRED: N'asepîake'ym-a'ubi
+PRED: <extra_id_0>.
 REF:  N'asepîake'ym-a'ubi
 ---
-PRED: Xe nhe'ẽpokarugûá-katu
+PRED: <extra_id_0>.
 REF:  Xe nhe'ẽpokarugûá-katu
 ---
-PRED: Oré pysyrõ-te îepé mba'e-aíba suí
+PRED: <extra_id_0> 
 REF:  Oré pysyrõ-te îepé mba'e-aíba suí
 ---
-PRED: A'ereme amõ aîukáne
+PRED: <extra_id_0>
 REF:  A'ereme amõ aîukáne
 ---
-PRED: Xe îá-xe îaó
+PRED: <extra_id_0>
 REF:  Xe îá-xe îaó
 ---
-PRED: Oroerokûaka'ar
+PRED: <extra_id_0>.
 REF:  Oroerokûaka'ar
 ---
-PRED: xe rerokarûera
+PRED: <extra_id_0>
 REF:  xe rerokarûera
 ---
-PRED: Sekó-te i poxyeté
+PRED: <extra_id_0>.
 REF:  Sekó-te i poxyeté
 ---
-PRED: Aîukámo mã!
+PRED: <extra_id_0>.
 REF:  Aîukámo mã!
 ---
-PRED: Ké turi îandé nupãmo!
+PRED: <extra_id_0>
 REF:  Ké turi îandé nupãmo!
 ---
-PRED: Aîtyk nhe'enga sesé
+PRED: <extra_id_0>.
 REF:  Aîtyk nhe'enga sesé
 ---
-PRED: abá-ekoate'yme'yma
+PRED: <extra_id_0>.
 REF:  abá-ekoate'yme'yma
 ---
-PRED: Yby abé a'ereme onhemonguébo, oryryîane
+PRED: <extra_id_0>.
 REF:  Yby abé a'ereme onhemonguébo, oryryîane
 ---
-PRED: Xe boîá
+PRED: <extra_id_0>
 REF:  Xe boîá
 ---
-PRED: Asó-asó-a'ub
+PRED: <extra_id_0>.
 REF:  Asó-asó-a'ub
 ---
-PRED: gûymaenhẽ gûixóbo
+PRED: <extra_id_0>
 REF:  gûymaenhẽ gûixóbo
 ---
-PRED: pé pukuî
+PRED: <extra_id_0>.
 REF:  pé pukuî
 ---
-PRED: Eîembo'ebo
+PRED: <extra_id_0>.
 REF:  Eîembo'ebo
 ---
-PRED: Ikó aoba niã aûîé-katutenhẽ Tupãnemendarama
+PRED: <extra_id_0>.
 REF:  Ikó aoba niã aûîé-katutenhẽ Tupãnemendarama
 ---
-PRED: aani-xûé ipóne
+PRED: <extra_id_0>.
 REF:  aani-xûé ipóne
 ---
-PRED: Eteumẽ kori marana rerekóbo xe resé
+PRED: <extra_id_0>.
 REF:  Eteumẽ kori marana rerekóbo xe resé
 ---
-PRED: Aretéreme i porabyky-potaryba'e mborypara
+PRED: <extra_id_0>
 REF:  Aretéreme i porabyky-potaryba'e mborypara
 ---
-PRED: ahẽ pûapẽ-mbora
+PRED: <extra_id_0>
 REF:  ahẽ pûapẽ-mbora
 ---
-PRED: T'okaî nde ratá pupé
+PRED: <extra_id_0>
 REF:  T'okaî nde ratá pupé
 ---
-PRED: Mba'epe ké kanindé-oby îasûara?
+PRED: <extra_id_0>
 REF:  Mba'epe ké kanindé-oby îasûara?
 ---
-PRED: Nd'a'éî saûsupa ranhẽ
+PRED: <extra_id_0>.,ловна
 REF:  Nd'a'éî saûsupa ranhẽ
 ---
-PRED: xe 'anga moingó-katûabo!
+PRED: <extra_id_0>.,ловна
 REF:  xe 'anga moingó-katûabo!
 ---
-PRED: Iîamuru senonhana!
+PRED: <extra_id_0>.
 REF:  Iîamuru senonhana!
 ---
-PRED: Aîpepó-'ok
+PRED: <extra_id_0>.
 REF:  Aîpepó-'ok
 ---
-PRED: Pilatos ybyrarerekoara supé i popûasaba resebé serasóû
+PRED: <extra_id_0>.
 REF:  Pilatos ybyrarerekoara supé i popûasaba resebé serasóû
 ---
-PRED: kunumĩ-etá
+PRED: <extra_id_0>.
 REF:  kunumĩ-etá
 ---
-PRED: Oré rerekomemûãsara supé oré nhyrõ îabé
+PRED: <extra_id_0>
 REF:  Oré rerekomemûãsara supé oré nhyrõ îabé
 ---
-PRED: O'u-eté-eté ahẽ mba'e
+PRED: <extra_id_0>
 REF:  O'u-eté-eté ahẽ mba'e
 ---
-PRED: Na pe apysáî, îandu, ikó taba apamonana
+PRED: <extra_id_0>.
 REF:  Na pe apysáî, îandu, ikó taba apamonana
 ---
-PRED: Tekó-katu arekó
+PRED: <extra_id_0>.
 REF:  Tekó-katu arekó
 ---
-PRED: Gûyrasapukaîa îabé ereîetu'u
+PRED: <extra_id_0>.
 REF:  Gûyrasapukaîa îabé ereîetu'u
 ---
-PRED: A'epe xe só îaramẽ
+PRED: <extra_id_0>.
 REF:  A'epe xe só îaramẽ
 ---
-PRED: Mboîa Pedro îaîxu'u
+PRED: <extra_id_0>
 REF:  Mboîa Pedro îaîxu'u
 ---
-PRED: T'orogûerekó, setãme, nde pyri, tekopuku
+PRED: <extra_id_0>.
 REF:  T'orogûerekó, setãme, nde pyri, tekopuku
 ---
-PRED: Nd'e'i te'e opá abá angaîbaramo-ne
+PRED: <extra_id_0>.
 REF:  Nd'e'i te'e opá abá angaîbaramo-ne
 ---
-PRED: Ene'ĩ t'asóne!
+PRED: <extra_id_0>.
 REF:  Ene'ĩ t'asóne!
 ---
-PRED: Erimba'epe aîpó nde 'îaba ereîmopóne?
+PRED: <extra_id_0>
 REF:  Erimba'epe aîpó nde 'îaba ereîmopóne?
 ---
-PRED: Aîeruré aoba resé Pedro supé
+PRED: <extra_id_0>
 REF:  Aîeruré aoba resé Pedro supé
 ---
-PRED: Xe pé-bur
+PRED: <extra_id_0>
 REF:  Xe pé-bur
 ---
-PRED: Mba'e-mirĩ resé aîpó o'îabo
+PRED: <extra_id_0>
 REF:  Mba'e-mirĩ resé aîpó o'îabo
 ---
-PRED: Okûabépe irã so'o?
+PRED: <extra_id_0>.
 REF:  Okûabépe irã so'o?
 ---
-PRED: T'onhemonhang nde remimotara
+PRED: <extra_id_0>.,ловна 
 REF:  T'onhemonhang nde remimotara
 ---
-PRED: Na xe rosangi
+PRED: <extra_id_0>.))
 REF:  Na xe rosangi
 ---
-PRED: Xe mopyatã îepé, t'apu'am muru resé, aûîérama i moaûîébo
+PRED: <extra_id_0>.
 REF:  Xe mopyatã îepé, t'apu'am muru resé, aûîérama i moaûîébo
 ---
-PRED: itá repoti
+PRED: <extra_id_0>.
 REF:  itá repoti
 ---
-PRED: Okuî rakó amũme ybarambûera o 'yba suí ybotyramo oîkóbo bé
+PRED: <extra_id_0>.
 REF:  Okuî rakó amũme ybarambûera o 'yba suí ybotyramo oîkóbo bé
 ---
-PRED: Mobype a'e Tupã?
+PRED: <extra_id_0>.
 REF:  Mobype a'e Tupã?
 ---
-PRED: Gûaîxará t'osó tatápe
+PRED: <extra_id_0>.
 REF:  Gûaîxará t'osó tatápe
 ---
-PRED: Îuky-karaíba oîmondeb nde îurupe ta se'ẽngatu Tupã nhe'enga i xupé
+PRED: <extra_id_0>
 REF:  Îuky-karaíba oîmondeb nde îurupe ta se'ẽngatu Tupã nhe'enga i xupé
 ---
-PRED: Aî'apurupã
+PRED: <extra_id_0>.
 REF:  Aî'apurupã
 ---
-PRED: Tekokatu angagûara Tupã sy-angaturama
+PRED: <extra_id_0>
 REF:  Tekokatu angagûara Tupã sy-angaturama
 ---
-PRED: Anhemombe'u ndebe, pa'i abaré setá nhẽ xe angaîpagûera resé
+PRED: <extra_id_0>
 REF:  Anhemombe'u ndebe, pa'i abaré setá nhẽ xe angaîpagûera resé
 ---
-PRED: T'a'u pá Îakaregûasu pepyra!
+PRED: <extra_id_0>.
 REF:  T'a'u pá Îakaregûasu pepyra!
 ---
-PRED: Arokakar xe rekobé-etérama re'ĩ
+PRED: <extra_id_0>.
 REF:  Arokakar xe rekobé-etérama re'ĩ
 ---
-PRED: I kuakubypyre'yma i nhyrõngatu i xupé
+PRED: <extra_id_0>
 REF:  I kuakubypyre'yma i nhyrõngatu i xupé
 ---
-PRED: Xe pó gûyrype arekó kunumĩgûasu-angaîpaba, tunhãba'e-kakuaba
+PRED: <extra_id_0>.
 REF:  Xe pó gûyrype arekó kunumĩgûasu-angaîpaba, tunhãba'e-kakuaba
 ---
-PRED: Tó, inã îepé ra'e!
+PRED: <extra_id_0>!
 REF:  Tó, inã îepé ra'e!
 ---
-PRED: Eîmombe'u-katu Tupã ra'yramo nde rekó orébe
+PRED: <extra_id_0>.
 REF:  Eîmombe'u-katu Tupã ra'yramo nde rekó orébe
 ---
-PRED: Yby abé a'ereme oryryîane
+PRED: <extra_id_0>.
 REF:  Yby abé a'ereme oryryîane
 ---
-PRED: Okuî rakó amũme 'ybarambûera o 'yba suí 'ybotyramo oîkóbo bé, amõ rakó ogûakyra pupé i kuî, amõ rakó ogûaîub'iré i kuî
+PRED: <extra_id_0>.
 REF:  Okuî rakó amũme 'ybarambûera o 'yba suí 'ybotyramo oîkóbo bé, amõ rakó ogûakyra pupé i kuî, amõ rakó ogûaîub'iré i kuî
 ---
-PRED: mbo'yrysy
+PRED: <extra_id_0>.,ловна 
 REF:  mbo'yrysy
 ---
-PRED: Okeretápe se'õmbûera?
+PRED: <extra_id_0>
 REF:  Okeretápe se'õmbûera?
 ---
-PRED: Osobá-syb aó-tinga pupé
+PRED: <extra_id_0>
 REF:  Osobá-syb aó-tinga pupé
 ---
-PRED: To'o suí mirra moroesé se'õagûama mombegûaba
+PRED: <extra_id_0>.
 REF:  To'o suí mirra moroesé se'õagûama mombegûaba
 ---
-PRED: y-syryka
+PRED: <extra_id_0>.
 REF:  y-syryka
 ---
-PRED: Kûarasy oporomo'y'useîeté
+PRED: <extra_id_0>.
 REF:  Kûarasy oporomo'y'useîeté
 ---
-PRED: Oroîopynekûab
+PRED: <extra_id_0>.
 REF:  Oroîopynekûab
 ---
-PRED: O emitymbûerypy pupé Tupã potá-me'engano
+PRED: <extra_id_0>.
 REF:  O emitymbûerypy pupé Tupã potá-me'engano
 ---
-PRED: Nd'ei te'e, o py'a pupé oîemongetá-ngetábo, Tupã momburukatûabo
+PRED: <extra_id_0>.
 REF:  Nd'ei te'e, o py'a pupé oîemongetá-ngetábo, Tupã momburukatûabo
 ---
-PRED: A'epe kunhãmuku repenhana, i potasápe
+PRED: <extra_id_0>.
 REF:  A'epe kunhãmuku repenhana, i potasápe
 ---
-PRED: T'i rekó-katu îandébe
+PRED: <extra_id_0>.
 REF:  T'i rekó-katu îandébe
 ---
-PRED: kunhataĩ-a'uba
+PRED: <extra_id_0>
 REF:  kunhataĩ-a'uba
 ---
-PRED: Aroŷrõ xe rekopûera
+PRED: <extra_id_0>.
 REF:  Aroŷrõ xe rekopûera
 ---
-PRED: Nd'a'é te'e nde ratãngatu resé gûiîekoka
+PRED: <extra_id_0>
 REF:  Nd'a'é te'e nde ratãngatu resé gûiîekoka
 ---
-PRED: Tupã reroîypa ybaka suí
+PRED: <extra_id_0>.
 REF:  Tupã reroîypa ybaka suí
 ---
-PRED: Xe moaîu-marangatu, xe moŷrõ-etekatûabo, aîpó tekó-pysasu
+PRED: <extra_id_0>.
 REF:  Xe moaîu-marangatu, xe moŷrõ-etekatûabo, aîpó tekó-pysasu
 ---
-PRED: Sekoaba'e kûé kunhã oré akanga i apiti
+PRED: <extra_id_0>.
 REF:  Sekoaba'e kûé kunhã oré akanga i apiti
 ---
-PRED: Pe îuká xe îara
+PRED: <extra_id_0>.
 REF:  Pe îuká xe îara
 ---
-PRED: Anhemba'e-nhang
+PRED: <extra_id_0>
 REF:  Anhemba'e-nhang
 ---
-PRED: Paranãgûasu rasapa aîu
+PRED: <extra_id_0>
 REF:  Paranãgûasu rasapa aîu
 ---
-PRED: Xe îurubok
+PRED: <extra_id_0>.
 REF:  Xe îurubok
 ---
-PRED: Putunusu porarábo, oroîkotebẽngatu
+PRED: <extra_id_0>
 REF:  Putunusu porarábo, oroîkotebẽngatu
 ---
-PRED: Eîotĩ nde kesaba xe porupi
+PRED: <extra_id_0>.
 REF:  Eîotĩ nde kesaba xe porupi
 ---
-PRED: Anhatimã-timanĩ
+PRED: <extra_id_0>.
 REF:  Anhatimã-timanĩ
 ---
-PRED: nde rapixara ku'a îubana, nde poropotá-pokyramamo
+PRED: <extra_id_0>
 REF:  nde rapixara ku'a îubana, nde poropotá-pokyramamo
 ---
-PRED: Xe resá pupé-katu asepîak nde i mimagûera
+PRED: <extra_id_0>.
 REF:  Xe resá pupé-katu asepîak nde i mimagûera
 ---
-PRED: Ixé sesé gûiporandupa, xe roka suí aîu
+PRED: <extra_id_0>.
 REF:  Ixé sesé gûiporandupa, xe roka suí aîu
 ---
-PRED: Oîpysó ybyraîoasaba 'arybo
+PRED: <extra_id_0>
 REF:  Oîpysó ybyraîoasaba 'arybo
 ---
-PRED: Ikoba'e resé tekoara oîaby-eté tekó
+PRED: <extra_id_0>
 REF:  Ikoba'e resé tekoara oîaby-eté tekó
 ---
-PRED: Oré raûsubá îepé oré rekobé pukuî
+PRED: <extra_id_0>.
 REF:  Oré raûsubá îepé oré rekobé pukuî
 ---
-PRED: yekûabusu
+PRED: <extra_id_0>.
 REF:  yekûabusu
 ---
-PRED: Aîmongûy-pab
+PRED: <extra_id_0>.
 REF:  Aîmongûy-pab
 ---
-PRED: Ekûãî îá reru
+PRED: <extra_id_0>.
 REF:  Ekûãî îá reru
 ---
-PRED: I îukapyrûere'yma
+PRED: <extra_id_0>.
 REF:  I îukapyrûere'yma
 ---
-PRED: Eîotĩ nde kesaba xe porupi
+PRED: <extra_id_0>.
 REF:  Eîotĩ nde kesaba xe porupi
 ---
-PRED: pirûera
+PRED: <extra_id_0>.
 REF:  pirûera
 ---
-PRED: Nd'e'i ipó xe re'õnama ranhẽ re'a
+PRED: <extra_id_0>.
 REF:  Nd'e'i ipó xe re'õnama ranhẽ re'a
 ---
-PRED: Xe îurubó-bok
+PRED: <extra_id_0>.
 REF:  Xe îurubó-bok
 ---
-PRED: Atyabor
+PRED: <extra_id_0>.
 REF:  Atyabor
 ---
-PRED: Xe aó-mondé-matueté
+PRED: <extra_id_0>
 REF:  Xe aó-mondé-matueté
 ---
-PRED: Aîpó e'i nhote i xupéne konipó abaré supé i mombe'uû i akakapagûama reséne
+PRED: <extra_id_0>
 REF:  Aîpó e'i nhote i xupéne konipó abaré supé i mombe'uû i akakapagûama reséne
 ---
-PRED: Pedro aé emonã xe moingó-ukar
+PRED: <extra_id_0>
 REF:  Pedro aé emonã xe moingó-ukar
 ---
-PRED: Tupana kuapa
+PRED: <extra_id_0>.
 REF:  Tupana kuapa
 ---
-PRED: Xe sym
+PRED: <extra_id_0>!
 REF:  Xe sym
 ---
-PRED: Moropotara semipokuabe'yma, arũaíba, tekó-poxy anga Îandé Îara îandé 'angyme îandé ogûar'iré ybŷá potara oîmoaruab
+PRED: <extra_id_0>.
 REF:  Moropotara semipokuabe'yma, arũaíba, tekó-poxy anga Îandé Îara îandé 'angyme îandé ogûar'iré ybŷá potara oîmoaruab
 ---
-PRED: O irũ n'oîamotari
+PRED: <extra_id_0>.
 REF:  O irũ n'oîamotari
 ---
-PRED: Iesu toryberekoara
+PRED: <extra_id_0>
 REF:  Iesu toryberekoara
 ---
-PRED: Xe akymaíb
+PRED: <extra_id_0>.
 REF:  Xe akymaíb
 ---
-PRED: Ybyrá angapeẽamẽ
+PRED: <extra_id_0>.
 REF:  Ybyrá angapeẽamẽ
 ---
-PRED: Abá nhe'engûerape aîpó?
+PRED: <extra_id_0>.
 REF:  Abá nhe'engûerape aîpó?
 ---
-PRED: O emimomoxypûera o mũetéramo sekó kuakupa
+PRED: <extra_id_0>
 REF:  O emimomoxypûera o mũetéramo sekó kuakupa
 ---
-PRED: Aîybõ-mbá
+PRED: <extra_id_0>.
 REF:  Aîybõ-mbá
 ---
-PRED: Oú tubixá-katu mamõ suí nde reká
+PRED: <extra_id_0>.
 REF:  Oú tubixá-katu mamõ suí nde reká
 ---
-PRED: y-mombîasaba
+PRED: <extra_id_0>.
 REF:  y-mombîasaba
 ---
-PRED: Turagûera moetesabamo kó 'ara îamoeté
+PRED: <extra_id_0>
 REF:  Turagûera moetesabamo kó 'ara îamoeté
 ---
-PRED: Eîmoîar ybyraîoasaba resé
+PRED: <extra_id_0>.
 REF:  Eîmoîar ybyraîoasaba resé
 ---
-PRED: Turusu-pyryb
+PRED: <extra_id_0>.
 REF:  Turusu-pyryb
 ---
-PRED: abaré nhe'ẽnhe'enga renduba
+PRED: <extra_id_0>
 REF:  abaré nhe'ẽnhe'enga renduba
 ---
-PRED: O 'anga renõîndara abé o îuraragûaîamo nhẽ, marãpe?
+PRED: <extra_id_0>.
 REF:  O 'anga renõîndara abé o îuraragûaîamo nhẽ, marãpe?
 ---
-PRED: Saraûaîa rur'iré, îamombá taba îandune
+PRED: <extra_id_0>
 REF:  Saraûaîa rur'iré, îamombá taba îandune
 ---
-PRED: T'oîporeaûsuberekó îudeus
+PRED: <extra_id_0>.
 REF:  T'oîporeaûsuberekó îudeus
 ---
-PRED: Aîporará temõ Tupã resé mba'easy katupabẽ mã!
+PRED: <extra_id_0>.
 REF:  Aîporará temõ Tupã resé mba'easy katupabẽ mã!
 ---
-PRED: I porang kó tupãoka, îegûakabetá rerupa!
+PRED: <extra_id_0>.
 REF:  I porang kó tupãoka, îegûakabetá rerupa!
 ---
-PRED: Itaîuba repyramo aîme'eng
+PRED: <extra_id_0>.
 REF:  Itaîuba repyramo aîme'eng
 ---
-PRED: Nde remimimbûera, anhẽ, umãmepe nde mondá?
+PRED: <extra_id_0>.
 REF:  Nde remimimbûera, anhẽ, umãmepe nde mondá?
 ---
-PRED: -Marãpe ereîkó kaûĩ suí esabeypó? Ereîkomemûãpe a'ereme?
+PRED: <extra_id_0>.
 REF:  -Marãpe ereîkó kaûĩ suí esabeypó? Ereîkomemûãpe a'ereme?
 ---
-PRED: Sakã resé i îepokoki
+PRED: <extra_id_0>.
 REF:  Sakã resé i îepokoki
 ---
-PRED: ka'a-pa'ũ
+PRED: <extra_id_0>.
 REF:  ka'a-pa'ũ
 ---
-PRED: Îori, esenõî angá kûeîbo nde remimoaûîé
+PRED: <extra_id_0>.
 REF:  Îori, esenõî angá kûeîbo nde remimoaûîé
 ---
-PRED: T'i îerobîar apó abá ri
+PRED: <extra_id_0>.,ловна <extra_id_12>
 REF:  T'i îerobîar apó abá ri
 ---
-PRED: Eresepy-mondykype marãtekó repyramo?
+PRED: <extra_id_0>.
 REF:  Eresepy-mondykype marãtekó repyramo?
 ---
-PRED: tobá pinima
+PRED: <extra_id_0>
 REF:  tobá pinima
 ---
-PRED: xe ra'ysé
+PRED: <extra_id_0>) <extra_id_37>
 REF:  xe ra'ysé
 ---
-PRED: Oîepé xe pysá pora
+PRED: <extra_id_0>.
 REF:  Oîepé xe pysá pora
 ---
-PRED: Onhemoangaîpabeté serã apŷaba o îeapyká-eté roîré?
+PRED: <extra_id_0>.
 REF:  Onhemoangaîpabeté serã apŷaba o îeapyká-eté roîré?
 ---
-PRED: Eresabeyporype kaûĩ suí 'ara mokanhema?
+PRED: <extra_id_0>.
 REF:  Eresabeyporype kaûĩ suí 'ara mokanhema?
 ---
-PRED: Té ahẽ serasóbo ko'yté
+PRED: <extra_id_0>
 REF:  Té ahẽ serasóbo ko'yté
 ---
-PRED: Akûeîme apytá memẽ nde pyri
+PRED: <extra_id_0>
 REF:  Akûeîme apytá memẽ nde pyri
 ---
-PRED: Mokõînhõ kó taba pupé sekóû
+PRED: <extra_id_0>! <extra_id_10>! <extra_id_10>
 REF:  Mokõînhõ kó taba pupé sekóû
 ---
-PRED: Oroîurusu
+PRED: <extra_id_0>.
 REF:  Oroîurusu
 ---
-PRED: Osó xe renondé
+PRED: <extra_id_0>.
 REF:  Osó xe renondé
 ---
-PRED: umã suí?
+PRED: <extra_id_0>
 REF:  umã suí?
 ---
-PRED: Oîkuapá-me'eng umûãpe Îudas Îandé Îara îudeus supé erimba'e?
+PRED: <extra_id_0>
 REF:  Oîkuapá-me'eng umûãpe Îudas Îandé Îara îudeus supé erimba'e?
 ---
-PRED: Aîmboyî
+PRED: <extra_id_0>
 REF:  Aîmboyî
 ---
-PRED: nhandu'i-kesaba
+PRED: <extra_id_0>
 REF:  nhandu'i-kesaba
 ---
-PRED: Oîoybari orogûar
+PRED: <extra_id_0>
 REF:  Oîoybari orogûar
 ---
-PRED: Xe amandab
+PRED: <extra_id_0>.
 REF:  Xe amandab
 ---
-PRED: Kó tabygûara xe pó gûyrybo sekóû
+PRED: <extra_id_0>.
 REF:  Kó tabygûara xe pó gûyrybo sekóû
 ---
-PRED: Aopyranga îu abé ogûerur
+PRED: <extra_id_0>.
 REF:  Aopyranga îu abé ogûerur
 ---
-PRED: O îoybyri aîmoín
+PRED: <extra_id_0>.,ловна
 REF:  O îoybyri aîmoín
 ---
-PRED: ikatupe nde moĩndara
+PRED: <extra_id_0>
 REF:  ikatupe nde moĩndara
 ---
-PRED: Ara i 'aragûera pîasaba pupé tatá i apyrasabapé 'îaba îaîmondyk
+PRED: <extra_id_0>
 REF:  Ara i 'aragûera pîasaba pupé tatá i apyrasabapé 'îaba îaîmondyk
 ---
-PRED: i apytera
+PRED: <extra_id_0>
 REF:  i apytera
 ---
-PRED: T'oú oré moorypa
+PRED: <extra_id_0>.
 REF:  T'oú oré moorypa
 ---
-PRED: Marã e'îara
+PRED: <extra_id_0>
 REF:  Marã e'îara
 ---
-PRED: Asy-syî
+PRED: <extra_id_0>.
 REF:  Asy-syî
 ---
-PRED: Abá angaîpá-nhemima i kuapare'yma supé mombegûabo
+PRED: <extra_id_0>.
 REF:  Abá angaîpá-nhemima i kuapare'yma supé mombegûabo
 ---
-PRED: Aîapó minga'u
+PRED: <extra_id_0>
 REF:  Aîapó minga'u
 ---
-PRED: "Osó ipó re'a" a'é
+PRED: <extra_id_0>.
 REF:  "Osó ipó re'a" a'é
 ---
-PRED: A'ereme karaibebé ruri, te'õmbûera renõîa, mimbygûasu pŷabo
+PRED: <extra_id_0>
 REF:  A'ereme karaibebé ruri, te'õmbûera renõîa, mimbygûasu pŷabo
 ---
-PRED: y-katu
+PRED: <extra_id_0>.
 REF:  y-katu
 ---
-PRED: I pytũ-pytun 'ara
+PRED: <extra_id_0>.
 REF:  I pytũ-pytun 'ara
 ---
-PRED: Turusueté - Ele é maior I porangeté
+PRED: <extra_id_0>.
 REF:  Turusueté - Ele é maior I porangeté
 ---
-PRED: Nyn-nyng a'é
+PRED: <extra_id_0>
 REF:  Nyn-nyng a'é
 ---
-PRED: Kó nhõ anosẽ îepé moxy suí
+PRED: <extra_id_0>
 REF:  Kó nhõ anosẽ îepé moxy suí
 ---
-PRED: Oîopobaî aîar
+PRED: <extra_id_0>.
 REF:  Oîopobaî aîar
 ---
-PRED: A'ereme îasytatá o apakuîamo
+PRED: <extra_id_0>.
 REF:  A'ereme îasytatá o apakuîamo
 ---
-PRED: Osekyî kunhã maîé Karûara
+PRED: <extra_id_0>
 REF:  Osekyî kunhã maîé Karûara
 ---
-PRED: I abaí xebo sa'anga
+PRED: <extra_id_0>.
 REF:  I abaí xebo sa'anga
 ---
-PRED: seremirekoe'õba'e
+PRED: <extra_id_0>.
 REF:  seremirekoe'õba'e
 ---
-PRED: Xe pungá
+PRED: <extra_id_0>.
 REF:  Xe pungá
 ---
-PRED: anhẽ ruãp'anhẽ
+PRED: <extra_id_0>.
 REF:  anhẽ ruãp'anhẽ
 ---
-PRED: Abá rokype erekûá?
+PRED: <extra_id_0>
 REF:  Abá rokype erekûá?
 ---
-PRED: Aîkó
+PRED: <extra_id_0>.
 REF:  Aîkó
 ---
-PRED: Tera'ute oú
+PRED: <extra_id_0>
 REF:  Tera'ute oú
 ---
-PRED: Xe resaraîpotar
+PRED: <extra_id_0>.
 REF:  Xe resaraîpotar
 ---
-PRED: Pe ramỹîa pabẽ rakó îase'o rerekóû, îemoingeabo
+PRED: <extra_id_0>.
 REF:  Pe ramỹîa pabẽ rakó îase'o rerekóû, îemoingeabo
 ---
-PRED: ikó-te
+PRED: <extra_id_0>.
 REF:  ikó-te
 ---
-PRED: Abápe aîpoba'e oîaby?
+PRED: <extra_id_0>.
 REF:  Abápe aîpoba'e oîaby?
 ---
-PRED: Asé aîpó i me'engymbyra supé "Tupã potaba" i 'éû?
+PRED: <extra_id_0>.
 REF:  Asé aîpó i me'engymbyra supé "Tupã potaba" i 'éû?
 ---
-PRED: Te'yîpe memẽ nhẽ ixé aporombo'e
+PRED: <extra_id_0>
 REF:  Te'yîpe memẽ nhẽ ixé aporombo'e
 ---
-PRED: Tupã-eté rerobîara îaîporaká xe ybỹîa
+PRED: <extra_id_0>
 REF:  Tupã-eté rerobîara îaîporaká xe ybỹîa
 ---
-PRED: Aîopoî ahẽ so'o pupé
+PRED: <extra_id_0>.
 REF:  Aîopoî ahẽ so'o pupé
 ---
-PRED: O îoasykûera ri îasûaramo i îogûerekóû
+PRED: <extra_id_0>
 REF:  O îoasykûera ri îasûaramo i îogûerekóû
 ---
-PRED: Aîkó-angaîpab
+PRED: <extra_id_0>
 REF:  Aîkó-angaîpab
 ---
-PRED: A'e ipó oîmoarybé-ukar xe suí
+PRED: <extra_id_0>.
 REF:  A'e ipó oîmoarybé-ukar xe suí
 ---
-PRED: -Oîerokype asé Cruz supé? -Oîeroky -A gente se inclina junto à cruz?
+PRED: <extra_id_0>
 REF:  -Oîerokype asé Cruz supé? -Oîeroky -A gente se inclina junto à cruz?
 ---
-PRED: Tieté kó angaîpaba maniîabo mã! Tieté kó ahẽ maniîabomã!
+PRED: <extra_id_0>
 REF:  Tieté kó angaîpaba maniîabo mã! Tieté kó ahẽ maniîabomã!
 ---
-PRED: Asó xe ruba rapépe
+PRED: <extra_id_0>.
 REF:  Asó xe ruba rapépe
 ---
-PRED: Xe ate'ẽ
+PRED: <extra_id_0>.
 REF:  Xe ate'ẽ
 ---
-PRED: Ereîkuakupe nde angaîpaba amõ abaré suí, senotĩamo nhẽ?
+PRED: <extra_id_0>
 REF:  Ereîkuakupe nde angaîpaba amõ abaré suí, senotĩamo nhẽ?
 ---
-PRED: Osapirõ-n'asé og uba o sy kanhemagûera
+PRED: <extra_id_0>.
 REF:  Osapirõ-n'asé og uba o sy kanhemagûera
 ---
-PRED: Na xe raûsupeî
+PRED: <extra_id_0>.
 REF:  Na xe raûsupeî
 ---
-PRED: abá-tekokuabe'ymusu
+PRED: <extra_id_0>.
 REF:  abá-tekokuabe'ymusu
 ---
-PRED: Ogûerasó amõ okusupe seroîkŷabo, a'epe maranaritekoaratã reŷnhanga sesé
+PRED: <extra_id_0>.
 REF:  Ogûerasó amõ okusupe seroîkŷabo, a'epe maranaritekoaratã reŷnhanga sesé
 ---
-PRED: aani xûé ko'yténe
+PRED: <extra_id_0>
 REF:  aani xûé ko'yténe
 ---
-PRED: Nd'e'ikatu angáî-tepe asé abá rekó-nhemima mombegûabo?
+PRED: <extra_id_0>.
 REF:  Nd'e'ikatu angáî-tepe asé abá rekó-nhemima mombegûabo?
 ---
-PRED: Santa Maria o membyrá-kakara omo'ã-mo'ang
+PRED: <extra_id_0>.
 REF:  Santa Maria o membyrá-kakara omo'ã-mo'ang
 ---
-PRED: pó-ky'a
+PRED: <extra_id_0> 
 REF:  pó-ky'a
 ---
-PRED: Mamõ serã xe sóûne?
+PRED: <extra_id_0>
 REF:  Mamõ serã xe sóûne?
 ---
-PRED: Eîmoting nde rekopûera!
+PRED: <extra_id_0>
 REF:  Eîmoting nde rekopûera!
 ---
-PRED: Xe rekombegûé
+PRED: <extra_id_0>.
 REF:  Xe rekombegûé
 ---
-PRED: Xe pópe arekó-katu
+PRED: <extra_id_0>.
 REF:  Xe pópe arekó-katu
 ---
-PRED: Xe ro'o-piring
+PRED: <extra_id_0>.
 REF:  Xe ro'o-piring
 ---
-PRED: nhemosaraîxûera
+PRED: <extra_id_0>.
 REF:  nhemosaraîxûera
 ---
-PRED: Apŷaba eresepenhãne
+PRED: <extra_id_0>.
 REF:  Apŷaba eresepenhãne
 ---
-PRED: metarapûá
+PRED: <extra_id_0>.
 REF:  metarapûá
 ---
-PRED: I xupé ogûeru îetanongabamo itaîuba, ysykatã syapûãba'e, mirra
+PRED: <extra_id_0>.
 REF:  I xupé ogûeru îetanongabamo itaîuba, ysykatã syapûãba'e, mirra
 ---
-PRED: Nde morerekoar xe ri, nde pó gûyrype xe nonga
+PRED: <extra_id_0>.
 REF:  Nde morerekoar xe ri, nde pó gûyrype xe nonga
 ---
-PRED: Tamũîa omombab erimba'e
+PRED: <extra_id_0>
 REF:  Tamũîa omombab erimba'e
 ---
-PRED: Anhandu beémo erimba'e angûama mã, pe 'erama purûabo!
+PRED: <extra_id_0>.
 REF:  Anhandu beémo erimba'e angûama mã, pe 'erama purûabo!
 ---
-PRED: O mba'e-katupabẽ îarama
+PRED: <extra_id_0>.
 REF:  O mba'e-katupabẽ îarama
 ---
-PRED: N'oîeruré-pytubari Tupã supé ogûenosemarûera resé
+PRED: <extra_id_0>
 REF:  N'oîeruré-pytubari Tupã supé ogûenosemarûera resé
 ---
-PRED: Aîmomara'ar
+PRED: <extra_id_0>.
 REF:  Aîmomara'ar
 ---
-PRED: A'epe o mena koîpó o emirekó mũetéramo sekó mombe'ue'yma, marã?
+PRED: <extra_id_0>?
 REF:  A'epe o mena koîpó o emirekó mũetéramo sekó mombe'ue'yma, marã?
 ---
-PRED: Na xe poropoûsubi
+PRED: <extra_id_0>.
 REF:  Na xe poropoûsubi
 ---
-PRED: Serapûan kó mosakara, i kaûĩgûasuba'e
+PRED: <extra_id_0>.
 REF:  Serapûan kó mosakara, i kaûĩgûasuba'e
 ---
-PRED: O tupãnamo ta xe rerekó
+PRED: <extra_id_0>.
 REF:  O tupãnamo ta xe rerekó
 ---
-PRED: Tenhẽngatupabẽ osykyî i xupé
+PRED: <extra_id_0>.
 REF:  Tenhẽngatupabẽ osykyî i xupé
 ---
-PRED: Peîori, perasó muru, supi îandé ratápe sapeka, i monga'ẽmo
+PRED: <extra_id_0>.
 REF:  Peîori, perasó muru, supi îandé ratápe sapeka, i monga'ẽmo
 ---
-PRED: okarype
+PRED: <extra_id_0>
 REF:  okarype
 ---
-PRED: oporomoaîu oîkóbo, oporomotekokuabe'yma
+PRED: <extra_id_0>
 REF:  oporomoaîu oîkóbo, oporomotekokuabe'yma
 ---
-PRED: Oú tenhẽ xe pe'abo "abaré" 'îaba
+PRED: <extra_id_0>
 REF:  Oú tenhẽ xe pe'abo "abaré" 'îaba
 ---
-PRED: Nde pópe ogûapyka, osó kunumĩ
+PRED: <extra_id_0>
 REF:  Nde pópe ogûapyka, osó kunumĩ
 ---
-PRED: Marãpe xe ri erepûá?
+PRED: <extra_id_0>.
 REF:  Marãpe xe ri erepûá?
 ---
-PRED: Îandé aíba t'oîpe'a
+PRED: <extra_id_0>.
 REF:  Îandé aíba t'oîpe'a
 ---
-PRED: N'osaûsubaripe Tupã amõ abá îeapykaba'erama resé?
+PRED: <extra_id_0>
 REF:  N'osaûsubaripe Tupã amõ abá îeapykaba'erama resé?
 ---
-PRED: Aporoîuká
+PRED: <extra_id_0>.
 REF:  Aporoîuká
 ---
-PRED: Mba'epe te'õ?
+PRED: <extra_id_0>.
 REF:  Mba'epe te'õ?
 ---
-PRED: Xe abá-aîbĩ anhẽ
+PRED: <extra_id_0>.
 REF:  Xe abá-aîbĩ anhẽ
 ---
-PRED: Apore'ym
+PRED: <extra_id_0>
 REF:  Apore'ym
 ---
-PRED: membyre'yma
+PRED: <extra_id_0>
 REF:  membyre'yma
 ---
-PRED: T'oîese'ar-y berame'ĩ oîepekaturamo
+PRED: <extra_id_0>.
 REF:  T'oîese'ar-y berame'ĩ oîepekaturamo
 ---
-PRED: Oré py'a-pyk
+PRED: <extra_id_0>.,ловна
 REF:  Oré py'a-pyk
 ---
-PRED: Mba'e-memûãngatupabẽ resé i îekosubyne
+PRED: <extra_id_0>.
 REF:  Mba'e-memûãngatupabẽ resé i îekosubyne
 ---
-PRED: Asembe'y-kytĩ
+PRED: <extra_id_0>
 REF:  Asembe'y-kytĩ
 ---
-PRED: Xe 'é îasûaramo n'aé
+PRED: <extra_id_0>
 REF:  Xe 'é îasûaramo n'aé
 ---
-PRED: Opor-oporĩ, Îesu o îarĩ kuapa aûnhenhẽ
+PRED: <extra_id_0>.
 REF:  Opor-oporĩ, Îesu o îarĩ kuapa aûnhenhẽ
 ---
-PRED: Xe abá niã ixé
+PRED: <extra_id_0>.
 REF:  Xe abá niã ixé
 ---
-PRED: Ave Maria, graça resé tynysemba'e
+PRED: <extra_id_0>
 REF:  Ave Maria, graça resé tynysemba'e
 ---
-PRED: Paranã rupi agûatá
+PRED: <extra_id_0>
 REF:  Paranã rupi agûatá
 ---
-PRED: Aîpó tera xe arõana
+PRED: <extra_id_0>.
 REF:  Aîpó tera xe arõana
 ---
-PRED: xe ruba xe monhangara
+PRED: <extra_id_0>.
 REF:  xe ruba xe monhangara
 ---
-PRED: Tupã sy opabenhẽ mba'e oîkuab oîkóbo
+PRED: <extra_id_0>
 REF:  Tupã sy opabenhẽ mba'e oîkuab oîkóbo
 ---
-PRED: kaûĩ xe renotara
+PRED: <extra_id_0>
 REF:  kaûĩ xe renotara
 ---
-PRED: I angaturama nhẽ oîrumõ-rumõ
+PRED: <extra_id_0>.
 REF:  I angaturama nhẽ oîrumõ-rumõ
 ---
-PRED: Esendu
+PRED: <extra_id_0>.
 REF:  Esendu
 ---
-PRED: Xe abé iî ybõmbyrûera Bastião xe moaûîé N'i tybi xe abaetepûera
+PRED: <extra_id_0>
 REF:  Xe abé iî ybõmbyrûera Bastião xe moaûîé N'i tybi xe abaetepûera
 ---
-PRED: Xe rypab
+PRED: <extra_id_0>.
 REF:  Xe rypab
 ---
-PRED: -Nde regûyrõpe nde agûasá resé?
+PRED: <extra_id_0>?
 REF:  -Nde regûyrõpe nde agûasá resé?
 ---
-PRED: Nde resé memẽ oroîkó
+PRED: <extra_id_0>.
 REF:  Nde resé memẽ oroîkó
 ---
-PRED: Îori anhanga mondyîa
+PRED: <extra_id_0>.
 REF:  Îori anhanga mondyîa
 ---
-PRED: Oîoapyri oroîkó itá resé
+PRED: <extra_id_0>.
 REF:  Oîoapyri oroîkó itá resé
 ---
-PRED: Iîabaíbeté nhẽ rakó asé atá mysakanga
+PRED: <extra_id_0>.
 REF:  Iîabaíbeté nhẽ rakó asé atá mysakanga
 ---
-PRED: Opá xe uba îesyî, oîemoatãmo
+PRED: <extra_id_0>
 REF:  Opá xe uba îesyî, oîemoatãmo
 ---
-PRED: Nde resá-poropotápe amõ resé ema'ẽmo?
+PRED: <extra_id_0>.
 REF:  Nde resá-poropotápe amõ resé ema'ẽmo?
 ---
-PRED: Pytunusupe émo i xóûmo
+PRED: <extra_id_0>.,ловна
 REF:  Pytunusupe émo i xóûmo
 ---
-PRED: A'e ipó Tupã n'omoangaturami
+PRED: <extra_id_0>
 REF:  A'e ipó Tupã n'omoangaturami
 ---
-PRED: Asó nhẽ
+PRED: <extra_id_0>
 REF:  Asó nhẽ
 ---
-PRED: kûesé-té'ĩ, kûesé-té'ĩ-mbyryb, kûesé-té'ĩbé, kûesé-bé'ĩ, kûesé-pyryb
+PRED: <extra_id_0>.
 REF:  kûesé-té'ĩ, kûesé-té'ĩ-mbyryb, kûesé-té'ĩbé, kûesé-bé'ĩ, kûesé-pyryb
 ---
-PRED: Tupã oîmonhyrõ o îoupé setá nhẽ seîxutatá tekoangaîpaba repy-mondykápe
+PRED: <extra_id_0>.
 REF:  Tupã oîmonhyrõ o îoupé setá nhẽ seîxutatá tekoangaîpaba repy-mondykápe
 ---
-PRED: Anhopan
+PRED: <extra_id_0>
 REF:  Anhopan
 ---
-PRED: nhũasyma
+PRED: <extra_id_0>.
 REF:  nhũasyma
 ---
-PRED: Sugûy turusu
+PRED: <extra_id_0>.
 REF:  Sugûy turusu
 ---
-PRED: momorandupara
+PRED: <extra_id_0>
 REF:  momorandupara
 ---
-PRED: I aysó, nipó, îasy, og obagûasu reru
+PRED: <extra_id_0>
 REF:  I aysó, nipó, îasy, og obagûasu reru
 ---
-PRED: Aporokuaukar
+PRED: <extra_id_0>
 REF:  Aporokuaukar
 ---
-PRED: Nama'eruã oîmonhang asé 'angamo, o nhe'enga pupé é i monhangi
+PRED: <extra_id_0>.
 REF:  Nama'eruã oîmonhang asé 'angamo, o nhe'enga pupé é i monhangi
 ---
-PRED: Aûîé! Anhe'eng, Saraûaî!
+PRED: <extra_id_0>
 REF:  Aûîé! Anhe'eng, Saraûaî!
 ---
-PRED: Eîmondeb itangapema surupe
+PRED: <extra_id_0>
 REF:  Eîmondeb itangapema surupe
 ---
-PRED: Mba'epoxy koty onhe'engaíbamo
+PRED: <extra_id_0>
 REF:  Mba'epoxy koty onhe'engaíbamo
 ---
-PRED: Tupã syrama ri i monhangymbyra…
+PRED: <extra_id_0>
 REF:  Tupã syrama ri i monhangymbyra…
 ---
-PRED: Opakatu xe rembiara xe pó suí serasóû
+PRED: <extra_id_0>
 REF:  Opakatu xe rembiara xe pó suí serasóû
 ---
-PRED: ybykûab
+PRED: <extra_id_0>.
 REF:  ybykûab
 ---
-PRED: Anhanga pe'abo, te'õ resebé
+PRED: <extra_id_0>.
 REF:  Anhanga pe'abo, te'õ resebé
 ---
-PRED: O boîáramo pe rari
+PRED: <extra_id_0>
 REF:  O boîáramo pe rari
 ---
-PRED: Nd'îasóî xûé-tepemo ybakype se'õe'ỹmemo?
+PRED: <extra_id_0>.
 REF:  Nd'îasóî xûé-tepemo ybakype se'õe'ỹmemo?
 ---
-PRED: I xy i aso'ikatûabo, oîopîá ro'y suí
+PRED: <extra_id_0>.
 REF:  I xy i aso'ikatûabo, oîopîá ro'y suí
 ---
-PRED: Soby
+PRED: <extra_id_0>.
 REF:  Soby
 ---
-PRED: Anhanga sumarã
+PRED: <extra_id_0>
 REF:  Anhanga sumarã
 ---
-PRED: Morubixaba mondá îaînambi-'okukar
+PRED: <extra_id_0>
 REF:  Morubixaba mondá îaînambi-'okukar
 ---
-PRED: Lisboa akûeakoty
+PRED: <extra_id_0>.
 REF:  Lisboa akûeakoty
 ---
-PRED: Mondarõ, nhe'engaíba, mo'ema nde resemõ
+PRED: <extra_id_0>
 REF:  Mondarõ, nhe'engaíba, mo'ema nde resemõ
 ---
-PRED: Mba'e resé o nhemoma'enduaragûera a'epe onhenosẽne
+PRED: <extra_id_0>
 REF:  Mba'e resé o nhemoma'enduaragûera a'epe onhenosẽne
 ---
-PRED: Eresabeyporype kaûĩ suí, 'ara mokanhema?
+PRED: <extra_id_0>.
 REF:  Eresabeyporype kaûĩ suí, 'ara mokanhema?
 ---
-PRED: I angaturãngatu moeburusûabo
+PRED: <extra_id_0>.
 REF:  I angaturãngatu moeburusûabo
 ---
-PRED: Mamõpe ybŷá Îandé Îara rerobasemi ko'yté?
+PRED: <extra_id_0>
 REF:  Mamõpe ybŷá Îandé Îara rerobasemi ko'yté?
 ---
-PRED: xe îara re'õ renõîa
+PRED: <extra_id_0>.
 REF:  xe îara re'õ renõîa
 ---
-PRED: Eîmbo'ekatu xe 'anga t'oîkuab ybaka piara
+PRED: <extra_id_0>
 REF:  Eîmbo'ekatu xe 'anga t'oîkuab ybaka piara
 ---
-PRED: itagûasutyba
+PRED: <extra_id_0>
 REF:  itagûasutyba
 ---
-PRED: Otĩ kûarasy osema, nde beraba robaké
+PRED: <extra_id_0>.
 REF:  Otĩ kûarasy osema, nde beraba robaké
 ---
-PRED: Apŷaba, gûaîbĩ, kunhãne, ko'arapukuî xe rembiá
+PRED: <extra_id_0>
 REF:  Apŷaba, gûaîbĩ, kunhãne, ko'arapukuî xe rembiá
 ---
-PRED: Aîapeaob
+PRED: <extra_id_0>
 REF:  Aîapeaob
 ---
-PRED: Ne'ĩ serasóbo ko'yté
+PRED: <extra_id_0>.
 REF:  Ne'ĩ serasóbo ko'yté
 ---
-PRED: xe akanga moîegûaka
+PRED: <extra_id_0>.
 REF:  xe akanga moîegûaka
 ---
-PRED: y-e'ẽ
+PRED: <extra_id_0>
 REF:  y-e'ẽ
 ---
-PRED: Aîmomoxy pabenhẽ
+PRED: <extra_id_0>.
 REF:  Aîmomoxy pabenhẽ
 ---
-PRED: Xe py-ambugûasu
+PRED: <extra_id_0>.
 REF:  Xe py-ambugûasu
 ---
-PRED: Xe moarûá Pa'i Tupã!
+PRED: <extra_id_0>.
 REF:  Xe moarûá Pa'i Tupã!
 ---
-PRED: Aîmonhang-îeaseî
+PRED: <extra_id_0>
 REF:  Aîmonhang-îeaseî
 ---
-PRED: Aîur ybaka suí îepi nhẽ pe pytybõmo
+PRED: <extra_id_0>
 REF:  Aîur ybaka suí îepi nhẽ pe pytybõmo
 ---
-PRED: Aîeaibok
+PRED: <extra_id_0>.
 REF:  Aîeaibok
 ---
-PRED: Amõ kunhã suí i moingoébo
+PRED: <extra_id_0>.
 REF:  Amõ kunhã suí i moingoébo
 ---
-PRED: Marã e'ipe asé, karaibebé o arõana mongetábo?
+PRED: <extra_id_0>. <extra_id_10>.
 REF:  Marã e'ipe asé, karaibebé o arõana mongetábo?
 ---
-PRED: Aîpytasã-mondok
+PRED: <extra_id_0>.
 REF:  Aîpytasã-mondok
 ---
-PRED: Tupã nhe'enga abŷagûera t'ereîmombe'u, apore'ymagûera béno
+PRED: <extra_id_0>
 REF:  Tupã nhe'enga abŷagûera t'ereîmombe'u, apore'ymagûera béno
 ---
-PRED: I Tupã irũmo bé kó seté rekóû, pesembûeri pupé bé gûetépe-katu re'a
+PRED: <extra_id_0>.
 REF:  I Tupã irũmo bé kó seté rekóû, pesembûeri pupé bé gûetépe-katu re'a
 ---
-PRED: Xe u'ukûar
+PRED: <extra_id_0>
 REF:  Xe u'ukûar
 ---
-PRED: Aîekok sesé
+PRED: <extra_id_0>
 REF:  Aîekok sesé
 ---
-PRED: sapopema
+PRED: <extra_id_0>
 REF:  sapopema
 ---
-PRED: Penhe'eng poxype pe îoupé?
+PRED: <extra_id_0>
 REF:  Penhe'eng poxype pe îoupé?
 ---
-PRED: Ixé rakó
+PRED: <extra_id_0>.
 REF:  Ixé rakó
 ---
-PRED: Xe îuru-bok
+PRED: <extra_id_0>
 REF:  Xe îuru-bok
 ---
-PRED: Aporoîaî - Escarneço das pessoas Aporoîá-roîaî
+PRED: <extra_id_0>.,ловна
 REF:  Aporoîaî - Escarneço das pessoas Aporoîá-roîaî
 ---
-PRED: ogûatápe oré rekyîa
+PRED: <extra_id_0>.
 REF:  ogûatápe oré rekyîa
 ---
-PRED: ãme
+PRED: <extra_id_0>.
 REF:  ãme
 ---
-PRED: Aîepoká
+PRED: <extra_id_0>
 REF:  Aîepoká
 ---
-PRED: pitangamo onhemonhanga
+PRED: <extra_id_0>
 REF:  pitangamo onhemonhanga
 ---
-PRED: i i'yra → i'yra
+PRED: <extra_id_0>
 REF:  i i'yra → i'yra
 ---
-PRED: Aîapyrasab
+PRED: <extra_id_0>
 REF:  Aîapyrasab
 ---
-PRED: îeîbeté
+PRED: <extra_id_0>.
 REF:  îeîbeté
 ---
-PRED: Oîerekoaíbeté xe akanga rasy xe suí
+PRED: <extra_id_0>. <extra_id_10>!
 REF:  Oîerekoaíbeté xe akanga rasy xe suí
 ---
-PRED: A'é sepîaka
+PRED: <extra_id_0>
 REF:  A'é sepîaka
 ---
-PRED: Nde 'ekatu kó 'ara moapysyki
+PRED: <extra_id_0>
 REF:  Nde 'ekatu kó 'ara moapysyki
 ---
-PRED: Ebokûé asó
+PRED: <extra_id_0>.
 REF:  Ebokûé asó
 ---
-PRED: mokõî asé pó papasaba
+PRED: <extra_id_0>.
 REF:  mokõî asé pó papasaba
 ---
-PRED: Santa Maria o membyrá-kakara omo'ã-mo'ang
+PRED: <extra_id_0>.
 REF:  Santa Maria o membyrá-kakara omo'ã-mo'ang
 ---
-PRED: Anhenong gûitupa
+PRED: <extra_id_0>
 REF:  Anhenong gûitupa
 ---
-PRED: Xe aseî arasó
+PRED: <extra_id_0>
 REF:  Xe aseî arasó
 ---
-PRED: Xe rendyîuî
+PRED: <extra_id_0>.
 REF:  Xe rendyîuî
 ---
-PRED: T'aroŷrõngatu Anhanga
+PRED: <extra_id_0>.
 REF:  T'aroŷrõngatu Anhanga
 ---
-PRED: N'i pori be'ĩ xe aîó
+PRED: <extra_id_0>.
 REF:  N'i pori be'ĩ xe aîó
 ---
-PRED: Akambu
+PRED: <extra_id_0>.
 REF:  Akambu
 ---
-PRED: Aîepîar
+PRED: <extra_id_0>.
 REF:  Aîepîar
 ---
-PRED: Aîakarãî
+PRED: <extra_id_0>
 REF:  Aîakarãî
 ---
-PRED: Aîypymoín
+PRED: <extra_id_0>
 REF:  Aîypymoín
 ---
-PRED: Xe îekyîme, t'ereîu
+PRED: <extra_id_0>
 REF:  Xe îekyîme, t'ereîu
 ---
-PRED: Ereîanga'ope nde ruba, nde sy, nde ramũîa, nde aryîa?
+PRED: <extra_id_0>
 REF:  Ereîanga'ope nde ruba, nde sy, nde ramũîa, nde aryîa?
 ---
-PRED: Anhemoatypygûasu
+PRED: <extra_id_0>
 REF:  Anhemoatypygûasu
 ---
-PRED: Emonãnamo serã Tupã îandé rubypy arukangûera nhẽ monhangi semirekó retéramo?
+PRED: <extra_id_0>.
 REF:  Emonãnamo serã Tupã îandé rubypy arukangûera nhẽ monhangi semirekó retéramo?
 ---
-PRED: korite'ĩ-mbyryb
+PRED: <extra_id_0>.
 REF:  korite'ĩ-mbyryb
 ---
-PRED: Inaîagûasu apepûera amõ pupé i nhang'iré
+PRED: <extra_id_0>
 REF:  Inaîagûasu apepûera amõ pupé i nhang'iré
 ---
-PRED: kûarasy-ro'y
+PRED: <extra_id_0>
 REF:  kûarasy-ro'y
 ---
-PRED: Osó ruãpe é?
+PRED: <extra_id_0>.
 REF:  Osó ruãpe é?
 ---
-PRED: Kó taba pupé aîkó - Moro nesta aldeia Aîkó iké xe roka pupé - Moro aqui em minha casa Aîkó Pero irũnamo
+PRED: <extra_id_0>.
 REF:  Kó taba pupé aîkó - Moro nesta aldeia Aîkó iké xe roka pupé - Moro aqui em minha casa Aîkó Pero irũnamo
 ---
-PRED: yby-pytanga
+PRED: <extra_id_0>
 REF:  yby-pytanga
 ---
-PRED: Apakaíb
+PRED: <extra_id_0>.
 REF:  Apakaíb
 ---
-PRED: Îusana abŷare'yma nhẽ serã tentação?
+PRED: <extra_id_0>?
 REF:  Îusana abŷare'yma nhẽ serã tentação?
 ---
-PRED: Asenõî apŷabetá
+PRED: <extra_id_0>
 REF:  Asenõî apŷabetá
 ---
-PRED: i nhe'enga mombegûara
+PRED: <extra_id_0>
 REF:  i nhe'enga mombegûara
 ---
-PRED: Abá ra'yrape ûĩ?!
+PRED: <extra_id_0>?
 REF:  Abá ra'yrape ûĩ?!
 ---
-PRED: nhe'engasy
+PRED: <extra_id_0>
 REF:  nhe'engasy
 ---
-PRED: Ambyasybora poîa
+PRED: <extra_id_0>.
 REF:  Ambyasybora poîa
 ---
-PRED: Iîá muru! I py'apûera xe potabamo t'oîkó
+PRED: <extra_id_0>!
 REF:  Iîá muru! I py'apûera xe potabamo t'oîkó
 ---
-PRED: Okakar kó xe rekoberama re'a
+PRED: <extra_id_0>.
 REF:  Okakar kó xe rekoberama re'a
 ---
-PRED: O ekó moasy riré, abá sóû îemombegûabo
+PRED: <extra_id_0>.
 REF:  O ekó moasy riré, abá sóû îemombegûabo
 ---
-PRED: Nde rakypûera rupi t'osó xe 'anga îepi
+PRED: <extra_id_0>
 REF:  Nde rakypûera rupi t'osó xe 'anga îepi
 ---
-PRED: Xe boîáramo pabẽ xe pópe arekó-katu
+PRED: <extra_id_0>. <extra_id_10>.
 REF:  Xe boîáramo pabẽ xe pópe arekó-katu
 ---
-PRED: Abápe aîpoba'e oîmonhang erimba'e?
+PRED: <extra_id_0>.
 REF:  Abápe aîpoba'e oîmonhang erimba'e?
 ---
-PRED: Maratekoara aé-amẽ ahẽ?
+PRED: <extra_id_0>?
 REF:  Maratekoara aé-amẽ ahẽ?
 ---
-PRED: y rapé
+PRED: <extra_id_0>
 REF:  y rapé
 ---
-PRED: Oroîekunasab
+PRED: <extra_id_0>.
 REF:  Oroîekunasab
 ---
-PRED: Akûeî tabusu Îerusalém 'îaba pora mombebaûama kuapa nhẽ aîpó i 'éû
+PRED: <extra_id_0>.
 REF:  Akûeî tabusu Îerusalém 'îaba pora mombebaûama kuapa nhẽ aîpó i 'éû
 ---
-PRED: Na xe poranguî gûitekóbo
+PRED: <extra_id_0>.)
 REF:  Na xe poranguî gûitekóbo
 ---
-PRED: Xe ruba rekobîara é re'ĩ
+PRED: <extra_id_0>.
 REF:  Xe ruba rekobîara é re'ĩ
 ---
-PRED: Xe pokarugûar
+PRED: <extra_id_0>.
 REF:  Xe pokarugûar
 ---
-PRED: Tekopoxypûera tyma
+PRED: <extra_id_0>.
 REF:  Tekopoxypûera tyma
 ---
-PRED: Xe resangá - Eu sou chorão Abá-esangá
+PRED: <extra_id_0>.
 REF:  Xe resangá - Eu sou chorão Abá-esangá
 ---
-PRED: itaîu-kûara
+PRED: <extra_id_0>.
 REF:  itaîu-kûara
 ---
-PRED: Îandé moîeapykáû ikó 'ara pupé ranhẽ
+PRED: <extra_id_0>.,ловна
 REF:  Îandé moîeapykáû ikó 'ara pupé ranhẽ
 ---
-PRED: Tupã nhe'enga morombo'esaba
+PRED: <extra_id_0>
 REF:  Tupã nhe'enga morombo'esaba
 ---
-PRED: Aîkobé n'ixé sarõana
+PRED: <extra_id_0>.
 REF:  Aîkobé n'ixé sarõana
 ---
-PRED: Pesaûsu ra'upe pe pysyrõana?
+PRED: <extra_id_0>
 REF:  Pesaûsu ra'upe pe pysyrõana?
 ---
-PRED: Aîpó îandé ratá gûyra porama, sapypyrama
+PRED: <extra_id_0>.
 REF:  Aîpó îandé ratá gûyra porama, sapypyrama
 ---
-PRED: inimbó'i
+PRED: <extra_id_0>.,ловна <extra_id_9>
 REF:  inimbó'i
 ---
-PRED: Erimba'epe aîpó nde 'îaba ereîmopóne?
+PRED: <extra_id_0>
 REF:  Erimba'epe aîpó nde 'îaba ereîmopóne?
 ---
-PRED: Aîpó nhõ-pipó nde rera?
+PRED: <extra_id_0>.
 REF:  Aîpó nhõ-pipó nde rera?
 ---
-PRED: Xe pytubapûan
+PRED: <extra_id_0>
 REF:  Xe pytubapûan
 ---
-PRED: Anhagûã-nhagûãî
+PRED: <extra_id_0>
 REF:  Anhagûã-nhagûãî
 ---
-PRED: Pitangĩ repîaka'upa, aîur xe roka suí
+PRED: <extra_id_0>.
 REF:  Pitangĩ repîaka'upa, aîur xe roka suí
 ---
-PRED: Mokaba ogûeru tenhẽ
+PRED: <extra_id_0>.,ловна
 REF:  Mokaba ogûeru tenhẽ
 ---
-PRED: O me'engabeté pyky'yra koîpó tykera resé obykyba'e n'e'ikatuî omendá o me'engabeté resé tiruã
+PRED: <extra_id_0>.
 REF:  O me'engabeté pyky'yra koîpó tykera resé obykyba'e n'e'ikatuî omendá o me'engabeté resé tiruã
 ---
-PRED: a-tyrá-bebó
+PRED: <extra_id_0>.
 REF:  a-tyrá-bebó
 ---
-PRED: tekó poreaûsuba
+PRED: <extra_id_0>.
 REF:  tekó poreaûsuba
 ---
-PRED: N'aîkuabi a'e abá
+PRED: <extra_id_0>.
 REF:  N'aîkuabi a'e abá
 ---
-PRED: Opûerab é ipó xe 'anga nde nhe'enga pupé nhote
+PRED: <extra_id_0>
 REF:  Opûerab é ipó xe 'anga nde nhe'enga pupé nhote
 ---
-PRED: Peîmoín amõ cruz oîepé kó mara'abora robaké sesá ma'ẽndabamo
+PRED: <extra_id_0>.
 REF:  Peîmoín amõ cruz oîepé kó mara'abora robaké sesá ma'ẽndabamo
 ---
-PRED: Oîmoerapûan-y bé, o îurupe i momoxŷabo
+PRED: <extra_id_0>.
 REF:  Oîmoerapûan-y bé, o îurupe i momoxŷabo
 ---
-PRED: O memby-porangeté t'omoîerekûab orébo
+PRED: <extra_id_0>.
 REF:  O memby-porangeté t'omoîerekûab orébo
 ---
-PRED: Xe îepykixûer
+PRED: <extra_id_0>
 REF:  Xe îepykixûer
 ---
-PRED: mosanga moeîrabyîara
+PRED: <extra_id_0>
 REF:  mosanga moeîrabyîara
 ---
-PRED: A'e rame'ĩpe ybŷá i py rerekóû itapygûá pupé i moîáno?
+PRED: <extra_id_0>.
 REF:  A'e rame'ĩpe ybŷá i py rerekóû itapygûá pupé i moîáno?
 ---
-PRED: Abá rokype erekûá tá, nhemim-y îanondé?
+PRED: <extra_id_0>
 REF:  Abá rokype erekûá tá, nhemim-y îanondé?
 ---
-PRED: Aîmoangaîbar
+PRED: <extra_id_0>.,ловна
 REF:  Aîmoangaîbar
 ---
-PRED: E'u oîepé îuru nhote
+PRED: <extra_id_0>.
 REF:  E'u oîepé îuru nhote
 ---
-PRED: T'orosaûsu îandé ruba, îandé monhangareté
+PRED: <extra_id_0>.
 REF:  T'orosaûsu îandé ruba, îandé monhangareté
 ---
-PRED: Nde nhy'ã nde i moatãnhẽe'ỹme
+PRED: <extra_id_0>.
 REF:  Nde nhy'ã nde i moatãnhẽe'ỹme
 ---
-PRED: Amba'e-ma'e'ĩ
+PRED: <extra_id_0>
 REF:  Amba'e-ma'e'ĩ
 ---
-PRED: Aîerobîá xe îoesé
+PRED: <extra_id_0>.
 REF:  Aîerobîá xe îoesé
 ---
-PRED: Aîmongy gûyrá-aba
+PRED: <extra_id_0>)
 REF:  Aîmongy gûyrá-aba
 ---
-PRED: Ereîkópe abaré nde moingoaba rupi?
+PRED: <extra_id_0>
 REF:  Ereîkópe abaré nde moingoaba rupi?
 ---
-PRED: mby piru'a
+PRED: <extra_id_0>.
 REF:  mby piru'a
 ---
-PRED: Typab
+PRED: <extra_id_0>. <extra_id_10>e <extra_id_3>
 REF:  Typab
 ---
-PRED: nha'ẽpesẽ-uba
+PRED: <extra_id_0>
 REF:  nha'ẽpesẽ-uba
 ---
-PRED: kó rupi
+PRED: <extra_id_0>.,ловна
 REF:  kó rupi
 ---
-PRED: Sobaké suí mbegûé-mbegûé i xóû oîeupi
+PRED: <extra_id_0>.
 REF:  Sobaké suí mbegûé-mbegûé i xóû oîeupi
 ---
-PRED: Ogûemimoîa'oka ogûa'yra pé ranhẽ onhe'enga
+PRED: <extra_id_0>.
 REF:  Ogûemimoîa'oka ogûa'yra pé ranhẽ onhe'enga
 ---
-PRED: Amba'e-'u nde suí
+PRED: <extra_id_0>.
 REF:  Amba'e-'u nde suí
 ---
-PRED: Ikatupe nhẽpe sekóû te'yîpe?
+PRED: <extra_id_0>.
 REF:  Ikatupe nhẽpe sekóû te'yîpe?
 ---
-PRED: Xe resá-ting
+PRED: <extra_id_0>.
 REF:  Xe resá-ting
 ---
-PRED: Aka'agûyrok
+PRED: <extra_id_0>.
 REF:  Aka'agûyrok
 ---
-PRED: Penheangerekó amõ 'ara pupé te'õ pe rokena motaka turagûama resé é
+PRED: <extra_id_0>.
 REF:  Penheangerekó amõ 'ara pupé te'õ pe rokena motaka turagûama resé é
 ---
-PRED: Mo'yrobyeté sepîakypyre'yma
+PRED: <extra_id_0>.
 REF:  Mo'yrobyeté sepîakypyre'yma
 ---
-PRED: Myatã ogûeru
+PRED: <extra_id_0>.
 REF:  Myatã ogûeru
 ---
-PRED: Tupã rendabeté, Tupã raîyra
+PRED: <extra_id_0>.
 REF:  Tupã rendabeté, Tupã raîyra
 ---
-PRED: xe ruba xe mba'eme'engaba
+PRED: <extra_id_0>
 REF:  xe ruba xe mba'eme'engaba
 ---
-PRED: Tatá nde arõeté, i pupé t'ereîesy
+PRED: <extra_id_0>
 REF:  Tatá nde arõeté, i pupé t'ereîesy
 ---
-PRED: A'epe marã abá rekóû a'e o esaraîagûera supé ogûasemane?
+PRED: <extra_id_0>.
 REF:  A'epe marã abá rekóû a'e o esaraîagûera supé ogûasemane?
 ---
-PRED: Iî aeté - Ele é fino Xe aeté
+PRED: <extra_id_0>.
 REF:  Iî aeté - Ele é fino Xe aeté
 ---
-PRED: Eîeapirõ!
+PRED: <extra_id_0>.
 REF:  Eîeapirõ!
 ---
-PRED: inaîagûasu apepûera amõ pupé i nhang'iré
+PRED: <extra_id_0>
 REF:  inaîagûasu apepûera amõ pupé i nhang'iré
 ---
-PRED: Nd'e'i ymûanĩ ahẽ i îukábo
+PRED: <extra_id_0>.))
 REF:  Nd'e'i ymûanĩ ahẽ i îukábo
 ---
-PRED: Marãpe nde rera?
+PRED: <extra_id_0>
 REF:  Marãpe nde rera?
 ---
-PRED: Xe 'angaingaíb
+PRED: <extra_id_0>.
 REF:  Xe 'angaingaíb
 ---
-PRED: Oré pysyrõ îepé
+PRED: <extra_id_0>
 REF:  Oré pysyrõ îepé
 ---
-PRED: Îaîpó-asá-sá i py resebé, krusá sosé nhẽ xe Îara moîá
+PRED: <extra_id_0>.
 REF:  Îaîpó-asá-sá i py resebé, krusá sosé nhẽ xe Îara moîá
 ---
-PRED: A'u temõ mba'eaíba mã a'emo nhẽ xe re'õû
+PRED: <extra_id_0>.
 REF:  A'u temõ mba'eaíba mã a'emo nhẽ xe re'õû
 ---
-PRED: Serobîasare'yma potyrõû iî ybõîybõmo
+PRED: <extra_id_0>
 REF:  Serobîasare'yma potyrõû iî ybõîybõmo
 ---
-PRED: Asykyîé, aryryî!
+PRED: <extra_id_0>
 REF:  Asykyîé, aryryî!
 ---
-PRED: O angaîpaba moasŷabo, seroîasegûabo
+PRED: <extra_id_0>.
 REF:  O angaîpaba moasŷabo, seroîasegûabo
 ---
-PRED: Marãeté'ĩ ra'umope amõ Anhanga ratá pora rekóû ikó 'ara pupé oîepé îasy Tupã ebanoĩ suí o moingobérememo?
+PRED: <extra_id_0>.
 REF:  Marãeté'ĩ ra'umope amõ Anhanga ratá pora rekóû ikó 'ara pupé oîepé îasy Tupã ebanoĩ suí o moingobérememo?
 ---
-PRED: Oîabo asé santos 'ara kuabi, oîabo bé asé i kangûerĩ tiruã momba'etéû, o aîuri serekóbo
+PRED: <extra_id_0>.
 REF:  Oîabo asé santos 'ara kuabi, oîabo bé asé i kangûerĩ tiruã momba'etéû, o aîuri serekóbo
 ---
-PRED: - Nde rasẽ, eîeapirõ!
+PRED: <extra_id_0>!
 REF:  - Nde rasẽ, eîeapirõ!
 ---
-PRED: Ty-pab
+PRED: <extra_id_0>.
 REF:  Ty-pab
 ---
-PRED: Mokõî oîoirundyk oito 'ara sykeme i 'apira mondoki
+PRED: <extra_id_0>
 REF:  Mokõî oîoirundyk oito 'ara sykeme i 'apira mondoki
 ---
-PRED: xe rendybaá-tinga
+PRED: <extra_id_0>.
 REF:  xe rendybaá-tinga
 ---
-PRED: Ereîmoarûabeté ã nde rekó, i moabaípa
+PRED: <extra_id_0>
 REF:  Ereîmoarûabeté ã nde rekó, i moabaípa
 ---
-PRED: Agûasem
+PRED: <extra_id_0>
 REF:  Agûasem
 ---
-PRED: Aîpó saûsukatupyra, aîpó anhẽ
+PRED: <extra_id_0>.
 REF:  Aîpó saûsukatupyra, aîpó anhẽ
 ---
-PRED: Moka'ẽ itá îurá 'arybo sesyri
+PRED: <extra_id_0>
 REF:  Moka'ẽ itá îurá 'arybo sesyri
 ---
-PRED: Xe apysy-katu sekoápe
+PRED: <extra_id_0>
 REF:  Xe apysy-katu sekoápe
 ---
-PRED: Xe mopyatã îepé
+PRED: <extra_id_0>.
 REF:  Xe mopyatã îepé
 ---
-PRED: Asó temõ ybakype mã!
+PRED: <extra_id_0>.
 REF:  Asó temõ ybakype mã!
 ---
-PRED: Xe resaoby
+PRED: <extra_id_0>.
 REF:  Xe resaoby
 ---
-PRED: Peîori, perasó muru, supi, îandé ratápe sapeka, saîmbé-katûabo
+PRED: <extra_id_0>.
 REF:  Peîori, perasó muru, supi, îandé ratápe sapeka, saîmbé-katûabo
 ---
-PRED: Nd'e'i te'e moxy keteté abá ropenhana
+PRED: <extra_id_0>.
 REF:  Nd'e'i te'e moxy keteté abá ropenhana
 ---
-PRED: Opá nde reté raíri itatîãîa pupé
+PRED: <extra_id_0>
 REF:  Opá nde reté raíri itatîãîa pupé
 ---
-PRED: Xe xe 'anga aîmomoxy
+PRED: <extra_id_0>
 REF:  Xe xe 'anga aîmomoxy
 ---
-PRED: kapi'ĩ-pururuka
+PRED: <extra_id_0>
 REF:  kapi'ĩ-pururuka
 ---
-PRED: O aobusu mondoró-ndoroka
+PRED: <extra_id_0>.
 REF:  O aobusu mondoró-ndoroka
 ---
-PRED: Marangoty-pakó xe rekopûera é?
+PRED: <extra_id_0>.
 REF:  Marangoty-pakó xe rekopûera é?
 ---
-PRED: T'oîese'ar-y berame'ĩ oîkóbo
+PRED: <extra_id_0>
 REF:  T'oîese'ar-y berame'ĩ oîkóbo
 ---
-PRED: Opabenhẽ gûá sóû îebyîebybo
+PRED: <extra_id_0>.
 REF:  Opabenhẽ gûá sóû îebyîebybo
 ---
-PRED: Aybysosok
+PRED: <extra_id_0>.
 REF:  Aybysosok
 ---
-PRED: O pytumimbykamo nhẽ nhemongaraibypyre'yma 'anga rekóû
+PRED: <extra_id_0>
 REF:  O pytumimbykamo nhẽ nhemongaraibypyre'yma 'anga rekóû
 ---
-PRED: Osapîá-katupe kunhã o mena tekó-katu resé o pûaîme?
+PRED: <extra_id_0>.
 REF:  Osapîá-katupe kunhã o mena tekó-katu resé o pûaîme?
 ---
-PRED: O angaîpabamo
+PRED: <extra_id_0>
 REF:  O angaîpabamo
 ---
-PRED: kóbo
+PRED: <extra_id_0>.,ловна
 REF:  kóbo
 ---
-PRED: sara
+PRED: <extra_id_0>.
 REF:  sara
 ---
-PRED: Osó kó 'ara pupé
+PRED: <extra_id_0>! <extra_id_10>!
 REF:  Osó kó 'ara pupé
 ---
-PRED: Y pytera asopenhan
+PRED: <extra_id_0>
 REF:  Y pytera asopenhan
 ---
-PRED: S Pedro itangapema osekyî
+PRED: <extra_id_0>.
 REF:  S Pedro itangapema osekyî
 ---
-PRED: Og uba anhõpe abá osapîá?
+PRED: <extra_id_0>.
 REF:  Og uba anhõpe abá osapîá?
 ---
-PRED: Erepo'ẽpe nde rapixara rapupé resé?
+PRED: <extra_id_0>?
 REF:  Erepo'ẽpe nde rapixara rapupé resé?
 ---
-PRED: -Nde nhe'engapaparaípe mba'epoxy resé nde ma'enduaramo?
+PRED: <extra_id_0>
 REF:  -Nde nhe'engapaparaípe mba'epoxy resé nde ma'enduaramo?
 ---
-PRED: gûitekóbo
+PRED: <extra_id_0>.
 REF:  gûitekóbo
 ---
-PRED: apé-'yba
+PRED: <extra_id_0>.
 REF:  apé-'yba
 ---
-PRED: Xe pinim
+PRED: <extra_id_0>.
 REF:  Xe pinim
 ---
-PRED: Xe-te xe mboú kori pe moanhana, pe mondóbo ikó setama suí
+PRED: <extra_id_0>
 REF:  Xe-te xe mboú kori pe moanhana, pe mondóbo ikó setama suí
 ---
-PRED: Marã-takó ahẽ rera?
+PRED: <extra_id_0>.
 REF:  Marã-takó ahẽ rera?
 ---
-PRED: Ereîmoîekosupe nde ruba nde sy sekotebẽsaba ri?
+PRED: <extra_id_0>.
 REF:  Ereîmoîekosupe nde ruba nde sy sekotebẽsaba ri?
 ---
-PRED: u'i-puba
+PRED: <extra_id_0>
 REF:  u'i-puba
 ---
-PRED: Ererobîápe îetanonga'uba koîpó karaimonhanga?
+PRED: <extra_id_0>?
 REF:  Ererobîápe îetanonga'uba koîpó karaimonhanga?
 ---
-PRED: gûaîbĩ-marã
+PRED: <extra_id_0>.,ловна <extra_id_12>
 REF:  gûaîbĩ-marã
 ---
-PRED: Xe anama gûatasápe, nde morerekoá sesé
+PRED: <extra_id_0>
 REF:  Xe anama gûatasápe, nde morerekoá sesé
 ---
-PRED: A'eîbépe ybŷá cruz mo'ami i atykábo?
+PRED: <extra_id_0>
 REF:  A'eîbépe ybŷá cruz mo'ami i atykábo?
 ---
-PRED: T'oîese'ar-y berame'ĩ oîepekaturamo
+PRED: <extra_id_0>.
 REF:  T'oîese'ar-y berame'ĩ oîepekaturamo
 ---
-PRED: apysakûá-îe'o
+PRED: <extra_id_0>.
 REF:  apysakûá-îe'o
 ---
-PRED: Aîpomogûab
+PRED: <extra_id_0>.
 REF:  Aîpomogûab
 ---
-PRED: O emi'urama tiruã moîybe'yma
+PRED: <extra_id_0>.
 REF:  O emi'urama tiruã moîybe'yma
 ---
-PRED: Xe py-bang - Eu tenho os pés tortos Xe resá-bang
+PRED: <extra_id_0>.
 REF:  Xe py-bang - Eu tenho os pés tortos Xe resá-bang
 ---
-PRED: itá-pesembûera
+PRED: <extra_id_0>
 REF:  itá-pesembûera
 ---
-PRED: kûarasy reîkeaba
+PRED: <extra_id_0>
 REF:  kûarasy reîkeaba
 ---
-PRED: Aîkó nde nhe'enga rupi
+PRED: <extra_id_0>.
 REF:  Aîkó nde nhe'enga rupi
 ---
-PRED: kanga putu'uma
+PRED: <extra_id_0>
 REF:  kanga putu'uma
 ---
-PRED: Aîporu abá ygara
+PRED: <extra_id_0>
 REF:  Aîporu abá ygara
 ---
-PRED: Agûaîxay rembiaramo i moingóbo
+PRED: <extra_id_0>.
 REF:  Agûaîxay rembiaramo i moingóbo
 ---
-PRED: kamusi-pora
+PRED: <extra_id_0>.
 REF:  kamusi-pora
 ---
-PRED: Anhemonduby-ndubyr
+PRED: <extra_id_0>.
 REF:  Anhemonduby-ndubyr
 ---
-PRED: Tupã sy, xe momburûara
+PRED: <extra_id_0>
 REF:  Tupã sy, xe momburûara
 ---
-PRED: Abaré ogûerasoápe, n'asaûsubi
+PRED: <extra_id_0>
 REF:  Abaré ogûerasoápe, n'asaûsubi
 ---
-PRED: Nde remo'emype nde rapixara resé i moerapûanaípa?
+PRED: <extra_id_0>.
 REF:  Nde remo'emype nde rapixara resé i moerapûanaípa?
 ---
-PRED: Ererobîápe abá remo'ema?
+PRED: <extra_id_0>.
 REF:  Ererobîápe abá remo'ema?
 ---
-PRED: xe katurama momboîa
+PRED: <extra_id_0>.
 REF:  xe katurama momboîa
 ---
-PRED: Aîeré-îereb
+PRED: <extra_id_0>.
 REF:  Aîeré-îereb
 ---
-PRED: Na xe popyatãî
+PRED: <extra_id_0>.
 REF:  Na xe popyatãî
 ---
-PRED: I pysyrõû tekoangaîpabypy Adão îandé nongaba suí
+PRED: <extra_id_0>.
 REF:  I pysyrõû tekoangaîpabypy Adão îandé nongaba suí
 ---
-PRED: morapitîara
+PRED: <extra_id_0>.
 REF:  morapitîara
 ---
-PRED: Ereîmoporype nde monhemombegûara nhe'enga, nhenupã, îekuakuba?
+PRED: <extra_id_0>.
 REF:  Ereîmoporype nde monhemombegûara nhe'enga, nhenupã, îekuakuba?
 ---
-PRED: O sy suí o 'aragûera moasŷabo
+PRED: <extra_id_0> de <extra_id_10>
 REF:  O sy suí o 'aragûera moasŷabo
 ---
-PRED: I aûîé umûã ygara
+PRED: <extra_id_0>.
 REF:  I aûîé umûã ygara
 ---
-PRED: Toryba nhemonhangaba
+PRED: <extra_id_0>.
 REF:  Toryba nhemonhangaba
 ---
-PRED: Aseîkûaru'umbok
+PRED: <extra_id_0>
 REF:  Aseîkûaru'umbok
 ---
-PRED: Îé, kó bé xe pûapẽ, xe rûaîpuku, xe tyãîa
+PRED: <extra_id_0>.
 REF:  Îé, kó bé xe pûapẽ, xe rûaîpuku, xe tyãîa
 ---
-PRED: Apoti
+PRED: <extra_id_0>.
 REF:  Apoti
 ---
-PRED: O emimombe'upûera o emikuakugûera irũmo bé i mombe'uîebyrine
+PRED: <extra_id_0>
 REF:  O emimombe'upûera o emikuakugûera irũmo bé i mombe'uîebyrine
 ---
-PRED: I kanga îepotasaba pe'abo o îosuí
+PRED: <extra_id_0>.
 REF:  I kanga îepotasaba pe'abo o îosuí
 ---
-PRED: Pe rory, xe ra'yretá, xe ri
+PRED: <extra_id_0>.
 REF:  Pe rory, xe ra'yretá, xe ri
 ---
-PRED: Our-y bépe irã Îesu Cristo ybaka suíne?
+PRED: <extra_id_0>.
 REF:  Our-y bépe irã Îesu Cristo ybaka suíne?
 ---
-PRED: Akûeîme kó tabygûara xe pó gûyrybo sekóû
+PRED: <extra_id_0>
 REF:  Akûeîme kó tabygûara xe pó gûyrybo sekóû
 ---
-PRED: Mba'e-rob-eté tuku-tuku okûapa
+PRED: <extra_id_0>
 REF:  Mba'e-rob-eté tuku-tuku okûapa
 ---
-PRED: I xosémo nã ky xe re'õ
+PRED: <extra_id_0>.
 REF:  I xosémo nã ky xe re'õ
 ---
-PRED: Akaî! Aseká îepé mytasaba amõ gûitekóbo, erĩ!, xe mosẽ memẽ taba suí abaré
+PRED: <extra_id_0>
 REF:  Akaî! Aseká îepé mytasaba amõ gûitekóbo, erĩ!, xe mosẽ memẽ taba suí abaré
 ---
-PRED: Ereîkapyrokype nde ra'y-pupuka potá?
+PRED: <extra_id_0>
 REF:  Ereîkapyrokype nde ra'y-pupuka potá?
 ---
-PRED: Ikatupendûara moaoba
+PRED: <extra_id_0>
 REF:  Ikatupendûara moaoba
 ---
-PRED: Xe kó-é
+PRED: <extra_id_0>
 REF:  Xe kó-é
 ---
-PRED: sobûerusu
+PRED: <extra_id_0>.,ловна 
 REF:  sobûerusu
 ---
-PRED: asangĩ
+PRED: <extra_id_0>.
 REF:  asangĩ
 ---
-PRED: Ta'y-taty abé
+PRED: <extra_id_0>.
 REF:  Ta'y-taty abé
 ---
-PRED: Amõaé tubixá-katu nde resé oîerobîá
+PRED: <extra_id_0>
 REF:  Amõaé tubixá-katu nde resé oîerobîá
 ---
-PRED: Nd'e'i te'e miasûbetá ikó 'ara momoranga
+PRED: <extra_id_0>
 REF:  Nd'e'i te'e miasûbetá ikó 'ara momoranga
 ---
-PRED: ybyrá-pararanga agûeá
+PRED: <extra_id_0>
 REF:  ybyrá-pararanga agûeá
 ---
-PRED: Xe resy Lorẽ-ka'ẽ, xe morubixaba biã
+PRED: <extra_id_0>.
 REF:  Xe resy Lorẽ-ka'ẽ, xe morubixaba biã
 ---
-PRED: Aîmopor xe nhe'enga
+PRED: <extra_id_0>.
 REF:  Aîmopor xe nhe'enga
 ---
-PRED: Sebira aîpetek
+PRED: <extra_id_0>
 REF:  Sebira aîpetek
 ---
-PRED: T'onhemonhang nde remimotara
+PRED: <extra_id_0>.,ловна 
 REF:  T'onhemonhang nde remimotara
 ---
-PRED: Ereîmorype abá paîé rerobîaragûama resé?
+PRED: <extra_id_0>
 REF:  Ereîmorype abá paîé rerobîaragûama resé?
 ---
-PRED: Ixé Saûîaetá Serapûã xe renõîndaba
+PRED: <extra_id_0>.
 REF:  Ixé Saûîaetá Serapûã xe renõîndaba
 ---
-PRED: Setobapé sosoka
+PRED: <extra_id_0>
 REF:  Setobapé sosoka
 ---
-PRED: Ixé Saûîaetá Serapûã xe renoĩndaba
+PRED: <extra_id_0>.
 REF:  Ixé Saûîaetá Serapûã xe renoĩndaba
 ---
-PRED: Tupã nde raûsubeté, graça ri nde moynysema
+PRED: <extra_id_0>.
 REF:  Tupã nde raûsubeté, graça ri nde moynysema
 ---
-PRED: Aûîebeté, rõ! T'oú
+PRED: <extra_id_0>!
 REF:  Aûîebeté, rõ! T'oú
 ---
-PRED: Aîu ramõ
+PRED: <extra_id_0>.
 REF:  Aîu ramõ
 ---
-PRED: Xe resaekoabok ikó nde ra'yra
+PRED: <extra_id_0>
 REF:  Xe resaekoabok ikó nde ra'yra
 ---
-PRED: Taba moapaîugûá-îugûábo Galilea suí-katu
+PRED: <extra_id_0>
 REF:  Taba moapaîugûá-îugûábo Galilea suí-katu
 ---
-PRED: ygara kûabĩ potá
+PRED: <extra_id_0>.
 REF:  ygara kûabĩ potá
 ---
-PRED: Endé é aîpó eré
+PRED: <extra_id_0>.
 REF:  Endé é aîpó eré
 ---
-PRED: Pitangĩnamo ereîkó…
+PRED: <extra_id_0>.
 REF:  Pitangĩnamo ereîkó…
 ---
-PRED: ybotyra
+PRED: <extra_id_0>
 REF:  ybotyra
 ---
-PRED: Ybakype toryba
+PRED: <extra_id_0>.
 REF:  Ybakype toryba
 ---
-PRED: Kõîgûera oré
+PRED: <extra_id_0>
 REF:  Kõîgûera oré
 ---
-PRED: Sekoaba'e kûé kunhã oré akanga i apiti
+PRED: <extra_id_0>.
 REF:  Sekoaba'e kûé kunhã oré akanga i apiti
 ---
-PRED: -Ogûerekomemûãsara resé oîepyka tiruãpe abá Tupã nhe'enga abyû?
+PRED: <extra_id_0>.
 REF:  -Ogûerekomemûãsara resé oîepyka tiruãpe abá Tupã nhe'enga abyû?
 ---
-PRED: -Anga îápe pe roka? -Oîkoé-katu
+PRED: <extra_id_0>.
 REF:  -Anga îápe pe roka? -Oîkoé-katu
 ---
-PRED: Xe rabará-barab
+PRED: <extra_id_0>.
 REF:  Xe rabará-barab
 ---
-PRED: Tekorama mombegûabo
+PRED: <extra_id_0>.
 REF:  Tekorama mombegûabo
 ---
-PRED: T'îasó xe irũnamo
+PRED: <extra_id_0>.
 REF:  T'îasó xe irũnamo
 ---
-PRED: Ereroŷrõ-mbápe sekó?
+PRED: <extra_id_0>?
 REF:  Ereroŷrõ-mbápe sekó?
 ---
-PRED: T'aîybõne!
+PRED: <extra_id_0>
 REF:  T'aîybõne!
 ---
-PRED: Pe apysykĩ serã peîkóbo pe rekomemûã aty-atyra pupé?
+PRED: <extra_id_0>.
 REF:  Pe apysykĩ serã peîkóbo pe rekomemûã aty-atyra pupé?
 ---
-PRED: Oîkó bé xe taŷaíba
+PRED: <extra_id_0>.,ловна
 REF:  Oîkó bé xe taŷaíba
 ---
-PRED: Oré mo'arukar umẽ îepé tentação pupé
+PRED: <extra_id_0>.)
 REF:  Oré mo'arukar umẽ îepé tentação pupé
 ---
-PRED: Xe rendy-rendy
+PRED: <extra_id_0>.
 REF:  Xe rendy-rendy
 ---
-PRED: Asebikok
+PRED: <extra_id_0>
 REF:  Asebikok
 ---
-PRED: Na xe resapysóî
+PRED: <extra_id_0>.
 REF:  Na xe resapysóî
 ---
-PRED: Te'õ rerobyka, syaî-tekatu
+PRED: <extra_id_0>
 REF:  Te'õ rerobyka, syaî-tekatu
 ---
-PRED: T'oré angaturãne Cristo remienõîûera resé
+PRED: <extra_id_0>
 REF:  T'oré angaturãne Cristo remienõîûera resé
 ---
-PRED: Aporepŷan apŷaba
+PRED: <extra_id_0>.
 REF:  Aporepŷan apŷaba
 ---
-PRED: Okarype senosemi, cruz nonga i ati'yba ri
+PRED: <extra_id_0>
 REF:  Okarype senosemi, cruz nonga i ati'yba ri
 ---
-PRED: Miapé o pópe o emiîara i moîebyû o etéramo, kaûĩ og ugûyramo
+PRED: <extra_id_0>.
 REF:  Miapé o pópe o emiîara i moîebyû o etéramo, kaûĩ og ugûyramo
 ---
-PRED: Kobé xe rembiaretá t'ame'ẽne amõ endébo, i akanga t'ereîoká
+PRED: <extra_id_0>.
 REF:  Kobé xe rembiaretá t'ame'ẽne amõ endébo, i akanga t'ereîoká
 ---
-PRED: Cruz Cristo Îandé Îara moîaragûera îudeus otym erimba'e
+PRED: <extra_id_0>
 REF:  Cruz Cristo Îandé Îara moîaragûera îudeus otym erimba'e
 ---
-PRED: Nde katunhẽ
+PRED: <extra_id_0>
 REF:  Nde katunhẽ
 ---
-PRED: Sereroĩmbyra abá-mondá apŷabaíba rekoaba é
+PRED: <extra_id_0>.
 REF:  Sereroĩmbyra abá-mondá apŷabaíba rekoaba é
 ---
-PRED: Kori é
+PRED: <extra_id_0>.,ловна
 REF:  Kori é
 ---
-PRED: Na Tupã ruã-tepe a'e?
+PRED: <extra_id_0>.
 REF:  Na Tupã ruã-tepe a'e?
 ---
-PRED: Akó ybakype ogûekó îakatu, Îandé Îara rekóû miapepûera
+PRED: <extra_id_0>.
 REF:  Akó ybakype ogûekó îakatu, Îandé Îara rekóû miapepûera
 ---
-PRED: Xe apysakûá-îe'o
+PRED: <extra_id_0>)
 REF:  Xe apysakûá-îe'o
 ---
-PRED: A'e o kakuab'iré, i nheme'engi apŷabaíba supé, oîeîuká-uká ybyraîoasaba resé i moatãmbyramo
+PRED: <extra_id_0>.
 REF:  A'e o kakuab'iré, i nheme'engi apŷabaíba supé, oîeîuká-uká ybyraîoasaba resé i moatãmbyramo
 ---
-PRED: Asapynhang
+PRED: <extra_id_0>
 REF:  Asapynhang
 ---
-PRED: Eîmonhegûasem anhanga
+PRED: <extra_id_0>
 REF:  Eîmonhegûasem anhanga
 ---
-PRED: Ara mosapyra riré bé sekobeîebyri
+PRED: <extra_id_0>
 REF:  Ara mosapyra riré bé sekobeîebyri
 ---
-PRED: mba'e rasy
+PRED: <extra_id_0>
 REF:  mba'e rasy
 ---
-PRED: arybo
+PRED: <extra_id_0>.
 REF:  arybo
 ---
-PRED: Oîoîá te'õ rekóû kunumĩgûasu suí tuîba'e suí bé, n'apûéî
+PRED: <extra_id_0>.
 REF:  Oîoîá te'õ rekóû kunumĩgûasu suí tuîba'e suí bé, n'apûéî
 ---
-PRED: Xe irũnamo bé t'oîkó marã xe rekóreme
+PRED: <extra_id_0>.
 REF:  Xe irũnamo bé t'oîkó marã xe rekóreme
 ---
-PRED: Apytá Pero resé
+PRED: <extra_id_0>.
 REF:  Apytá Pero resé
 ---
-PRED: Asysybõ
+PRED: <extra_id_0>.
 REF:  Asysybõ
 ---
-PRED:  Xe tamuîusu Aîmbiré, sukuriîu
+PRED: <extra_id_0>
 REF:   Xe tamuîusu Aîmbiré, sukuriîu
 ---
-PRED: I ma'enduar
+PRED: <extra_id_0>.
 REF:  I ma'enduar
 ---
-PRED: Auîebeté kó aîkó, ndébo ko siri reru
+PRED: <extra_id_0>
 REF:  Auîebeté kó aîkó, ndébo ko siri reru
 ---
-PRED: Aîkó umẽpe mba'epoxy resé sobaké ká
+PRED: <extra_id_0>.
 REF:  Aîkó umẽpe mba'epoxy resé sobaké ká
 ---
-PRED: Nd'o'uî asé so'o îekuakuba 'ara pupé
+PRED: <extra_id_0>.
 REF:  Nd'o'uî asé so'o îekuakuba 'ara pupé
 ---
-PRED: Marã e'ipe og uba supé o îekyî'îanondé?
+PRED: <extra_id_0>.
 REF:  Marã e'ipe og uba supé o îekyî'îanondé?
 ---
-PRED: Osepyme'engype erimba'e emonã o ekoagûera?
+PRED: <extra_id_0>.,ловна
 REF:  Osepyme'engype erimba'e emonã o ekoagûera?
 ---
-PRED: Eîori, mba'enem, mba'e-poxy, mborá, miaratakaka, sebo'i, tamarutaka!
+PRED: <extra_id_0>.
 REF:  Eîori, mba'enem, mba'e-poxy, mborá, miaratakaka, sebo'i, tamarutaka!
 ---
-PRED: A'e ré kori îasó tubixaba akanga kábo
+PRED: <extra_id_0>
 REF:  A'e ré kori îasó tubixaba akanga kábo
 ---
-PRED: Asó biã
+PRED: <extra_id_0>.
 REF:  Asó biã
 ---
-PRED: Reîá-anhẽ  pitangĩ supé oú
+PRED: <extra_id_0>.
 REF:  Reîá-anhẽ  pitangĩ supé oú
 ---
-PRED: Sesápe xe rekóû re'ĩ
+PRED: <extra_id_0>.
 REF:  Sesápe xe rekóû re'ĩ
 ---
-PRED: Xe reîmbab
+PRED: <extra_id_0>.,ловна
 REF:  Xe reîmbab
 ---
-PRED: y-pa'ũ
+PRED: <extra_id_0>.
 REF:  y-pa'ũ
 ---
-PRED: îagûarobá
+PRED: <extra_id_0>.
 REF:  îagûarobá
 ---
-PRED: Arakaîá-te ombory
+PRED: <extra_id_0>
 REF:  Arakaîá-te ombory
 ---
-PRED: A'eboé ebokûé 'ara asé oîmoeté-katune
+PRED: <extra_id_0>.
 REF:  A'eboé ebokûé 'ara asé oîmoeté-katune
 ---
-PRED: nde ate'ỹ-mukuramo
+PRED: <extra_id_0>
 REF:  nde ate'ỹ-mukuramo
 ---
-PRED: amõ karaíba mosakara
+PRED: <extra_id_0> 
 REF:  amõ karaíba mosakara
 ---
-PRED: Xe n'aîu-potari biã, karaíba moabaîtébo
+PRED: <extra_id_0>.
 REF:  Xe n'aîu-potari biã, karaíba moabaîtébo
 ---
-PRED: aseó-kytã
+PRED: <extra_id_0>
 REF:  aseó-kytã
 ---
-PRED: Xe pûakatu
+PRED: <extra_id_0>
 REF:  Xe pûakatu
 ---
-PRED: N'i nhyrõî
+PRED: <extra_id_0>.
 REF:  N'i nhyrõî
 ---
-PRED: Onhembo'e Tupã nhe'enga o emierobîarama resé
+PRED: <extra_id_0>
 REF:  Onhembo'e Tupã nhe'enga o emierobîarama resé
 ---
-PRED: Iîá oîembo'ebo
+PRED: <extra_id_0>.
 REF:  Iîá oîembo'ebo
 ---
-PRED: Aîkyty-kytyk mba'e-kagûera pupé
+PRED: <extra_id_0>
 REF:  Aîkyty-kytyk mba'e-kagûera pupé
 ---
-PRED: Mene'yma resé oîkoba'e abiã koîpó sesé onhemomotaryba'e oîaby-eté Tupã nhe'enga, memetipó mendara momoxysara koîpó sesé nhemomotasara
+PRED: <extra_id_0>.
 REF:  Mene'yma resé oîkoba'e abiã koîpó sesé onhemomotaryba'e oîaby-eté Tupã nhe'enga, memetipó mendara momoxysara koîpó sesé nhemomotasara
 ---
-PRED: Mosapy ipó xe boîáramo nde rekó ereîkuakub mokõî gûyrá sapukaî' e'ymebéne
+PRED: <extra_id_0>
 REF:  Mosapy ipó xe boîáramo nde rekó ereîkuakub mokõî gûyrá sapukaî' e'ymebéne
 ---
-PRED: Oîerobyk
+PRED: <extra_id_0>
 REF:  Oîerobyk
 ---
-PRED: Eresekyîpe îuraragûaîa abá supé i motĩamo nhe'engabamo serekó-uká?
+PRED: <extra_id_0>
 REF:  Eresekyîpe îuraragûaîa abá supé i motĩamo nhe'engabamo serekó-uká?
 ---
-PRED: Na pe apysáî, îandu
+PRED: <extra_id_0>.
 REF:  Na pe apysáî, îandu
 ---
-PRED: Aîabab
+PRED: <extra_id_0>.
 REF:  Aîabab
 ---
-PRED: Emombe'u nde retama ixébe
+PRED: <extra_id_0>.
 REF:  Emombe'u nde retama ixébe
 ---
-PRED: Ikó îu'i t'ere'u sepy resé
+PRED: <extra_id_0>
 REF:  Ikó îu'i t'ere'u sepy resé
 ---
-PRED: a'epe o só îanondé
+PRED: <extra_id_0>
 REF:  a'epe o só îanondé
 ---
-PRED: O sy posé pitanga ruî
+PRED: <extra_id_0>
 REF:  O sy posé pitanga ruî
 ---
-PRED: Xe apûa'ĩ
+PRED: <extra_id_0>.
 REF:  Xe apûa'ĩ
 ---
-PRED: Oîkobépe amõ abá sekobîaramo?
+PRED: <extra_id_0>.
 REF:  Oîkobépe amõ abá sekobîaramo?
 ---
-PRED: Îeîbé apak
+PRED: <extra_id_0>.
 REF:  Îeîbé apak
 ---
-PRED: Eîori xe poraûsubara
+PRED: <extra_id_0>.
 REF:  Eîori xe poraûsubara
 ---
-PRED: Sekobîaramo aîme'eng
+PRED: <extra_id_0>.
 REF:  Sekobîaramo aîme'eng
 ---
-PRED: I nemeté, i tuîuketé, tasoka, ura remimongûyamone
+PRED: <extra_id_0>.
 REF:  I nemeté, i tuîuketé, tasoka, ura remimongûyamone
 ---
-PRED: Aîe'a-maman
+PRED: <extra_id_0>.
 REF:  Aîe'a-maman
 ---
-PRED: akanunduka porarasara
+PRED: <extra_id_0>
 REF:  akanunduka porarasara
 ---
-PRED: Aporoerekó
+PRED: <extra_id_0>
 REF:  Aporoerekó
 ---
-PRED: Asópe ûinhemima ká!
+PRED: <extra_id_0>!
 REF:  Asópe ûinhemima ká!
 ---
-PRED: T'isa'ang apŷaba marã îandé irũ
+PRED: <extra_id_0>
 REF:  T'isa'ang apŷaba marã îandé irũ
 ---
-PRED: Ebokûeî i xóû
+PRED: <extra_id_0>.
 REF:  Ebokûeî i xóû
 ---
-PRED: I abaeté sepîaka ixébo
+PRED: <extra_id_0>.
 REF:  I abaeté sepîaka ixébo
 ---
-PRED: Ybyrá-ypype aín
+PRED: <extra_id_0>.
 REF:  Ybyrá-ypype aín
 ---
-PRED: ka'amondoara
+PRED: <extra_id_0>.
 REF:  ka'amondoara
 ---
-PRED: I porãngatu nde rera
+PRED: <extra_id_0>.
 REF:  I porãngatu nde rera
 ---
-PRED: Oîpe'ape i angaîpaba'e i angaturamba'e suíne?
+PRED: <extra_id_0>
 REF:  Oîpe'ape i angaîpaba'e i angaturamba'e suíne?
 ---
-PRED: Nã temõ ixé serubi mã!
+PRED: <extra_id_0>.
 REF:  Nã temõ ixé serubi mã!
 ---
-PRED: Tyby-kûara
+PRED: <extra_id_0>
 REF:  Tyby-kûara
 ---
-PRED: oîepé îuru nhõ
+PRED: <extra_id_0>.
 REF:  oîepé îuru nhõ
 ---
-PRED: akó-a'ynha
+PRED: <extra_id_0>.
 REF:  akó-a'ynha
 ---
-PRED: Salve Rainha, moraûsubara sy, tekobé, se'ẽba'e
+PRED: <extra_id_0>.
 REF:  Salve Rainha, moraûsubara sy, tekobé, se'ẽba'e
 ---
-PRED: Asereb
+PRED: <extra_id_0>.
 REF:  Asereb
 ---
-PRED: Anheté kó nde rapé a'e nde remiekara
+PRED: <extra_id_0>
 REF:  Anheté kó nde rapé a'e nde remiekara
 ---
-PRED: -N'asé ruã-tepe o emi'urama oîmonhang? - Aani - Mas não é a gente que faz sua comida?
+PRED: <extra_id_0>
 REF:  -N'asé ruã-tepe o emi'urama oîmonhang? - Aani - Mas não é a gente que faz sua comida?
 ---
-PRED: Na tenhẽ ruã
+PRED: <extra_id_0>.
 REF:  Na tenhẽ ruã
 ---
-PRED: Xe moma'ẽmo
+PRED: <extra_id_0>.
 REF:  Xe moma'ẽmo
 ---
-PRED: Useîbora mbo'y'u
+PRED: <extra_id_0>
 REF:  Useîbora mbo'y'u
 ---
-PRED: Na xe mo'ekatuî
+PRED: <extra_id_0>.
 REF:  Na xe mo'ekatuî
 ---
-PRED: Aîpó xe re'õnama rambûera abaíme, t'onhemonhang umẽ xe remimotara
+PRED: <extra_id_0>.
 REF:  Aîpó xe re'õnama rambûera abaíme, t'onhemonhang umẽ xe remimotara
 ---
-PRED: T'aîeîuru-eî
+PRED: <extra_id_0>.
 REF:  T'aîeîuru-eî
 ---
-PRED: Oîepebẽngatu aîkó
+PRED: <extra_id_0>.,ловна
 REF:  Oîepebẽngatu aîkó
 ---
-PRED: A'e-te kaûĩ pûaîtara
+PRED: <extra_id_0>
 REF:  A'e-te kaûĩ pûaîtara
 ---
-PRED: N'oîkotebẽî amõba'e
+PRED: <extra_id_0>
 REF:  N'oîkotebẽî amõba'e
 ---
-PRED: Ereîmombe'upe abá rera abaré supé?
+PRED: <extra_id_0>.
 REF:  Ereîmombe'upe abá rera abaré supé?
 ---
-PRED: I momiaûsubypyra renosema
+PRED: <extra_id_0>.
 REF:  I momiaûsubypyra renosema
 ---
-PRED: Xe îuri arekó
+PRED: <extra_id_0>.
 REF:  Xe îuri arekó
 ---
-PRED: Moraûsuberekosápe, asé 'anga ereîosub
+PRED: <extra_id_0>.
 REF:  Moraûsuberekosápe, asé 'anga ereîosub
 ---
-PRED: Nã e'iba'e
+PRED: <extra_id_0>
 REF:  Nã e'iba'e
 ---
-PRED: kûé amõaé
+PRED: <extra_id_0>.
 REF:  kûé amõaé
 ---
-PRED: N'i tybi mba'e-memûã
+PRED: <extra_id_0>.
 REF:  N'i tybi mba'e-memûã
 ---
-PRED: Na xe rãî
+PRED: <extra_id_0>.
 REF:  Na xe rãî
 ---
-PRED: Ixé nde sosé
+PRED: <extra_id_0>.
 REF:  Ixé nde sosé
 ---
-PRED: Xe repy-etá
+PRED: <extra_id_0>.
 REF:  Xe repy-etá
 ---
-PRED: gûyrá-kesaba
+PRED: <extra_id_0>.
 REF:  gûyrá-kesaba
 ---
-PRED: Mba'erama resépe Tupã i me'engi asébe?
+PRED: <extra_id_0>.
 REF:  Mba'erama resépe Tupã i me'engi asébe?
 ---
-PRED: Marã e'ipe o boîá mosapyr supé mitỹme o iké ré?
+PRED: <extra_id_0>.
 REF:  Marã e'ipe o boîá mosapyr supé mitỹme o iké ré?
 ---
-PRED: i îubykypyra
+PRED: <extra_id_0>
 REF:  i îubykypyra
 ---
-PRED: inimbebytá
+PRED: <extra_id_0>.
 REF:  inimbebytá
 ---
-PRED: Kuarasy onhemoputun
+PRED: <extra_id_0>
 REF:  Kuarasy onhemoputun
 ---
-PRED: Oré kõî
+PRED: <extra_id_0>
 REF:  Oré kõî
 ---
-PRED: Abaré supé i mombe'uû Tupãokype seronhe'engaûama rine
+PRED: <extra_id_0>
 REF:  Abaré supé i mombe'uû Tupãokype seronhe'engaûama rine
 ---
-PRED: Arangaturameté
+PRED: <extra_id_0>!
 REF:  Arangaturameté
 ---
-PRED: Xe rugûy-syryk
+PRED: <extra_id_0>.
 REF:  Xe rugûy-syryk
 ---
-PRED: Marãpe sekóû ybakypene?
+PRED: <extra_id_0>
 REF:  Marãpe sekóû ybakypene?
 ---
-PRED: E'u umẽ ikó 'ybá xe rekoate'ỹmbaba
+PRED: <extra_id_0>.
 REF:  E'u umẽ ikó 'ybá xe rekoate'ỹmbaba
 ---
-PRED: Kotype aîub
+PRED: <extra_id_0>
 REF:  Kotype aîub
 ---
-PRED: Nde monhegûasẽ-motá
+PRED: <extra_id_0>
 REF:  Nde monhegûasẽ-motá
 ---
-PRED: Aîkobé n'ixé sarõana
+PRED: <extra_id_0>.
 REF:  Aîkobé n'ixé sarõana
 ---
-PRED: Mosapy ipó xe boîáramo nde rekó ereîkuakub mokõî gûyrá sapukaî'e'ymebéne
+PRED: <extra_id_0>
 REF:  Mosapy ipó xe boîáramo nde rekó ereîkuakub mokõî gûyrá sapukaî'e'ymebéne
 ---
-PRED: Cristãos i mongaraibypyra tekokuaparamo Cristo remieîara
+PRED: <extra_id_0>.
 REF:  Cristãos i mongaraibypyra tekokuaparamo Cristo remieîara
 ---
-PRED: Eremosangu'upe nde membyra akyrara potá?
+PRED: <extra_id_0>.
 REF:  Eremosangu'upe nde membyra akyrara potá?
 ---
-PRED: i akytãmbûera
+PRED: <extra_id_0>.
 REF:  i akytãmbûera
 ---
-PRED: Aîmomboreaûsub
+PRED: <extra_id_0>
 REF:  Aîmomboreaûsub
 ---
-PRED: Aroîebyr aoba
+PRED: <extra_id_0>
 REF:  Aroîebyr aoba
 ---
-PRED: Aîmorã-moran
+PRED: <extra_id_0>
 REF:  Aîmorã-moran
 ---
-PRED: Ymûanĩ xe rekóû
+PRED: <extra_id_0>.
 REF:  Ymûanĩ xe rekóû
 ---
-PRED: Aîmbiré, eîori xe robaké! Nde apûan!
+PRED: <extra_id_0>
 REF:  Aîmbiré, eîori xe robaké! Nde apûan!
 ---
-PRED: Xe pysy-potar-y bé serã kó gûyragûasu
+PRED: <extra_id_0>.
 REF:  Xe pysy-potar-y bé serã kó gûyragûasu
 ---
-PRED: Asó me'ĩmo mã!
+PRED: <extra_id_0>
 REF:  Asó me'ĩmo mã!
 ---
-PRED: Moroũ-mbyry nakó
+PRED: <extra_id_0>.
 REF:  Moroũ-mbyry nakó
 ---
-PRED: Îamombe'u aîpó i momorangymbyra
+PRED: <extra_id_0>.
 REF:  Îamombe'u aîpó i momorangymbyra
 ---
-PRED: - Nd'omarãmonhangi xópene?
+PRED: <extra_id_0>.)
 REF:  - Nd'omarãmonhangi xópene?
 ---
-PRED: Aka'apîasó
+PRED: <extra_id_0>.
 REF:  Aka'apîasó
 ---
-PRED: Our be'ĩmo mã!
+PRED: <extra_id_0>
 REF:  Our be'ĩmo mã!
 ---
-PRED: Mendara omoarûab
+PRED: <extra_id_0>
 REF:  Mendara omoarûab
 ---
-PRED: Nde rorype nde kama abá sungáreme?
+PRED: <extra_id_0>?
 REF:  Nde rorype nde kama abá sungáreme?
 ---
-PRED: Oré tygûé-katu
+PRED: <extra_id_0>.
 REF:  Oré tygûé-katu
 ---
-PRED: Oîme'eng-y bépe Tupã ikó 'ara pupé mba'e amõ i angaturamba'e supéno?
+PRED: <extra_id_0>.
 REF:  Oîme'eng-y bépe Tupã ikó 'ara pupé mba'e amõ i angaturamba'e supéno?
 ---
-PRED: Xe rekoekyî îepé, a'epûera aîmoasy, i mboepykatûabo bé
+PRED: <extra_id_0>.
 REF:  Xe rekoekyî îepé, a'epûera aîmoasy, i mboepykatûabo bé
 ---
-PRED: Marangotype i angaturamba'e nongine?
+PRED: <extra_id_0>.
 REF:  Marangotype i angaturamba'e nongine?
 ---
-PRED: Te'õ suí o nheangu îabi'õ
+PRED: <extra_id_0>.
 REF:  Te'õ suí o nheangu îabi'õ
 ---
-PRED: Oré retá
+PRED: <extra_id_0>
 REF:  Oré retá
 ---
-PRED: Enhemopiringa, moropotara nde resá moîo'arype?
+PRED: <extra_id_0> sensual
 REF:  Enhemopiringa, moropotara nde resá moîo'arype?
 ---
-PRED: Îasepenhan, îaîpysyk, i apysyk' e'ymebé
+PRED: <extra_id_0>.
 REF:  Îasepenhan, îaîpysyk, i apysyk' e'ymebé
 ---
-PRED: Serekoaramo ûitekóbo
+PRED: <extra_id_0>
 REF:  Serekoaramo ûitekóbo
 ---
-PRED: Koromõ keygûara temiminõ moaûîébo, asapekóne
+PRED: <extra_id_0>
 REF:  Koromõ keygûara temiminõ moaûîébo, asapekóne
 ---
-PRED: Opá kó mbó îabi'õ moîepé me'enga Tupã potabamo
+PRED: <extra_id_0>
 REF:  Opá kó mbó îabi'õ moîepé me'enga Tupã potabamo
 ---
-PRED: Oîepîakukar i xupé nhõ i moesãîa
+PRED: <extra_id_0>.
 REF:  Oîepîakukar i xupé nhõ i moesãîa
 ---
-PRED: Xe irũ a'e ã
+PRED: <extra_id_0>.,ловна
 REF:  Xe irũ a'e ã
 ---
-PRED: Aîkó tekokatu resé
+PRED: <extra_id_0>
 REF:  Aîkó tekokatu resé
 ---
-PRED: Îandé 'anga rekorama resé îandé putupaba potá
+PRED: <extra_id_0>.
 REF:  Îandé 'anga rekorama resé îandé putupaba potá
 ---
-PRED: Aybyrá-pan
+PRED: <extra_id_0>.
 REF:  Aybyrá-pan
 ---
-PRED: mba'e rerosapukaîtara
+PRED: <extra_id_0>.
 REF:  mba'e rerosapukaîtara
 ---
-PRED: xe rura rupibé
+PRED: <extra_id_0>.
 REF:  xe rura rupibé
 ---
-PRED: Ogûeté suí, o uru suí, asé 'anga sẽme bé, Tupã sekomonhangi
+PRED: <extra_id_0>.
 REF:  Ogûeté suí, o uru suí, asé 'anga sẽme bé, Tupã sekomonhangi
 ---
-PRED: itaky-nhatimana
+PRED: <extra_id_0>.
 REF:  itaky-nhatimana
 ---
-PRED: Eremombûeîrá mara'abora
+PRED: <extra_id_0>.
 REF:  Eremombûeîrá mara'abora
 ---
-PRED: -Mba'e-mba'eremepe asé îeruréû i xupé? -Îepi nhẽ - Em que ocasiões a gente reza para eles?
+PRED: <extra_id_0>.
 REF:  -Mba'e-mba'eremepe asé îeruréû i xupé? -Îepi nhẽ - Em que ocasiões a gente reza para eles?
 ---
-PRED: I angaturam sykype erimba'e Tupã o monhang-ypyreme?
+PRED: <extra_id_0>.
 REF:  I angaturam sykype erimba'e Tupã o monhang-ypyreme?
 ---
-PRED: Nde poxype nde remirekó asykûereté amõ resé?
+PRED: <extra_id_0>
 REF:  Nde poxype nde remirekó asykûereté amõ resé?
 ---
-PRED: Anhanga monhegûasemagûama resé
+PRED: <extra_id_0>
 REF:  Anhanga monhegûasemagûama resé
 ---
-PRED: Xe tĩ-titing - Meu nariz tem titinga Xe py-titing - Meus pés têm titinga Xe pi-titing
+PRED: <extra_id_0>
 REF:  Xe tĩ-titing - Meu nariz tem titinga Xe py-titing - Meus pés têm titinga Xe pi-titing
 ---
-PRED: Aûîé, kó temiminõ nd'ogûari Tupã rekó
+PRED: <extra_id_0>
 REF:  Aûîé, kó temiminõ nd'ogûari Tupã rekó
 ---
-PRED: Aaó-pyasab
+PRED: <extra_id_0>.,ловна 
 REF:  Aaó-pyasab
 ---
-PRED: y-apé 'arybo
+PRED: <extra_id_0>
 REF:  y-apé 'arybo
 ---
-PRED: Aîpitu-pyrang
+PRED: <extra_id_0>.
 REF:  Aîpitu-pyrang
 ---
-PRED: Memẽ nhẽ i xóû îepi
+PRED: <extra_id_0>.
 REF:  Memẽ nhẽ i xóû îepi
 ---
-PRED: Espírito Santo remime'enga
+PRED: <extra_id_0>.
 REF:  Espírito Santo remime'enga
 ---
-PRED: i 'o
+PRED: <extra_id_0>.
 REF:  i 'o
 ---
-PRED: E'i tenhẽ nde rerobîá
+PRED: <extra_id_0>.,ловна
 REF:  E'i tenhẽ nde rerobîá
 ---
-PRED: Marãete'ĩpe Jesus o enosẽme?
+PRED: <extra_id_0>?
 REF:  Marãete'ĩpe Jesus o enosẽme?
 ---
-PRED: ara rupi
+PRED: <extra_id_0>.,ловна
 REF:  ara rupi
 ---
-PRED: Oroîoysyrung
+PRED: <extra_id_0>
 REF:  Oroîoysyrung
 ---
-PRED: Nde ererupe nde remirekó?
+PRED: <extra_id_0>
 REF:  Nde ererupe nde remirekó?
 ---
-PRED: Seba'e-a'uba nhote resé asé na sesaraî
+PRED: <extra_id_0>
 REF:  Seba'e-a'uba nhote resé asé na sesaraî
 ---
-PRED: Xe ro'o-sysyî
+PRED: <extra_id_0>.
 REF:  Xe ro'o-sysyî
 ---
-PRED: Xe raîu-raîu
+PRED: <extra_id_0>.
 REF:  Xe raîu-raîu
 ---
-PRED: Ixé te'ĩé
+PRED: <extra_id_0>.
 REF:  Ixé te'ĩé
 ---
-PRED: Aûîetéramo erimba'e bé xe angaîpagûera aîpe'a re'a
+PRED: <extra_id_0>.
 REF:  Aûîetéramo erimba'e bé xe angaîpagûera aîpe'a re'a
 ---
-PRED: Abaré koîpó amõ abá pyri morerokarûera nd'e'ikatuî omendá gûemierokûera resé
+PRED: <extra_id_0>.
 REF:  Abaré koîpó amõ abá pyri morerokarûera nd'e'ikatuî omendá gûemierokûera resé
 ---
-PRED: Tapuîpé-poxy mborypa, tupotare'ymi iké
+PRED: <extra_id_0>.
 REF:  Tapuîpé-poxy mborypa, tupotare'ymi iké
 ---
-PRED: Xe pûeraî mbyté
+PRED: <extra_id_0>.
 REF:  Xe pûeraî mbyté
 ---
-PRED: aopesembûera
+PRED: <extra_id_0>
 REF:  aopesembûera
 ---
-PRED: Ixé serasó remebé
+PRED: <extra_id_0>.
 REF:  Ixé serasó remebé
 ---
-PRED: Abá angaîpá-nhemima oîmombe'uba'e
+PRED: <extra_id_0>.
 REF:  Abá angaîpá-nhemima oîmombe'uba'e
 ---
-PRED: Serobîara resé o akasange'ymamo
+PRED: <extra_id_0>
 REF:  Serobîara resé o akasange'ymamo
 ---
-PRED: N'osa'angi-te-p'akó nhembo'e ko'arapukuî?
+PRED: <extra_id_0>?
 REF:  N'osa'angi-te-p'akó nhembo'e ko'arapukuî?
 ---
-PRED: I îurupukĩ ahẽ oîkóbo
+PRED: <extra_id_0>.
 REF:  I îurupukĩ ahẽ oîkóbo
 ---
-PRED: A'eba'e i moytarõmbyramo sekóûne
+PRED: <extra_id_0>.
 REF:  A'eba'e i moytarõmbyramo sekóûne
 ---
-PRED: Asasá-benhẽ
+PRED: <extra_id_0>
 REF:  Asasá-benhẽ
 ---
-PRED: I 'anga seté pupé i mondepa bé, Tupã i pe'aû
+PRED: <extra_id_0>
 REF:  I 'anga seté pupé i mondepa bé, Tupã i pe'aû
 ---
-PRED: Setá nhẽ kunu'umusu
+PRED: <extra_id_0>
 REF:  Setá nhẽ kunu'umusu
 ---
-PRED: Onheŷnhang umã sesé kunumĩetá kagûara
+PRED: <extra_id_0>
 REF:  Onheŷnhang umã sesé kunumĩetá kagûara
 ---
-PRED: Oîoîá osarõ nhẽ pe retama
+PRED: <extra_id_0>
 REF:  Oîoîá osarõ nhẽ pe retama
 ---
-PRED: Xe asangusu
+PRED: <extra_id_0>
 REF:  Xe asangusu
 ---
-PRED: u'upepó
+PRED: <extra_id_0>.
 REF:  u'upepó
 ---
-PRED: Moraseîa é i katu
+PRED: <extra_id_0>.
 REF:  Moraseîa é i katu
 ---
-PRED: Pepo'i xe remiarõ suí!
+PRED: <extra_id_0>.
 REF:  Pepo'i xe remiarõ suí!
 ---
-PRED: Oporomoaîu oîkóbo
+PRED: <extra_id_0>.
 REF:  Oporomoaîu oîkóbo
 ---
-PRED: Nd'e'i te'e asé a'ereme i moetébo sepîaka bé
+PRED: <extra_id_0>
 REF:  Nd'e'i te'e asé a'ereme i moetébo sepîaka bé
 ---
-PRED: T'e'i osóbo
+PRED: <extra_id_0>.,ловна
 REF:  T'e'i osóbo
 ---
-PRED: Nd'ereîkóî xópe nde anama irũmo?
+PRED: <extra_id_0>
 REF:  Nd'ereîkóî xópe nde anama irũmo?
 ---
-PRED: São Sebastião abé, marana rerekoarûera, tamũîa, kyre'ymbagûera, omombab erimba'e
+PRED: <extra_id_0>.
 REF:  São Sebastião abé, marana rerekoarûera, tamũîa, kyre'ymbagûera, omombab erimba'e
 ---
-PRED: Anhynhyng
+PRED: <extra_id_0>
 REF:  Anhynhyng
 ---
-PRED: Oré pysyrõ-te îepé mba'e-aíba suí
+PRED: <extra_id_0> 
 REF:  Oré pysyrõ-te îepé mba'e-aíba suí
 ---
-PRED: Marãba'ep'iã ri?
+PRED: <extra_id_0>?
 REF:  Marãba'ep'iã ri?
 ---
-PRED: T'oú îandé posanonga
+PRED: <extra_id_0>.
 REF:  T'oú îandé posanonga
 ---
-PRED: mosapyr koîpó oîoirundyk seîxu ybŷá o tym'iré
+PRED: <extra_id_0>
 REF:  mosapyr koîpó oîoirundyk seîxu ybŷá o tym'iré
 ---
-PRED: Kó xe 'akusu, xe ranha Îé, kó bé xe pûapẽ
+PRED: <extra_id_0>
 REF:  Kó xe 'akusu, xe ranha Îé, kó bé xe pûapẽ
 ---
-PRED: Oky-ko'ẽ-ko'ẽ amana
+PRED: <extra_id_0>
 REF:  Oky-ko'ẽ-ko'ẽ amana
 ---
-PRED: Îarekó îandé îomba'e
+PRED: <extra_id_0>.
 REF:  Îarekó îandé îomba'e
 ---
-PRED: Obebé îandé suí
+PRED: <extra_id_0>.
 REF:  Obebé îandé suí
 ---
-PRED: Tupã mongetá resé îandé mbo'ebo nhẽ
+PRED: <extra_id_0>.
 REF:  Tupã mongetá resé îandé mbo'ebo nhẽ
 ---
-PRED: Aîubykatã
+PRED: <extra_id_0>
 REF:  Aîubykatã
 ---
-PRED: Aîmonhang oka - Fiz uma casa Xe rokûama aîmonhang
+PRED: <extra_id_0>.
 REF:  Aîmonhang oka - Fiz uma casa Xe rokûama aîmonhang
 ---
-PRED: Xe îar, na xe angaturami ã a'emo ereîké xe py'ape
+PRED: <extra_id_0>.
 REF:  Xe îar, na xe angaturami ã a'emo ereîké xe py'ape
 ---
-PRED: Îandé rekobé me'engara
+PRED: <extra_id_0>.
 REF:  Îandé rekobé me'engara
 ---
-PRED: Asykûera aîasy'ab
+PRED: <extra_id_0>.
 REF:  Asykûera aîasy'ab
 ---
-PRED: Karaibebé pyterype supiri
+PRED: <extra_id_0>
 REF:  Karaibebé pyterype supiri
 ---
-PRED: Kó pytuna ri sy-ari
+PRED: <extra_id_0>.
 REF:  Kó pytuna ri sy-ari
 ---
-PRED: Tupã momburûareté tatá pupé nde resyri
+PRED: <extra_id_0>
 REF:  Tupã momburûareté tatá pupé nde resyri
 ---
-PRED: Abá supé sekokatusagûama mombe'u
+PRED: <extra_id_0>.
 REF:  Abá supé sekokatusagûama mombe'u
 ---
-PRED: Ereîkópe kûare'ymano resé?
+PRED: <extra_id_0>?
 REF:  Ereîkópe kûare'ymano resé?
 ---
-PRED: Karaíba nde moporabykŷápe, ereporabykype 'ara i momba'etepyra pupé?
+PRED: <extra_id_0>?
 REF:  Karaíba nde moporabykŷápe, ereporabykype 'ara i momba'etepyra pupé?
 ---
-PRED: Sygûyrõpe kunhã o mena reséne?
+PRED: <extra_id_0>.
 REF:  Sygûyrõpe kunhã o mena reséne?
 ---
-PRED: mboîasy-posanga
+PRED: <extra_id_0>.
 REF:  mboîasy-posanga
 ---
-PRED: Aûîeté pakó, aîegûak ûinhemoúna
+PRED: <extra_id_0>.
 REF:  Aûîeté pakó, aîegûak ûinhemoúna
 ---
-PRED: O membyra i nhemoŷrõba'e oîmonhyrõ
+PRED: <extra_id_0>.
 REF:  O membyra i nhemoŷrõba'e oîmonhyrõ
 ---
-PRED: yby kûara
+PRED: <extra_id_0>.
 REF:  yby kûara
 ---
-PRED: xe nhe'ẽ-'anga
+PRED: <extra_id_0>.
 REF:  xe nhe'ẽ-'anga
 ---
-PRED: poxy resé o nheangerekosápe
+PRED: <extra_id_0>
 REF:  poxy resé o nheangerekosápe
 ---
-PRED: Xe agûasá gûitekóbo
+PRED: <extra_id_0>.
 REF:  Xe agûasá gûitekóbo
 ---
-PRED: Xe Îetu'u ra'yrûera
+PRED: <extra_id_0>.
 REF:  Xe Îetu'u ra'yrûera
 ---
-PRED: Ereîme'engype mosangygûaba kunhãmuru'abora supé?
+PRED: <extra_id_0>?
 REF:  Ereîme'engype mosangygûaba kunhãmuru'abora supé?
 ---
-PRED: Aûîeté a'e îandé rubypy, "-E'u umẽ ikó 'ybá" 'îagûera
+PRED: <extra_id_0>.
 REF:  Aûîeté a'e îandé rubypy, "-E'u umẽ ikó 'ybá" 'îagûera
 ---
-PRED: Aîaseó-kytĩ
+PRED: <extra_id_0>
 REF:  Aîaseó-kytĩ
 ---
-PRED: N'i tybi xûépe amõ mi'u?
+PRED: <extra_id_0>.
 REF:  N'i tybi xûépe amõ mi'u?
 ---
-PRED: Aîamõ
+PRED: <extra_id_0>
 REF:  Aîamõ
 ---
-PRED: api anhãî
+PRED: <extra_id_0>
 REF:  api anhãî
 ---
-PRED: Xe kori i pyîaso'o
+PRED: <extra_id_0>.
 REF:  Xe kori i pyîaso'o
 ---
-PRED: i apé koty
+PRED: <extra_id_0>.
 REF:  i apé koty
 ---
-PRED: Xe kyre'ym
+PRED: <extra_id_0>
 REF:  Xe kyre'ym
 ---
-PRED: Mba'e abyare'ymape syaîa?
+PRED: <extra_id_0>?
 REF:  Mba'e abyare'ymape syaîa?
 ---
-PRED: mba'e resé?
+PRED: <extra_id_0>.
 REF:  mba'e resé?
 ---
-PRED: Tupã îoaûsuba pupé îaîkóbo, tekokatu-eté îarekó
+PRED: <extra_id_0>.
 REF:  Tupã îoaûsuba pupé îaîkóbo, tekokatu-eté îarekó
 ---
-PRED: Aîputu'umbok
+PRED: <extra_id_0>.
 REF:  Aîputu'umbok
 ---
-PRED: Aîyb
+PRED: <extra_id_0>
 REF:  Aîyb
 ---
-PRED: Îesu Cristo, tekomonhangara
+PRED: <extra_id_0>.
 REF:  Îesu Cristo, tekomonhangara
 ---
-PRED: T'asepîáne
+PRED: <extra_id_0>
 REF:  T'asepîáne
 ---
-PRED: Kokoty paranã aé rame'ĩ o abaetéramo erimba'e gûekoagûera sosé yapenunga ryapugûasuramo
+PRED: <extra_id_0>
 REF:  Kokoty paranã aé rame'ĩ o abaetéramo erimba'e gûekoagûera sosé yapenunga ryapugûasuramo
 ---
-PRED: Marãpe sekóû ikó 'ara pupé o kakuab'iré?
+PRED: <extra_id_0>
 REF:  Marãpe sekóû ikó 'ara pupé o kakuab'iré?
 ---
-PRED: O îoamundabamo oroîub
+PRED: <extra_id_0>
 REF:  O îoamundabamo oroîub
 ---
-PRED: Te'õ moanhẽ-anhẽmo
+PRED: <extra_id_0>.
 REF:  Te'õ moanhẽ-anhẽmo
 ---
-PRED: Kûãî 'ype
+PRED: <extra_id_0>.
 REF:  Kûãî 'ype
 ---
-PRED: I xama ri arasó
+PRED: <extra_id_0>
 REF:  I xama ri arasó
 ---
-PRED: Gûaîxará t'osó tatápe!
+PRED: <extra_id_0>!
 REF:  Gûaîxará t'osó tatápe!
 ---
-PRED: Aûîé ã ko'yté!
+PRED: <extra_id_0>!
 REF:  Aûîé ã ko'yté!
 ---
-PRED: Anhẽ ã aîpó tekó îandé mopanem-y-îara
+PRED: <extra_id_0>.
 REF:  Anhẽ ã aîpó tekó îandé mopanem-y-îara
 ---
-PRED: mopûaba
+PRED: <extra_id_0>
 REF:  mopûaba
 ---
-PRED: Opaka bé sesé o ma'enduaramo
+PRED: <extra_id_0>
 REF:  Opaka bé sesé o ma'enduaramo
 ---
-PRED: Mamõpe Tupã rekóû?
+PRED: <extra_id_0>.
 REF:  Mamõpe Tupã rekóû?
 ---
-PRED: Tapuîpe gûaîbĩ aru amõ Magûeá suí A'ereme aputu'u
+PRED: <extra_id_0>.
 REF:  Tapuîpe gûaîbĩ aru amõ Magûeá suí A'ereme aputu'u
 ---
-PRED: Ybyrá karamemûã, ygarusu nungara pupé i mo'ar-uká
+PRED: <extra_id_0>
 REF:  Ybyrá karamemûã, ygarusu nungara pupé i mo'ar-uká
 ---
-PRED: i moîasukypyra
+PRED: <extra_id_0>.
 REF:  i moîasukypyra
 ---
-PRED: Xe mosẽ memẽ taba suí abaré
+PRED: <extra_id_0>.
 REF:  Xe mosẽ memẽ taba suí abaré
 ---
-PRED: îukasaba
+PRED: <extra_id_0>
 REF:  îukasaba
 ---
-PRED: N'i apori oré sumarã îepinhẽ oré ra'anga
+PRED: <extra_id_0>.
 REF:  N'i apori oré sumarã îepinhẽ oré ra'anga
 ---
-PRED: Mba'easybora-te aîekatu i 'uû
+PRED: <extra_id_0>.
 REF:  Mba'easybora-te aîekatu i 'uû
 ---
-PRED: Endé aé ereîekûá
+PRED: <extra_id_0>
 REF:  Endé aé ereîekûá
 ---
-PRED: Na sa'ubi nde rekopoxy
+PRED: <extra_id_0>.
 REF:  Na sa'ubi nde rekopoxy
 ---
-PRED: Opûerab amõnume
+PRED: <extra_id_0>.
 REF:  Opûerab amõnume
 ---
-PRED: Takûary, sobaîygûara, Tapera, xe rerobîá
+PRED: <extra_id_0>
 REF:  Takûary, sobaîygûara, Tapera, xe rerobîá
 ---
-PRED: I ting pirá ixébo
+PRED: <extra_id_0>.
 REF:  I ting pirá ixébo
 ---
-PRED: Ene'ĩ, t'îarasó senondé kó musurana
+PRED: <extra_id_0>
 REF:  Ene'ĩ, t'îarasó senondé kó musurana
 ---
-PRED: Asé sybápe cruz moíni asé nhy'ã 'arybo bé
+PRED: <extra_id_0>
 REF:  Asé sybápe cruz moíni asé nhy'ã 'arybo bé
 ---
-PRED: I membyra o'ar umã
+PRED: <extra_id_0>.
 REF:  I membyra o'ar umã
 ---
-PRED: Asapearõ
+PRED: <extra_id_0>.
 REF:  Asapearõ
 ---
-PRED: Nde poxy-potar-a'ub T'eresó rõ nde ratápe
+PRED: <extra_id_0>
 REF:  Nde poxy-potar-a'ub T'eresó rõ nde ratápe
 ---
-PRED: Aîgûaîaý-moîar
+PRED: <extra_id_0>.
 REF:  Aîgûaîaý-moîar
 ---
-PRED: A'epe marã apŷabetéramo sekóû îandé îabé?
+PRED: <extra_id_0>.
 REF:  A'epe marã apŷabetéramo sekóû îandé îabé?
 ---
-PRED: Aûîé kunumĩgûasu o ekó-aíbeté oîomim
+PRED: <extra_id_0>
 REF:  Aûîé kunumĩgûasu o ekó-aíbeté oîomim
 ---
-PRED: Xe moapysyk îepé
+PRED: <extra_id_0>
 REF:  Xe moapysyk îepé
 ---
-PRED: Otĩ kûarasy osema nde beraba robaké
+PRED: <extra_id_0>
 REF:  Otĩ kûarasy osema nde beraba robaké
 ---
-PRED: Erenhemombe'upe nde memby-kuî îanondé?
+PRED: <extra_id_0>
 REF:  Erenhemombe'upe nde memby-kuî îanondé?
 ---
-PRED: O boîaetá pabẽ serekomemûãmo
+PRED: <extra_id_0>.
 REF:  O boîaetá pabẽ serekomemûãmo
 ---
-PRED: Emondarõ umẽ
+PRED: <extra_id_0>.
 REF:  Emondarõ umẽ
 ---
-PRED: A'e anhẽ mosapyr pessoaamo i îa'oki, oîepé og ekó-karaíba îese'ara pupé nhẽ
+PRED: <extra_id_0>.
 REF:  A'e anhẽ mosapyr pessoaamo i îa'oki, oîepé og ekó-karaíba îese'ara pupé nhẽ
 ---
-PRED: Îudeus supé sepîakuká
+PRED: <extra_id_0>
 REF:  Îudeus supé sepîakuká
 ---
-PRED: Morubixaba boîá amõ osobá-petek
+PRED: <extra_id_0>
 REF:  Morubixaba boîá amõ osobá-petek
 ---
-PRED: Xe pyte'em
+PRED: <extra_id_0>
 REF:  Xe pyte'em
 ---
-PRED: nhe'ẽ-tekokugûabe'yma
+PRED: <extra_id_0>.
 REF:  nhe'ẽ-tekokugûabe'yma
 ---
-PRED: Xe-te, xe rembiá-potá sabeypora amõ resé
+PRED: <extra_id_0>.
 REF:  Xe-te, xe rembiá-potá sabeypora amõ resé
 ---
-PRED: Mbobype abá aîpoba'e oîaby kunhã resé onhemomotar'iré koîpó i mongetá roîré sesé o byke'yma pukuî?
+PRED: <extra_id_0>.
 REF:  Mbobype abá aîpoba'e oîaby kunhã resé onhemomotar'iré koîpó i mongetá roîré sesé o byke'yma pukuî?
 ---
-PRED: Aîmombe'uaíb
+PRED: <extra_id_0>
 REF:  Aîmombe'uaíb
 ---
-PRED: Aîmomoxy pabenhẽ, i momondarõmo bé
+PRED: <extra_id_0>.
 REF:  Aîmomoxy pabenhẽ, i momondarõmo bé
 ---
-PRED: Asó serãne ra'e?
+PRED: <extra_id_0>
 REF:  Asó serãne ra'e?
 ---
-PRED: Abápe aîpoba'e oîmopor?
+PRED: <extra_id_0>.
 REF:  Abápe aîpoba'e oîmopor?
 ---
-PRED: abá-tubixaba
+PRED: <extra_id_0>.
 REF:  abá-tubixaba
 ---
-PRED: deitar-se - Gûyrá-sapukaîa îabé ereîetu'u
+PRED: <extra_id_0>.
 REF:  deitar-se - Gûyrá-sapukaîa îabé ereîetu'u
 ---
-PRED: Anonhan, arobebéne
+PRED: <extra_id_0>
 REF:  Anonhan, arobebéne
 ---
-PRED: Arekorekó i mombegûabo
+PRED: <extra_id_0>.
 REF:  Arekorekó i mombegûabo
 ---
-PRED: Ixé t'oroepyk
+PRED: <extra_id_0>
 REF:  Ixé t'oroepyk
 ---
-PRED: Xe, anhangusu-mixyra
+PRED: <extra_id_0>.
 REF:  Xe, anhangusu-mixyra
 ---
-PRED: Pitanga nhemonhanga suí oîeposanõ-sanonga
+PRED: <extra_id_0>.
 REF:  Pitanga nhemonhanga suí oîeposanõ-sanonga
 ---
-PRED: Aîosub abá koty
+PRED: <extra_id_0>.
 REF:  Aîosub abá koty
 ---
-PRED: xe pó apyra
+PRED: <extra_id_0>.
 REF:  xe pó apyra
 ---
-PRED: morubixá-mosakara
+PRED: <extra_id_0>.
 REF:  morubixá-mosakara
 ---
-PRED: sûá'ĩ
+PRED: <extra_id_0>.
 REF:  sûá'ĩ
 ---
-PRED: Tupã moeteagûama resé
+PRED: <extra_id_0>.
 REF:  Tupã moeteagûama resé
 ---
-PRED: T'osó-pá xe mara'ara kûepe xe 'anga suí
+PRED: <extra_id_0>.,ловна
 REF:  T'osó-pá xe mara'ara kûepe xe 'anga suí
 ---
-PRED: Na setáî xe angaîpaba
+PRED: <extra_id_0>.
 REF:  Na setáî xe angaîpaba
 ---
-PRED: Nde rekomemûã rumõ-rumõmo nhẽ
+PRED: <extra_id_0>
 REF:  Nde rekomemûã rumõ-rumõmo nhẽ
 ---
-PRED: koromõ-apyri'ĩ
+PRED: <extra_id_0>.
 REF:  koromõ-apyri'ĩ
 ---
-PRED: Xe 'apytereb
+PRED: <extra_id_0>
 REF:  Xe 'apytereb
 ---
-PRED: Marãpe moranduba?
+PRED: <extra_id_0>.
 REF:  Marãpe moranduba?
 ---
-PRED: Tatá asé angaîpaba repy mondykaba
+PRED: <extra_id_0>.
 REF:  Tatá asé angaîpaba repy mondykaba
 ---
-PRED: Na xe îuruposykyîéî
+PRED: <extra_id_0>.
 REF:  Na xe îuruposykyîéî
 ---
-PRED: Eîerok moxy resé ta nde rerapûãngatu
+PRED: <extra_id_0>
 REF:  Eîerok moxy resé ta nde rerapûãngatu
 ---
-PRED: Aîmondó-momo
+PRED: <extra_id_0>
 REF:  Aîmondó-momo
 ---
-PRED: Our benhẽ i kera pé nhẽ obasemano
+PRED: <extra_id_0>.
 REF:  Our benhẽ i kera pé nhẽ obasemano
 ---
-PRED: N'îaporabykyî kó 'ara pupé
+PRED: <extra_id_0>.
 REF:  N'îaporabykyî kó 'ara pupé
 ---
-PRED: Xe popy'i emonã gûitekóbo
+PRED: <extra_id_0>
 REF:  Xe popy'i emonã gûitekóbo
 ---
-PRED: ybyrá'ĩ
+PRED: <extra_id_0>.
 REF:  ybyrá'ĩ
 ---
-PRED: Mba'e-mba'epe Anhanga oîpotar?
+PRED: <extra_id_0>.
 REF:  Mba'e-mba'epe Anhanga oîpotar?
 ---
-PRED: Xe rakubaíb
+PRED: <extra_id_0>.
 REF:  Xe rakubaíb
 ---
-PRED: Obebuî-berame'ĩ
+PRED: <extra_id_0>.,ловна 
 REF:  Obebuî-berame'ĩ
 ---
-PRED: Aîase'o-rekó
+PRED: <extra_id_0>.
 REF:  Aîase'o-rekó
 ---
-PRED: Nd'e'i te'e serã oîemoîoîá-pá-potá o monhangara resé?
+PRED: <extra_id_0>.
 REF:  Nd'e'i te'e serã oîemoîoîá-pá-potá o monhangara resé?
 ---
-PRED: Ogûeîyb yby apyterype
+PRED: <extra_id_0>.
 REF:  Ogûeîyb yby apyterype
 ---
-PRED: itakynhatimana
+PRED: <extra_id_0>
 REF:  itakynhatimana
 ---
-PRED: Apu-apuk
+PRED: <extra_id_0>
 REF:  Apu-apuk
 ---
-PRED: Taé a'e
+PRED: <extra_id_0>
 REF:  Taé a'e
 ---
-PRED: Aîkytyngok
+PRED: <extra_id_0>.
 REF:  Aîkytyngok
 ---
-PRED: pindasã-muku
+PRED: <extra_id_0>.
 REF:  pindasã-muku
 ---
-PRED: mba'e-kagûera
+PRED: <extra_id_0>.
 REF:  mba'e-kagûera
 ---
-PRED: N'ererupe îyapara?
+PRED: <extra_id_0>.
 REF:  N'ererupe îyapara?
 ---
-PRED: pitanga mokõî ro'y omoaûîeba'e
+PRED: <extra_id_0>
 REF:  pitanga mokõî ro'y omoaûîeba'e
 ---
-PRED: Nde rekomemûãagûera repyme'ẽngatu roîré, t'ereîekosubeté tekoporanga resé
+PRED: <extra_id_0>.
 REF:  Nde rekomemûãagûera repyme'ẽngatu roîré, t'ereîekosubeté tekoporanga resé
 ---
-PRED: Îé, aîpó xe moytarõ
+PRED: <extra_id_0>
 REF:  Îé, aîpó xe moytarõ
 ---
-PRED: Eîepe'a! Ekûá ké suí ra'a!
+PRED: <extra_id_0>.
 REF:  Eîepe'a! Ekûá ké suí ra'a!
 ---
-PRED: irũmbûera
+PRED: <extra_id_0>.,ловна
 REF:  irũmbûera
 ---
-PRED: Asendybá-apin
+PRED: <extra_id_0>.
 REF:  Asendybá-apin
 ---
-PRED: Marãpe i boîá rekóû emonã o îara rerekó repîaka?
+PRED: <extra_id_0>.
 REF:  Marãpe i boîá rekóû emonã o îara rerekó repîaka?
 ---
-PRED: Oré raûsubá îepé
+PRED: <extra_id_0>.
 REF:  Oré raûsubá îepé
 ---
-PRED: Anheran i xupé
+PRED: <extra_id_0>
 REF:  Anheran i xupé
 ---
-PRED: Nde rera rendupa abé, anhanga ryryî okûapa
+PRED: <extra_id_0>
 REF:  Nde rera rendupa abé, anhanga ryryî okûapa
 ---
-PRED: Oîoaûsu-katupe amẽ oîopopysykyba'epûera?
+PRED: <extra_id_0>
 REF:  Oîoaûsu-katupe amẽ oîopopysykyba'epûera?
 ---
-PRED: Nde i potasábo-katu é, t'onhemonhang
+PRED: <extra_id_0>.
 REF:  Nde i potasábo-katu é, t'onhemonhang
 ---
-PRED: Aanumẽne! Asabeypó
+PRED: <extra_id_0>! <extra_id_10>!
 REF:  Aanumẽne! Asabeypó
 ---
-PRED: Îandé moetébo apŷaba nhemosaraî
+PRED: <extra_id_0>
 REF:  Îandé moetébo apŷaba nhemosaraî
 ---
-PRED: N'opabi moropotara, tesãînana, marã'é
+PRED: <extra_id_0>
 REF:  N'opabi moropotara, tesãînana, marã'é
 ---
-PRED: T'îasó sapépe
+PRED: <extra_id_0>.
 REF:  T'îasó sapépe
 ---
-PRED: Aîaparaîtyk
+PRED: <extra_id_0>
 REF:  Aîaparaîtyk
 ---
-PRED: Xe aíb
+PRED: <extra_id_0>.
 REF:  Xe aíb
 ---
-PRED: Xe ky'a-te turusu
+PRED: <extra_id_0>.
 REF:  Xe ky'a-te turusu
 ---
-PRED: Eîá-te xe rubixaba!
+PRED: <extra_id_0>
 REF:  Eîá-te xe rubixaba!
 ---
-PRED: Emoîerekûab orébo
+PRED: <extra_id_0>.
 REF:  Emoîerekûab orébo
 ---
-PRED: Xe reté ã n'oîkoetéî, omembeka
+PRED: <extra_id_0>.
 REF:  Xe reté ã n'oîkoetéî, omembeka
 ---
-PRED: Nde 'anga moapysykápe, oroîaîubã-îubã
+PRED: <extra_id_0>
 REF:  Nde 'anga moapysykápe, oroîaîubã-îubã
 ---
-PRED: T'îasó, mbegûé, îapu'ama, t'ixapy moxy retama
+PRED: <extra_id_0>.
 REF:  T'îasó, mbegûé, îapu'ama, t'ixapy moxy retama
 ---
-PRED: Anhomong
+PRED: <extra_id_0>
 REF:  Anhomong
 ---
-PRED: Xe angaîpabeté'ĩ ra'u mã!
+PRED: <extra_id_0>.
 REF:  Xe angaîpabeté'ĩ ra'u mã!
 ---
-PRED: abaré nhe'engerekoara
+PRED: <extra_id_0>.
 REF:  abaré nhe'engerekoara
 ---
-PRED: "Xe poreaûsubeté'ĩ mã!" sendubypyramo a'epe
+PRED: <extra_id_0>
 REF:  "Xe poreaûsubeté'ĩ mã!" sendubypyramo a'epe
 ---
-PRED: Îeîbé asó
+PRED: <extra_id_0>.
 REF:  Îeîbé asó
 ---
-PRED: Îandé retá îandé pe'abo
+PRED: <extra_id_0>.
 REF:  Îandé retá îandé pe'abo
 ---
-PRED: Eîerok moxy resé
+PRED: <extra_id_0>.
 REF:  Eîerok moxy resé
 ---
-PRED: Setama rera Mboîy, a'epe i moîypa, i gûabo
+PRED: <extra_id_0>.
 REF:  Setama rera Mboîy, a'epe i moîypa, i gûabo
 ---
-PRED: São João pitangĩ, tygépe o endápe, nde rura andupápe, o por-oporĩ
+PRED: <extra_id_0>
 REF:  São João pitangĩ, tygépe o endápe, nde rura andupápe, o por-oporĩ
 ---
-PRED: xe kororõ-pysyrõ
+PRED: <extra_id_0>
 REF:  xe kororõ-pysyrõ
 ---
-PRED: Ema'ẽ oré resé!
+PRED: <extra_id_0>.
 REF:  Ema'ẽ oré resé!
 ---
-PRED: Mba'epe asé osenõî i xupé, o îerobîasabamo?
+PRED: <extra_id_0>.
 REF:  Mba'epe asé osenõî i xupé, o îerobîasabamo?
 ---
-PRED: Ybaka porá-tene sory-porang
+PRED: <extra_id_0>.
 REF:  Ybaka porá-tene sory-porang
 ---
-PRED: Ono'ong mba'e ixébo
+PRED: <extra_id_0>.
 REF:  Ono'ong mba'e ixébo
 ---
-PRED: Marã e'ipe asé o ké îanondé?
+PRED: <extra_id_0>.
 REF:  Marã e'ipe asé o ké îanondé?
 ---
-PRED: marã-pipó?
+PRED: <extra_id_0>.
 REF:  marã-pipó?
 ---
-PRED: Tyk e'i
+PRED: <extra_id_0>
 REF:  Tyk e'i
 ---
-PRED: Ano'ẽ
+PRED: <extra_id_0>
 REF:  Ano'ẽ
 ---
-PRED: Xe resaeté
+PRED: <extra_id_0>
 REF:  Xe resaeté
 ---
-PRED: Sesé so'o gûyrá aîmoîese'a i mokanhemane
+PRED: <extra_id_0>.
 REF:  Sesé so'o gûyrá aîmoîese'a i mokanhemane
 ---
-PRED: Marãnamope asé o sybápe îoasaba moíni?
+PRED: <extra_id_0>
 REF:  Marãnamope asé o sybápe îoasaba moíni?
 ---
-PRED: Asetobapy-etab
+PRED: <extra_id_0>
 REF:  Asetobapy-etab
 ---
-PRED: Îepémo asó
+PRED: <extra_id_0>.
 REF:  Îepémo asó
 ---
-PRED: itá-kysegûasu
+PRED: <extra_id_0>
 REF:  itá-kysegûasu
 ---
-PRED: Pesepîak irã ybytinga 'arybo xe rura béne
+PRED: <extra_id_0>
 REF:  Pesepîak irã ybytinga 'arybo xe rura béne
 ---
-PRED: Endé aé ereîekûá xe roka pobu-potá
+PRED: <extra_id_0>.
 REF:  Endé aé ereîekûá xe roka pobu-potá
 ---
-PRED: I xy n'i membyrasyî, nda sugûyî, n'i mara'ari
+PRED: <extra_id_0>.
 REF:  I xy n'i membyrasyî, nda sugûyî, n'i mara'ari
 ---
-PRED: abá momanhã-manhana
+PRED: <extra_id_0>
 REF:  abá momanhã-manhana
 ---
-PRED: Peporeaûsu korine
+PRED: <extra_id_0>
 REF:  Peporeaûsu korine
 ---
-PRED: Ladainhas ra'angaba
+PRED: <extra_id_0>
 REF:  Ladainhas ra'angaba
 ---
-PRED: Osem okarype oîase'o-asykatûabo
+PRED: <extra_id_0>
 REF:  Osem okarype oîase'o-asykatûabo
 ---
-PRED: I îasear apŷabaíba
+PRED: <extra_id_0>
 REF:  I îasear apŷabaíba
 ---
-PRED: Yby apyterype tatá-amororé ogûeba'erame'yma monhanga
+PRED: <extra_id_0>
 REF:  Yby apyterype tatá-amororé ogûeba'erame'yma monhanga
 ---
-PRED: pyteri
+PRED: <extra_id_0>
 REF:  pyteri
 ---
-PRED: Xe rurunhyng
+PRED: <extra_id_0>.
 REF:  Xe rurunhyng
 ---
-PRED: Nandé rakó asé îeupiri ybakypene, o posyîusu reîtyk'iré
+PRED: <extra_id_0>.
 REF:  Nandé rakó asé îeupiri ybakypene, o posyîusu reîtyk'iré
 ---
-PRED: mokaku'i-uru
+PRED: <extra_id_0>
 REF:  mokaku'i-uru
 ---
-PRED: Tekokatueté rerekoara onherane'ymba'e
+PRED: <extra_id_0>.
 REF:  Tekokatueté rerekoara onherane'ymba'e
 ---
-PRED: I abaeté sepîaka ixébo
+PRED: <extra_id_0>.
 REF:  I abaeté sepîaka ixébo
 ---
-PRED: Nhũ-myterype i mbo'îabo
+PRED: <extra_id_0>.
 REF:  Nhũ-myterype i mbo'îabo
 ---
-PRED: Xe angaîpá-tubixagûera amosẽne
+PRED: <extra_id_0>.
 REF:  Xe angaîpá-tubixagûera amosẽne
 ---
-PRED: Xe apykanhem
+PRED: <extra_id_0>.
 REF:  Xe apykanhem
 ---
-PRED: Onharõ-berame'ĩ asé ro'o îandé 'anga resé
+PRED: <extra_id_0>
 REF:  Onharõ-berame'ĩ asé ro'o îandé 'anga resé
 ---
-PRED: Xe angaîpab-eté
+PRED: <extra_id_0>.
 REF:  Xe angaîpab-eté
 ---
-PRED: ybakygûara
+PRED: <extra_id_0>
 REF:  ybakygûara
 ---
-PRED: Aîpó nde remixyrama
+PRED: <extra_id_0>.
 REF:  Aîpó nde remixyrama
 ---
-PRED: serapûanyba'e
+PRED: <extra_id_0>.
 REF:  serapûanyba'e
 ---
-PRED: Aîmoapapub
+PRED: <extra_id_0>.
 REF:  Aîmoapapub
 ---
-PRED: Aîpoba'e-tene n'oîabyî mboîa
+PRED: <extra_id_0>.
 REF:  Aîpoba'e-tene n'oîabyî mboîa
 ---
-PRED: Aûîé ipó!
+PRED: <extra_id_0>!
 REF:  Aûîé ipó!
 ---
-PRED: Nd'e'i te'e kunumĩgûasu, morubixaba o sogûápe, oîkébo memẽ kagûápe
+PRED: <extra_id_0>
 REF:  Nd'e'i te'e kunumĩgûasu, morubixaba o sogûápe, oîkébo memẽ kagûápe
 ---
-PRED: Marã e'ipe irã abá a'ereme tobaîá-katupabẽ o amaneme sekyîabone?
+PRED: <extra_id_0>.
 REF:  Marã e'ipe irã abá a'ereme tobaîá-katupabẽ o amaneme sekyîabone?
 ---
-PRED: Asaembe'e
+PRED: <extra_id_0>
 REF:  Asaembe'e
 ---
-PRED: Eîori, mba'enem!
+PRED: <extra_id_0>
 REF:  Eîori, mba'enem!
 ---
-PRED: agûasá membyra
+PRED: <extra_id_0>
 REF:  agûasá membyra
 ---
-PRED: Aîmamã-rok
+PRED: <extra_id_0>
 REF:  Aîmamã-rok
 ---
-PRED: Oîepé-ĩombé, nipó, i angaîpab amõme é
+PRED: <extra_id_0>.
 REF:  Oîepé-ĩombé, nipó, i angaîpab amõme é
 ---
-PRED: Nde 'anga osapy satá ogûeîypa
+PRED: <extra_id_0>
 REF:  Nde 'anga osapy satá ogûeîypa
 ---
-PRED: Orondururuk
+PRED: <extra_id_0>
 REF:  Orondururuk
 ---
-PRED: N'opytáî amõ abá maranápe
+PRED: <extra_id_0>.
 REF:  N'opytáî amõ abá maranápe
 ---
-PRED: Xe raîyîeapar
+PRED: <extra_id_0>
 REF:  Xe raîyîeapar
 ---
-PRED: kunumĩ-a'uba
+PRED: <extra_id_0>
 REF:  kunumĩ-a'uba
 ---
-PRED: -Mba'epe ereru nde karamemûã pupé?
+PRED: <extra_id_0>?
 REF:  -Mba'epe ereru nde karamemûã pupé?
 ---
-PRED: Xe katu
+PRED: <extra_id_0>.
 REF:  Xe katu
 ---
-PRED: Anambi-kutuk
+PRED: <extra_id_0>.
 REF:  Anambi-kutuk
 ---
-PRED: Asemi'u-erekûab
+PRED: <extra_id_0>
 REF:  Asemi'u-erekûab
 ---
-PRED: Arasó-rasó-a'ub
+PRED: <extra_id_0>
 REF:  Arasó-rasó-a'ub
 ---
-PRED: Aîmo'ar
+PRED: <extra_id_0>.
 REF:  Aîmo'ar
 ---
-PRED: Anhatõî
+PRED: <extra_id_0>
 REF:  Anhatõî
 ---
-PRED: pó-e'õ
+PRED: <extra_id_0>
 REF:  pó-e'õ
 ---
-PRED: Sekoaûîépe gûaîtaká koîpó gûaîanã ra'yra?
+PRED: <extra_id_0>?
 REF:  Sekoaûîépe gûaîtaká koîpó gûaîanã ra'yra?
 ---
-PRED: O îoambyî oroîub
+PRED: <extra_id_0>.
 REF:  O îoambyî oroîub
 ---
-PRED: Oîkobeba'e, omanõba'epûera pabẽ rekomonhanga
+PRED: <extra_id_0>.
 REF:  Oîkobeba'e, omanõba'epûera pabẽ rekomonhanga
 ---
-PRED: abá-tekokugûá-katu
+PRED: <extra_id_0>.
 REF:  abá-tekokugûá-katu
 ---
-PRED: a-putu'uma
+PRED: <extra_id_0>
 REF:  a-putu'uma
 ---
-PRED: A'é umanĩ mba'e monhanga
+PRED: <extra_id_0>.
 REF:  A'é umanĩ mba'e monhanga
 ---
-PRED: Mba'enakó ahẽ amõ îukáû akûeîme
+PRED: <extra_id_0>.
 REF:  Mba'enakó ahẽ amõ îukáû akûeîme
 ---
-PRED: mosé esó-potá
+PRED: <extra_id_0>.
 REF:  mosé esó-potá
 ---
-PRED: Emonã kori aîkóne
+PRED: <extra_id_0>.
 REF:  Emonã kori aîkóne
 ---
-PRED: Opá taba moangaîpabi!
+PRED: <extra_id_0>!
 REF:  Opá taba moangaîpabi!
 ---
-PRED: itá pupé
+PRED: <extra_id_0>.
 REF:  itá pupé
 ---
-PRED: o poromonã-monana
+PRED: <extra_id_0>.,ловна
 REF:  o poromonã-monana
 ---
-PRED: Eresekyîpe îuraragûaîa abá supé?
+PRED: <extra_id_0>.
 REF:  Eresekyîpe îuraragûaîa abá supé?
 ---
-PRED: Missa mondykápe épe ereîké îepi, nde îesûere'yîpe?
+PRED: <extra_id_0>.
 REF:  Missa mondykápe épe ereîké îepi, nde îesûere'yîpe?
 ---
-PRED: Supixûar ikó paîé-angaíba
+PRED: <extra_id_0>.es
 REF:  Supixûar ikó paîé-angaíba
 ---
-PRED: Ereîmoîebype kaûĩ, sesé nde apore'ymamo?
+PRED: <extra_id_0>
 REF:  Ereîmoîebype kaûĩ, sesé nde apore'ymamo?
 ---
-PRED: Omanõ xe îybá
+PRED: <extra_id_0>
 REF:  Omanõ xe îybá
 ---
-PRED: Nd'o'u-apyî ahẽ mba'e
+PRED: <extra_id_0>
 REF:  Nd'o'u-apyî ahẽ mba'e
 ---
-PRED: Sekoaûîépe gûaîtaká?
+PRED: <extra_id_0>
 REF:  Sekoaûîépe gûaîtaká?
 ---
-PRED: I xupé o ekotebẽsaba resé oîerurébo
+PRED: <extra_id_0>.
 REF:  I xupé o ekotebẽsaba resé oîerurébo
 ---
-PRED: Abá rekopoxy mosãîa
+PRED: <extra_id_0>.
 REF:  Abá rekopoxy mosãîa
 ---
-PRED: A'emo oîubyk-uká?
+PRED: <extra_id_0>
 REF:  A'emo oîubyk-uká?
 ---
-PRED: Nde nhe'ẽ-poroîukaípe abá supé?
+PRED: <extra_id_0>
 REF:  Nde nhe'ẽ-poroîukaípe abá supé?
 ---
-PRED: Xe kunusãî
+PRED: <extra_id_0>.
 REF:  Xe kunusãî
 ---
-PRED: Asẽ amo'ĩ i xuí
+PRED: <extra_id_0>.
 REF:  Asẽ amo'ĩ i xuí
 ---
-PRED: Oîar-atã serã i aoba i nupãsagûera i moperé-perebagûera resé?
+PRED: <extra_id_0>.
 REF:  Oîar-atã serã i aoba i nupãsagûera i moperé-perebagûera resé?
 ---
-PRED: -Ereîekotyápe abá-angaîpaba resé?
+PRED: <extra_id_0>?
 REF:  -Ereîekotyápe abá-angaîpaba resé?
 ---
-PRED: Xe 'anga omonem tekoangaîpaba
+PRED: <extra_id_0>.
 REF:  Xe 'anga omonem tekoangaîpaba
 ---
-PRED: Mba'e sekatuba'e abiã oîmoting i 'uetébo, memetiã nde nda mba'e-katu ruã euĩ ereîmo'ẽ
+PRED: <extra_id_0>.
 REF:  Mba'e sekatuba'e abiã oîmoting i 'uetébo, memetiã nde nda mba'e-katu ruã euĩ ereîmo'ẽ
 ---
-PRED: Marana supikatundûaramo sekóreme é
+PRED: <extra_id_0>.
 REF:  Marana supikatundûaramo sekóreme é
 ---
-PRED: Aûîebeté, rõ! T'a'u pá Îakaregûasu pepyra!
+PRED: <extra_id_0>.
 REF:  Aûîebeté, rõ! T'a'u pá Îakaregûasu pepyra!
 ---
-PRED: Oîmoanhã satápe
+PRED: <extra_id_0>.
 REF:  Oîmoanhã satápe
 ---
-PRED: -N'i sykabi, n'i papabi
+PRED: <extra_id_0>.,ловна
 REF:  -N'i sykabi, n'i papabi
 ---
-PRED: Eresungápe nde rygé nde membyra îukábo?
+PRED: <extra_id_0>
 REF:  Eresungápe nde rygé nde membyra îukábo?
 ---
-PRED: A'y-'u
+PRED: <extra_id_0>.,ловна <extra_id_12>
 REF:  A'y-'u
 ---
-PRED: Aybyrá-kytĩ
+PRED: <extra_id_0>.
 REF:  Aybyrá-kytĩ
 ---
-PRED: Mba'e angaba'eamẽ
+PRED: <extra_id_0>.
 REF:  Mba'e angaba'eamẽ
 ---
-PRED: Maria t'îambory, Anhanga rekó reîyîa
+PRED: <extra_id_0>
 REF:  Maria t'îambory, Anhanga rekó reîyîa
 ---
-PRED: Nd'e'i te'e yby asé purungaba tiruã aîpoba'e re'õmbûera reroŷrõmo
+PRED: <extra_id_0>
 REF:  Nd'e'i te'e yby asé purungaba tiruã aîpoba'e re'õmbûera reroŷrõmo
 ---
-PRED: Anhamĩ - Espremi-o Aty-amĩ
+PRED: <extra_id_0>
 REF:  Anhamĩ - Espremi-o Aty-amĩ
 ---
-PRED: Xe resendûara ebokûea
+PRED: <extra_id_0>
 REF:  Xe resendûara ebokûea
 ---
-PRED: Osekyî kunhã maîé Karûara
+PRED: <extra_id_0>
 REF:  Osekyî kunhã maîé Karûara
 ---
-PRED: Ixé aé sapysarûera, sekobeaba resé
+PRED: <extra_id_0>.
 REF:  Ixé aé sapysarûera, sekobeaba resé
 ---
-PRED: keygûara
+PRED: <extra_id_0>
 REF:  keygûara
 ---
-PRED: Aîkytyngok
+PRED: <extra_id_0>.
 REF:  Aîkytyngok
 ---
-PRED: Esekyî-atã!
+PRED: <extra_id_0>!
 REF:  Esekyî-atã!
 ---
-PRED: Opakatu ikó 'ara pupîara mba'easy sosé
+PRED: <extra_id_0>
 REF:  Opakatu ikó 'ara pupîara mba'easy sosé
 ---
-PRED: Ymûanĩ ahẽ rekóû
+PRED: <extra_id_0>.
 REF:  Ymûanĩ ahẽ rekóû
 ---
-PRED: Tupã syramo oîkóbo é i angaturambabetéramo sekóû
+PRED: <extra_id_0>.
 REF:  Tupã syramo oîkóbo é i angaturambabetéramo sekóû
 ---
-PRED: amõme nhõ
+PRED: <extra_id_0>.
 REF:  amõme nhõ
 ---
-PRED: Ere'upe yby?
+PRED: <extra_id_0>.
 REF:  Ere'upe yby?
 ---
-PRED: Xe rûaîasyk
+PRED: <extra_id_0>.
 REF:  Xe rûaîasyk
 ---
-PRED: Xe apysakûaraby moranduba
+PRED: <extra_id_0>.
 REF:  Xe apysakûaraby moranduba
 ---
-PRED: Erobîá, xe rubangaba, ta nde moembiá kori
+PRED: <extra_id_0>.
 REF:  Erobîá, xe rubangaba, ta nde moembiá kori
 ---
-PRED: aûã-myranga
+PRED: <extra_id_0>
 REF:  aûã-myranga
 ---
-PRED: Ké abá rekóû anhẽ
+PRED: <extra_id_0>.
 REF:  Ké abá rekóû anhẽ
 ---
-PRED: Oîaby-etépe omendaryba'e Tupã nhe'enga o îosuí omondarõmo?
+PRED: <extra_id_0>
 REF:  Oîaby-etépe omendaryba'e Tupã nhe'enga o îosuí omondarõmo?
 ---
-PRED: Mba'erama ripe asé tĩme o endy moíni?
+PRED: <extra_id_0>
 REF:  Mba'erama ripe asé tĩme o endy moíni?
 ---
-PRED: Osyk oré ri sendy îepi nhẽ
+PRED: <extra_id_0>.
 REF:  Osyk oré ri sendy îepi nhẽ
 ---
-PRED: Ara i pîasaba, îekuakupaba
+PRED: <extra_id_0>
 REF:  Ara i pîasaba, îekuakupaba
 ---
-PRED: Xe kupeasur
+PRED: <extra_id_0>
 REF:  Xe kupeasur
 ---
-PRED: Domingo momba'eté-ukari i mongaraibypyretá supé o ekobé îebyragûera pupé Îandé Îara i mongaraib'iré
+PRED: <extra_id_0>
 REF:  Domingo momba'eté-ukari i mongaraibypyretá supé o ekobé îebyragûera pupé Îandé Îara i mongaraib'iré
 ---
-PRED: îandé ro'o resé Tupã-Ta'yra îemonana
+PRED: <extra_id_0>
 REF:  îandé ro'o resé Tupã-Ta'yra îemonana
 ---
-PRED: Xe angaîbabîar
+PRED: <extra_id_0>
 REF:  Xe angaîbabîar
 ---
-PRED: T'asóne parati'ype, tupinakyîa re'yîpe
+PRED: <extra_id_0>
 REF:  T'asóne parati'ype, tupinakyîa re'yîpe
 ---
-PRED: akûé tabusu Îerusalém 'îaba
+PRED: <extra_id_0>.,ловна
 REF:  akûé tabusu Îerusalém 'îaba
 ---
-PRED: moropotara semipokuabe'yma
+PRED: <extra_id_0> sensual
 REF:  moropotara semipokuabe'yma
 ---
-PRED: Kype onhemoŷrõmo nhẽ
+PRED: <extra_id_0>.
 REF:  Kype onhemoŷrõmo nhẽ
 ---
-PRED: Ambosyî ahẽ resé
+PRED: <extra_id_0>
 REF:  Ambosyî ahẽ resé
 ---
-PRED: i mosyryrĩmbyra
+PRED: <extra_id_0>.
 REF:  i mosyryrĩmbyra
 ---
-PRED: Emonã ûĩ re'a
+PRED: <extra_id_0>.
 REF:  Emonã ûĩ re'a
 ---
-PRED: akangapixa'ĩ
+PRED: <extra_id_0>
 REF:  akangapixa'ĩ
 ---
-PRED: opá kó mbó
+PRED: <extra_id_0>.
 REF:  opá kó mbó
 ---
-PRED: Paranã momungábo, ybytyra apyra sosé katu i mopu'ama
+PRED: <extra_id_0>
 REF:  Paranã momungábo, ybytyra apyra sosé katu i mopu'ama
 ---
-PRED: Ixé anhõ asó
+PRED: <extra_id_0>.
 REF:  Ixé anhõ asó
 ---
-PRED: Sesé i moîarypyramo omanõmo
+PRED: <extra_id_0>
 REF:  Sesé i moîarypyramo omanõmo
 ---
-PRED: I anhamãngatu nipó i angaîpaba'e-ne
+PRED: <extra_id_0>.,ловна
 REF:  I anhamãngatu nipó i angaîpaba'e-ne
 ---
-PRED: abá-memûã
+PRED: <extra_id_0>.
 REF:  abá-memûã
 ---
-PRED: akã-gûyra
+PRED: <extra_id_0>.
 REF:  akã-gûyra
 ---
-PRED: Nd'e'i te'e abá tekokatu potasara gûo'opore'yma
+PRED: <extra_id_0>.
 REF:  Nd'e'i te'e abá tekokatu potasara gûo'opore'yma
 ---
-PRED: Tekate'yma robaîara tekate'yme'yma
+PRED: <extra_id_0>
 REF:  Tekate'yma robaîara tekate'yme'yma
 ---
-PRED: Peteumẽ pe poxyramo angiré
+PRED: <extra_id_0>
 REF:  Peteumẽ pe poxyramo angiré
 ---
-PRED: Xe Parati 'y suí aîu Tupã sy repîaka, gûinhemoîegûá-îegûaka
+PRED: <extra_id_0>
 REF:  Xe Parati 'y suí aîu Tupã sy repîaka, gûinhemoîegûá-îegûaka
 ---
-PRED: Nd'oîabyî muru arara
+PRED: <extra_id_0>.,ловна
 REF:  Nd'oîabyî muru arara
 ---
-PRED: tapuîa rara
+PRED: <extra_id_0>.
 REF:  tapuîa rara
 ---
-PRED: gûeté-marane'yma
+PRED: <extra_id_0>.
 REF:  gûeté-marane'yma
 ---
-PRED: Mba'e-eté anhẽ nhemombe'u Anhanga ratápe nde sorambûera morambûesabamono
+PRED: <extra_id_0>
 REF:  Mba'e-eté anhẽ nhemombe'u Anhanga ratápe nde sorambûera morambûesabamono
 ---
-PRED: Xe mondórememo, asómo
+PRED: <extra_id_0>
 REF:  Xe mondórememo, asómo
 ---
-PRED: T'îaîkuá-te Tupã, îandé monhangagûera
+PRED: <extra_id_0>
 REF:  T'îaîkuá-te Tupã, îandé monhangagûera
 ---
-PRED: Aîuká me'ĩmo mã!
+PRED: <extra_id_0>.
 REF:  Aîuká me'ĩmo mã!
 ---
-PRED: Abá mba'e omimba'e
+PRED: <extra_id_0>
 REF:  Abá mba'e omimba'e
 ---
-PRED: Ta'yrĩ'ĩ
+PRED: <extra_id_0>
 REF:  Ta'yrĩ'ĩ
 ---
-PRED: ara rupindûara
+PRED: <extra_id_0>.
 REF:  ara rupindûara
 ---
-PRED: Ereîarype abá mba'e, nde rapixara mondarõagûera koîpó semimima?
+PRED: <extra_id_0>.
 REF:  Ereîarype abá mba'e, nde rapixara mondarõagûera koîpó semimima?
 ---
-PRED: A'e kuapápe, ko'y asaûsu
+PRED: <extra_id_0>.
 REF:  A'e kuapápe, ko'y asaûsu
 ---
-PRED: Nama'eruã oîmonhang asé 'angamo
+PRED: <extra_id_0>.
 REF:  Nama'eruã oîmonhang asé 'angamo
 ---
-PRED: Ogûeronhe'eng i mendarypyrama Tupãokype marãtekoabe'yma pupé
+PRED: <extra_id_0>.
 REF:  Ogûeronhe'eng i mendarypyrama Tupãokype marãtekoabe'yma pupé
 ---
-PRED: Omombuk-y bé xe akanga
+PRED: <extra_id_0>.
 REF:  Omombuk-y bé xe akanga
 ---
-PRED: -Tupã Espírito Santo anhẽ a'e tatá? -Nda Tupã Espírito Santo ruã, tura îekuapaba é - Deus Espírito Santo era, na verdade, aquele fogo?
+PRED: <extra_id_0>
 REF:  -Tupã Espírito Santo anhẽ a'e tatá? -Nda Tupã Espírito Santo ruã, tura îekuapaba é - Deus Espírito Santo era, na verdade, aquele fogo?
 ---
-PRED: nde rekokatu ra'anga
+PRED: <extra_id_0>
 REF:  nde rekokatu ra'anga
 ---
-PRED: Aîepabok
+PRED: <extra_id_0>.
 REF:  Aîepabok
 ---
-PRED: pysaîé-katu ké-gûyrybo
+PRED: <extra_id_0>
 REF:  pysaîé-katu ké-gûyrybo
 ---
-PRED: Tupã sy îandé senõîa oîmoasy-katu-eté
+PRED: <extra_id_0>.
 REF:  Tupã sy îandé senõîa oîmoasy-katu-eté
 ---
-PRED: Aîmo'ypiting
+PRED: <extra_id_0>
 REF:  Aîmo'ypiting
 ---
-PRED: Apŷaba xe pokuá
+PRED: <extra_id_0>.
 REF:  Apŷaba xe pokuá
 ---
-PRED: N'asé retama ruã-tepe ikó yby asé rekoaba?
+PRED: <extra_id_0>
 REF:  N'asé retama ruã-tepe ikó yby asé rekoaba?
 ---
-PRED: Aîopy
+PRED: <extra_id_0>
 REF:  Aîopy
 ---
-PRED: Se'ẽ-moxy
+PRED: <extra_id_0>.,ловна 
 REF:  Se'ẽ-moxy
 ---
-PRED: Na xe reroŷrõî îepé
+PRED: <extra_id_0>.
 REF:  Na xe reroŷrõî îepé
 ---
-PRED: Nd'e'i te'e îase'o anhõ monhanga i mombyke'ymane
+PRED: <extra_id_0>.
 REF:  Nd'e'i te'e îase'o anhõ monhanga i mombyke'ymane
 ---
-PRED: Ogûeroîebyr o mondasagûera
+PRED: <extra_id_0>
 REF:  Ogûeroîebyr o mondasagûera
 ---
-PRED: Peîori pitanga gûabo, Tupana resaetá
+PRED: <extra_id_0>
 REF:  Peîori pitanga gûabo, Tupana resaetá
 ---
-PRED: Xe rapîakatu abá
+PRED: <extra_id_0>.
 REF:  Xe rapîakatu abá
 ---
-PRED: kûepe i moerapûanymbyra
+PRED: <extra_id_0>
 REF:  kûepe i moerapûanymbyra
 ---
-PRED: Marã e'ipe amõaé asé îeruresaba?
+PRED: <extra_id_0>?
 REF:  Marã e'ipe amõaé asé îeruresaba?
 ---
-PRED: Nde katu nde renõî
+PRED: <extra_id_0>
 REF:  Nde katu nde renõî
 ---
-PRED: ybype
+PRED: <extra_id_0>.
 REF:  ybype
 ---
-PRED: Nde îabé ixé i kugûabi
+PRED: <extra_id_0>.,ловна
 REF:  Nde îabé ixé i kugûabi
 ---
-PRED: Xe pará-parab
+PRED: <extra_id_0>.
 REF:  Xe pará-parab
 ---
-PRED: Sekoaûîépe gûaîtaká koîpó gûaîanã ra'yra?
+PRED: <extra_id_0>
 REF:  Sekoaûîépe gûaîtaká koîpó gûaîanã ra'yra?
 ---
-PRED: N'asaûsu benhẽî xûé Anhangane
+PRED: <extra_id_0>
 REF:  N'asaûsu benhẽî xûé Anhangane
 ---
-PRED: Eîkuabe'eng xe nhe'engaipaba
+PRED: <extra_id_0>
 REF:  Eîkuabe'eng xe nhe'engaipaba
 ---
-PRED: Xe ker-aparar
+PRED: <extra_id_0>.
 REF:  Xe ker-aparar
 ---
-PRED: Te'yîpe nhẽ i gûapyki
+PRED: <extra_id_0>.
 REF:  Te'yîpe nhẽ i gûapyki
 ---
-PRED: andyrá-'aba
+PRED: <extra_id_0>
 REF:  andyrá-'aba
 ---
-PRED: a-titinga
+PRED: <extra_id_0>.,ловна
 REF:  a-titinga
 ---
-PRED: pindá-aŷpypûasaba
+PRED: <extra_id_0>
 REF:  pindá-aŷpypûasaba
 ---
-PRED: Abaré abépe asé oîpiamondó?
+PRED: <extra_id_0>.
 REF:  Abaré abépe asé oîpiamondó?
 ---
-PRED: Asó me'ĩmo ybakype mã!
+PRED: <extra_id_0>.
 REF:  Asó me'ĩmo ybakype mã!
 ---
-PRED: Îandé ri oîese'a
+PRED: <extra_id_0>.
 REF:  Îandé ri oîese'a
 ---
-PRED: Turusukatu Nd'e'i te'e sero'a-ro'a
+PRED: <extra_id_0>
 REF:  Turusukatu Nd'e'i te'e sero'a-ro'a
 ---
-PRED: I angaîpá-pará-pará
+PRED: <extra_id_0>.
 REF:  I angaîpá-pará-pará
 ---
-PRED: Cristãos i mongaraibypyra tekokuaparamo Cristo remieîara
+PRED: <extra_id_0>.
 REF:  Cristãos i mongaraibypyra tekokuaparamo Cristo remieîara
 ---
-PRED: asangusugûasu
+PRED: <extra_id_0>
 REF:  asangusugûasu
 ---
-PRED: Seîarypyrama ruã-tepe mba'e tetiruã kûáî?
+PRED: <extra_id_0>.
 REF:  Seîarypyrama ruã-tepe mba'e tetiruã kûáî?
 ---
-PRED: y-pabe'ymba'e
+PRED: <extra_id_0>.
 REF:  y-pabe'ymba'e
 ---
-PRED: Ereroîképe nde kotype?
+PRED: <extra_id_0>
 REF:  Ereroîképe nde kotype?
 ---
-PRED: O emimombe'upûera o emikuakugûera irũmo bé i mombe'uîebyrine
+PRED: <extra_id_0>
 REF:  O emimombe'upûera o emikuakugûera irũmo bé i mombe'uîebyrine
 ---
-PRED: Nd'e'i te'e nde ru'umusu abá 'anga momoxŷabo
+PRED: <extra_id_0>
 REF:  Nd'e'i te'e nde ru'umusu abá 'anga momoxŷabo
 ---
-PRED: Ahẽ morapitîarûera taté nhẽ anhẽ ybŷá oîuká
+PRED: <extra_id_0>
 REF:  Ahẽ morapitîarûera taté nhẽ anhẽ ybŷá oîuká
 ---
-PRED: Aîmoembiaryîar ahẽ xe îoesé
+PRED: <extra_id_0>
 REF:  Aîmoembiaryîar ahẽ xe îoesé
 ---
-PRED: Te'õ suí amanõ
+PRED: <extra_id_0>.
 REF:  Te'õ suí amanõ
 ---
-PRED: Tupã Tuba
+PRED: <extra_id_0>.
 REF:  Tupã Tuba
 ---
-PRED: Asuru-monhang
+PRED: <extra_id_0>.
 REF:  Asuru-monhang
 ---
-PRED: Xe mba'easy-'ar
+PRED: <extra_id_0>.
 REF:  Xe mba'easy-'ar
 ---
-PRED: Omanõ tekatunheté xe ruba mã!
+PRED: <extra_id_0>.
 REF:  Omanõ tekatunheté xe ruba mã!
 ---
-PRED: Serenduba rupibé amongoty xe nhemimi
+PRED: <extra_id_0>
 REF:  Serenduba rupibé amongoty xe nhemimi
 ---
-PRED: Ase'yĩ
+PRED: <extra_id_0>
 REF:  Ase'yĩ
 ---
-PRED: Aîty-kukur
+PRED: <extra_id_0>
 REF:  Aîty-kukur
 ---
-PRED: T'asepîak taûîé!
+PRED: <extra_id_0>.,ловна
 REF:  T'asepîak taûîé!
 ---
-PRED: Mundépe i porerasóû
+PRED: <extra_id_0>.
 REF:  Mundépe i porerasóû
 ---
-PRED: Kotype muru amoingé
+PRED: <extra_id_0>.
 REF:  Kotype muru amoingé
 ---
-PRED: -Mba'e-mba'epe asé suí i pitubypyra? -Asé rumby
+PRED: <extra_id_0>.
 REF:  -Mba'e-mba'epe asé suí i pitubypyra? -Asé rumby
 ---
-PRED: Xe anhõ kó taba pupé aîkó
+PRED: <extra_id_0>! <extra_id_10>!
 REF:  Xe anhõ kó taba pupé aîkó
 ---
-PRED: Pabẽ t'îaîxo'o
+PRED: <extra_id_0>.
 REF:  Pabẽ t'îaîxo'o
 ---
-PRED: N'aîepokuabi
+PRED: <extra_id_0>
 REF:  N'aîepokuabi
 ---
-PRED: Andyrá ruãpe é?
+PRED: <extra_id_0>.
 REF:  Andyrá ruãpe é?
 ---
-PRED: Sarûab amõme asé posangygûaba
+PRED: <extra_id_0>.
 REF:  Sarûab amõme asé posangygûaba
 ---
-PRED: Te'õ a'e mendasareté momboîsabamo
+PRED: <extra_id_0>
 REF:  Te'õ a'e mendasareté momboîsabamo
 ---
-PRED: Emoîyb kaûĩ amõ
+PRED: <extra_id_0>
 REF:  Emoîyb kaûĩ amõ
 ---
-PRED: Pirá mondóbo pá
+PRED: <extra_id_0>.
 REF:  Pirá mondóbo pá
 ---
-PRED: Ta pe ma'enduar ikó 'ara ixé i moaûîé pá roîré xe putu'uagûera resé
+PRED: <extra_id_0>
 REF:  Ta pe ma'enduar ikó 'ara ixé i moaûîé pá roîré xe putu'uagûera resé
 ---
-PRED: São Lourenço rupîarûera
+PRED: <extra_id_0>.
 REF:  São Lourenço rupîarûera
 ---
-PRED: Ybyraîoasaba resé i moîarypyrûeramo sekóû, i îukapyrûeramo, i tymbyrûeramo
+PRED: <extra_id_0>
 REF:  Ybyraîoasaba resé i moîarypyrûeramo sekóû, i îukapyrûeramo, i tymbyrûeramo
 ---
-PRED: Ybytyra Monte Calvário 'îápe
+PRED: <extra_id_0>.
 REF:  Ybytyra Monte Calvário 'îápe
 ---
-PRED: ikó 'ara pora
+PRED: <extra_id_0>.
 REF:  ikó 'ara pora
 ---
-PRED: Eîori, oré raûsubá
+PRED: <extra_id_0>.
 REF:  Eîori, oré raûsubá
 ---
-PRED: Nd'e'ikatuîpe abaréramo oîkoe'ymba'e emonã tekó monhanga?
+PRED: <extra_id_0>.
 REF:  Nd'e'ikatuîpe abaréramo oîkoe'ymba'e emonã tekó monhanga?
 ---
-PRED: Maraká poraseîa rerobîasara
+PRED: <extra_id_0> 
 REF:  Maraká poraseîa rerobîasara
 ---
-PRED: Y angaba'eamẽ ebokûé 'ypa'ũ
+PRED: <extra_id_0>.
 REF:  Y angaba'eamẽ ebokûé 'ypa'ũ
 ---
-PRED: Xe mba'e
+PRED: <extra_id_0>!
 REF:  Xe mba'e
 ---
-PRED: Xe repyramo omanõba'epûera ri xe akyre'ymamo
+PRED: <extra_id_0>
 REF:  Xe repyramo omanõba'epûera ri xe akyre'ymamo
 ---
-PRED: Rorẽ-ka'ẽ-piã?
+PRED: <extra_id_0>.
 REF:  Rorẽ-ka'ẽ-piã?
 ---
-PRED: Marãeté'ĩ ra'umope amõ Anhanga ratá pora rekóû ikó 'ara pupé?
+PRED: <extra_id_0>.
 REF:  Marãeté'ĩ ra'umope amõ Anhanga ratá pora rekóû ikó 'ara pupé?
 ---
-PRED: I mondóbo nhẽ nd'ereîkóî César nde rubixaba raûsuparamo
+PRED: <extra_id_0>.
 REF:  I mondóbo nhẽ nd'ereîkóî César nde rubixaba raûsuparamo
 ---
-PRED: Xe aé aporomoingó moropotara resé
+PRED: <extra_id_0>.
 REF:  Xe aé aporomoingó moropotara resé
 ---
-PRED: Xe usũî îepé
+PRED: <extra_id_0>.
 REF:  Xe usũî îepé
 ---
-PRED: Xe manhana, manembûera
+PRED: <extra_id_0>.
 REF:  Xe manhana, manembûera
 ---
-PRED: piripiri-ygara
+PRED: <extra_id_0>.,ловна <extra_id_12>
 REF:  piripiri-ygara
 ---
-PRED: nambie'yma
+PRED: <extra_id_0>
 REF:  nambie'yma
 ---
-PRED: Akûeîme eresapekó oré retama, saûsupa
+PRED: <extra_id_0>
 REF:  Akûeîme eresapekó oré retama, saûsupa
 ---
-PRED: Abá remimotara rupi tarypyrama é amoaé mokõî
+PRED: <extra_id_0>.,ловна
 REF:  Abá remimotara rupi tarypyrama é amoaé mokõî
 ---
-PRED: T'aîpobu sygé-aponga!
+PRED: <extra_id_0>.
 REF:  T'aîpobu sygé-aponga!
 ---
-PRED: okena kokaba
+PRED: <extra_id_0>.
 REF:  okena kokaba
 ---
-PRED: Osykyî mbyté paîé Karûara
+PRED: <extra_id_0>
 REF:  Osykyî mbyté paîé Karûara
 ---
-PRED: Se'yî nde rekasara
+PRED: <extra_id_0>
 REF:  Se'yî nde rekasara
 ---
-PRED: Aro'ar ygara
+PRED: <extra_id_0>.
 REF:  Aro'ar ygara
 ---
-PRED: ku'aî
+PRED: <extra_id_0>.
 REF:  ku'aî
 ---
-PRED: Xe marãmotar
+PRED: <extra_id_0>.
 REF:  Xe marãmotar
 ---
-PRED: A'epe sugûy moîa'o-mirĩ-mirĩneme i îabi'õpe i kûáî?
+PRED: <extra_id_0>.
 REF:  A'epe sugûy moîa'o-mirĩ-mirĩneme i îabi'õpe i kûáî?
 ---
-PRED: Aîpepó-pûar
+PRED: <extra_id_0>.
 REF:  Aîpepó-pûar
 ---
-PRED: pirá-nhandy
+PRED: <extra_id_0>.
 REF:  pirá-nhandy
 ---
-PRED: Arokûab
+PRED: <extra_id_0>
 REF:  Arokûab
 ---
-PRED: Epytá! Kagûápe nhõ nde ratãngatu-potá?
+PRED: <extra_id_0>
 REF:  Epytá! Kagûápe nhõ nde ratãngatu-potá?
 ---
-PRED: Eîpysyk ranhẽ
+PRED: <extra_id_0>.
 REF:  Eîpysyk ranhẽ
 ---
-PRED: Nd'e'i te'e o poxye'ymamo Tupã-Ta'yra syramo o îe'o îanondé
+PRED: <extra_id_0>.
 REF:  Nd'e'i te'e o poxye'ymamo Tupã-Ta'yra syramo o îe'o îanondé
 ---
-PRED: Akaîgûá! N'i tyb-angáî xe boîá
+PRED: <extra_id_0>.
 REF:  Akaîgûá! N'i tyb-angáî xe boîá
 ---
-PRED: Kûarasy abiã oporomo'y'useî-eté, memetaé tatápe oína abá o'useî-etéramo
+PRED: <extra_id_0>.
 REF:  Kûarasy abiã oporomo'y'useî-eté, memetaé tatápe oína abá o'useî-etéramo
 ---
-PRED: Xe 'anga-t'iã n'i marani
+PRED: <extra_id_0>.
 REF:  Xe 'anga-t'iã n'i marani
 ---
-PRED: Asesemõ
+PRED: <extra_id_0>.
 REF:  Asesemõ
 ---
-PRED: Eké xe porupi
+PRED: <extra_id_0>.
 REF:  Eké xe porupi
 ---
-PRED: O angaîpaba, Tupã nhe'enga abŷagûera reroŷrõmo
+PRED: <extra_id_0>
 REF:  O angaîpaba, Tupã nhe'enga abŷagûera reroŷrõmo
 ---
-PRED: u'u-mana
+PRED: <extra_id_0>.
 REF:  u'u-mana
 ---
-PRED: Aîmoaob Pedro
+PRED: <extra_id_0>.
 REF:  Aîmoaob Pedro
 ---
-PRED: I pyr
+PRED: <extra_id_0>.
 REF:  I pyr
 ---
-PRED: "Aîuká temomã" erépe abá remiendubamo?
+PRED: <extra_id_0>.
 REF:  "Aîuká temomã" erépe abá remiendubamo?
 ---
-PRED: Aûîé, kó temiminõ nd' ogûari Tupã rekó, nd'osaûsubi, n'omotybi
+PRED: <extra_id_0>.
 REF:  Aûîé, kó temiminõ nd' ogûari Tupã rekó, nd'osaûsubi, n'omotybi
 ---
-PRED: Oebyraîarinhote aîkó
+PRED: <extra_id_0>
 REF:  Oebyraîarinhote aîkó
 ---
-PRED: Aîpokugûab
+PRED: <extra_id_0>.
 REF:  Aîpokugûab
 ---
-PRED: Moropotara robaîara moropotare'yma
+PRED: <extra_id_0> sensual
 REF:  Moropotara robaîara moropotare'yma
 ---
-PRED: sabiîuakytãba'e
+PRED: <extra_id_0>.
 REF:  sabiîuakytãba'e
 ---
-PRED: Kó xe 'akusu
+PRED: <extra_id_0>
 REF:  Kó xe 'akusu
 ---
-PRED: Sobá resé onhenomũ-nomuna
+PRED: <extra_id_0>.
 REF:  Sobá resé onhenomũ-nomuna
 ---
-PRED: Emonã ruãpe é
+PRED: <extra_id_0>
 REF:  Emonã ruãpe é
 ---
-PRED: Mba'e-py'aûpîara kaûĩaîasy resé i monani
+PRED: <extra_id_0>
 REF:  Mba'e-py'aûpîara kaûĩaîasy resé i monani
 ---
-PRED: Sepŷápe, ereîakasó
+PRED: <extra_id_0>.
 REF:  Sepŷápe, ereîakasó
 ---
-PRED: "-E'i kó" eré tenhẽpe nde îuruaíbamo?
+PRED: <extra_id_0>.
 REF:  "-E'i kó" eré tenhẽpe nde îuruaíbamo?
 ---
-PRED: Aîpó resé nhẽ, ko'y asaûsu
+PRED: <extra_id_0>.
 REF:  Aîpó resé nhẽ, ko'y asaûsu
 ---
-PRED: Eîmoîasyk, xe py'a moberapa
+PRED: <extra_id_0>.
 REF:  Eîmoîasyk, xe py'a moberapa
 ---
-PRED: tobasy
+PRED: <extra_id_0>
 REF:  tobasy
 ---
-PRED: Tupã potaba
+PRED: <extra_id_0>
 REF:  Tupã potaba
 ---
-PRED: Ereîporakápe taba rerekoara nhe'enga?
+PRED: <extra_id_0>?
 REF:  Ereîporakápe taba rerekoara nhe'enga?
 ---
-PRED: A'epe o mena mũetéramo sekó mombe'ue'yma, marã?
+PRED: <extra_id_0>.
 REF:  A'epe o mena mũetéramo sekó mombe'ue'yma, marã?
 ---
-PRED: Aûîé a'e!
+PRED: <extra_id_0>
 REF:  Aûîé a'e!
 ---
-PRED: Akakugûabakatã
+PRED: <extra_id_0>.,ловна
 REF:  Akakugûabakatã
 ---
-PRED: Iîysapuku sama amõ
+PRED: <extra_id_0>.
 REF:  Iîysapuku sama amõ
 ---
-PRED: T'osendu aîpó nde 'é
+PRED: <extra_id_0>
 REF:  T'osendu aîpó nde 'é
 ---
-PRED: Ereîápe nde mba'e 'u roîré koîpó mba'e amõ mokon'iré?
+PRED: <extra_id_0>.
 REF:  Ereîápe nde mba'e 'u roîré koîpó mba'e amõ mokon'iré?
 ---
-PRED: Mba'easybora remimborará moarybé-ukasara bé 'ykaraíba
+PRED: <extra_id_0>.
 REF:  Mba'easybora remimborará moarybé-ukasara bé 'ykaraíba
 ---
-PRED: Marãpe asé rerokara asé rerekóû?
+PRED: <extra_id_0>
 REF:  Marãpe asé rerokara asé rerekóû?
 ---
-PRED: Emonã-pipó morubixaba erenhe'engobaîxûar?
+PRED: <extra_id_0>.
 REF:  Emonã-pipó morubixaba erenhe'engobaîxûar?
 ---
-PRED: Tupana kuapa, ko'y asaûsu xe îara Îesu
+PRED: <extra_id_0>
 REF:  Tupana kuapa, ko'y asaûsu xe îara Îesu
 ---
-PRED: Gûitu aîur
+PRED: <extra_id_0>
 REF:  Gûitu aîur
 ---
-PRED: Anhanga pyri seîtyka aûîeramanhẽ i kaîagûama
+PRED: <extra_id_0>.
 REF:  Anhanga pyri seîtyka aûîeramanhẽ i kaîagûama
 ---
-PRED: Abá-tepe oîkó xe oîá, Tupã tiruã momburûabo?
+PRED: <extra_id_0>.
 REF:  Abá-tepe oîkó xe oîá, Tupã tiruã momburûabo?
 ---
-PRED: Ybyrá supé nhẽpe asé îerokyû?
+PRED: <extra_id_0>.
 REF:  Ybyrá supé nhẽpe asé îerokyû?
 ---
-PRED: Ayby-ybykoî
+PRED: <extra_id_0>
 REF:  Ayby-ybykoî
 ---
-PRED: Abá mba'e mombuka
+PRED: <extra_id_0>.
 REF:  Abá mba'e mombuka
 ---
-PRED: Nd'e'i te'e ko'yr, onhemo'aretébo, og orybamo
+PRED: <extra_id_0>
 REF:  Nd'e'i te'e ko'yr, onhemo'aretébo, og orybamo
 ---
-PRED: Aîpó nhẽ-pipó ereîkó?
+PRED: <extra_id_0>.
 REF:  Aîpó nhẽ-pipó ereîkó?
 ---
-PRED: I angaîpaba momburûabo
+PRED: <extra_id_0>.,ловна <extra_id_12>
 REF:  I angaîpaba momburûabo
 ---
-PRED: Nã takó îomomoranga re'a!
+PRED: <extra_id_0>
 REF:  Nã takó îomomoranga re'a!
 ---
-PRED: Nd'e'i te'e i mongetasara Tupã nhe'enga abŷabo
+PRED: <extra_id_0>
 REF:  Nd'e'i te'e i mongetasara Tupã nhe'enga abŷabo
 ---
-PRED: Toryba suí apó-por gûitekóbo
+PRED: <extra_id_0>.
 REF:  Toryba suí apó-por gûitekóbo
 ---
-PRED: A'epe 'aretéreme eresó
+PRED: <extra_id_0>.
 REF:  A'epe 'aretéreme eresó
 ---
-PRED: Oîposanong, i nambi atõîa nhote, aûnhenhẽ i monga'ẽmo, i moîepotá
+PRED: <extra_id_0>
 REF:  Oîposanong, i nambi atõîa nhote, aûnhenhẽ i monga'ẽmo, i moîepotá
 ---
-PRED: Paranãmbora ri aîkó
+PRED: <extra_id_0>
 REF:  Paranãmbora ri aîkó
 ---
-PRED: arinhama rupi'a
+PRED: <extra_id_0>
 REF:  arinhama rupi'a
 ---
-PRED: Xe resagûyryb
+PRED: <extra_id_0>
 REF:  Xe resagûyryb
 ---
-PRED: Aî'abo'o
+PRED: <extra_id_0>.
 REF:  Aî'abo'o
 ---
-PRED: pyrangaíb
+PRED: <extra_id_0>
 REF:  pyrangaíb
 ---
-PRED: Obok nde nhy'ã saûsuba resé
+PRED: <extra_id_0>
 REF:  Obok nde nhy'ã saûsuba resé
 ---
-PRED: Ererobîápe paîé-aíba mosangyîaramo sekó?
+PRED: <extra_id_0>.
 REF:  Ererobîápe paîé-aíba mosangyîaramo sekó?
 ---
-PRED: mba'e-tepe?
+PRED: <extra_id_0>
 REF:  mba'e-tepe?
 ---
-PRED: Oporomoingobé-mo'anga
+PRED: <extra_id_0>.,ловна
 REF:  Oporomoingobé-mo'anga
 ---
-PRED: Emokanhem xe ra'angara
+PRED: <extra_id_0>.
 REF:  Emokanhem xe ra'angara
 ---
-PRED: A'é byter aîpó gûi'îabo - Ainda digo isso E'i byté-byterĩ ahẽ xe amotare'yma
+PRED: <extra_id_0>
 REF:  A'é byter aîpó gûi'îabo - Ainda digo isso E'i byté-byterĩ ahẽ xe amotare'yma
 ---
-PRED: Xe 'apititing
+PRED: <extra_id_0>.
 REF:  Xe 'apititing
 ---
-PRED: Kunhã resé oîemoîoîaba'e
+PRED: <extra_id_0>
 REF:  Kunhã resé oîemoîoîaba'e
 ---
-PRED: tamandûá-atyrabebó
+PRED: <extra_id_0>
 REF:  tamandûá-atyrabebó
 ---
-PRED: Xe rory Ybytyrapé, ybytyrapûá suí
+PRED: <extra_id_0>
 REF:  Xe rory Ybytyrapé, ybytyrapûá suí
 ---
-PRED: I momokõîndûara mendara moîekosupaba
+PRED: <extra_id_0>
 REF:  I momokõîndûara mendara moîekosupaba
 ---
-PRED: Oîeaŷbyk ogûasem-asemamo
+PRED: <extra_id_0>
 REF:  Oîeaŷbyk ogûasem-asemamo
 ---
-PRED: Opá og ugûy me'engi, omanomõ
+PRED: <extra_id_0>
 REF:  Opá og ugûy me'engi, omanomõ
 ---
-PRED: Mba'epe Tupã oîme'eng asébe ybakypene?
+PRED: <extra_id_0>.
 REF:  Mba'epe Tupã oîme'eng asébe ybakypene?
 ---
-PRED: Tekoaíba oromombó
+PRED: <extra_id_0>.
 REF:  Tekoaíba oromombó
 ---
-PRED: Tupã oîepé nhõ nhẽ gûekó-karaibetéramo, abaetéramo
+PRED: <extra_id_0>.
 REF:  Tupã oîepé nhõ nhẽ gûekó-karaibetéramo, abaetéramo
 ---
-PRED: I abaeté sepîaka ixébo
+PRED: <extra_id_0>.
 REF:  I abaeté sepîaka ixébo
 ---
-PRED: Kó xe itangapema xe pópe nd'oîkóî tenhẽ, pe mombokaûama é
+PRED: <extra_id_0>.
 REF:  Kó xe itangapema xe pópe nd'oîkóî tenhẽ, pe mombokaûama é
 ---
-PRED: mokõ-mokõî
+PRED: <extra_id_0>
 REF:  mokõ-mokõî
 ---
-PRED: ungûá-obaîara
+PRED: <extra_id_0>.
 REF:  ungûá-obaîara
 ---
-PRED: Aanumẽne! Asabeypó
+PRED: <extra_id_0>! <extra_id_10>!
 REF:  Aanumẽne! Asabeypó
 ---
-PRED: Xe mondá
+PRED: <extra_id_0>.
 REF:  Xe mondá
 ---
-PRED: Nd'e'i te'e a'ereme Îudeus sykyîatãmo, i pira abé reru
+PRED: <extra_id_0>.
 REF:  Nd'e'i te'e a'ereme Îudeus sykyîatãmo, i pira abé reru
 ---
-PRED: Nde moaysó-eté i xuí
+PRED: <extra_id_0>
 REF:  Nde moaysó-eté i xuí
 ---
-PRED: Aîma'e'ĩ
+PRED: <extra_id_0>.
 REF:  Aîma'e'ĩ
 ---
-PRED: Kó nde momboîtaba kó!
+PRED: <extra_id_0>.
 REF:  Kó nde momboîtaba kó!
 ---
-PRED: Ikendûara n'ikó
+PRED: <extra_id_0>
 REF:  Ikendûara n'ikó
 ---
-PRED: Ang é
+PRED: <extra_id_0>.
 REF:  Ang é
 ---
-PRED: Ikó tabape, marã nd'eréîpe i xupé ranhẽ?
+PRED: <extra_id_0>.
 REF:  Ikó tabape, marã nd'eréîpe i xupé ranhẽ?
 ---
-PRED: Anhanga t'îaîpe'a ko'yr aûîeramanhẽ
+PRED: <extra_id_0>
 REF:  Anhanga t'îaîpe'a ko'yr aûîeramanhẽ
 ---
-PRED: apûé-katu
+PRED: <extra_id_0>.,ловна 
 REF:  apûé-katu
 ---
-PRED: abá-memûã
+PRED: <extra_id_0>.,ловна 
 REF:  abá-memûã
 ---
-PRED: Na xe îuruéî
+PRED: <extra_id_0>.
 REF:  Na xe îuruéî
 ---
-PRED: Pemoŷrõ Pa'i Îesu
+PRED: <extra_id_0>.
 REF:  Pemoŷrõ Pa'i Îesu
 ---
-PRED: pysagûasu-eîtykara
+PRED: <extra_id_0>
 REF:  pysagûasu-eîtykara
 ---
-PRED: I 'arybo omanõmo Îandé Îara îandé repyme'engagûera resé
+PRED: <extra_id_0>.
 REF:  I 'arybo omanõmo Îandé Îara îandé repyme'engagûera resé
 ---
-PRED: A'ar
+PRED: <extra_id_0>
 REF:  A'ar
 ---
-PRED: Andyrá ruãpe é, panama koîpó gûaîkuíka?
+PRED: <extra_id_0>?
 REF:  Andyrá ruãpe é, panama koîpó gûaîkuíka?
 ---
-PRED: I ku'agûasu
+PRED: <extra_id_0>
 REF:  I ku'agûasu
 ---
-PRED: Oîoparabamo orokûab
+PRED: <extra_id_0>.
 REF:  Oîoparabamo orokûab
 ---
-PRED: Aîeruré Tupã supé xe angaturãgûama resé
+PRED: <extra_id_0>
 REF:  Aîeruré Tupã supé xe angaturãgûama resé
 ---
-PRED: Tupã resápe-katu kó pe rekó rekóû i paparypyramo
+PRED: <extra_id_0>.
 REF:  Tupã resápe-katu kó pe rekó rekóû i paparypyramo
 ---
-PRED: Ybakype opytaba'epûera rubixaba
+PRED: <extra_id_0>.
 REF:  Ybakype opytaba'epûera rubixaba
 ---
-PRED: Xe 'anga moteni
+PRED: <extra_id_0>
 REF:  Xe 'anga moteni
 ---
-PRED: - A'u temõ mba'eaíba mã a'emo nhẽ xe re'õû ãûa suí
+PRED: <extra_id_0>
 REF:  - A'u temõ mba'eaíba mã a'emo nhẽ xe re'õû ãûa suí
 ---
-PRED: Erĩ, aûîé, peputu'u!
+PRED: <extra_id_0>.
 REF:  Erĩ, aûîé, peputu'u!
 ---
-PRED: Oroby'a nde resé
+PRED: <extra_id_0>.
 REF:  Oroby'a nde resé
 ---
-PRED: T'oîepun xe marandûera!
+PRED: <extra_id_0>.
 REF:  T'oîepun xe marandûera!
 ---
-PRED: Mba'e i 'upyra resé nhõpe asé îeruréû Tupã supé?
+PRED: <extra_id_0>
 REF:  Mba'e i 'upyra resé nhõpe asé îeruréû Tupã supé?
 ---
-PRED: Ybyrá karamemûã, ygarusu nungara pupé, i mo'aruká
+PRED: <extra_id_0>
 REF:  Ybyrá karamemûã, ygarusu nungara pupé, i mo'aruká
 ---
-PRED: Asé 'anga resapesaba gûeba potare'yma
+PRED: <extra_id_0>.
 REF:  Asé 'anga resapesaba gûeba potare'yma
 ---
-PRED: Nde moangaturameté pa'i Tupã
+PRED: <extra_id_0>
 REF:  Nde moangaturameté pa'i Tupã
 ---
-PRED: I abaíb aîpó nhe'enga
+PRED: <extra_id_0>.,ловна <extra_id_12>
 REF:  I abaíb aîpó nhe'enga
 ---
-PRED: -Muru ri opurũ-purung
+PRED: <extra_id_0>.
 REF:  -Muru ri opurũ-purung
 ---
-PRED: Tupã beraba reru
+PRED: <extra_id_0>.
 REF:  Tupã beraba reru
 ---
-PRED: A'epe xe soagûama
+PRED: <extra_id_0>.
 REF:  A'epe xe soagûama
 ---
-PRED: Sasyeté niã Tupã remipe'apûera, ogûekó-mara'ara reroína
+PRED: <extra_id_0>.
 REF:  Sasyeté niã Tupã remipe'apûera, ogûekó-mara'ara reroína
 ---
-PRED: Santa Maria resé tekopoxy nd'obasemi
+PRED: <extra_id_0>.
 REF:  Santa Maria resé tekopoxy nd'obasemi
 ---
-PRED: opá 'ypa'ũmendûara
+PRED: <extra_id_0>.
 REF:  opá 'ypa'ũmendûara
 ---
-PRED: Xe re'õ'ar
+PRED: <extra_id_0>
 REF:  Xe re'õ'ar
 ---
-PRED: Aûîé! Xe îuká îepé!
+PRED: <extra_id_0>
 REF:  Aûîé! Xe îuká îepé!
 ---
-PRED: Xe ypy ten
+PRED: <extra_id_0>
 REF:  Xe ypy ten
 ---
-PRED: Oîopyk muru akanga, i moatãe'ỹngatûabo
+PRED: <extra_id_0>.
 REF:  Oîopyk muru akanga, i moatãe'ỹngatûabo
 ---
-PRED: Na nde ruã-te p'akó kunhã ri ereîemomotá?
+PRED: <extra_id_0>.
 REF:  Na nde ruã-te p'akó kunhã ri ereîemomotá?
 ---
-PRED: A'ereme oín uman São João Batista o sy rygépe
+PRED: <extra_id_0>.
 REF:  A'ereme oín uman São João Batista o sy rygépe
 ---
-PRED: I 'aysyk
+PRED: <extra_id_0>.
 REF:  I 'aysyk
 ---
-PRED: Tatá nde arõ-eté, i pupé t'ereîesy
+PRED: <extra_id_0>
 REF:  Tatá nde arõ-eté, i pupé t'ereîesy
 ---
-PRED: tekokatu 'useîtara
+PRED: <extra_id_0>.
 REF:  tekokatu 'useîtara
 ---
-PRED: passo jenipapo Aîîanypá-mongy
+PRED: <extra_id_0>
 REF:  passo jenipapo Aîîanypá-mongy
 ---
-PRED: Abá-abá rerape eboinga?
+PRED: <extra_id_0>.
 REF:  Abá-abá rerape eboinga?
 ---
-PRED: So'o mimbaba roka ogûar og upabamo
+PRED: <extra_id_0>.
 REF:  So'o mimbaba roka ogûar og upabamo
 ---
-PRED: Mba'easybora o mara'ara kakareme, t'osenõîukar abaré
+PRED: <extra_id_0>
 REF:  Mba'easybora o mara'ara kakareme, t'osenõîukar abaré
 ---
-PRED: Aîur gûiîeby
+PRED: <extra_id_0>
 REF:  Aîur gûiîeby
 ---
-PRED: ko'ẽ kó
+PRED: <extra_id_0>.
 REF:  ko'ẽ kó
 ---
-PRED: Aûîebéramo asó
+PRED: <extra_id_0>
 REF:  Aûîebéramo asó
 ---
-PRED: Aîmokûar
+PRED: <extra_id_0>
 REF:  Aîmokûar
 ---
-PRED: pindasã-pokuruba
+PRED: <extra_id_0>.
 REF:  pindasã-pokuruba
 ---
-PRED: Ababak
+PRED: <extra_id_0>.
 REF:  Ababak
 ---
-PRED: Penheangerekó amõ 'ara pupé te'õ pe rokena motaka turagûama resé é pe pokosupa
+PRED: <extra_id_0>.
 REF:  Penheangerekó amõ 'ara pupé te'õ pe rokena motaka turagûama resé é pe pokosupa
 ---
-PRED: Te'õ rerobyka é, xe angaîpá-tubixagûera amosẽne
+PRED: <extra_id_0>
 REF:  Te'õ rerobyka é, xe angaîpá-tubixagûera amosẽne
 ---
-PRED: Emonã serekopyra rakó abá obasẽ-porang
+PRED: <extra_id_0>.
 REF:  Emonã serekopyra rakó abá obasẽ-porang
 ---
-PRED: Koromõ, keygûara temiminõ moaûîébo, asapekóne
+PRED: <extra_id_0>
 REF:  Koromõ, keygûara temiminõ moaûîébo, asapekóne
 ---
-PRED: Ereîmonhenongype kunhã nde 'arybo sesé eîkóbo?
+PRED: <extra_id_0>?
 REF:  Ereîmonhenongype kunhã nde 'arybo sesé eîkóbo?
 ---
-PRED: I xupé ogûeru îetanongabamo itaîuba, ysykatã syapûãba'e, mirra
+PRED: <extra_id_0>.
 REF:  I xupé ogûeru îetanongabamo itaîuba, ysykatã syapûãba'e, mirra
 ---
-PRED: Mba'erama resépe abá mendari?
+PRED: <extra_id_0>.
 REF:  Mba'erama resépe abá mendari?
 ---
-PRED: Aîtyapyî
+PRED: <extra_id_0>
 REF:  Aîtyapyî
 ---
-PRED: Ereîpopytybõpe nde ruba nde sy abé?
+PRED: <extra_id_0>
 REF:  Ereîpopytybõpe nde ruba nde sy abé?
 ---
-PRED: Ké muru ruri obébo?
+PRED: <extra_id_0>.
 REF:  Ké muru ruri obébo?
 ---
-PRED: Opakatu abá sóû ladainhas monhanga
+PRED: <extra_id_0>
 REF:  Opakatu abá sóû ladainhas monhanga
 ---
-PRED: Erepokokype nde rapopé resé, i pekábo?
+PRED: <extra_id_0>.
 REF:  Erepokokype nde rapopé resé, i pekábo?
 ---
-PRED: I xupé é
+PRED: <extra_id_0>.
 REF:  I xupé é
 ---
-PRED: Pé ku'ape, kunumĩ pu'ama'ubi xe ri
+PRED: <extra_id_0>
 REF:  Pé ku'ape, kunumĩ pu'ama'ubi xe ri
 ---
-PRED: A'ebé kori i mbo'ane
+PRED: <extra_id_0>.
 REF:  A'ebé kori i mbo'ane
 ---
-PRED: Xe ropé-py-sysyî
+PRED: <extra_id_0>.
 REF:  Xe ropé-py-sysyî
 ---
-PRED: I pupé Îesu Cristo rekóû, i Tupã, seté abé gûetependûara pupé
+PRED: <extra_id_0>
 REF:  I pupé Îesu Cristo rekóû, i Tupã, seté abé gûetependûara pupé
 ---
-PRED: Eîpotare'ymumẽ
+PRED: <extra_id_0>.
 REF:  Eîpotare'ymumẽ
 ---
-PRED: Aîkytyk iraîty pupé
+PRED: <extra_id_0>.
 REF:  Aîkytyk iraîty pupé
 ---
-PRED: Xe rakubeté kó mã!
+PRED: <extra_id_0>!
 REF:  Xe rakubeté kó mã!
 ---
-PRED: Sobabo akûab
+PRED: <extra_id_0>.
 REF:  Sobabo akûab
 ---
-PRED: O asykûera resé nd'e'ikatuî abá omendá
+PRED: <extra_id_0>
 REF:  O asykûera resé nd'e'ikatuî abá omendá
 ---
