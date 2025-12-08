@@ -1,7 +1,5 @@
 from transformers import Trainer, TrainingArguments
 import os
-os.environ["TORCH_HOME"] = "D:/torch_cache"
-
 import torch
 from torch.utils.data import Dataset
 from src.utils import create_dir
@@ -17,7 +15,7 @@ class Seq2SeqDataset(Dataset):
     def __getitem__(self, idx):
         return {key: torch.tensor(val[idx]) for key, val in self.encodings.items()}
 
-def train_model(model, tokenizer, tokenized_dataset):
+def train_model(model, tokenizer, tokenized_dataset, name = "mt5-finetuned"):
     """
     Treina um modelo seq2seq (ex.: T5/BART) usando Hugging Face Trainer,
     sem evaluation_strategy e compatível com versões antigas.
@@ -31,9 +29,9 @@ def train_model(model, tokenizer, tokenized_dataset):
 
     # Detecta se há GPU
     fp16_flag = torch.cuda.is_available()
-
+    
     training_args = TrainingArguments(
-        output_dir="D:/model/mt5-finetuned",
+        output_dir=f"D:/model/{name}",
         per_device_train_batch_size=2,
         per_device_eval_batch_size=2,
         num_train_epochs=3,
@@ -57,8 +55,8 @@ def train_model(model, tokenizer, tokenized_dataset):
 
     # Salva modelo e tokenizer
     create_dir("./model")
-    trainer.save_model("./model/mt5-finetuned")
-    tokenizer.save_pretrained("./model/mt5-finetuned")
+    trainer.save_model(f"./model/{name}")
+    tokenizer.save_pretrained(f"./model/{name}")
 
-    print("Treinamento concluído e modelo salvo em ./model/mt5-finetuned")
+    print(f"Treinamento concluído e modelo salvo em ./model/{name}")
     return model, tokenizer

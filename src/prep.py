@@ -3,8 +3,37 @@ from sklearn.model_selection import train_test_split
 from datasets import DatasetDict
 import pandas as pd
 
+import re
+import unicodedata
+
+def robust_normalize_tupi(text):
+
+    text = unicodedata.normalize('NFC', text)
+
+    substitutions = {
+        'á': 'a', 'à': 'a', 'â': 'a', 'ä': 'a', 'ã': 'a',
+        'é': 'e', 'è': 'e', 'ê': 'e', 'ë': 'e',
+        'í': 'i', 'ì': 'i', 'î': 'i', 'ï': 'i', 'ĩ': 'i',
+        'ó': 'o', 'ò': 'o', 'ô': 'o', 'ö': 'o', 'õ': 'o',
+        'ú': 'u', 'ù': 'u', 'û': 'u', 'ü': 'u',
+        'ç': 'c',
+        '’': "'", '‘': "'", '`': "'", '´': "'",
+        '–': '-', '—': '-',
+        '“': '"', '”': '"'
+    }
+
+    for old, new in substitutions.items():
+        text = text.replace(old, new)
+
+    text = re.sub(r"[^a-zA-Z0-9\s'-]", "", text)
+
+    text = re.sub(r"\s+", " ", text).strip()
+
+    return text
+
 def prep_data(path: str):
     df = open_xlsx_file(path)
+    df.iloc[:,0] = df.iloc[:,0].apply(robust_normalize_tupi)
     df.dropna(inplace=True)
     df.rename(columns={df.columns[0]: "pt"}, inplace=True)
     df.rename(columns={df.columns[1]: "tp"}, inplace=True)

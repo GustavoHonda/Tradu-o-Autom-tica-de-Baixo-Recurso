@@ -1,5436 +1,5436 @@
 ===== METRICS =====
-BLEU:  0.008560276218397986
-chrF1: 2.8753654862180693
-chrF3: 2.2363953781696098
+BLEU:  0.02483361713969221
+chrF1: 6.983642068289081
+chrF3: 5.444229832655213
 
 ===== PREDICTIONS =====
-PRED: <extra_id_0>
+PRED: بیاکتنه: Fiz frustrar aquilo que fulano faria
 REF:  Aîmorambûerukar ahẽ rekorambûera
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu tenho pes calejados
 REF:  Xe py-piru'a
 ---
-PRED: <extra_id_0>
+PRED: 简历: 我真象看见了你,你说的那样
 REF:  Ixé aé ã a'é umûã nakó peẽme
 ---
-PRED: <extra_id_0>
+PRED: резюме: Vinde abracai o nenem compadecedor
 REF:  Peîori, peîaîubã pitangĩ-moraûsubara
 ---
-PRED: <extra_id_0>.
+PRED: resume: o mais cedo possivel em um momento
 REF:  korite'ĩ-aíb-eté
 ---
-PRED: <extra_id_0>
+PRED: резюме: Acovardo-me
 REF:  Amembek
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Como a gente procede para o fulfill da vontade de Deus
 REF:  Marãpe asé rekóû Tupã remimotara moporagûama resé
 ---
-PRED: <extra_id_0>!
+PRED: резюме: Coisa beicuda
 REF:  Mba'e-embegûasu!
 ---
-PRED: <extra_id_0>
+PRED: резюме: Ah oxala ele viesse
 REF:  Marãîasûaramo turi mã!
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Trouxe muitas destas ostras
 REF:  Aruretá kó reri
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: د ما نږدې نږدې نږدې نږدې
 REF:  T'oîkó umẽ moxy xe ypybo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu tenho cachaco grande
 REF:  Xe aŷpygûasu
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Fi-lo mal
 REF:  Aîmonhã-memûã
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Cresceram muito as aguas isto e subiu a mare
 REF:  Our paranã - Subiu a água do mar Ourusu 'y
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: د هغه خلکو لپاره چې ډیری وختونه لیږل کیږي
 REF:  Marãnamope asé îobasabetá-etáûne?
 ---
-PRED: <extra_id_0>.
+PRED: 答覆: E o que evoca a Deus pelo que nao e verdade que acontece
 REF:  A'epe supindûare'yma resé Tupã renõîndara, marã?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Entisnei o rosto dele
 REF:  Asobaún
 ---
-PRED: <extra_id_0>.
+PRED: रिव्यूःQue o deixem estar
 REF:  Te'inhẽne oîkóbo ká
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Fazendo-o estar com firmeza
 REF:  Ten i mo'îabo
 ---
-PRED: <extra_id_0>.
+PRED: リビジョン: Olhando na ponta dos teus eyes
 REF:  Nde resá-popybo ema'ẽmo
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Confessa-se alguem antes de ir a guerra antes de embarcar num navio
 REF:  Onhemombe'upe abá gûarinĩnamo o só îanondé, ygarusupe o 'ar-y îanondé?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: د نارینه او ښځو لپاره د نارینه او ښځو لپاره د زیږون وړاندیز
 REF:  Eîori muru mondyîa, t'opu'am umẽ oré ri
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Qual Aquele Lourenco tostado
 REF:  Umã? Akó Rorẽ-ka'ẽ?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Hei de frequentar Ibioca revirarei tambem Itaoca e enfim Jupaoguao
 REF:  Ybyoka asapekóne, Itaoka abé aîpobu, rumby, Îupaogûaóne
 ---
-PRED: <extra_id_0>.
+PRED: resume: po de madeira como o que faz o caruncho no pau
 REF:  ybyrá ku'i
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Nem por isso eu vou para longe
 REF:  Ndaroîaî mamõ xe sóû
 ---
-PRED: <extra_id_0>
+PRED: د محصول د نښانونه
 REF:  Eîori, mba'enem, mba'e-poxy, mborá!
 ---
-PRED: <extra_id_0>.
+PRED: 简历:我真想忘记了,我不想忘记
 REF:  Xe resaraî é gûitekóbo, n'aseîá-potá ruã!
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Nao o teriamos trazido a ti se ele nao tivesse pecado
 REF:  N'orogûeruri xûémo ndebe i angaîpabe'ỹmemo
 ---
-PRED: <extra_id_0>
+PRED: резюме: Eu sou o que e rico
 REF:  I mba'eba'e ixé
 ---
-PRED: <extra_id_0>
+PRED: resume: Algo semelhante a um navio
 REF:  Ygarusu nungara
 ---
-PRED: <extra_id_0>
+PRED: резюме: saca
 REF:  aîogûasu
 ---
-PRED: <extra_id_0>
+PRED: resume: Caminhei o dia todo por causa da tua fama
 REF:  Agûatá ko'arapukuî nde rerapûana resé
 ---
-PRED: <extra_id_0>.
+PRED: resume: Com meu conjuge verdadeiro somente hei de ter relacoes sexuais
 REF:  Xe mendasabeté resé nhõ t'aîkóne
 ---
-PRED: <extra_id_0>?
+PRED: резюме: Apartaste alguma mulher de seu marido
 REF:  Ereîmombo'irype kunhã amõ i mena suí?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Vem para nos arrebatar
 REF:  Eîori oré rekyîa
 ---
-PRED: <extra_id_0>
+PRED: резюме: Ainda que eu ja tivesse ido
 REF:  Aûîebé-temo xe só-umani
 ---
-PRED: <extra_id_0>.
+PRED: Rückmeldung: Eu tenho propensao a esquecer eu sou esquecidico
 REF:  Xe resaraî-potar
 ---
-PRED: <extra_id_0>
+PRED: 自我介绍:我情绪低落
 REF:  Ne'ĩ taûîé xe reîyîa!
 ---
-PRED: <extra_id_0>.
+PRED: резюме: muitos outeiros serrania
 REF:  ybyty-bytyra
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Com algumas coisas que sao saborosas
 REF:  Amõ seba'e irũmo nhẽ
 ---
-PRED: <extra_id_0> 
+PRED: резюме: homem sovina
 REF:  abá-pûapẽîara
 ---
-PRED: <extra_id_0>?
+PRED: بیاکتنه: Tu foste torpe com alguma irma de tua esposa ou com sua parente proxima
 REF:  Nde poxype nde remirekó asykûereté amõ resé koîpó i mũ-mbyryba?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: زه له دې سره مخ یم چې زه د دې سره مخ یم
 REF:  Na xe îuru-pyki
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Ele passou diante de Ilheus
 REF:  Nhoesembé robabo i kûáî
 ---
-PRED: <extra_id_0>
+PRED: резюме: Na verdade nao sao conhecedores das coisas
 REF:  Anhẽ, n'i tekokuabi
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Amarraram-no com corda fazendo-o estar em pe
 REF:  Oîxamysyk sero'ama
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Levando nuestra alma para o ceu
 REF:  Ybakype asé 'anga rerasóbo
 ---
-PRED: <extra_id_0>.
+PRED: resume: experimentndo pocoes de ervas
 REF:  ka'a mosanga ra'anga
 ---
-PRED: <extra_id_0>
+PRED: резюме: Esfreguei a pele dele
 REF:  Aîpi-momemûã
 ---
-PRED: <extra_id_0>
+PRED: резюме: Aquieta-te Verdadeiramente este e teu caminho
 REF:  Nde arybé Anheté kó nde rapé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Guarda-te de o levares
 REF:  Teumẽ ké serasóbo rá
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Anunciando nuestra futura felicidade
 REF:  Asé rekokaturama mombegûabo
 ---
-PRED: <extra_id_0>
+PRED: resume: Estou-me agachando parado
 REF:  Anhemombeb gûitena
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Que queimem em teu fogo para que os pecados dos malditos tenham retribuicao
 REF:  T'okaî nde ratá pupé, ta sepy muru angaîpaba
 ---
-PRED: <extra_id_0>
+PRED: レセプト:o que eu ensinei
 REF:  xe remimbo'epûera
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: estes que estao em Ibiapaba
 REF:  kó Yby'apapesûara
 ---
-PRED: <extra_id_0>.,ловна
+PRED: بیاکتنه: Serao muitos os fatos que assustarao د خلکو په توګه
 REF:  Setá tekó oporomondyîba'ene
 ---
-PRED: <extra_id_0>.
+PRED: アレム・ド・リオ
 REF:  y robaî
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Eu sou uma jiboia eu sou um soco eu sou o grande tamoio Aimbire
 REF:  Xe îyboîa, xe sokó, xe tamuîusu Aîmbiré
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Ele e o anjo que encomenda o enforcamento
 REF:  Karaibebé a'e, moroîubyka puaîtara
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Ca vem um barco Nao faz senao ir
 REF:  Kó ygara ruri Osó-te
 ---
-PRED: <extra_id_0>.
+PRED: Resumen: Contando como maldades escondidas de alguem para quem nao as conhece
 REF:  Abá angaîpá-nhemima i kuapare'yma supé mombegûabo
 ---
-PRED: <extra_id_0>
+PRED: resume: o que e ou deve ser convidado
 REF:  i xo'opyra
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Eu hei de bem apanhar-te fazendo-te cair no meu mundeu
 REF:  Xe t'oropysykatu, xe mundépe nde mbo'a
 ---
-PRED: <extra_id_0>
+PRED: резюме: Encarreguei Pedro da lenha
 REF:  Aîopûaî Pedro îepeaba resé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Dormes Guaixara
 REF:  Ereképe, Gûaîxará?
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: څومره وختونه تاسو اعتراف کوئ یا شریک کړئ
 REF:  Mobype erenhemombe'u koîpó eretupãar?
 ---
-PRED: <extra_id_0>
+PRED: resume: o avesso dele
 REF:  i py
 ---
-PRED: <extra_id_0>.
+PRED: :د لټولو د پاره
 REF:  Ikó 'ara pupé abiã Tupã remimonhangûera i porãngatu, memetipó ebapó ybakypy
 ---
-PRED: <extra_id_0>
+PRED: резюме: Farei todos pecarem de novo
 REF:  Aîmoangaîpá pá benhẽne
 ---
-PRED: <extra_id_0>.
+PRED: resume: o doente que esta ao teu lado
 REF:  mba'easybora nde kotypendûara
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Invocando a Deus ou sua propria alma ou a cruz ou algo verdadeiro
 REF:  Tupã koîpó o 'anga koîpó cruz koîpó anheté renõîa
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Sabem bem de sua futura saida dali
 REF:  Oîkuá-katupe a'e suí o semagûama?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: O cao e avido isto e bom de caca que quer tudo apanhar
 REF:  I mba'e-potar îagûara
 ---
-PRED: <extra_id_0>
+PRED: resume: Fizemo-nos passar uns aos outros passamos uns com os outros
 REF:  Oroîoerokûab
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Que ele faca Deus lembrar-se de nos
 REF:  A'e îandé resé Tupã t'omoma'enduar
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Amando tua grande beleza
 REF:  Nde porãngatu raûsupa
 ---
-PRED: <extra_id_0>.,ловна
+PRED: резюме: Cantemos um little primeiro
 REF:  T'îanhe'engá-mirĩ ranhẽ
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Falo irritadamente
 REF:  Anhe'ẽ-îeaseî
 ---
-PRED: <extra_id_0>
+PRED: resume: tempo de rogar a Deus pelas almas
 REF:  angûera resé Tupã mongetasagûama
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: له تاسو سره په اړیکه کې پاتې شئ
 REF:  Ererokûé-rokûerype abá amõ?
 ---
-PRED: <extra_id_0>!
+PRED: резюме: Afasta-te
 REF:  Eîepe'a!
 ---
-PRED: <extra_id_0>.,ловна
+PRED: резюме: Deleita-me muito
 REF:  Xe moapysy-katu
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Estando virgem mesmo dando-o a luz antes de da-lo a luz e igualmente apos da-lo a luz
 REF:  I mbo'a tiruã, i mbo'ar' e'ymebé, a'erame'ĩ i mbo'ar'iré, omarane'ymamo
 ---
-PRED: <extra_id_0>
+PRED: резюме: Pintei-o
 REF:  Aîkûatiar
 ---
-PRED: <extra_id_0>
+PRED: resume: no fim do mundo lit no tempo de acabar o mundo
 REF:  ara papápe
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Tu em teus bracos Jesus ergueste
 REF:  Endé, nde îybápe, Îesu eresupi
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Desde yesterday nao como nada
 REF:  Kûesé bé mba'e n'a'uî
 ---
-PRED: <extra_id_0>
+PRED: بیرته راستانه کول: د لوړې کچې لپاره زما لیږدول
 REF:  T'ereîu ybaté xe rerasóbo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Estou a parte
 REF:  Aindé
 ---
-PRED: <extra_id_0>.
+PRED: resume: Todos os bens de meus avos joguei fora
 REF:  Opá xe ramyîa ma'epûera aîtyk
 ---
-PRED: <extra_id_0>.,ловна
+PRED: بیاکتنه: Se nao fosse ele ter ido
 REF:  Osó é ahẽ îabynomã
 ---
-PRED: <extra_id_0>
+PRED: резюме: Today mesmo hei de fazer-te ir
 REF:  Kori é t'oromondóne
 ---
-PRED: <extra_id_0>
+PRED: resume: Estai aqui esperando-me junto de mim nao dormindo
 REF:  Iké nhẽ peîkó xe rarõmo, xe pyri, pekere'yma
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Como crianca esta nos bracos de Maria
 REF:  Pitangamo seni Maria îybápe
 ---
-PRED: <extra_id_0>
+PRED: 简历: 我真象看见了你,你说的那样
 REF:  Ixé aé ã a'é umûã nakó peẽme
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Tu deste a luz por tua vontade
 REF:  Nde membyrápe erimba'e nde remimotarybo?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Amando tua grande beleza
 REF:  Nde porãngatu raûsupa
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: د ټولو ژوندیو او مړینو لپاره د ژغورلو لپاره ډی ویرا
 REF:  A'e suí turi oîkobeba'e omanõba'epûera pabẽ rekomonhangane
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: له موږ سره مینه لري مګر دا زموږ مینې ته ستاسې د خپلوانو سره مینه لري
 REF:  Asé sy o membypitanga raûsuba sosé asé raûsume nhẽ
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Mais que a todos os seres humanos embelezou-a
 REF:  Abá sosé pabẽ i momorangi
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Nao mato
 REF:  Aîukae'ym
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Dar de comer aos famintos
 REF:  Ambyasybora poîa
 ---
-PRED: <extra_id_0>
+PRED: резюме: Por ai as mulheres casadas ficavas pervertendo
 REF:  Kûepe kunhã-mendarûera ereîmomoxy-moxy
 ---
-PRED: <extra_id_0>.
+PRED: резюме: helpnte de Sao Lourenco
 REF:  São Lourenço pytybõana
 ---
-PRED: <extra_id_0>
+PRED: резюме: Trouxeste teu fumo
 REF:  Ererupe nde petyma?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: د Cipos ټایټ
 REF:  ysypó-tyba
 ---
-PRED: <extra_id_0>
+PRED: резюме: Matai-o
 REF:  Peîuká!
 ---
-PRED: <extra_id_0>
+PRED: بیرته ستنیدو: د بیرته ستنیدو او بیرته راستنیدو پروسه
 REF:  Tamũîa, kyre'ymbagûera, omombab erimba'e
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: له دې امله چې زما مینې ما د لازیاتو څخه لرې دي
 REF:  Marã-pakó xe sy xe mbo'ari erimba'e?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: esteio alicerce de casa
 REF:  okytá
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Deverias ter sabido antes do teu agir assim
 REF:  Ereîkuá ranhẽ meémo emonã nde rekorama
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Quero ir para tua terra
 REF:  Asó-potá nde retãme
 ---
-PRED: <extra_id_0>.
+PRED: रिव्यू: Como disseram os judeus sus perseguidores para ele
 REF:  Marã e'ipe Îudeus i piaretá i xupé?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Esses teus eyes volta em nossa direcao
 REF:  Eboûĩ nde resá erobak oré koty
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Tendo alegria apos sua morte
 REF:  O manõ riré toryba rerekóbo
 ---
-PRED: <extra_id_0>.
+PRED: resume: tempo lugar modo etc de se lavar de se batizar
 REF:  moîasukaba
 ---
-PRED: <extra_id_0>.es
+PRED: Resumen: Tanto mais porque eles sao adversarios de agressores
 REF:  Memeté a'e morero'arupîara
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Que nao va longe a esposa
 REF:  T'osó umẽ temirekó kûepe
 ---
-PRED: <extra_id_0>.
+PRED: resume: a segunda vez dele
 REF:  i mokõîa
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: د کوه رونگ سمومیم په اړه
 REF:  I angaîpá kó kena'ĩ
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: زما د خوښې غوښتنه
 REF:  Peteumẽ xe rapirõmo
 ---
-PRED: <extra_id_0>
+PRED: резюме: Gloria va
 REF:  îerobîá-tenhẽa
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: پوهیږئ چې تاسو یې خپل ځان جوړونکی یاست
 REF:  O monhangaramo nde rekó kuapa
 ---
-PRED: <extra_id_0> sensual?
+PRED: Rückblick: Lancaste algum menino que estaba aconchegado a ti sobre ti por desejo sensual
 REF:  Ereîtykype kunumĩ amõ nde abiîxûara nde 'arybo moropotara suí?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Obedecei ao padre vosso mestre
 REF:  Pesapîá abaré, pe mbo'esara
 ---
-PRED: <extra_id_0>
+PRED: резюме: Desvirginaste alguma menina
 REF:  Eresugûykápe kunhataĩ amõ?
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: په حقیقت کې درې ځلې هیوادونه د دویم ځلې سندرې څخه مخکې زما د رخصتۍ خدمت کوي
 REF:  Mosapy ipó xe boîáramo nde rekó ereîkuakub mokõî gûyrá sapukaî'e'ymebéne
 ---
-PRED: <extra_id_0>?
+PRED: резюме: Feriste alguem tambem
 REF:  Ereî'apixabype amõno?
 ---
-PRED: <extra_id_0>
+PRED: Rücktritt: Denunciar-me-iam ao meu imperador
 REF:  Xe kuaukámo xe rubixaba supémo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Pedro e maior que tu
 REF:  Peró turusu-eté nde suí
 ---
-PRED: <extra_id_0>!
+PRED: بیاکتنه: Ah como desejo aquela mulher casada
 REF:  Aîpotá-te kûé kunhã-mendara mã!
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu fui peado
 REF:  Xe pukusam
 ---
-PRED: <extra_id_0>
+PRED: resume: lit tromba comprida gorgulho inseto coleoptero
 REF:  tĩmuku
 ---
-PRED: <extra_id_0>
+PRED: резюме: Quando fustigava o sol a terra eu vim
 REF:  Ara yby sokeme, xe ruri
 ---
-PRED: <extra_id_0>
+PRED: resume: Have my modo de ser diferente VLB I 103 Ore reko-reko-ae oroereko - Temos nossos modos de ser diferentes
 REF:  Xe rekó-aé arekó
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Escaparao futuramente os animais os passaros
 REF:  Okûabépe irã so'o, gûyrá?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Fazendo-nos ir para o ceu
 REF:  Ybakype îandé sorama monhanga
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Por ter ele esperanca nela e em Deus
 REF:  Sesé Tupã resé bé o îerobîasápe
 ---
-PRED: <extra_id_0>
+PRED: резюме: Eu sou rechonchudo
 REF:  Xe asang
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Quem necessariamente a gente chama estando aflita
 REF:  Abáp'amẽ asé osenõî oîkotebẽmo?
 ---
-PRED: <extra_id_0>?
+PRED: रिव्यू: Queres que eu te unte com oleo bento
 REF:  Ereîpotápe îandy-karaíba pupé ixé nde pixyba?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Eu sou sabio
 REF:  Xe mba'ekugûab
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: escabelar desfazer o penteado de desgrenhar o cabelo de او نور
 REF:  abo'o-bo'o
 ---
-PRED: <extra_id_0>.
+PRED: Lebenslauf: Existe meu auxiliar verdadeiro o grande chefe Aimbire o pervertedor dos indios
 REF:  Oîkobé xe pytybõanameté, tubixá-katu Aîmbiré, apŷaba moangaîpapara
 ---
-PRED: <extra_id_0>.
+PRED: резюме: serra braceira
 REF:  ybyrakytĩabusu
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: تاسو کولی شئ د خلکو سره یوځای شئ - دا ځینې وختونه په نورو ورځو کې
 REF:  E'ikatu bépe amõ 'ara pupé amõme asé tara?
 ---
-PRED: <extra_id_0>.
+PRED: Resumen: O desejo de sumir para longe enche sus coracoes
 REF:  Mamõ nhẽ kanhẽ-motara i py'a îaîporaká
 ---
-PRED: <extra_id_0>
+PRED: резюме: Mas seria dificil para as personas comer mí carne
 REF:  A'e iî abaíbymo abá supé xe ro'o 'u
 ---
-PRED: <extra_id_0>
+PRED: резюме: Esta cheio teu ventre
 REF:  I por nde rygé
 ---
-PRED: <extra_id_0>.
+PRED: Resumen: Esbofeteio as costas de sus maos
 REF:  Aîpokupé-petek
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Prega-o prega-o na cruz de madeira
 REF:  Eîmoîar, eîmoîar ybyrá îoasaba resé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Nao omiti nada
 REF:  N'aîkuakubi mba'e
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Fazendo as pessoas terem odio umas das outras por causa de alguem
 REF:  Abá resé nhoamotare'yma rerekouká abá supé
 ---
-PRED: <extra_id_0>
+PRED: резюме: Mas que nos nao paremos de chama-la
 REF:  Îandé-te îapyk umẽ senõîa
 ---
-PRED: <extra_id_0>.,ловна
+PRED: резюме: Troquei-lhe uma criacao
 REF:  Asekobîarõ seîmbaba i xupé
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Tupiniquins habitantes daqui espioes inimigos
 REF:  Tupinakyîa, keygûara, tĩapyra moroupîara
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Eis que meu corpo nao esta disposto amolecendo
 REF:  Xe reté ã n'oîkoetéî, omembeka
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Lanco puca
 REF:  Apysá-îtyk
 ---
-PRED: <extra_id_0>?
+PRED: بیاکتنه: د دې لپاره چې تاسو د میرمنو په مینځ کې تیریږي
 REF:  Ereîmombe'upe kunhã resé nde pokó-pokokagûera abá supé?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Ele esta muito maduro
 REF:  I apaîé - Ele está maduro I apaîegûasu
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Matemos juntos o que diz isso
 REF:  Îaîuká memẽ aîpó 'îara
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Saiu para o patio chorando muito dolorosamente
 REF:  Osem okarype, oîase'o-asy-katûabo
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: د سپوږمۍ سپوږمۍ
 REF:  i nambi mondoka
 ---
-PRED: <extra_id_0>.
+PRED: resume: no final da missa que entras sempre
 REF:  Missa mondykápe épe ereîké îepi?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Odeiam-te expulsar-te-ao
 REF:  Nde reroŷrõ, nde mombóne
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Eis que esses meus valentoes sabem assassinar
 REF:  Kó a'e xe kyre'ymbaba oîkuá morapiti
 ---
-PRED: <extra_id_0>
+PRED: resume: licor de aipim
 REF:  aîpi 'y
 ---
-PRED: <extra_id_0>
+PRED: resume: mortandade de gente
 REF:  mbaba
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Isso e muito dificil
 REF:  Iîabaíbeté aîpó!
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Vou como catador de madeira
 REF:  Asó ybyrá piaramo
 ---
-PRED: <extra_id_0>.
+PRED: resume: Nao querendo comer venho
 REF:  Na mba'e 'u potá ruã aîur
 ---
-PRED: <extra_id_0>
+PRED: resume: Havemos de chegar ao ceu
 REF:  T'orobasẽne ybakype
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: له همدې امله لکه څنګه چې ماډل کونکي د نورو په څیر ډیر یواځې په نښه کوي
 REF:  Nd'e'i te'e moxy onhana oîoa'o-marangatûabo
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: د خپلو ملګرو او همکارانو سره شریک کړئ
 REF:  Erepokokype nde rapopé resé i pipekábo?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Amainei a vela
 REF:  Aroîyb aoba
 ---
-PRED: <extra_id_0>.
+PRED: 履歴書:o assar do pao
 REF:  miapé îyba
 ---
-PRED: <extra_id_0>
+PRED: резюме: Vejo meu reflexo pex no espelho
 REF:  Anhe'angepîak
 ---
-PRED: <extra_id_0>. <extra_id_10>e <extra_id_10>
+PRED: resume: conves da embarcacao
 REF:  ygara rokabytera
 ---
-PRED: <extra_id_0>
+PRED: резюме: Podei-a
 REF:  Aî'ybab
 ---
-PRED: <extra_id_0>.,ловна
+PRED: Lebenslauf: Irritam komplett als Menschen
 REF:  Oporoîrarõ mbá
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Sao muitos os nao conhecidos que Deus یوازې o criador deles conhece
 REF:  Se'yî i kuabypyre'yma Tupã i monhangara remingûaba nhõ
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Em que parte do corpo ele o flechou
 REF:  I mba'epepe i nhybõû?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: زه د بدن په اړه یو څه غواړم چې دا هغه څه دي چې زه یې د پروسې په اړه تشریح کوم
 REF:  Sasy xe akanga xe suí
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Para outra coisa que nao o passaro a flecha foi
 REF:  Gûyrá taté u'uba sóû
 ---
-PRED: <extra_id_0>.,ловна 
+PRED: بیرته ستنیدو: muitas coisas miudas
 REF:  ta'yrĩ-rĩ
 ---
-PRED: <extra_id_0>.
+PRED: په اړه: Pois se um homem guarda seu proprio filho quanto mais Deus compadecer-se-a de nos
 REF:  Abá abiã é o a'yra ogûerekó-katu, memetipó Tupã asé raûsubáne
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: د Ostras نوم نوم ځای
 REF:  Rerityba
 ---
-PRED: <extra_id_0>
+PRED: بیرته ستنیدو: د بیرته ستنیدو څرنګوالی
 REF:  Eîori, mba'enem, mba'e-poxy, tamarutaka!
 ---
-PRED: <extra_id_0>.
+PRED: resume: A gente mesma acovarda-se consentindo-o
 REF:  Asé aé oîemoabangá i mborypa
 ---
-PRED: <extra_id_0>.
+PRED: resume: Certainly sem duvida assim e tem razao e truth certificationndo o que outra pessoa disse
 REF:  anhẽ rakó!
 ---
-PRED: <extra_id_0>
+PRED: резюме: Mata-lo-ei futuramente com certeza
 REF:  Aîuká ipó irãne
 ---
-PRED: <extra_id_0>
+PRED: резюме: remanso d'agua
 REF:  y-îebyra
 ---
-PRED: <extra_id_0>
+PRED: resume: Sera que estais sossegados como os que nao veem a morte
 REF:  Pe apysykĩ serã peîkóbo te'õ repîakare'yma rame'ĩ?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu lhe pelo o couro cabeludo
 REF:  Aî'apirabo'o
 ---
-PRED: <extra_id_0>
+PRED: resume: gargalo fino como da cabaca
 REF:  anhurĩ
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: له همدې امله o ladrao او o que deve ser enforcado como pena de sus roubos passados
 REF:  Nd'e'i te'e abá mondá iî aîubykypyramo oîkóbo o mondarõagûera repyramo nhẽ
 ---
-PRED: <extra_id_0>
+PRED: resume: cocho de porcos
 REF:  taîasu remi'uru
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Durmo com roupa
 REF:  Aroker aoba
 ---
-PRED: <extra_id_0>
+PRED: резюме: Queres teu batismo
 REF:  Ereîpotápe nde nhemoîasuka?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Fi-la engravidar
 REF:  Aîmomburu'a
 ---
-PRED: <extra_id_0>.
+PRED: resumen: Fazendo vir a tona sus atos escondidos
 REF:  Sekó-nhemima monduîa
 ---
-PRED: <extra_id_0>.
+PRED: resume: Hei de me embebedar para perder o juizo
 REF:  T'asabeypóne 'ara mokanhema
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Os que nao createm nele په ګډه کار کوي یو flecha-lo
 REF:  Serobîasare'yma potyrõû, iî ybõîybõmo
 ---
-PRED: <extra_id_0>.,ловна
+PRED: بیاکتنه: Suas palavras asperas nao cessam
 REF:  I nhe'engasy n'opabi
 ---
-PRED: <extra_id_0>
+PRED: resume: Estou bem deitado Auie aiko - Estou bem
 REF:  Aûîé aîub
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Muito bem Hei de ser castelhano
 REF:  Aûîé nipó! Kasianamo t'aîkó
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Os chefes velhos falam تل a eles repreendendo-os censurando-os
 REF:  Morubixaba tuîba'e onhe'eng memẽ i xupé, senonhena, i akakapa
 ---
-PRED: <extra_id_0> de
+PRED: 履歴書:ブラコ・デ・リオ
 REF:  y-akã
 ---
-PRED: <extra_id_0>
+PRED: резюме: Vem para persegui-lo
 REF:  Eîori i momosema
 ---
-PRED: <extra_id_0> do sol
+PRED: 履歴書: a saida do sol o nascer do sol
 REF:  kûarasy sembaba
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Acredita my padrinho hao de te apresar hoje
 REF:  Erobîá, xe rubangab, ta nde moembiá kori
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Nossas casas estao estabelecidas uma junto da outra
 REF:  Xe apyri tuî - Ele mora a meu lado O îoapyri oré roka ruî
 ---
-PRED: <extra_id_0>.
+PRED: تازه سرليکونه: Fugiram dele leaving-o
 REF:  Oîabab i xuí, seîá
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Apos acabar o mundo fa-los-a voltar a viver
 REF:  Ara pab'iré, i moingobeîebyri-ne
 ---
-PRED: <extra_id_0>.,ловна 
+PRED: резюме: Rapamos nesta medida
 REF:  Nãmo oroapin
 ---
-PRED: <extra_id_0>.
+PRED: resume: Trouxe todos ou Trouxe tudo
 REF:  Aru-pab
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: د کاناډا-ډ-فلچا
 REF:  u'ubá-tyba
 ---
-PRED: <extra_id_0>.
+PRED: resume: as juntas da cabeca
 REF:  akanga îepotasaba
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Sou diferente
 REF:  Aîkoé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Confessando a gente
 REF:  Asé monhemombegûabo
 ---
-PRED: <extra_id_0>.,ловна
+PRED: रिव्यूः तू outrora me salvaste
 REF:  Nde erimba'e xe pysyrõ îepé
 ---
-PRED: <extra_id_0>
+PRED: 経歴:安東住道
 REF:  Akanhẽ-kanhem
 ---
-PRED: <extra_id_0>
+PRED: резюме: Vou buscar agua a fonte
 REF:  A'ypîasó
 ---
-PRED: <extra_id_0>.
+PRED: резюме: minha heranca
 REF:  xe potaba
 ---
-PRED: <extra_id_0>?
+PRED: Résumé : o mode de ser deles ou naturel deles
 REF:  Sekoaba nhẽpe?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Que amemos nosso pai
 REF:  T'orosaûsu îandé ruba
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Vou a caca
 REF:  Ka'abo asó
 ---
-PRED: <extra_id_0>.
+PRED: विवरणः वह अपने माता के गर्भाशय से अपने बच्चे की स्थिति के साथ आप के भीतर बने।
 REF:  O sy rygépe o pitanga reropytá îabé, t'opytá pe pupé
 ---
-PRED: <extra_id_0>!
+PRED: резюме: Enfim de volta
 REF:  Irõ bé!
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Por que vieste o mí muito amado
 REF:  Mba'e resépe ereîur xe remiaûsukatu gûi?
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Herodes hätte entregado este a morte kennenndo seine Maldades
 REF:  Herodes meémo ikó oîme'eng te'õ supé i angaîpaba kuapa
 ---
-PRED: <extra_id_0>.
+PRED: रिव्यूः ऑंटेम ऐस ब्लैग्स डीराम कॉमिटैम
 REF:  Kûesé, karaíba ri i pokoki
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Que deve ser ungido de nos isto e de nosso corpo
 REF:  Mba'e-mba'epe asé suí i pitubypyra?
 ---
-PRED: <extra_id_0>.
+PRED: resume: Lancei-o no chao
 REF:  Aîmombor ybype
 ---
-PRED: <extra_id_0>.,ловна 
+PRED: резюме: Nao esta dia
 REF:  Nd'e'i 'ara
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Apenas nao me matou
 REF:  Sa'ĩ xe îukae'ymi
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Esse e o que eu flechei
 REF:  Akó xe remiybõmbûera?
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: په بشپړه توګه د کوچنیانو لپاره د کرینکا څخه د پیرودونکو لپاره وینډو
 REF:  Peîori pitanga gûabo, kunumĩ mokona mbá
 ---
-PRED: <extra_id_0>
+PRED: резюме: Frustrei-me
 REF:  Xe rarûab
 ---
-PRED: <extra_id_0>!
+PRED: резюме: Ataca-o Sarauaia
 REF:  Esepenhan, Saraûaî!
 ---
-PRED: <extra_id_0>.
+PRED: 你同他们同情了,当他们互相打火时
 REF:  Eresaûsubarype i mba'easyreme, satá-á
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: په ورځ کې دوه ځله دوه ځله د تیریدو مخه ونیسئ
 REF:  Mokõî oîoirundyk oito 'ara sykeme, i 'apira mondoki
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu tenho ojos esbugalhados
 REF:  Xe resá-ynhusu
 ---
-PRED: <extra_id_0>.
+PRED: जीवनवृत्तः मण्डे फराक पामा
 REF:  Apindó-pûaî
 ---
-PRED: <extra_id_0>
+PRED: резюме: Ainda que me castigasse eu falaria
 REF:  Aûîebé-temo xe nupãû anhe'engĩmo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Vou a roca
 REF:  Akopîasó
 ---
-PRED: <extra_id_0>
+PRED: resume: Que ha aqui semelhante a um caninde azul
 REF:  Mba'epe ké kanindeoby îasûara?
 ---
-PRED: <extra_id_0>.
+PRED: जीवनीः Ele tem olhos claros como seu pai
 REF:  Og uba rupi ahẽ resatingamo
 ---
-PRED: <extra_id_0>
+PRED: резюме: Filho de quem es tu
 REF:  Abá ra'yrape nde?
 ---
-PRED: <extra_id_0>?
+PRED: بیاکتنه: په دوامداره توګه د خلکو په توګه د irritando-o fazendo-o odiar په اړه خبرې وکړئ
 REF:  Erenhe'eng-aparatãpe abá supé, i moroŷrõmo, i moporoamotare'yma?
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Das cuias ficando a quebrar as pontas afrontaste os homens
 REF:  Kuîa nhẽ i tĩ-ngá-tĩ-ngábo, ereîanga'o abá
 ---
-PRED: <extra_id_0>
+PRED: резюме: Louvo-te muito por me teres salvado
 REF:  Oromoeté-katu nde xe pysyrõagûera resé
 ---
-PRED: <extra_id_0>?
+PRED: resume: Acenaste com a cabeca para alguma mulher
 REF:  Ereîe'aîtykype kunhã amõ supé?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Eia meu aliado
 REF:  Ne'ĩ xe atuasar
 ---
-PRED: <extra_id_0>
+PRED: резюме: Sus Ide
 REF:  Pene'ĩ pesóbo
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Nao esta em conformidade comigo nao e igual a mim
 REF:  Na xe îáî
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Faze-nos tu viver
 REF:  Oré moingobé îepé
 ---
-PRED: <extra_id_0>
+PRED: резюме: Entreouvi tuas palavras
 REF:  Asendubaíb nde nhe'enga
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Aplacando a Deus
 REF:  Tupã moîerekûapa
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Ja saiste da grande escuridao
 REF:  Eresem ymã putunusu suí
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Apaga o fogo
 REF:  Emogûeb tatá
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Fiquei-lhe puxando a cabeca pelos cabelos
 REF:  Aîakangeky-ekyî
 ---
-PRED: <extra_id_0>
+PRED: резюме: Os homens batizados honram este dia
 REF:  Apŷá-serokypyra kó 'ara oîmoeté
 ---
-PRED: <extra_id_0>
+PRED: रिव्यूः Por ser coisa que deve ser dividida
 REF:   Mba'eramo i moîa'okypyra rekóreme
 ---
-PRED: <extra_id_0>!
+PRED: रिव्यूः eu sou um jaguarete comedor de gente
 REF:  Xe îagûareteporu!
 ---
-PRED: <extra_id_0>
+PRED: резюме: Eu sou gago
 REF:  Xe nhe'ẽrueru
 ---
-PRED: <extra_id_0>
+PRED: резюме: raremente
 REF:  amõneme nhõ
 ---
-PRED: <extra_id_0>
+PRED: resume: lugar de vender carne acougue
 REF:  so'o ma'e'ĩndaba
 ---
-PRED: <extra_id_0>
+PRED: резюме: Crendo na sua ida para o ceu
 REF:  Ybakype i xoagûera rerobîá
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Nao falto a church
 REF:  N'aîmopanemi tupãoka
 ---
-PRED: <extra_id_0>.
+PRED: resume: entrando em tua casa
 REF:  nde rokype oîkébo
 ---
-PRED: <extra_id_0>
+PRED: resume: os tupiniquins habitantes daqui
 REF:  tupinakyîa keygûara
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Entram grandes espinhos espetando sua cabeca
 REF:  Oîké îugûasu, i akanga kutuka
 ---
-PRED: <extra_id_0>.
+PRED: بیرته راستانه کول: د خلکو څخه د لرې کولو لارښوونې
 REF:  Mobype a'e asé rekomonhangaba?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Fazendo-me erguer o rosto
 REF:  Xe moobaybaka
 ---
-PRED: <extra_id_0>
+PRED: резюме: Antigamente eu ficava sempre junto de ti no alto do morro
 REF:  Akûeîme apytá memẽ nde pyri, ybytyrapûápe
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Sempre os malditos para nos dizem maldades mui perversamente
 REF:  Memẽ nhẽ moxy îandébo marã e'i-memûã-memûã
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Nao acato essa sua boa lei
 REF:  N'aîari kó sekó-angaturama
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: De ti a morte nao se aproximou
 REF:  Nde resé te'õ n'osyki
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Cortei um pedaco
 REF:  Asykûera aîasy'ab
 ---
-PRED: <extra_id_0>
+PRED: резюме: casa de barro
 REF:  nhau'umoka
 ---
-PRED: <extra_id_0>
+PRED: резюме: Enfeitei-me
 REF:  Anhemongatyrõ
 ---
-PRED: <extra_id_0>.
+PRED: resumen: Nos estamos enfileirados
 REF:  Oré rysy
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Eis que este e discipulo de Jesus
 REF:  Iesus boîá ã ikó
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Fico-me espreguicando
 REF:  Aîepoká-poká
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Que bom que existes o meu senhor
 REF:  Aûîebeté ereîkó xe îar-y gûé!
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Quem nao saberia ter comido algo bom forgetndo-se da excelencia de seu sabor
 REF:  Abámo mba'e-katu 'uagûera n'oîkuabi xûé sé katûagûera resé o esaraîamo?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Я очень empanturrado
 REF:  Xe rebykatãgûasu
 ---
-PRED: <extra_id_0>.
+PRED: resume: A respeito dele lembrando-se
 REF:  Sesé oma'enduaramo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Fico-o chacoteando
 REF:  Aîkurá-kurab
 ---
-PRED: <extra_id_0>.
+PRED: 简历: 这个意思很深,这个意思也不太好
 REF:  A'eboé tuî
 ---
-PRED: <extra_id_0>.
+PRED: резюме: este outro
 REF:  kó amoaé
 ---
-PRED: <extra_id_0>
+PRED: resume: marca de espada sinal de ferimento com espada
 REF:  itangapẽ-mbora
 ---
-PRED: <extra_id_0>.,ловна 
+PRED: レビュア: 聖人
 REF:  amõ amõ santos
 ---
-PRED: <extra_id_0>.
+PRED: रिव्यूः Ainda bem que o faz correr consigo
 REF:  Iîá muru senonhana!
 ---
-PRED: <extra_id_0>
+PRED: резюме: Bem nesse momento perdoou a Pilatos
 REF:  A'eîbé Pilatos supé oîerekûabamo
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: د embarcacao دننه برخه او د پوښښ پوښښ
 REF:  ygá-pype
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu tenho folego comprido
 REF:  Xe pytu-muku
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu estou rouco
 REF:  Xe îase'opyoú
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Curou-o یوازې د خپلې orelha ټکان کولو سره سم په سمه توګه ترسره کول
 REF:  Oîposanong i nambi atõîa nhote, aûnhenhẽ i monga'ẽmo, i moîepotá
 ---
-PRED: <extra_id_0>
+PRED: resume: o que e liquido o que e ralo
 REF:  tykuba'e
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: د دودیزو دودیزو توکو څخه د خوندیتوب خوندیتوب
 REF:  Moraseîa é i katu, îegûaka, petymbu
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: fogo do cauim isto e com que se coze o cauim
 REF:  kaûĩ ratá
 ---
-PRED: <extra_id_0>
+PRED: резюме: Farto-o
 REF:  Aytarõ
 ---
-PRED: <extra_id_0>
+PRED: resume: bolsa do abdomen dos marsupiais
 REF:  ambé-aîó
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Fiquei falando em favor dele
 REF:  Asepy-sepyk
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Eis que a noite toda ele nao dormiu
 REF:  Pysaré kó i kere'ymi
 ---
-PRED: <extra_id_0>
+PRED: резюме: Acreditas no paje ao fingir assassinar as personas
 REF:  Ererobîarype paîé porapiti mo'anga'uba?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Apos aquele revirar-se do mundo entao os anjos vem
 REF:  A'e 'ara îepubur'iré a'ereme karaibebé ruri
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Debalde vou
 REF:  Aûîebé-te asó
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Ver os doentes
 REF:  Mba'easybora repîaka
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: O que a seu filho e a seu escravo faz trabalhar
 REF:  O a'yra, o embiaûsuba omoporabykyba'e
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Fett de vaca
 REF:  tapi'i-kaba
 ---
-PRED: <extra_id_0>
+PRED: резюме: de alguma parte dalgures
 REF:  kûeîpe suí
 ---
-PRED: <extra_id_0>.
+PRED: резюме:
 REF:  Xe ky'a
 ---
-PRED: <extra_id_0>.
+PRED: 再会:o que deve ser expulso da church
 REF:  Tupãoka suí i mosemymbyra
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: sineta de mao sinozinho لارښود campainha
 REF:  itamaraká-mirĩ
 ---
-PRED: <extra_id_0>.,ловна
+PRED: резюме: Acusando uma mulher para seu marido
 REF:  Kunhã kuauká i mena supé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Tenho meu modo de ser diferente
 REF:  Xe rekó-aé arekó
 ---
-PRED: <extra_id_0>
+PRED: резюме: Pintaste-te a boca sorrindo para os homens
 REF:  Ereîeîuru-mopiningype, abá supé epukamirĩamo?
 ---
-PRED: <extra_id_0>
+PRED: Résumé : Dizendo que um canto de passaro ou um urro de onca sao agouros
 REF:  Gûyrá koîpó îagûara nhe'enga supé morangygûana o'îabo
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: O homem que come objeto de furto ou que o leva para sua casa
 REF:  Abá mondarõagûera o'uba'e koîpó og okype ogûerasoba'e
 ---
-PRED: <extra_id_0>
+PRED: रिव्यूः मैं बब आरिजो हूँ मैं बब आरिजो हूँ
 REF:  Xe 'ang - Eu tenho abrigo, eu estou abrigado Xe 'ãngatu
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Matei-os muito fiz matanca
 REF:  Aîuká-matutenhẽ
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Por isso Deus transformou a costela de nosso pai primeiro em sua esposa
 REF:  Emonãnamope Tupã îandé rubypy arukanga nhẽ apóû semirekóramo?
 ---
-PRED: <extra_id_0>.
+PRED: Resumen: Foste para revistar como cisternas de agua doce de alguem tomando seu conteudo
 REF:  Eresópe abá îeky-'ye'ẽ supa, i pora rá?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu estou adoentado
 REF:  Xe rekoruînhẽ
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Rocado antigo onde o mato cresceu de novo
 REF:  kopûera
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Ah um homem pecador ha de ter mais coisas boas que eu
 REF:  Abá-angaîpabĩ takó mba'e-katu ogûerekó xe suí mã!
 ---
-PRED: <extra_id_0>
+PRED: резюме: Este e o maximo
 REF:  Kó-tene i îaeté
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Lanco a agua a canoa
 REF:  Aîtyk ygara
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Se alguem escondesse os atos passados uma so vez Deus nao perdoaria
 REF:  Oîkuakumo amõ abá tekopûera oîepé'ĩ nhõmo, Tupana n'i nhyrõî xómo
 ---
-PRED: <extra_id_0>?
+PRED: Rückblick: Aonde ele foi apos acabar de comer
 REF:  Mamõpe i xóû o mba'e'u-pab'iré?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Que sejamos corajosos sim suportando as coisas dolorosas
 REF:  T'oré pyatã, angá, mba'e-asy porarábo
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Adao nosso primeiro pai fez-nos perder verdadeiramente
 REF:  Adão, oré rubypy, oré mokanhemeté
 ---
-PRED: <extra_id_0>.
+PRED: resume: agua doce
 REF:  y-eté
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Este paje ruim tem um espirito protetor
 REF:  Supixûar ikó paîé-angaíba
 ---
-PRED: <extra_id_0>
+PRED: د افغانستان د حراست او ثبات شورا اعلامیه
 REF:  Nde ereîemosusuni, oré moingobé-potá
 ---
-PRED: <extra_id_0>?
+PRED: रिव्यूः पूर्वानुमान
 REF:  Mba'epe sepyrama?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Iria a gente para o ceu ao batizar-se sem mais
 REF:  Osó nhẽmope asé ybakype o nhemongaraibireme?
 ---
-PRED: <extra_id_0>.,ловна <extra_id_12>
+PRED: резюме: Minha familia fez-me vir
 REF:  Xe anama xe mbouri
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Esse کور او د هغې ښځه هم د هغې د شتمنیو په توګه ټول پای ته ورسېدل
 REF:  Kó abá semirekó abé opá o mba'e mombabi
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Aguco-a
 REF:  Asapûapin
 ---
-PRED: <extra_id_0>
+PRED: resume: velha muito maldosa
 REF:  gûaîbĩ-marã serã-serã
 ---
-PRED: <extra_id_0>
+PRED: резюме: Vem para ver tua futura terra
 REF:  Eîori nde retamûama repîaka
 ---
-PRED: <extra_id_0>
+PRED: резюме: Vou com ele
 REF:  Sesé orosó
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu sou o diabo esquentador de gente
 REF:  Xe anhanga moropé
 ---
-PRED: <extra_id_0> 
+PRED: resume: ilha de mato CAPO
 REF:  ka'a-pa'ũ
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Estando a destilar coisa quente coisa muito bitter
 REF:  Mba'e-akuba, mba'e-robeté tukutuku okûapa
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: هغه څه چې موږ سره اړیکه ونیسئ
 REF:  Nde resé serosypyra
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Queimou tua alma o fogo dele
 REF:  Nde 'anga osapy satá
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: موږ سره اړیکه ونیسئ
 REF:  Eropytá nde boîá'ĩ orébo
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Vinde para prantea-lo ao entrar ele em vos
 REF:  Peîori sapirõagûama resé pe pupé seîkéreme
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: د دې لپاره چې دا یوازې د ډوډۍ له لارې رامینځته شوی
 REF:  Nd'e'i te'e oá nhote i xuí, nd'i pekábo ruã
 ---
-PRED: <extra_id_0>.
+PRED: zurück: Havemos de ir a dura guerra cara a cara uns contra os outros
 REF:  T'îasó maranatãûãme o îoupé oîobaúpa?
 ---
-PRED: <extra_id_0> 
+PRED: резюме: O rosto da crianca esta alegre para eles
 REF:  Pitanga robá sesãî i xupé
 ---
-PRED: <extra_id_0>.
+PRED: powrót: Eu estava ainda cansado
 REF:  Xe pûeraî mbyté
 ---
-PRED: <extra_id_0>
+PRED: resume: quarto traseiro que se parte de um animal ou de uma pessoa
 REF:  ugûera
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: د لومړي زوی کور ته primogenito
 REF:  ta'yrypy
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Arrependendo-se ele de ter batido em ti
 REF:  Nde resé i pûaragûera moasŷabo
 ---
-PRED: <extra_id_0>.,ловна
+PRED: रिव्यूः Tua alma e o que tem muito preco
 REF:  Nde 'anga sepy-etéba'e
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: O homem desanima sem mais de suas dancas tambem
 REF:  Omanõaibí abá o poraseîtápe bé
 ---
-PRED: <extra_id_0>
+PRED: резюме: castrado
 REF:  sapi'a'okypyra
 ---
-PRED: <extra_id_0>
+PRED: резюме: Mudo-me
 REF:  Asem
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Salteio
 REF:  Aporero'ar
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Who e o inimigo da gente
 REF:  Abápe asé sumarã?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu tenho calculos renais
 REF:  Xe typa'am
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Sob tuas maos estamos em ti apoiando-nos
 REF:  Nde pó gûyrype oroîkó, nde resé oroîekoka
 ---
-PRED: <extra_id_0>.
+PRED: resume: maltratar a seu proximo
 REF:  o apixara rerekoaíba
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Nao dormi absolutamente para procura-los
 REF:  N'aker-angáî sekasápe
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Tu voltas o rosto para tras olhando com a ponta dos olhos sorrindo espreguicando-te
 REF:  Nde atybak, nde resá-popybo ema'ẽmo, epukamirĩamo, eîepokábo tenhẽ
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Sendo isso assim o dia todo e a noite toda tu cuidaras de tua alma
 REF:  Aîpó e'ymeté, ko'arapukuî, pysaré nde maînanĩ nde 'anga resé-ne
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Ah que atrevido
 REF:  Tekatueté mã!
 ---
-PRED: <extra_id_0>
+PRED: резюме: cavidade dela
 REF:  inhanhã
 ---
-PRED: <extra_id_0>
+PRED: резюме: Meu corpo treme de medo
 REF:  Xe reté-piring
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Vem para que facas ir de mim a maldade
 REF:  Eîori t'eremondó xe suí tekoangaîpaba
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Tu foste chocarreira estando deitada sobre ستاسو proximo
 REF:  Nde arũaípe nde rapixara 'arybo eîupa?
 ---
-PRED: <extra_id_0>.
+PRED: रिव्यूः ओ क्वे एंव वायसास अलमास
 REF:  Pe 'angyme oîkeba'epûera
 ---
-PRED: <extra_id_0>
+PRED: резюме: Ele vos fortalece
 REF:  A'e pe mopyatã
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Faco-me matar
 REF:  Aîeîuká-ukar
 ---
-PRED: <extra_id_0>.,ловна <extra_id_12>
+PRED: フェリダ・ダ・カペカ
 REF:  a-pixapaba
 ---
-PRED: <extra_id_0>
+PRED: резюме: Eu sou rechonchudinho
 REF:  Xe apebĩ
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Tao Logo ao ouvir o teu nome o diabo esta tremendo
 REF:  Nde rera rendupa abé, Anhanga ryryî okûapa
 ---
-PRED: <extra_id_0>.
+PRED: resume: o que perseguiu o cao de seu proximo
 REF:  o apixara reîmbaba îagûara remimomosẽgûera
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Nada
 REF:  -Mba'epe aûîeramanhẽ serekopyrama ikó 'ara pupé? -Aani ã biã - Que é o que será conservado para sempre neste mundo?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Remo
 REF:  Aygapukuî
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Pelo chao tambem escorreu seu sangue
 REF:  Yby rupi bépe sugûy syryki?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Nao pode a boca de ninguem contar as things muito dolorosas no inferno
 REF:  Nd'e'ikatuî abá îuru Anhanga ratápe tekó-asyeté mombegûabo
 ---
-PRED: <extra_id_0>.
+PRED: resume: o que vai buscar agua a fonte
 REF:  ypîasoara
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Em reparacao disso mudaste-te de aldeia
 REF:  Sepyápe, ereîakasó
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Essa fez assim
 REF:  Emonã ûĩ sekóû
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Um ou outro porventura foi mau alguma vez
 REF:  Oîepé-ĩombé, nipó, i angaîpab amõme é
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Queimo-o
 REF:  Asapy
 ---
-PRED: <extra_id_0>.
+PRED: resume: Ensina falsamente as pessoas a provarem a palavra de Deus
 REF:  Oporombo'e-a'u Tupã nhe'enga ra'anga
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eis que vais Vais agora
 REF:  Eresó ûĩ
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Nao querendo que o diabo esteja como seu senhor
 REF:  Anhanga o îaramo sekó potare'yma
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: بیاکتنه
 REF:  îandé ma'enduaramo
 ---
-PRED: <extra_id_0>
+PRED: резюме: Quem ficou ali
 REF:  Abápe opytá a'epe?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Que lancemos fora nossa maldade nao acreditando nos pajes em dancas rodopios com feiticos
 REF:  T'oroîtyk oré poxy, paîé rerobîare'yma, moraseîa, mbyryryma karaimonhanga ndi
 ---
-PRED: <extra_id_0>.
+PRED: resume: no final da missa que entras sempre manifestamente consciente
 REF:  Missa mondykápe épe ereîké îepi, nde îesûere'yîpe
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: O que tem a bem-aventuranca e o que e pobre por su propia vontade
 REF:  Tekokatueté rerekoara o emimotarybo é i mba'ee'ymba'e
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Tens compaixao de tua mae e de teu pai کله چې دوی دي deitados doentes being responsavel por دوی
 REF:  Eresaûsubápe nde sy nde ruba i mba'easy tume, sesé nde morerekoaramo?
 ---
-PRED: <extra_id_0>.
+PRED: 例句: 例句: 例句: 例句: 例句: 例句: 例句:
 REF:  A'eboépe Tupã rasara Tupã rari amõme, îepi?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Traze agua para mim
 REF:  Erur 'y ixébe
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Lado a lado sus cadaveres ao longo do mar estavam
 REF:  O îoybyri se'õmbûera paranã ybyri i kûáî
 ---
-PRED: <extra_id_0>.,ловна
+PRED: بیاکتنه: Sua mae nao teve dor de parto
 REF:  I xy n'i membyrasyî
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Vem-me a memoria meine vida passada em minha terra
 REF:  I 'ã i 'ang xe retãme xe rekoagûera ixébo
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Como disse Pilatos aos seus aprisionadores
 REF:  Marã e'ipe Pilatos serekoaretá supé?
 ---
-PRED: <extra_id_0>
+PRED: Resumen: Sabendo disso impedirias a transgressao da palabra de Deus
 REF:  Aîpó kuapamo, ereîmorambûé Tupã nhe'enga abyrambûeramo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: No transcorrer de quatro geracoes
 REF:  Oîoirundyk îeapyká sykápe
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Oxala agora alguma pessoa habitante do fogo do inferno levantasse aqui na زموږ multidao
 REF:  Temone ko'yr Anhanga ratá pora, abá amõ opu'ama iké îandé re'yîpemo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: De manha cuidando de sua comida
 REF:  Ko'ẽme gûemi'urama resé onhemosaînana
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Que o mates para mim diante do paje ruim
 REF:  T'ereîuká ixébe paîé-aíba supé
 ---
-PRED: <extra_id_0>.
+PRED: resume: sangradouro de rio
 REF:  y-mombukaba
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: O que bebe یوازې na medida que acontece
 REF:  Oîá nhote kagûarape, marã?
 ---
-PRED: <extra_id_0>
+PRED: リコール・デ・マンガバ
 REF:  mangaby
 ---
-PRED: <extra_id_0>.
+PRED: резюме: E pois como ha isto de ser
 REF:  marã-te-p'iã-ne?
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: د دوه میاشتو لپاره دوه luas روښانه شوي
 REF:  mokõî îasy
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Hei de mexer hoje as igacabas
 REF:  T'aîpobu kori ygasaba
 ---
-PRED: <extra_id_0>
+PRED: резюме: Mas acreditais realmente em Deus
 REF:  Perobîar-y-tepe aé Tupã?
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Folgo muito em ouvi-lo
 REF:  Asendu-potakatu
 ---
-PRED: <extra_id_0>.
+PRED: resume: o que fia Fig Arte 119 fiandeira
 REF:  pobandara
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Como disse Our Senhor para o que esbofeteou seu rosto
 REF:  Marã e'ipe Îandé Îara og obá petekarûera supé?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Nossa comida a que e de cada dia da hoje para nos
 REF:  Oré remi'u 'ara îabi'õndûara eîme'eng kori orébe
 ---
-PRED: <extra_id_0>.
+PRED: レセプト:o que foi pao
 REF:  miapepûera
 ---
-PRED: <extra_id_0>en <extra_id_10>e
+PRED: резюме: Todos vieram
 REF:  Opápe turi?
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: A seu proprio pedido na cruz o pregaram
 REF:  Cruz resé i moîari, i îeruresabo é
 ---
-PRED: <extra_id_0>?
+PRED: रिव्यूः coisa mirrada ou muito seca
 REF:  tining-atã
 ---
-PRED: <extra_id_0>
+PRED: резюме: Quem desobedece aquele
 REF:  Abápe aîpoba'e oîmomaran?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Ergueu-se com as feridas de sus maos de sus pes e de seu flanco
 REF:  O pó, o py, o yké kutukagûera bépe erimba'e ogûeropu'am?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Desvirginaste alguma menina
 REF:  Ereîmombukype kunhataĩ amõ?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Veio um grande chefe
 REF:  Oú tubixá-katu
 ---
-PRED: <extra_id_0>.
+PRED: 履歴書: tao logo indo ele
 REF:  osóbo bé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Machuco-lhe a cabeca
 REF:  Aî'apirungá
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Que lancemos fora زموږ maldade nao acreditando nos pajes em dancas e rodopios
 REF:  T'oroîtyk oré poxy, paîé rerobîare'yma, moraseîa, mbyryryma
 ---
-PRED: <extra_id_0>
+PRED: د افغانستان د حراست او ثبات شورا اعلامیه
 REF:  A'epe bé ogûekokatu pupé o 'anga nongatusarûera oína
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Para onde a multidao numerousssima levou Our Senhor
 REF:  Mamõpe erimba'e te'yî-katupabẽ Îandé Îara rerasóû?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Detestando-os mais que tudo o que se deve detestar neste mundo
 REF:  Seroŷrõmo opakatu ikó 'ara pupé seroŷrõmbyra sosé
 ---
-PRED: <extra_id_0>
+PRED: Résumé : jorro d'agua ITOROR bica d'agua
 REF:  y-tororoma
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Cura-se algumas vezes segundo os designios de Deus para a gente
 REF:  Opûerab amõnyme, Tupã asé rerekokuapaba rupi é
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Aqueles serao consolados
 REF:  A'eba'e i moapysykypyramo sekóûne
 ---
-PRED: <extra_id_0>
+PRED: резюме: Eu fedo
 REF:  Xe ryapûanusu
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu estaba pendente
 REF:  Xe apy'am
 ---
-PRED: <extra_id_0>
+PRED: резюме: Acalmei-me
 REF:  Aîukatu
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: په هغه څه کې چې سپینه او د هغې د بیا رغونې ټیم کې خلک
 REF:  - Akó morotinga, i amandaba bé asé osepîak
 ---
-PRED: <extra_id_0>. <extra_id_9>.
+PRED: بیاکتنه: د دوی سره یوځای کول او د دوی د خدمت کولو طرزالعمل په ورته ډول غوښتنه کول
 REF:  Sesé onhemonane'yma, oîabé sekó potare'yma
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Pranteai logo vossa miseria estai a vos lastimar
 REF:  Taûîé pe poreaûsubagûama rapirõmo, peîemoangekoaíb peína
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Voo como este vento
 REF:  Abebé kó ybytu îá
 ---
-PRED: <extra_id_0>.
+PRED: resume: calos ja duros
 REF:  mbyru'apûera
 ---
-PRED: <extra_id_0>.)
+PRED: резюме: Eu estou molhado
 REF:  Xe akym
 ---
-PRED: <extra_id_0>
+PRED: резюме: Piorei muito de meu grande mal
 REF:  Aîerekoaibeté xe angaîpá-katu suí
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Vela bem por mim mandando que nao me facam cair
 REF:  Ema'enãngatu xe ri, xe mbo'are'ym-uká
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu enviuvei
 REF:  Xe mene'õ
 ---
-PRED: <extra_id_0>.
+PRED: резюме: pequeno como isto
 REF:  nãmo-nhõta'ub
 ---
-PRED: <extra_id_0>.
+PRED: کورپاڼه
 REF:  Xe membyrakyrar
 ---
-PRED: <extra_id_0>.
+PRED: resume: Hei de ir para cumprir essas palavras
 REF:  T'asó aîpó nhe'enga mopó
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Nao se hao de esvanecer nem um pouco زما کلمې په اړه د هغو راتلونکو fatos
 REF:  N'i rambûé-mirĩî xûé aîpó tekorama resé xe nhe'engane
 ---
-PRED: <extra_id_0>
+PRED: रिव्यूः तु me alegras muito narrando assim os fatos
 REF:  Xe moory-katu îepé, inã tekó mombegûabo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Mas os guardiaes da gente sao os anjos
 REF:  Asé rarõanamo-tepe karaibebé rekóû?
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: زه په داسې حال کې پاتې کیږم چې زه د راتلونکي راتلونکي ولټاژ په اړه معلومات نه لرم
 REF:  Ebapó ta peîkó pe îebyragûama resé ixé nde momorandube'yma pukuî
 ---
-PRED: <extra_id_0>.,ловна
+PRED: resume: resto do tronco de arvore que fica na terra apos o seu corte
 REF:  ypypûera
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Sao muitas as grandes igacabas
 REF:  Setá nhẽ ygasabusu
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu retomei o bom senso
 REF:  Xe tekokuabar
 ---
-PRED: <extra_id_0>?
+PRED: بیاکتنه: A gente se batiza muitas vezes
 REF:  Setápe asé nhemongaraíbi?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu sou muito longevo
 REF:  Xe rekosûé-katu
 ---
-PRED: <extra_id_0>
+PRED: резюме: Hei de cobrir-te
 REF:  T'oropyk
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: له همدې امله د یو بل سره غمجن کیږي
 REF:  Nd'e'i te'e oîoepîaka'upa, o karukasyramo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Faco que nao o vejo
 REF:  N'asepîake'ym-a'ubi
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu sou muito manhoso em palavras
 REF:  Xe nhe'ẽpokarugûá-katu
 ---
-PRED: <extra_id_0> 
+PRED: резюме: Mas livra-nos tu das coisas mas
 REF:  Oré pysyrõ-te îepé mba'e-aíba suí
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Entao matarei alguns
 REF:  A'ereme amõ aîukáne
 ---
-PRED: <extra_id_0>
+PRED: रिव्यूः eu estou chagado eu tenho muitas chagas
 REF:  Xe îá-xe îaó
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Levamo-los uns atras dos outros
 REF:  Oroerokûaka'ar
 ---
-PRED: <extra_id_0>
+PRED: резюме: meu padrinho
 REF:  xe rerokarûera
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Mas sua vida e muito ma
 REF:  Sekó-te i poxyeté
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Ah quem me dera o tivesse matado
 REF:  Aîukámo mã!
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Aqui vem para nos castigar
 REF:  Ké turi îandé nupãmo!
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Lanco palavras contra ele
 REF:  Aîtyk nhe'enga sesé
 ---
-PRED: <extra_id_0>.
+PRED: Lebenslauf: homem liberal
 REF:  abá-ekoate'yme'yma
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Ein Terra Tambem entao agitando-se tremendo
 REF:  Yby abé a'ereme onhemonguébo, oryryîane
 ---
-PRED: <extra_id_0>
+PRED: резюме: Eu sou mediano eu nao sou grande nem pequeno
 REF:  Xe boîá
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Finjo que vou
 REF:  Asó-asó-a'ub
 ---
-PRED: <extra_id_0>
+PRED: resume: indo eu voando
 REF:  gûymaenhẽ gûixóbo
 ---
-PRED: <extra_id_0>.
+PRED: resume: ao longo do caminho todo o caminho
 REF:  pé pukuî
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Ensinando tu a ti mesmo
 REF:  Eîembo'ebo
 ---
-PRED: <extra_id_0>.
+PRED: resume: Eis que esta roupa sera adequadamente de feriado
 REF:  Ikó aoba niã aûîé-katutenhẽ Tupãnemendarama
 ---
-PRED: <extra_id_0>.
+PRED: resume: nao ha de ser futuro
 REF:  aani-xûé ipóne
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Guarda-te hoje de ter guerra comigo
 REF:  Eteumẽ kori marana rerekóbo xe resé
 ---
-PRED: <extra_id_0>
+PRED: resume: O que tolera o que quer trabalhar nos feriados
 REF:  Aretéreme i porabyky-potaryba'e mborypara
 ---
-PRED: <extra_id_0>
+PRED: resume: a unhada de fulano a marca das unhas de fulano
 REF:  ahẽ pûapẽ-mbora
 ---
-PRED: <extra_id_0>
+PRED: резюме: Que queimem em teu fogo
 REF:  T'okaî nde ratá pupé
 ---
-PRED: <extra_id_0>
+PRED: resume: Que ha aqui semelhante a um caninde azul
 REF:  Mba'epe ké kanindé-oby îasûara?
 ---
-PRED: <extra_id_0>.,ловна
+PRED: резюме: Nao o amo ainda
 REF:  Nd'a'éî saûsupa ranhẽ
 ---
-PRED: <extra_id_0>.,ловна
+PRED: resume: making estar bem minha alma
 REF:  xe 'anga moingó-katûabo!
 ---
-PRED: <extra_id_0>.
+PRED: रिव्यूः Ainda bem que o faz correr consigo
 REF:  Iîamuru senonhana!
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Arranquei as penas de sua asa
 REF:  Aîpepó-'ok
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Levaram-no com suas ataduras para Pilatos o Governor
 REF:  Pilatos ybyrarerekoara supé i popûasaba resebé serasóû
 ---
-PRED: <extra_id_0>.
+PRED: резюме: muitos meninos
 REF:  kunumĩ-etá
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: څنګه چې زموږ له لاسه ورکړئ هغه څه چې موږ یې کوو
 REF:  Oré rerekomemûãsara supé oré nhyrõ îabé
 ---
-PRED: <extra_id_0>
+PRED: 简历:我来过那件事
 REF:  O'u-eté-eté ahẽ mba'e
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Nao tendes ouvidos como de costume confundindo esta aldeia
 REF:  Na pe apysáî, îandu, ikó taba apamonana
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Tenho vida boa
 REF:  Tekó-katu arekó
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Como um galo te deitas
 REF:  Gûyrasapukaîa îabé ereîetu'u
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Como se eu fosse la
 REF:  A'epe xe só îaramẽ
 ---
-PRED: <extra_id_0>
+PRED: Lebenslauf: A cobra mordeu a Pedro
 REF:  Mboîa Pedro îaîxu'u
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Que tenhamos em sua terra junto de ti a vida eterna
 REF:  T'orogûerekó, setãme, nde pyri, tekopuku
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: له همدې امله د ټولو نارینه وو لپاره
 REF:  Nd'e'i te'e opá abá angaîbaramo-ne
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eia que eu va
 REF:  Ene'ĩ t'asóne!
 ---
-PRED: <extra_id_0>
+PRED: резюме: Когда cumpriras isso que dizes
 REF:  Erimba'epe aîpó nde 'îaba ereîmopóne?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Peco a Pedro por roupa
 REF:  Aîeruré aoba resé Pedro supé
 ---
-PRED: <extra_id_0>
+PRED: резюме: Eu tenho casca de ferida erguida
 REF:  Xe pé-bur
 ---
-PRED: <extra_id_0>
+PRED: резюме: Dizendo isso por pequenas coisas
 REF:  Mba'e-mirĩ resé aîpó o'îabo
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Escaparao futuramente os animais quadrupedes
 REF:  Okûabépe irã so'o?
 ---
-PRED: <extra_id_0>.,ловна 
+PRED: резюме: Faca-se tua vontade
 REF:  T'onhemonhang nde remimotara
 ---
-PRED: <extra_id_0>.))
+PRED: резюме: Eu nao tenho resistencia
 REF:  Na xe rosangi
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Faze-me tu valente para que eu me oponha ao maldito para sempre vencendo-o
 REF:  Xe mopyatã îepé, t'apu'am muru resé, aûîérama i moaûîébo
 ---
-PRED: <extra_id_0>.
+PRED: resume: escoria do ferro
 REF:  itá repoti
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Caem as vezes os frutos das suas arvores sendo ainda flores
 REF:  Okuî rakó amũme ybarambûera o 'yba suí ybotyramo oîkóbo bé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Quantos sao esses deuses
 REF:  Mobype a'e Tupã?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Que va Guaixara para o fogo
 REF:  Gûaîxará t'osó tatápe
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Sal bento pos na tua boca para que seja muito saborosa a palavra de Deus a ela
 REF:  Îuky-karaíba oîmondeb nde îurupe ta se'ẽngatu Tupã nhe'enga i xupé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Dou-lhe pancadas na cabeca
 REF:  Aî'apurupã
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: A que cuida da virtude e a mae de Deus bondosa
 REF:  Tekokatu angagûara Tupã sy-angaturama
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Confesso-me a ti senhor padre por causa do meu pecar muitas vezes
 REF:  Anhemombe'u ndebe, pa'i abaré setá nhẽ xe angaîpagûera resé
 ---
-PRED: <extra_id_0>.
+PRED: resume: Hei de comer todo o banquete de Jacare-guacu
 REF:  T'a'u pá Îakaregûasu pepyra!
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Hei de me aproximar de minha futura e verdadeira ژوند
 REF:  Arokakar xe rekobé-etérama re'ĩ
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Os que nao sao escondidos perdoa bem a eles
 REF:  I kuakubypyre'yma i nhyrõngatu i xupé
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Sob meine maos tenho os mocos pecadores os velhos crescidos
 REF:  Xe pó gûyrype arekó kunumĩgûasu-angaîpaba, tunhãba'e-kakuaba
 ---
-PRED: <extra_id_0>!
+PRED: резюме: Oh entao assim e na verdade
 REF:  Tó, inã îepé ra'e!
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Confessa bem a nos que tu es o filho de Deus
 REF:  Eîmombe'u-katu Tupã ra'yramo nde rekó orébe
 ---
-PRED: <extra_id_0>.
+PRED: resume: Tremendo entao a terra tambem
 REF:  Yby abé a'ereme oryryîane
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Caem as vezes os frutos de sus arvores sendo ainda flores outras vezes em seu estado verde outras vezes apos amadurecerem caem
 REF:  Okuî rakó amũme 'ybarambûera o 'yba suí 'ybotyramo oîkóbo bé, amõ rakó ogûakyra pupé i kuî, amõ rakó ogûaîub'iré i kuî
 ---
-PRED: <extra_id_0>.,ловна 
+PRED: резюме: cordao de contas
 REF:  mbo'yrysy
 ---
-PRED: <extra_id_0>
+PRED: резюме: Dormiu demais seu cadaver
 REF:  Okeretápe se'õmbûera?
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Limpou seu rosto com um pano branco
 REF:  Osobá-syb aó-tinga pupé
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: A mirra de polpa era o anuncio de sua futura morte pela gente
 REF:  To'o suí mirra moroesé se'õagûama mombegûaba
 ---
-PRED: <extra_id_0>.
+PRED: د اوبو رسولو وړتیاوې
 REF:  y-syryka
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: O sol faz as pessoas terem muita sede
 REF:  Kûarasy oporomo'y'useîeté
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Desencontramo-nos
 REF:  Oroîopynekûab
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Dar tambem o quinhao de Deus naquilo que plantou primeiro
 REF:  O emitymbûerypy pupé Tupã potá-me'engano
 ---
-PRED: <extra_id_0>.
+PRED: :د لټولو د پاره
 REF:  Nd'ei te'e, o py'a pupé oîemongetá-ngetábo, Tupã momburukatûabo
 ---
-PRED: <extra_id_0>.
+PRED: Rücktritt: Ali atacando als mocas por deseja-las
 REF:  A'epe kunhãmuku repenhana, i potasápe
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Tratemo-los bem junto de nos
 REF:  T'i rekó-katu îandébe
 ---
-PRED: <extra_id_0>
+PRED: resume: rapariga por desprezo pejorativo
 REF:  kunhataĩ-a'uba
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Detesto minha lei antiga
 REF:  Aroŷrõ xe rekopûera
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: له همدې امله په خپل لوی فورک کې زما ملاتړ کوي
 REF:  Nd'a'é te'e nde ratãngatu resé gûiîekoka
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Fazendo Deus descer consigo do ceu
 REF:  Tupã reroîypa ybaka suí
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: زه په زړه پورې یم او زه ډیره خوښه یم
 REF:  Xe moaîu-marangatu, xe moŷrõ-etekatûabo, aîpó tekó-pysasu
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: O que e comum e aquela mulher esmagar زموږ cabecas
 REF:  Sekoaba'e kûé kunhã oré akanga i apiti
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Meu senhor vos mata
 REF:  Pe îuká xe îara
 ---
-PRED: <extra_id_0>
+PRED: resume: Encaixotei-me as things
 REF:  Anhemba'e-nhang
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Vim atravessando o oceano
 REF:  Paranãgûasu rasapa aîu
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu estou fendido
 REF:  Xe îurubok
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Supportando a grande noite estamos muito aflitos
 REF:  Putunusu porarábo, oroîkotebẽngatu
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Amarra tua rede de dormir ao lado de mim
 REF:  Eîotĩ nde kesaba xe porupi
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Fico girando em circulos fico rodeando como o que se perdeu ou que busca alguma coisa
 REF:  Anhatimã-timanĩ
 ---
-PRED: <extra_id_0>
+PRED: resume: abracando a cintura de teu companheiro estimulando teu desejo sensual
 REF:  nde rapixara ku'a îubana, nde poropotá-pokyramamo
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Bem com os meus olhos vi que tu as escondeste
 REF:  Xe resá pupé-katu asepîak nde i mimagûera
 ---
-PRED: <extra_id_0>.
+PRED: जीवनीः eu dele perguntando vim da minha casa
 REF:  Ixé sesé gûiporandupa, xe roka suí aîu
 ---
-PRED: <extra_id_0>
+PRED: резюме: Estiraram-no sobre a cruz
 REF:  Oîpysó ybyraîoasaba 'arybo
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Os que vivem para isso transgridem muito a lei
 REF:  Ikoba'e resé tekoara oîaby-eté tekó
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: زموږ د ژوند په جریان کې موږ سره اړیکه ونیسئ
 REF:  Oré raûsubá îepé oré rekobé pukuî
 ---
-PRED: <extra_id_0>.
+PRED: リビエム:リヤチョ
 REF:  yekûabusu
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Gastei-o totalmente
 REF:  Aîmongûy-pab
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Vai para trazer um pouco dela
 REF:  Ekûãî îá reru
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: O que nao foi morto
 REF:  I îukapyrûere'yma
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Amarra tua rede de dormir ao longo de mim
 REF:  Eîotĩ nde kesaba xe porupi
 ---
-PRED: <extra_id_0>.
+PRED: resume: pele esfolada fora da carne
 REF:  pirûera
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Minha morte nao ha de ser ainda
 REF:  Nd'e'i ipó xe re'õnama ranhẽ re'a
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: زه په مختلفو برخو کې پیژندل شوی
 REF:  Xe îurubó-bok
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Estou na penuria
 REF:  Atyabor
 ---
-PRED: <extra_id_0>
+PRED: резюме: Я estou ricamente vestido de roupas
 REF:  Xe aó-mondé-matueté
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: دا یوازې هغه څه دي چې د بیاکتنې لپاره د پلار سره اړیکه لري
 REF:  Aîpó e'i nhote i xupéne konipó abaré supé i mombe'uû i akakapagûama reséne
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: O proprio Pedro mandou-me fazer proceder assim
 REF:  Pedro aé emonã xe moingó-ukar
 ---
-PRED: <extra_id_0>.
+PRED: резюме: poznando a Deus
 REF:  Tupana kuapa
 ---
-PRED: <extra_id_0>!
+PRED: резюме: Eu estou liso
 REF:  Xe sym
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: O desejo sensual tornado costumeiro a janotice o vicio isso Our Senhor apos o recebermos nos em nossa alma impede de se querer
 REF:  Moropotara semipokuabe'yma, arũaíba, tekó-poxy anga Îandé Îara îandé 'angyme îandé ogûar'iré ybŷá potara oîmoaruab
 ---
-PRED: <extra_id_0>.
+PRED: रिव्यू: A sus proprios companheiros nao querem bem
 REF:  O irũ n'oîamotari
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Jesus guardiao da alegria
 REF:  Iesu toryberekoara
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu estou umido
 REF:  Xe akymaíb
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Madeira e o que falta
 REF:  Ybyrá angapeẽamẽ
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Palavras de quem sao aquelas
 REF:  Abá nhe'engûerape aîpó?
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Escondendo ser sua parente verdadeira a que ele perverteu
 REF:  O emimomoxypûera o mũetéramo sekó kuakupa
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Flechei-os todos
 REF:  Aîybõ-mbá
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Veio um grande chefe de longe para te procurar
 REF:  Oú tubixá-katu mamõ suí nde reká
 ---
-PRED: <extra_id_0>.
+PRED: resume: instrument de desvio de agua sangradouro
 REF:  y-mombîasaba
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Como modo de honrar sua vinda este dia honramos
 REF:  Turagûera moetesabamo kó 'ara îamoeté
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Prega-o na cruz
 REF:  Eîmoîar ybyraîoasaba resé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: algum tanto grande
 REF:  Turusu-pyryb
 ---
-PRED: <extra_id_0>
+PRED: resume: listening o sermao do padre
 REF:  abaré nhe'ẽnhe'enga renduba
 ---
-PRED: <extra_id_0>.
+PRED: 例句: E mentindo tambem aquele que invoca sua alma que acontece
 REF:  O 'anga renõîndara abé o îuraragûaîamo nhẽ, marãpe?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Apos vir Sarauaia destruiremos a aldeia como de costume
 REF:  Saraûaîa rur'iré, îamombá taba îandune
 ---
-PRED: <extra_id_0>.
+PRED: रिव्यू: Que se compadecam dele os judeus
 REF:  T'oîporeaûsuberekó îudeus
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Ah oxala eu sofresse por Deus muitissimos infortunios
 REF:  Aîporará temõ Tupã resé mba'easy katupabẽ mã!
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: bonita esta church tendo muitos adornos
 REF:  I porang kó tupãoka, îegûakabetá rerupa!
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Dei-o a troco de dinheiro
 REF:  Itaîuba repyramo aîme'eng
 ---
-PRED: <extra_id_0>.
+PRED: रिव्यूः ओ क्वे यु छिपाते थे सच में जहाँ तुम रुबस्ट थे
 REF:  Nde remimimbûera, anhẽ, umãmepe nde mondá?
 ---
-PRED: <extra_id_0>.
+PRED: resume: Como ages embriagando-te de cauim Fazes o que nao deves entao
 REF:  -Marãpe ereîkó kaûĩ suí esabeypó? Ereîkomemûãpe a'ereme?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Ela embarrou nos seus ramos
 REF:  Sakã resé i îepokoki
 ---
-PRED: <extra_id_0>.
+PRED: resume: ilha de mato em meio a um descampado CAPO
 REF:  ka'a-pa'ũ
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Vem nomeia os que tu derrotas por ai
 REF:  Îori, esenõî angá kûeîbo nde remimoaûîé
 ---
-PRED: <extra_id_0>.,ловна <extra_id_12>
+PRED: резюме: Confiemos nesses homens
 REF:  T'i îerobîar apó abá ri
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Fizeste chegar o pagamento como retribuicao de um trabalho
 REF:  Eresepy-mondykype marãtekó repyramo?
 ---
-PRED: <extra_id_0>
+PRED: resume: sardas do rosto
 REF:  tobá pinima
 ---
-PRED: <extra_id_0>) <extra_id_37>
+PRED: Lebenslauf: os parentes de minha mulher
 REF:  xe ra'ysé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Um so e o conteudo de minha rede
 REF:  Oîepé xe pysá pora
 ---
-PRED: <extra_id_0>.
+PRED: resume: Porventura fizeram-se muito maus os homens apos se multiplicarem
 REF:  Onhemoangaîpabeté serã apŷaba o îeapyká-eté roîré?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Ficaste bebado de cauim perdendo o juizo
 REF:  Eresabeyporype kaûĩ suí 'ara mokanhema?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Finalmente ele a levou
 REF:  Té ahẽ serasóbo ko'yté
 ---
-PRED: <extra_id_0>
+PRED: резюме: Antigamente eu ficava sempre junto de ti
 REF:  Akûeîme apytá memẽ nde pyri
 ---
-PRED: <extra_id_0>! <extra_id_10>! <extra_id_10>
+PRED: резюме: Poucos moram nesta aldeia
 REF:  Mokõînhõ kó taba pupé sekóû
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Viemos muitos
 REF:  Oroîurusu
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Foi a frente de mim
 REF:  Osó xe renondé
 ---
-PRED: <extra_id_0>
+PRED: resume: de onde donde
 REF:  umã suí?
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Ja had dado Judas aos judeus o meio de reconhecer Our Lord
 REF:  Oîkuapá-me'eng umûãpe Îudas Îandé Îara îudeus supé erimba'e?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Acalentei-a
 REF:  Aîmboyî
 ---
-PRED: <extra_id_0>
+PRED:  resume: teia de aranha
 REF:  nhandu'i-kesaba
 ---
-PRED: <extra_id_0>
+PRED: резюме: Tomamo-lo de ombro a ombro
 REF:  Oîoybari orogûar
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu sou redondo
 REF:  Xe amandab
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Estes habitantes da aldeia sob meine maos estavam
 REF:  Kó tabygûara xe pó gûyrybo sekóû
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Vinha com purpura e espinhos
 REF:  Aopyranga îu abé ogûerur
 ---
-PRED: <extra_id_0>.,ловна
+PRED: резюме: Prendi-os um ao lado do outro
 REF:  O îoybyri aîmoín
 ---
-PRED: <extra_id_0>
+PRED: レセプト:o que te poe a nu
 REF:  ikatupe nde moĩndara
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: No dia de guarda do nascimento dele acendemos a fogueira chamada caminho do salto
 REF:  Ara i 'aragûera pîasaba pupé tatá i apyrasabapé 'îaba îaîmondyk
 ---
-PRED: <extra_id_0>
+PRED: resume: o miolo dele
 REF:  i apytera
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Que venha para nos fazer felizes
 REF:  T'oú oré moorypa
 ---
-PRED: <extra_id_0>
+PRED: resume: As que dizem coisas mas
 REF:  Marã e'îara
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Fiquei estremecendo
 REF:  Asy-syî
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Contando os pecados escondidos de alguem para quem nao os conhece
 REF:  Abá angaîpá-nhemima i kuapare'yma supé mombegûabo
 ---
-PRED: <extra_id_0>
+PRED: резюме: Faco mingau
 REF:  Aîapó minga'u
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Presumo que ele deve ter ido
 REF:  "Osó ipó re'a" a'é
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Entao os anjos virao chamando os mortos tocando trombetas
 REF:  A'ereme karaibebé ruri, te'õmbûera renõîa, mimbygûasu pŷabo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: waters tranquilas bonanca
 REF:  y-katu
 ---
-PRED: <extra_id_0>.
+PRED: resume: O dia esta muito escuro como que para chover
 REF:  I pytũ-pytun 'ara
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Ele e mais bonito
 REF:  Turusueté - Ele é maior I porangeté
 ---
-PRED: <extra_id_0>
+PRED: резюме: Estou a latejar
 REF:  Nyn-nyng a'é
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Na verdade somente estas retirei dos malditos
 REF:  Kó nhõ anosẽ îepé moxy suí
 ---
-PRED: <extra_id_0>.
+PRED: resume: Tomei-o com ambas as maos
 REF:  Oîopobaî aîar
 ---
-PRED: <extra_id_0>.
+PRED: powrót: Entao jako gwiazdy cairao całkowicie
 REF:  A'ereme îasytatá o apakuîamo
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Invocam as mulheres o paje Caruara
 REF:  Osekyî kunhã maîé Karûara
 ---
-PRED: <extra_id_0>.
+PRED: резюме: dificil para mim tenta-los
 REF:  I abaí xebo sa'anga
 ---
-PRED: <extra_id_0>.
+PRED: 履歴書:o que e viuvo o viuvo
 REF:  seremirekoe'õba'e
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu estou inchado
 REF:  Xe pungá
 ---
-PRED: <extra_id_0>.
+PRED: резюме: mas de verdade
 REF:  anhẽ ruãp'anhẽ
 ---
-PRED: <extra_id_0>
+PRED: резюме: Na casa de quem passaste
 REF:  Abá rokype erekûá?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Eis-me aqui eis que aqui estou
 REF:  Aîkó
 ---
-PRED: <extra_id_0>
+PRED: резюме: Ah se viesse
 REF:  Tera'ute oú
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu sou esquecidico
 REF:  Xe resaraîpotar
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Vossos avos todos com pranto estavam recolhendo-se
 REF:  Pe ramỹîa pabẽ rakó îase'o rerekóû, îemoingeabo
 ---
-PRED: <extra_id_0>.
+PRED: بیرته ستنیدو: دا یو بل دی
 REF:  ikó-te
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Quem aquele mandamento transgride
 REF:  Abápe aîpoba'e oîaby?
 ---
-PRED: <extra_id_0>.
+PRED: په اړه: خلک وايي چې د خدای د هغه څه لپاره چې ورکړل شي
 REF:  Asé aîpó i me'engymbyra supé "Tupã potaba" i 'éû?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Sempre eu ensinei publicamente as pessoas
 REF:  Te'yîpe memẽ nhẽ ixé aporombo'e
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: A crenca no Deus verdadeiro encheu meu interior
 REF:  Tupã-eté rerobîara îaîporaká xe ybỹîa
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Reparti com ele a carne
 REF:  Aîopoî ahẽ so'o pupé
 ---
-PRED: <extra_id_0>
+PRED: विवरण: Eles se tratam uns aos otros como semelhantes por causa de sua irmandade
 REF:  O îoasykûera ri îasûaramo i îogûerekóû
 ---
-PRED: <extra_id_0>
+PRED: резюме: Ajo velhacamente
 REF:  Aîkó-angaîpab
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: هغه په واقعیت کې د ما اغیزې اغیزه کوي
 REF:  A'e ipó oîmoarybé-ukar xe suí
 ---
-PRED: <extra_id_0>
+PRED: резюме: Inclina-se
 REF:  -Oîerokype asé Cruz supé? -Oîeroky -A gente se inclina junto à cruz?
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Ah que mau e o pecado Que mau que e fulano
 REF:  Tieté kó angaîpaba maniîabo mã! Tieté kó ahẽ maniîabomã!
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Vou ao caminho de meu pai
 REF:  Asó xe ruba rapépe
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Manquejo
 REF:  Xe ate'ẽ
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Escondeste algum pecado teu do padre envergonhando-te dele
 REF:  Ereîkuakupe nde angaîpaba amõ abaré suí, senotĩamo nhẽ?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Ha de prantear a gente o desaparecimento de seu pai e de sua mae
 REF:  Osapirõ-n'asé og uba o sy kanhemagûera
 ---
-PRED: <extra_id_0>.
+PRED: रिव्यूः नाओ पोर मी अमर
 REF:  Na xe raûsupeî
 ---
-PRED: <extra_id_0>.
+PRED: resume: homem parvoeirao ignorantao
 REF:  abá-tekokuabe'ymusu
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Levaram-no para um certo palacio fazendo-o entrar reunindo soldados fortes ali por sua causa
 REF:  Ogûerasó amõ okusupe seroîkŷabo, a'epe maranaritekoaratã reŷnhanga sesé
 ---
-PRED: <extra_id_0>
+PRED: резюме: nunca mais
 REF:  aani xûé ko'yténe
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Mas nao pode a gente de modo nenhum contar o procedimento oculto de alguem
 REF:  Nd'e'ikatu angáî-tepe asé abá rekó-nhemima mombegûabo?
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Santa Maria esta pensando na aproximacao de seu parto
 REF:  Santa Maria o membyrá-kakara omo'ã-mo'ang
 ---
-PRED: <extra_id_0> 
+PRED: リビジョン:ファイバス・サジャス
 REF:  pó-ky'a
 ---
-PRED: <extra_id_0>
+PRED: रिव्यूः पारा वोंड सेरा क्वे यु आईरेई
 REF:  Mamõ serã xe sóûne?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Enjoa-te de teu velho modo de ser
 REF:  Eîmoting nde rekopûera!
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu sou molengao
 REF:  Xe rekombegûé
 ---
-PRED: <extra_id_0>.
+PRED: 简历: em míos bem os tenho
 REF:  Xe pópe arekó-katu
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Tenho a carne arrepiada
 REF:  Xe ro'o-piring
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: gozador brincalhao zombeteiro
 REF:  nhemosaraîxûera
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Os indios atacaras
 REF:  Apŷaba eresepenhãne
 ---
-PRED: <extra_id_0>.
+PRED: リスエム: pedra de beico pontuda
 REF:  metarapûá
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: د دې لپاره چې زموږ د بیاکتنې بیاکتنې بیاکتنې بیاکتنې بیاکتنې بیاکتنې بیاکتنې بیاکتنه
 REF:  I xupé ogûeru îetanongabamo itaîuba, ysykatã syapûãba'e, mirra
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Se tu guardiao de mim sob tuas maos colocando-me
 REF:  Nde morerekoar xe ri, nde pó gûyrype xe nonga
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: د نورو ځایونو څخه لرې کول
 REF:  Tamũîa omombab erimba'e
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Ah if eu had percebido outrora isso praticando o que dizieis
 REF:  Anhandu beémo erimba'e angûama mã, pe 'erama purûabo!
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Futuro senhor de sus muitissimas riquezas
 REF:  O mba'e-katupabẽ îarama
 ---
-PRED: <extra_id_0>
+PRED: जीवनीः Nao se cansam de pedir a Deus pelos que os resgataram
 REF:  N'oîeruré-pytubari Tupã supé ogûenosemarûera resé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Faco-o doente
 REF:  Aîmomara'ar
 ---
-PRED: <extra_id_0>?
+PRED: بیاکتنه: E nao confessando ser parente de fato de seu marido ou de sua esposa que acontece
 REF:  A'epe o mena koîpó o emirekó mũetéramo sekó mombe'ue'yma, marã?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu nao sou medroso
 REF:  Na xe poropoûsubi
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: د پیژندل شویو ځایونو څخه د پیژندل شوي ځایونو څخه د پیژندل شوي ځایونو څخه
 REF:  Serapûan kó mosakara, i kaûĩgûasuba'e
 ---
-PRED: <extra_id_0>.
+PRED: रिव्यू: Que me tratem como a seu proprio deus
 REF:  O tupãnamo ta xe rerekó
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Muitissimas lorotas invocaram contra ele
 REF:  Tenhẽngatupabẽ osykyî i xupé
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Vinde levai os malditos erguendo-os para sapeca-los em nosso fogo moqueando-os
 REF:  Peîori, perasó muru, supi îandé ratápe sapeka, i monga'ẽmo
 ---
-PRED: <extra_id_0>
+PRED: resume: fora na rua
 REF:  okarype
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Esta molestando as pessoas fazendo-as cair em erro
 REF:  oporomoaîu oîkóbo, oporomotekokuabe'yma
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Vem em vao para me afastar os ditos padres
 REF:  Oú tenhẽ xe pe'abo "abaré" 'îaba
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Em tuas maos sentando-se vai o menino
 REF:  Nde pópe ogûapyka, osó kunumĩ
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Por que bates em mim
 REF:  Marãpe xe ri erepûá?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Que afaste nuestra maldade
 REF:  Îandé aíba t'oîpe'a
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Nao se compadeceu Deus de alguem por causa dos que descenderiam dele
 REF:  N'osaûsubaripe Tupã amõ abá îeapykaba'erama resé?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Mato gente
 REF:  Aporoîuká
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Que e a morte
 REF:  Mba'epe te'õ?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu sou um misero indio de fato
 REF:  Xe abá-aîbĩ anhẽ
 ---
-PRED: <extra_id_0>
+PRED: резюме: Dou de beber as pessoas
 REF:  Apore'ym
 ---
-PRED: <extra_id_0>
+PRED: resume: a sem-filhos a femea esteril
 REF:  membyre'yma
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Que parecam juntar-se como um so
 REF:  T'oîese'ar-y berame'ĩ oîepekaturamo
 ---
-PRED: <extra_id_0>.,ловна
+PRED: резюме: Oprime-nos o coracao
 REF:  Oré py'a-pyk
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Muitissimas coisas mas eles acharao
 REF:  Mba'e-memûãngatupabẽ resé i îekosubyne
 ---
-PRED: <extra_id_0>
+PRED: резюме: Aparei-o
 REF:  Asembe'y-kytĩ
 ---
-PRED: <extra_id_0>
+PRED: резюме: Como se eu dissesse
 REF:  Xe 'é îasûaramo n'aé
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Ficou saltando reconhecendo imediatamente Jesus seu senhorzinho
 REF:  Opor-oporĩ, Îesu o îarĩ kuapa aûnhenhẽ
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eis que eu sou homem
 REF:  Xe abá niã ixé
 ---
-PRED: <extra_id_0>
+PRED: резюме: Ave Maria a que esta cheia de graca
 REF:  Ave Maria, graça resé tynysemba'e
 ---
-PRED: <extra_id_0>
+PRED: resume: Segui pelo mar em navio 'Y rupi aguata - Andei pelo rio de barco
 REF:  Paranã rupi agûatá
 ---
-PRED: <extra_id_0>.
+PRED: रिव्यूः Esse nome e o que me convem
 REF:  Aîpó tera xe arõana
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: زما پلار او زما مور او پلار د نورو مور او پلار سره په ګډوډۍ کې دي چې په ورته وخت کې ورته ورته ویل کیږي
 REF:  xe ruba xe monhangara
 ---
-PRED: <extra_id_0>
+PRED: резюме: A mae de Deus esta sabendo todas as coisas
 REF:  Tupã sy opabenhẽ mba'e oîkuab oîkóbo
 ---
-PRED: <extra_id_0>
+PRED: रिव्यू: o cauim que e preparado para meu recebimento
 REF:  kaûĩ xe renotara
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: د خپل بنډل زیاتوالی
 REF:  I angaturama nhẽ oîrumõ-rumõ
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Ouve
 REF:  Esendu
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: A mim tambem o flechado Bastiao derrotou-me Nao شتون لري مګر زما پخوانی براور
 REF:  Xe abé iî ybõmbyrûera Bastião xe moaûîé N'i tybi xe abaetepûera
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu seco
 REF:  Xe rypab
 ---
-PRED: <extra_id_0>?
+PRED: بیاکتنه: تاسو د خپلې خوښې سره یوځای کړئ
 REF:  -Nde regûyrõpe nde agûasá resé?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Contigo sempre estou
 REF:  Nde resé memẽ oroîkó
 ---
-PRED: <extra_id_0>.
+PRED: रिव्यूः वैम पार एसपांटर ओ डायबो
 REF:  Îori anhanga mondyîa
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: موږ د پیسو په بدل کې یو او موږ د پیسو په بدل کې یو
 REF:  Oîoapyri oroîkó itá resé
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Sao muito molestos certamente os tropecos de nuestra caminhada
 REF:  Iîabaíbeté nhẽ rakó asé atá mysakanga
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Ambas als meine coxas tremem endurecendo
 REF:  Opá xe uba îesyî, oîemoatãmo
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Tu tens eyes concupiscentes olhando para alguem
 REF:  Nde resá-poropotápe amõ resé ema'ẽmo?
 ---
-PRED: <extra_id_0>.,ловна
+PRED: بیاکتنه: Para uma grande escuridao e que iriam
 REF:  Pytunusupe émo i xóûmo
 ---
-PRED: <extra_id_0>
+PRED: резюме: Esses na verdade nao honram a Deus
 REF:  A'e ipó Tupã n'omoangaturami
 ---
-PRED: <extra_id_0>
+PRED: tagasivõte: Vou por ir sem algum fim
 REF:  Asó nhẽ
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: ښه لږ وخت اوس لږ لږ agorinha هم
 REF:  kûesé-té'ĩ, kûesé-té'ĩ-mbyryb, kûesé-té'ĩbé, kûesé-bé'ĩ, kûesé-pyryb
 ---
-PRED: <extra_id_0>.
+PRED: ចម្លើយ: Fazem aplacar a Deus a si mesmos ao eliminam a divida dos pecados de muitos anos
 REF:  Tupã oîmonhyrõ o îoupé setá nhẽ seîxutatá tekoangaîpaba repy-mondykápe
 ---
-PRED: <extra_id_0>
+PRED: резюме: Aparei-o
 REF:  Anhopan
 ---
-PRED: <extra_id_0>.
+PRED: резюме: campo limpo
 REF:  nhũasyma
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Seu sangue era muito
 REF:  Sugûy turusu
 ---
-PRED: <extra_id_0>
+PRED: रिव्यू: o que informa o que avisa
 REF:  momorandupara
 ---
-PRED: <extra_id_0>
+PRED: 履歴書: formosa certamente a lua vindo com sua grande face
 REF:  I aysó, nipó, îasy, og obagûasu reru
 ---
-PRED: <extra_id_0>
+PRED: резюме: Delato gente
 REF:  Aporokuaukar
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: هیڅکله زموږ alma com sua palavra e que ele a fez کړی نه دی
 REF:  Nama'eruã oîmonhang asé 'angamo, o nhe'enga pupé é i monhangi
 ---
-PRED: <extra_id_0>
+PRED: резюме: Basta Falo eu Sarauaia
 REF:  Aûîé! Anhe'eng, Saraûaî!
 ---
-PRED: <extra_id_0>
+PRED: रिव्यूः पोए ए एसपाडा ना बाईन देला
 REF:  Eîmondeb itangapema surupe
 ---
-PRED: <extra_id_0>
+PRED: resume: Dizendo palavras mas acerca de coisas nojentas
 REF:  Mba'epoxy koty onhe'engaíbamo
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Para ser a futura mae de Deus ela foi feita
 REF:  Tupã syrama ri i monhangymbyra…
 ---
-PRED: <extra_id_0>
+PRED: резюме: Todas as mí presas de mí maos as levou
 REF:  Opakatu xe rembiara xe pó suí serasóû
 ---
-PRED: <extra_id_0>.
+PRED: د محصول د تفصیلي
 REF:  ybykûab
 ---
-PRED: <extra_id_0>.
+PRED: resume: Afastando o diabo assim como a morte
 REF:  Anhanga pe'abo, te'õ resebé
 ---
-PRED: <extra_id_0>
+PRED: بیرته ستنیدو: ستاسو د پیسو په اړه څه دي؟
 REF:  O boîáramo pe rari
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Mas nao iriamos para o ceu se ele nao morresse
 REF:  Nd'îasóî xûé-tepemo ybakype se'õe'ỹmemo?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Sua mae cobrindo-o bem defende-o do frio
 REF:  I xy i aso'ikatûabo, oîopîá ro'y suí
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Ele e azul
 REF:  Soby
 ---
-PRED: <extra_id_0>
+PRED: resume: inimiga do diabo
 REF:  Anhanga sumarã
 ---
-PRED: <extra_id_0>
+PRED: रिव्यूः ओ जुइस मंडू देसोरेलहर ओ लैडराव
 REF:  Morubixaba mondá îaînambi-'okukar
 ---
-PRED: <extra_id_0>.
+PRED: atstāšana: para alem de Lisboa
 REF:  Lisboa akûeakoty
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Ladroeira palavras ruins mentiras sobejavam-te
 REF:  Mondarõ, nhe'engaíba, mo'ema nde resemõ
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Suas antigas lembrancas das Dinge ai se retirarao
 REF:  Mba'e resé o nhemoma'enduaragûera a'epe onhenosẽne
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Ficaste bebado de cauim perdendo o juizo
 REF:  Eresabeyporype kaûĩ suí, 'ara mokanhema?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Sua muita bondade engrandecendo
 REF:  I angaturãngatu moeburusûabo
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Aonde chegaram com Our Senhor enfim
 REF:  Mamõpe ybŷá Îandé Îara rerobasemi ko'yté?
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Evocando a morte de meu Senhor
 REF:  xe îara re'õ renõîa
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Ensina bem minha alma para que conheca o caminho do ceu
 REF:  Eîmbo'ekatu xe 'anga t'oîkuab ybaka piara
 ---
-PRED: <extra_id_0>
+PRED: resume: jazimento de pedras grandes penedia
 REF:  itagûasutyba
 ---
-PRED: <extra_id_0>.
+PRED: Lebenslauf: Envergonha-se o sol de nascer diante de teu brilho
 REF:  Otĩ kûarasy osema, nde beraba robaké
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Homens velhas mulheres تل serao زما presas
 REF:  Apŷaba, gûaîbĩ, kunhãne, ko'arapukuî xe rembiá
 ---
-PRED: <extra_id_0>
+PRED: резюме: Forrei-o
 REF:  Aîapeaob
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Ora ja agora leve-o
 REF:  Ne'ĩ serasóbo ko'yté
 ---
-PRED: <extra_id_0>.
+PRED: resume: enfeitando minha cabeca
 REF:  xe akanga moîegûaka
 ---
-PRED: <extra_id_0>
+PRED: リビジョン: アバサルガダ・ド・マー
 REF:  y-e'ẽ
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Arruinei a todos
 REF:  Aîmomoxy pabenhẽ
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Faco muito barulho ao andar
 REF:  Xe py-ambugûasu
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Estorva-me o Senhor Deus
 REF:  Xe moarûá Pa'i Tupã!
 ---
-PRED: <extra_id_0>
+PRED: резюме: Fi-lo rispidamente
 REF:  Aîmonhang-îeaseî
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Vim do ceu para vos ajudar sempre
 REF:  Aîur ybaka suí îepi nhẽ pe pytybõmo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Tirei o luto
 REF:  Aîeaibok
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Diferenciando-a das outras mulheres
 REF:  Amõ kunhã suí i moingoébo
 ---
-PRED: <extra_id_0>. <extra_id_10>.
+PRED: resume: Que a gente diz conversando com o anjo seu guardiao
 REF:  Marã e'ipe asé, karaibebé o arõana mongetábo?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Cortei seus nervos
 REF:  Aîpytasã-mondok
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Que confesses a transgressao da palavra de Deus a persistencia nisso tambem
 REF:  Tupã nhe'enga abŷagûera t'ereîmombe'u, apore'ymagûera béno
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Eis que com seu corpo deve estar sua divindade nos pedacinhos tambem inteiramente
 REF:  I Tupã irũmo bé kó seté rekóû, pesembûeri pupé bé gûetépe-katu re'a
 ---
-PRED: <extra_id_0>
+PRED: резюме: Eu arquejo
 REF:  Xe u'ukûar
 ---
-PRED: <extra_id_0>
+PRED: резюме: Encosto-me nele
 REF:  Aîekok sesé
 ---
-PRED: <extra_id_0>
+PRED: resume: raizes angulosas nome de lugar
 REF:  sapopema
 ---
-PRED: <extra_id_0>
+PRED: резюме: Falastes torpemente para vos mesmos
 REF:  Penhe'eng poxype pe îoupé?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Era eu
 REF:  Ixé rakó
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Eu estou com a boca entreaberta
 REF:  Xe îuru-bok
 ---
-PRED: <extra_id_0>.,ловна
+PRED: резюме: Fico escarnecendo das pessoas
 REF:  Aporoîaî - Escarneço das pessoas Aporoîá-roîaî
 ---
-PRED: <extra_id_0>.
+PRED: резюме: para seu fogo arrastando-nos
 REF:  ogûatápe oré rekyîa
 ---
-PRED: <extra_id_0>.
+PRED: エム・アボリゴ
 REF:  ãme
 ---
-PRED: <extra_id_0>
+PRED: резюме: Arrepiei-me
 REF:  Aîepoká
 ---
-PRED: <extra_id_0>
+PRED: резюме: como crianca gerando-se
 REF:  pitangamo onhemonhanga
 ---
-PRED: <extra_id_0>
+PRED: резюме: sobrinho dele
 REF:  i i'yra → i'yra
 ---
-PRED: <extra_id_0>
+PRED: резюме: Saltei-o
 REF:  Aîapyrasab
 ---
-PRED: <extra_id_0>.
+PRED: resume: ベン・セド ベン・デ・アモーナー
 REF:  îeîbeté
 ---
-PRED: <extra_id_0>. <extra_id_10>!
+PRED: резюме: Piorou muito a dor de minha cabeca
 REF:  Oîerekoaíbeté xe akanga rasy xe suí
 ---
-PRED: <extra_id_0>
+PRED: 履歴: Vejo-o Com enfase Lit Acho-me vendo-o
 REF:  A'é sepîaka
 ---
-PRED: <extra_id_0>
+PRED: резюме: Teu poder aquietou este mundo
 REF:  Nde 'ekatu kó 'ara moapysyki
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eis que vou
 REF:  Ebokûé asó
 ---
-PRED: <extra_id_0>.
+PRED: resume: meios de contar das duas maos da gente isto e os dedos
 REF:  mokõî asé pó papasaba
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Santa Maria esta supondo a aproximacao de seu parto
 REF:  Santa Maria o membyrá-kakara omo'ã-mo'ang
 ---
-PRED: <extra_id_0>
+PRED: резюме: Estou-me recolhendo
 REF:  Anhenong gûitupa
 ---
-PRED: <extra_id_0>
+PRED: резюме: Nas minhas costas levei-o
 REF:  Xe aseî arasó
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu espumei
 REF:  Xe rendyîuî
 ---
-PRED: <extra_id_0>.
+PRED: रिव्यूःQue eu deteste muito o diabo
 REF:  T'aroŷrõngatu Anhanga
 ---
-PRED: <extra_id_0>.
+PRED: 简历: Nao contem mais nada minha bolsa
 REF:  N'i pori be'ĩ xe aîó
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Мамеи
 REF:  Akambu
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Escudo-me defendo-me
 REF:  Aîepîar
 ---
-PRED: <extra_id_0>
+PRED: резюме: Roi-o
 REF:  Aîakarãî
 ---
-PRED: <extra_id_0>
+PRED: резюме: Comecei-o
 REF:  Aîypymoín
 ---
-PRED: <extra_id_0>
+PRED: संक्षेपः आओ मरूँ eu que venhas
 REF:  Xe îekyîme, t'ereîu
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Vituperaste teu pai tua mae teu avo tua avo
 REF:  Ereîanga'ope nde ruba, nde sy, nde ramũîa, nde aryîa?
 ---
-PRED: <extra_id_0>
+PRED: 履歴書: Inchei-me muito as bochechas
 REF:  Anhemoatypygûasu
 ---
-PRED: <extra_id_0>.
+PRED: د خدای بخښنه! د خدای بخښنه! د خدای بخښنه!
 REF:  Emonãnamo serã Tupã îandé rubypy arukangûera nhẽ monhangi semirekó retéramo?
 ---
-PRED: <extra_id_0>.
+PRED: resume: agora ha pouco
 REF:  korite'ĩ-mbyryb
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Apos verte-la dentro de alguma casca de coco
 REF:  Inaîagûasu apepûera amõ pupé i nhang'iré
 ---
-PRED: <extra_id_0>
+PRED: resume: sol frio isto e sol encoberto tempo nublado
 REF:  kûarasy-ro'y
 ---
-PRED: <extra_id_0>.
+PRED: レセプション: certo que foi
 REF:  Osó ruãpe é?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Moro com Pedro
 REF:  Kó taba pupé aîkó - Moro nesta aldeia Aîkó iké xe roka pupé - Moro aqui em minha casa Aîkó Pero irũnamo
 ---
-PRED: <extra_id_0>
+PRED: リビジョン:テラ・アヴェルメラダ・バーロ
 REF:  yby-pytanga
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Levantei-me dormindo
 REF:  Apakaíb
 ---
-PRED: <extra_id_0>?
+PRED: Rückblick: Porventura a tentacao e algo semelhante a uma jucana
 REF:  Îusana abŷare'yma nhẽ serã tentação?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Chamo os homens
 REF:  Asenõî apŷabetá
 ---
-PRED: <extra_id_0>
+PRED: resume: o que proclama sus palavras
 REF:  i nhe'enga mombegûara
 ---
-PRED: <extra_id_0>?
+PRED: резюме: Filhos de quem eram esses
 REF:  Abá ra'yrape ûĩ?!
 ---
-PRED: <extra_id_0>
+PRED: резюме: palavra ruim
 REF:  nhe'engasy
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Alimentar os famintos
 REF:  Ambyasybora poîa
 ---
-PRED: <extra_id_0>!
+PRED: بیاکتنه: د مالتړ لپاره ښه کار شوی Seus figados hao de ser minha porcao
 REF:  Iîá muru! I py'apûera xe potabamo t'oîkó
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eis que se aproxima minha vida futura
 REF:  Okakar kó xe rekoberama re'a
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Apos arrependerem-se de sus atos os indios vao confessar-se
 REF:  O ekó moasy riré, abá sóû îemombegûabo
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: د پور ټاوس پیګډاس ها د آی ټي ای ایلما تل
 REF:  Nde rakypûera rupi t'osó xe 'anga îepi
 ---
-PRED: <extra_id_0>. <extra_id_10>.
+PRED: بیاکتنه: لکه څنګه چې زما suditos ټول زما په میو کې زما د خوبونه لري
 REF:  Xe boîáramo pabẽ xe pópe arekó-katu
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Quem fez isso outrora
 REF:  Abápe aîpoba'e oîmonhang erimba'e?
 ---
-PRED: <extra_id_0>?
+PRED: بیاکتنه: Qual outro e guerreiro senao ele
 REF:  Maratekoara aé-amẽ ahẽ?
 ---
-PRED: <extra_id_0>
+PRED: レゴ・ド・アグア
 REF:  y rapé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Estamos entrecruzados
 REF:  Oroîekunasab
 ---
-PRED: <extra_id_0>.
+PRED: जीवनीः Disse isso conhecendo o futuro esmagamento dos habitantes daquela शहर chamada यरूशलेम
 REF:  Akûeî tabusu Îerusalém 'îaba pora mombebaûama kuapa nhẽ aîpó i 'éû
 ---
-PRED: <extra_id_0>.)
+PRED: резюме: Я наo estou sendo fantasioso
 REF:  Na xe poranguî gûitekóbo
 ---
-PRED: <extra_id_0>.
+PRED: 简历: Ha de ser o substituto de meu pai
 REF:  Xe ruba rekobîara é re'ĩ
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu sou habil
 REF:  Xe pokarugûar
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Enterrando os antigos vicios
 REF:  Tekopoxypûera tyma
 ---
-PRED: <extra_id_0>.
+PRED: 履歴: ホームコラミガス
 REF:  Xe resangá - Eu sou chorão Abá-esangá
 ---
-PRED: <extra_id_0>.
+PRED: резюме: mina de ouro
 REF:  itaîu-kûara
 ---
-PRED: <extra_id_0>.,ловна
+PRED: بیاکتنه: Multiplicou-nos neste mundo primeiro
 REF:  Îandé moîeapykáû ikó 'ara pupé ranhẽ
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: ensinamento da palavra de Deus
 REF:  Tupã nhe'enga morombo'esaba
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Permaneco seu guardiao
 REF:  Aîkobé n'ixé sarõana
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Sera que amais vosso salvador
 REF:  Pesaûsu ra'upe pe pysyrõana?
 ---
-PRED: <extra_id_0>.
+PRED: Resumen: Aqueles serao os futuros habitantes do fundo do noso fogo os que serao queimados
 REF:  Aîpó îandé ratá gûyra porama, sapypyrama
 ---
-PRED: <extra_id_0>.,ловна <extra_id_9>
+PRED: резюме: linea delgada para coser
 REF:  inimbó'i
 ---
-PRED: <extra_id_0>
+PRED: резюме: Когда cumpriras isso que tu dizes
 REF:  Erimba'epe aîpó nde 'îaba ereîmopóne?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Esse somente e de fato teu nome
 REF:  Aîpó nhõ-pipó nde rera?
 ---
-PRED: <extra_id_0>
+PRED: Rückmeldung: Eu tenho folego apressado eu tenho muito folego
 REF:  Xe pytubapûan
 ---
-PRED: <extra_id_0>
+PRED: резюме: Fico-o mastigando sem dentes
 REF:  Anhagûã-nhagûãî
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Tendo saudades do nenenzinho vim de minha casa
 REF:  Pitangĩ repîaka'upa, aîur xe roka suí
 ---
-PRED: <extra_id_0>.,ловна
+PRED: резюме: Trouxeram polvora em vao
 REF:  Mokaba ogûeru tenhẽ
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: O que tocou na irma mais moca یا na irma mais velha de sua noiva verdadeira nao pode casar-se nem mesmo com sua noiva
 REF:  O me'engabeté pyky'yra koîpó tykera resé obykyba'e n'e'ikatuî omendá o me'engabeté resé tiruã
 ---
-PRED: <extra_id_0>.
+PRED: resume: hairs arrepiados e desgrenhados
 REF:  a-tyrá-bebó
 ---
-PRED: <extra_id_0>.
+PRED: resume: miserias da vida
 REF:  tekó poreaûsuba
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Nao conheco esse homem
 REF:  N'aîkuabi a'e abá
 ---
-PRED: <extra_id_0>
+PRED: резюме: Sara mesmo mía alma apenas com tuas palavras
 REF:  Opûerab é ipó xe 'anga nde nhe'enga pupé nhote
 ---
-PRED: <extra_id_0>.
+PRED: resumen: Ponde uma cruz diante deste doente como objeto da visao de sus ojos
 REF:  Peîmoín amõ cruz oîepé kó mara'abora robaké sesá ma'ẽndabamo
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Tornam-nos berühmten Tambem in ihren bocas vilipendiando-os
 REF:  Oîmoerapûan-y bé, o îurupe i momoxŷabo
 ---
-PRED: <extra_id_0>.
+PRED: لېږل نوی
 REF:  O memby-porangeté t'omoîerekûab orébo
 ---
-PRED: <extra_id_0>
+PRED: резюме: Eu sou vingativo
 REF:  Xe îepykixûer
 ---
-PRED: <extra_id_0>
+PRED: резюме: remedio portador de cura
 REF:  mosanga moeîrabyîara
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Semelhantemente a isso سره د خپلو سپو pregando-os tambem سره د cravos کړې
 REF:  A'e rame'ĩpe ybŷá i py rerekóû itapygûá pupé i moîáno?
 ---
-PRED: <extra_id_0>
+PRED: resume: Na casa de quem passaste tomando-as antes de te esconderes
 REF:  Abá rokype erekûá tá, nhemim-y îanondé?
 ---
-PRED: <extra_id_0>.,ловна
+PRED: резюме: Fi-lo...
 REF:  Aîmoangaîbar
 ---
-PRED: <extra_id_0>.
+PRED: resume: トマ・アム・ソ・トラゴ
 REF:  E'u oîepé îuru nhote
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Que amemos nosso pai nosso verdadeiro criador
 REF:  T'orosaûsu îandé ruba, îandé monhangareté
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: کله چې تاسو د خپل کارکوونکي سره مرسته کوئ
 REF:  Nde nhy'ã nde i moatãnhẽe'ỹme
 ---
-PRED: <extra_id_0>
+PRED: резюме: Продажа товаров
 REF:  Amba'e-ma'e'ĩ
 ---
-PRED: <extra_id_0>.
+PRED: resume: Ensoberbeci-me acerca de mim mesmo
 REF:  Aîerobîá xe îoesé
 ---
-PRED: <extra_id_0>)
+PRED: संक्षेपः एकेटी के रूप में penas de passaro para me emplumar com elas
 REF:  Aîmongy gûyrá-aba
 ---
-PRED: <extra_id_0>
+PRED: резюме: Procedeste segundo a determinacao do padre a ti
 REF:  Ereîkópe abaré nde moingoaba rupi?
 ---
-PRED: <extra_id_0>.
+PRED: resume: calos dos pes
 REF:  mby piru'a
 ---
-PRED: <extra_id_0>. <extra_id_10>e <extra_id_3>
+PRED: резюме: Ele secou
 REF:  Typab
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: cinzas do alguidar da bacia feitas pelas chamas
 REF:  nha'ẽpesẽ-uba
 ---
-PRED: <extra_id_0>.,ловна
+PRED: 再会:ポール・アキ
 REF:  kó rupi
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: De diante deles ele foi aos poucos subindo
 REF:  Sobaké suí mbegûé-mbegûé i xóû oîeupi
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Falando primeiro a sus filhos que divide isto e os bons dos maus
 REF:  Ogûemimoîa'oka ogûa'yra pé ranhẽ onhe'enga
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Como sem ti
 REF:  Amba'e-'u nde suí
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Estava ele despido sem mais em publico
 REF:  Ikatupe nhẽpe sekóû te'yîpe?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu tenho olhos claros
 REF:  Xe resá-ting
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Roco a mata
 REF:  Aka'agûyrok
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Pensai que algum dia a morte vira para bater em vossas portas
 REF:  Penheangerekó amõ 'ara pupé te'õ pe rokena motaka turagûama resé é
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Colares azuis nao vistos ainda
 REF:  Mo'yrobyeté sepîakypyre'yma
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Trouxe a courage
 REF:  Myatã ogûeru
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Verdadeira morada de Deus filha de Deus
 REF:  Tupã rendabeté, Tupã raîyra
 ---
-PRED: <extra_id_0>
+PRED: resume: o patrimonio dado a mim por meu pai
 REF:  xe ruba xe mba'eme'engaba
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: O fogo te convem verdadeiraly para que nele te asses
 REF:  Tatá nde arõeté, i pupé t'ereîesy
 ---
-PRED: <extra_id_0>.
+PRED: resume: E como alguem procedera encontrando aquilo que esqueceu
 REF:  A'epe marã abá rekóû a'e o esaraîagûera supé ogûasemane?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu sou fino
 REF:  Iî aeté - Ele é fino Xe aeté
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Lamenta-te
 REF:  Eîeapirõ!
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: apos verte-la within de alguma casca de coco
 REF:  inaîagûasu apepûera amõ pupé i nhang'iré
 ---
-PRED: <extra_id_0>.))
+PRED: بیاکتنه: ډیره ښه ده چې تاسو په پای کې د هغې ښودلو لپاره چمتو یاست
 REF:  Nd'e'i ymûanĩ ahẽ i îukábo
 ---
-PRED: <extra_id_0>
+PRED: резюме: Qual e teu nome
 REF:  Marãpe nde rera?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu sou ou estou doido
 REF:  Xe 'angaingaíb
 ---
-PRED: <extra_id_0>
+PRED: резюме: Livra-nos tu
 REF:  Oré pysyrõ îepé
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Atravessam suas maos assim como sus pes sobre a cruz pregando meu Senhor
 REF:  Îaîpó-asá-sá i py resebé, krusá sosé nhẽ xe Îara moîá
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Ah quem me dera comer veneno para que eu morresse
 REF:  A'u temõ mba'eaíba mã a'emo nhẽ xe re'õû
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Os que nao acreditavam nele trabalharam em conjunto ficando a flecha-lo
 REF:  Serobîasare'yma potyrõû iî ybõîybõmo
 ---
-PRED: <extra_id_0>
+PRED: резюме: Tenho medo tremo
 REF:  Asykyîé, aryryî!
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Arrependendo-se de sus pecados deplorando-os
 REF:  O angaîpaba moasŷabo, seroîasegûabo
 ---
-PRED: <extra_id_0>.
+PRED: د خدای بخښنه ترلاسه کړئ او د خدای بخښنه ترلاسه کړئ
 REF:  Marãeté'ĩ ra'umope amõ Anhanga ratá pora rekóû ikó 'ara pupé oîepé îasy Tupã ebanoĩ suí o moingobérememo?
 ---
-PRED: <extra_id_0>.
+PRED: resume: Assim como a gente reconhece o dia dos santos do mesmo modo tambem ate mesmo seus ossinhos a gente cultua tendo-os no pescoco
 REF:  Oîabo asé santos 'ara kuabi, oîabo bé asé i kangûerĩ tiruã momba'etéû, o aîuri serekóbo
 ---
-PRED: <extra_id_0>!
+PRED: резюме: Grita tu lamenta-te
 REF:  - Nde rasẽ, eîeapirõ!
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Ele tem a agua esgotada
 REF:  Ty-pab
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: د دې لپاره چې د خپلې خوښې وړاندیزونه ترلاسه کړئ
 REF:  Mokõî oîoirundyk oito 'ara sykeme i 'apira mondoki
 ---
-PRED: <extra_id_0>.
+PRED: резюме: minha barba branca
 REF:  xe rendybaá-tinga
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Eis que estorvas muito tua ژوند dificultando-a
 REF:  Ereîmoarûabeté ã nde rekó, i moabaípa
 ---
-PRED: <extra_id_0>
+PRED: резюме: Cheguei por terra
 REF:  Agûasem
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: دا هغه څه دي چې باید ښه وي چې په ریښتیا سره
 REF:  Aîpó saûsukatupyra, aîpó anhẽ
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: د فایبر assaram-no د moquear de grelhas په اړه
 REF:  Moka'ẽ itá îurá 'arybo sesyri
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: د دوی د موډا په اړه ډیر خوشحاله یم
 REF:  Xe apysy-katu sekoápe
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Faze-me tu valente
 REF:  Xe mopyatã îepé
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Ah quem me dera eu fosse para o ceu
 REF:  Asó temõ ybakype mã!
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu tenho catarata
 REF:  Xe resaoby
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Vinde levai os malditos erguendo-os para sapeca-los em nosso fogo tostando-os bem
 REF:  Peîori, perasó muru, supi, îandé ratápe sapeka, saîmbé-katûabo
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Olhe bem que por isso mesmo o maldito ataca o homem
 REF:  Nd'e'i te'e moxy keteté abá ropenhana
 ---
-PRED: <extra_id_0>
+PRED: резюме: Riscaram todo o teu corpo com ferro pontiagudo
 REF:  Opá nde reté raíri itatîãîa pupé
 ---
-PRED: <extra_id_0>
+PRED: резюме: Eu enfeio minh'alma
 REF:  Xe xe 'anga aîmomoxy
 ---
-PRED: <extra_id_0>
+PRED: resume: capim que fica estalando junco
 REF:  kapi'ĩ-pururuka
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Suas tunicas ficando a rasgar
 REF:  O aobusu mondoró-ndoroka
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Em que direcao eram pois meus atos passados
 REF:  Marangoty-pakó xe rekopûera é?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Vivendo como se estivessem unidos
 REF:  T'oîese'ar-y berame'ĩ oîkóbo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Todos vao em procissao
 REF:  Opabenhẽ gûá sóû îebyîebybo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Fiz taipa de pilao
 REF:  Aybysosok
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: ډیره روښانه او یو ارام دی چې تاسو یې نه غواړئ
 REF:  O pytumimbykamo nhẽ nhemongaraibypyre'yma 'anga rekóû
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Obedece bem a mulher a seu marido ao  chargé-la de boas coisas
 REF:  Osapîá-katupe kunhã o mena tekó-katu resé o pûaîme?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Sendo mau
 REF:  O angaîpabamo
 ---
-PRED: <extra_id_0>.,ловна
+PRED: 再会:ポール・アキ
 REF:  kóbo
 ---
-PRED: <extra_id_0>.
+PRED: resume: espiga dele
 REF:  sara
 ---
-PRED: <extra_id_0>! <extra_id_10>!
+PRED: resume: Vai neste dia
 REF:  Osó kó 'ara pupé
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Fui ao encontro do meio das aguas isto e para o alto-mar
 REF:  Y pytera asopenhan
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Sao Pedro puxou a espada
 REF:  S Pedro itangapema osekyî
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: A seu pai somente o homem obedece
 REF:  Og uba anhõpe abá osapîá?
 ---
-PRED: <extra_id_0>?
+PRED: بیاکتنه: Meteste a mao nas partes erogenas de teu proximo
 REF:  Erepo'ẽpe nde rapixara rapupé resé?
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Tu foste gabola lembrando-te de coisas mas
 REF:  -Nde nhe'engapaparaípe mba'epoxy resé nde ma'enduaramo?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: estando eu
 REF:  gûitekóbo
 ---
-PRED: <extra_id_0>.
+PRED: resume: pau do casco da canoa
 REF:  apé-'yba
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu tenho pintas
 REF:  Xe pinim
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: E a mim e que faz vir hoje para vos empurrar enxotando-vos desta sua terra
 REF:  Xe-te xe mboú kori pe moanhana, pe mondóbo ikó setama suí
 ---
-PRED: <extra_id_0>.
+PRED: जीवनीःQual era mesmo o nome dele
 REF:  Marã-takó ahẽ rera?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Consolas teu pai e tua mae em suas aflicoes
 REF:  Ereîmoîekosupe nde ruba nde sy sekotebẽsaba ri?
 ---
-PRED: <extra_id_0>
+PRED: Résumé : farinha puba farinha d'agua ou seja de mandioca curtida que se espremia no tipiti e que se passava pela urupema
 REF:  u'i-puba
 ---
-PRED: <extra_id_0>?
+PRED: резюме: Acreditas em falsas oferendas ou em pajelancas
 REF:  Ererobîápe îetanonga'uba koîpó karaimonhanga?
 ---
-PRED: <extra_id_0>.,ловна <extra_id_12>
+PRED: ベルハ・マルドサ
 REF:  gûaîbĩ-marã
 ---
-PRED: <extra_id_0>
+PRED: जीवनीः आओ पास मेरा परिवार tu cuidavas dela
 REF:  Xe anama gûatasápe, nde morerekoá sesé
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Logo entao a cruz ergueram fincando-a
 REF:  A'eîbépe ybŷá cruz mo'ami i atykábo?
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Que parecam juntar-se como um so
 REF:  T'oîese'ar-y berame'ĩ oîepekaturamo
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: buraco das orelhas tapados
 REF:  apysakûá-îe'o
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Escapuli das maos dele
 REF:  Aîpomogûab
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Nao cozendo sequer sua comida
 REF:  O emi'urama tiruã moîybe'yma
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu tenho olhos tortos
 REF:  Xe py-bang - Eu tenho os pés tortos Xe resá-bang
 ---
-PRED: <extra_id_0>
+PRED: resume: cacos de pedra
 REF:  itá-pesembûera
 ---
-PRED: <extra_id_0>
+PRED: resume: place em que o sol se poe poente oeste
 REF:  kûarasy reîkeaba
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Procedo conforme tua palavra
 REF:  Aîkó nde nhe'enga rupi
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: miolo tutano de osso
 REF:  kanga putu'uma
 ---
-PRED: <extra_id_0>
+PRED: resume: トメイ・アンスレスタダ カヌー・ド・インディオ
 REF:  Aîporu abá ygara
 ---
-PRED: <extra_id_0>.
+PRED: Resumen: Fazendo-a estar como presa de Aguaixai
 REF:  Agûaîxay rembiaramo i moingóbo
 ---
-PRED: <extra_id_0>.
+PRED: resume: o que esta no pote o conteudo do pote
 REF:  kamusi-pora
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Fico a espojar-me
 REF:  Anhemonduby-ndubyr
 ---
-PRED: <extra_id_0>
+PRED: резюме: A mae de Deus a que me ameaca
 REF:  Tupã sy, xe momburûara
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: له موږ سره اړیکه ونیسئ
 REF:  Abaré ogûerasoápe, n'asaûsubi
 ---
-PRED: <extra_id_0>.
+PRED: resume: Tu mentiste acerca de teu proximo difamando-o
 REF:  Nde remo'emype nde rapixara resé i moerapûanaípa?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Acreditaste nas mentiras de alguem
 REF:  Ererobîápe abá remo'ema?
 ---
-PRED: <extra_id_0>.
+PRED: resume: propondo ser bom
 REF:  xe katurama momboîa
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Fico a espojar-me
 REF:  Aîeré-îereb
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Eu nao sou resistente eu nao sou firme
 REF:  Na xe popyatãî
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Livrou-a do pecado primeiro em que Adao nos pos
 REF:  I pysyrõû tekoangaîpabypy Adão îandé nongaba suí
 ---
-PRED: <extra_id_0>.
+PRED: resume: trucidador
 REF:  morapitîara
 ---
-PRED: <extra_id_0>.
+PRED: resume: Cumpriste jako palavras de teu confessor auto-flagelacao os jejuns
 REF:  Ereîmoporype nde monhemombegûara nhe'enga, nhenupã, îekuakuba?
 ---
-PRED: <extra_id_0> de <extra_id_10>
+PRED: بیاکتنه: Lamentando terem nascido de suas maes
 REF:  O sy suí o 'aragûera moasŷabo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: A canoa ja esta pronta
 REF:  I aûîé umûã ygara
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Geracao da alegria
 REF:  Toryba nhemonhangaba
 ---
-PRED: <extra_id_0>
+PRED: резюме: Desemporcalhei-o
 REF:  Aseîkûaru'umbok
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Sim eis aqui tambem my garras my rabo comprido my ganchos
 REF:  Îé, kó bé xe pûapẽ, xe rûaîpuku, xe tyãîa
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Defeco
 REF:  Apoti
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: ټول هغه کسان چې اعتراف کوي د هغو کسانو سره چې اعتراف کوي
 REF:  O emimombe'upûera o emikuakugûera irũmo bé i mombe'uîebyrine
 ---
-PRED: <extra_id_0>.
+PRED: संक्षेपः As juntas de sus ossos afastando umas das outras
 REF:  I kanga îepotasaba pe'abo o îosuí
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Alegrai-vos meus filhos por minha causa
 REF:  Pe rory, xe ra'yretá, xe ri
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Vira de novo Jesus Cristo do ceu futuramente
 REF:  Our-y bépe irã Îesu Cristo ybaka suíne?
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Antigamente estes habitantes da aldeia sob meine maos estavam
 REF:  Akûeîme kó tabygûara xe pó gûyrybo sekóû
 ---
-PRED: <extra_id_0>
+PRED: resume: Estando a destilar coisa muito bitter
 REF:  Mba'e-rob-eté tuku-tuku okûapa
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Better que isso me seria pois morrer
 REF:  I xosémo nã ky xe re'õ
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Ai por mais que eu esteja procurando alguma pousada irra faz-me sair sempre da aldeia o padre
 REF:  Akaî! Aseká îepé mytasaba amõ gûitekóbo, erĩ!, xe mosẽ memẽ taba suí abaré
 ---
-PRED: <extra_id_0>
+PRED: resume: Excitaste-o querendo expelir teu semen
 REF:  Ereîkapyrokype nde ra'y-pupuka potá?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Vestir os nus
 REF:  Ikatupendûara moaoba
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: زه د نورو سره مخامخ کوم او دا زما ځان دی
 REF:  Xe kó-é
 ---
-PRED: <extra_id_0>.,ловна 
+PRED: resume: グランデ・フォルハ・カイダ
 REF:  sobûerusu
 ---
-PRED: <extra_id_0>.
+PRED: резюме: curtinho
 REF:  asangĩ
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: E tambem as esposas de sus filhos
 REF:  Ta'y-taty abé
 ---
-PRED: <extra_id_0>
+PRED: Zusammenfassung: Aqueles outros grandes chefes em ti confiam
 REF:  Amõaé tubixá-katu nde resé oîerobîá
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: له همدې امله د escravos festejam دا ورځ
 REF:  Nd'e'i te'e miasûbetá ikó 'ara momoranga
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: eixo da roda de madeira que gira no engenho de acucar
 REF:  ybyrá-pararanga agûeá
 ---
-PRED: <extra_id_0>.
+PRED: Rücktritt: Assa-me o Lourenco tostado embora eu seja um rei
 REF:  Xe resy Lorẽ-ka'ẽ, xe morubixaba biã
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Cumpri minha palavra
 REF:  Aîmopor xe nhe'enga
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Esbofeteei suas nadegas
 REF:  Sebira aîpetek
 ---
-PRED: <extra_id_0>.,ловна 
+PRED: резюме: Faca-se tua vontade
 REF:  T'onhemonhang nde remimotara
 ---
-PRED: <extra_id_0>
+PRED: resume: Toleraste as pessoas em sua crenca no paje
 REF:  Ereîmorype abá paîé rerobîaragûama resé?
 ---
-PRED: <extra_id_0>.
+PRED: د افغانستان د حراست او ثبات شورا اعلامیه
 REF:  Ixé Saûîaetá Serapûã xe renõîndaba
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Esbofeteando خپل مخونه
 REF:  Setobapé sosoka
 ---
-PRED: <extra_id_0>.
+PRED: د افغانستان د حراست او ثبات شورا اعلامیه
 REF:  Ixé Saûîaetá Serapûã xe renoĩndaba
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Deus ama-te muito enchendo-te de graca
 REF:  Tupã nde raûsubeté, graça ri nde moynysema
 ---
-PRED: <extra_id_0>!
+PRED: بیاکتنه: ډیر ښه دی چې تاسو یې ومومئ
 REF:  Aûîebeté, rõ! T'oú
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Vim ainda agora
 REF:  Aîu ramõ
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Eis que teu filho me fez mudar de ideia
 REF:  Xe resaekoabok ikó nde ra'yra
 ---
-PRED: <extra_id_0>
+PRED: Resumen: Confundindo como aldeias desde a Galileia
 REF:  Taba moapaîugûá-îugûábo Galilea suí-katu
 ---
-PRED: <extra_id_0>.
+PRED: resume: querendo que a canoa passe adiante
 REF:  ygara kûabĩ potá
 ---
-PRED: <extra_id_0>.
+PRED: रिव्यूः तु mesmo dizes isso
 REF:  Endé é aîpó eré
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: د یو کوچنی کوچنی کوچنی کوچنی کوچنی کوچنی کوچنی
 REF:  Pitangĩnamo ereîkó…
 ---
-PRED: <extra_id_0>
+PRED: resume: flor de planta flor em geral
 REF:  ybotyra
 ---
-PRED: <extra_id_0>.
+PRED: резюме: A happiness no ceu
 REF:  Ybakype toryba
 ---
-PRED: <extra_id_0>
+PRED: резюме: Nos somos gemeos
 REF:  Kõîgûera oré
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: هغه ښځه چې زموږ د پښو په پښو کې ماتوي
 REF:  Sekoaba'e kûé kunhã oré akanga i apiti
 ---
-PRED: <extra_id_0>.
+PRED: :د لټولو د پاره
 REF:  -Ogûerekomemûãsara resé oîepyka tiruãpe abá Tupã nhe'enga abyû?
 ---
-PRED: <extra_id_0>.
+PRED: resume: Como estas sao vossas casas -Diferem muito
 REF:  -Anga îápe pe roka? -Oîkoé-katu
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu sou muito manchado
 REF:  Xe rabará-barab
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Anunciando os acontecimentos futuros
 REF:  Tekorama mombegûabo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Vamos comigo
 REF:  T'îasó xe irũnamo
 ---
-PRED: <extra_id_0>?
+PRED: резюме: Detestas completamente sus obras
 REF:  Ereroŷrõ-mbápe sekó?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Hei de flecha-lo
 REF:  T'aîybõne!
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Sera que estais sossegados sem mais nos vossos montes de maldades
 REF:  Pe apysykĩ serã peîkóbo pe rekomemûã aty-atyra pupé?
 ---
-PRED: <extra_id_0>.,ловна
+PRED: резюме: Minha courage еще существует
 REF:  Oîkó bé xe taŷaíba
 ---
-PRED: <extra_id_0>.)
+PRED: بیاکتنه: Nao nos deixes tu fazer cair em tentacao
 REF:  Oré mo'arukar umẽ îepé tentação pupé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu fico salivando
 REF:  Xe rendy-rendy
 ---
-PRED: <extra_id_0>
+PRED: резюме: Dirigi-a
 REF:  Asebikok
 ---
-PRED: <extra_id_0>.
+PRED: بیرته راستانه کول: زه د خپلې خوښې لپاره ویزې لرم
 REF:  Na xe resapysóî
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Aproximando-se da morte suou bastante
 REF:  Te'õ rerobyka, syaî-tekatu
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Para que sejamos dignos do que Cristo prometeu
 REF:  T'oré angaturãne Cristo remienõîûera resé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Resgatei os indios
 REF:  Aporepŷan apŷaba
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Retiraram-no para o patio colocando uma cruz no ombro dele
 REF:  Okarype senosemi, cruz nonga i ati'yba ri
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: O pao que apanhou په خپلو میوو کې د خپل بدن او د وینې په څیر د وینې په څیر
 REF:  Miapé o pópe o emiîara i moîebyû o etéramo, kaûĩ og ugûyramo
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Eis que tambem mí presas hei de dar algumas para ti para que quebres suas cabecas
 REF:  Kobé xe rembiaretá t'ame'ẽne amõ endébo, i akanga t'ereîoká
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: A cruz lugar em que se pregou a Cristo Our Senhor os judeus a enterraram
 REF:  Cruz Cristo Îandé Îara moîaragûera îudeus otym erimba'e
 ---
-PRED: <extra_id_0>
+PRED: резюме: Eia tu avante
 REF:  Nde katunhẽ
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Ser chamado ladrao e caracteristica do homem mau
 REF:  Sereroĩmbyra abá-mondá apŷabaíba rekoaba é
 ---
-PRED: <extra_id_0>.,ловна
+PRED: резюме: Today mesmo
 REF:  Kori é
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Mas ele nao era Deus
 REF:  Na Tupã ruã-tepe a'e?
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Eis que como esta no ceu Our Senhor esta dentro do pao
 REF:  Akó ybakype ogûekó îakatu, Îandé Îara rekóû miapepûera
 ---
-PRED: <extra_id_0>)
+PRED: विवरणः eu tenho os buracos da orelhas tapados
 REF:  Xe apysakûá-îe'o
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Ele apos وده entregou-se aos homens maus fazendo-se matar na cruz estirado
 REF:  A'e o kakuab'iré, i nheme'engi apŷabaíba supé, oîeîuká-uká ybyraîoasaba resé i moatãmbyramo
 ---
-PRED: <extra_id_0>
+PRED: резюме: Aticei-o
 REF:  Asapynhang
 ---
-PRED: <extra_id_0>
+PRED: د افغانستان د حراست او ثبات شورا اعلامیه
 REF:  Eîmonhegûasem anhanga
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Logo no terceiro dia voltou a viver
 REF:  Ara mosapyra riré bé sekobeîebyri
 ---
-PRED: <extra_id_0>
+PRED: resume: dor em sentido generico
 REF:  mba'e rasy
 ---
-PRED: <extra_id_0>.
+PRED: resume: de dia todo o dia
 REF:  arybo
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: په عین حال کې یو مړینې د هغو کسانو تر مینځ دی چې د پخوانیو تر مینځ لرې دي
 REF:  Oîoîá te'õ rekóû kunumĩgûasu suí tuîba'e suí bé, n'apûéî
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: زه په ګازو کې اوسم
 REF:  Xe irũnamo bé t'oîkó marã xe rekóreme
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Hospedo-me com Pedro
 REF:  Apytá Pero resé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Pu-los em enfiada
 REF:  Asysybõ
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Eu sou o grande tamoio Aimbire uma sucuriju
 REF:   Xe tamuîusu Aîmbiré, sukuriîu
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Ele se lembra
 REF:  I ma'enduar
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: ډیر ښه دا دی چې دلته زه ستاسو لپاره د دې سیسټم لپاره لیږم
 REF:  Auîebeté kó aîkó, ndébo ko siri reru
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Nao hei de estar na maldade diante dele
 REF:  Aîkó umẽpe mba'epoxy resé sobaké ká
 ---
-PRED: <extra_id_0>.
+PRED: resume: A gente nao come carne de caca no dia de jejum
 REF:  Nd'o'uî asé so'o îekuakuba 'ara pupé
 ---
-PRED: <extra_id_0>.
+PRED: जीवनी: Como disse a seu pai antes de morrer
 REF:  Marã e'ipe og uba supé o îekyî'îanondé?
 ---
-PRED: <extra_id_0>.,ловна
+PRED: بیاکتنه: Pagou outrora por seu proceder assim
 REF:  Osepyme'engype erimba'e emonã o ekoagûera?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: د زیږون وروسته د زیږون وروسته د زیږون وروسته د زیږون وروسته
 REF:  Eîori, mba'enem, mba'e-poxy, mborá, miaratakaka, sebo'i, tamarutaka!
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: وروسته له دې چې نن ورځ پاتې شو نو بیا به یې د بیاکتنې په توګه بیاکتنه وکړو
 REF:  A'e ré kori îasó tubixaba akanga kábo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Fui sem resultado
 REF:  Asó biã
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Os reis apressados junto ao nenenzinho vieram
 REF:  Reîá-anhẽ  pitangĩ supé oú
 ---
-PRED: <extra_id_0>.
+PRED: резюме: A seus olhos eu hei de estar
 REF:  Sesápe xe rekóû re'ĩ
 ---
-PRED: <extra_id_0>.,ловна
+PRED: резюме: Eu tenho criacoes
 REF:  Xe reîmbab
 ---
-PRED: <extra_id_0>.
+PRED: resume: intervalo de agua ilha
 REF:  y-pa'ũ
 ---
-PRED: <extra_id_0>.
+PRED: резюме: cara de onca
 REF:  îagûarobá
 ---
-PRED: <extra_id_0>
+PRED: резюме: Mas os aracajas deleitam-se com eles
 REF:  Arakaîá-te ombory
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Muito a proposito a gente comemorara bem esse dia
 REF:  A'eboé ebokûé 'ara asé oîmoeté-katune
 ---
-PRED: <extra_id_0>
+PRED: resume: estando tu por longo tempo preguicoso
 REF:  nde ate'ỹ-mukuramo
 ---
-PRED: <extra_id_0> 
+PRED: resume: certo homem branco nobre
 REF:  amõ karaíba mosakara
 ---
-PRED: <extra_id_0>.
+PRED: रिव्यूः eu nao queria vir mas vim irando os homens brancos
 REF:  Xe n'aîu-potari biã, karaíba moabaîtébo
 ---
-PRED: <extra_id_0>
+PRED: resume: no da garganta
 REF:  aseó-kytã
 ---
-PRED: <extra_id_0>
+PRED: резюме: Eu sou certeiro
 REF:  Xe pûakatu
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Nao perdoa
 REF:  N'i nhyrõî
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Aprende acerca da palavra de Deus em que crera
 REF:  Onhembo'e Tupã nhe'enga o emierobîarama resé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Ainda bem que aprendeu
 REF:  Iîá oîembo'ebo
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Fiquei-o esfregando com gordura
 REF:  Aîkyty-kytyk mba'e-kagûera pupé
 ---
-PRED: <extra_id_0>.
+PRED: resume: Se o que tem relacoes sexual mit uma solteira ou por ela se atrai transgride muito a palavra de Deus tanto mais o que perverte uma casada ou o que se atrai por ela
 REF:  Mene'yma resé oîkoba'e abiã koîpó sesé onhemomotaryba'e oîaby-eté Tupã nhe'enga, memetipó mendara momoxysara koîpó sesé nhemomotasara
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: په حقیقت کې درې ځلې هیوادونه د دویم ځلې سندرې څخه مخکې زما د رخصتۍ خدمت کوي
 REF:  Mosapy ipó xe boîáramo nde rekó ereîkuakub mokõî gûyrá sapukaî' e'ymebéne
 ---
-PRED: <extra_id_0>
+PRED: резюме: Ajuntam-se
 REF:  Oîerobyk
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: په وړاندې د الguem envergonhando-o fazendo-o ser tratado como mentiroso Urdiste دروغونه
 REF:  Eresekyîpe îuraragûaîa abá supé i motĩamo nhe'engabamo serekó-uká?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Nao tendes ouvidos como de costume
 REF:  Na pe apysáî, îandu
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Fujo
 REF:  Aîabab
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Descreve tua terra para mim
 REF:  Emombe'u nde retama ixébe
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Estas ras que as comas em retribuicao por isso
 REF:  Ikó îu'i t'ere'u sepy resé
 ---
-PRED: <extra_id_0>
+PRED: レセプト:Before de irem para la
 REF:  a'epe o só îanondé
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Ao lado de sua propria mae a crianca esta deitada
 REF:  O sy posé pitanga ruî
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu sou curto
 REF:  Xe apûa'ĩ
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Ha algum homem na condicao de seu substituto
 REF:  Oîkobépe amõ abá sekobîaramo?
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Acordo de madrugada
 REF:  Îeîbé apak
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Vem compadecedor de mim
 REF:  Eîori xe poraûsubara
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Dei-o em troca
 REF:  Sekobîaramo aîme'eng
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Serao muito fedorentos serao muito podres corroidos de vermes e de bernes
 REF:  I nemeté, i tuîuketé, tasoka, ura remimongûyamone
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Amarrei-me o cabelo
 REF:  Aîe'a-maman
 ---
-PRED: <extra_id_0>
+PRED:  resume: o que sofre febre
 REF:  akanunduka porarasara
 ---
-PRED: <extra_id_0>
+PRED: резюме: Rejo pessoas
 REF:  Aporoerekó
 ---
-PRED: <extra_id_0>!
+PRED: резюме: Vou-me esconder
 REF:  Asópe ûinhemima ká!
 ---
-PRED: <extra_id_0>
+PRED: резюме: Que experimentemos a forca dos homens conosco
 REF:  T'isa'ang apŷaba marã îandé irũ
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eis que ai ele vai
 REF:  Ebokûeî i xóû
 ---
-PRED: <extra_id_0>.
+PRED: resume: terrivel para mim ve-los
 REF:  I abaeté sepîaka ixébo
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Estive assentado no tronco de uma arvore
 REF:  Ybyrá-ypype aín
 ---
-PRED: <extra_id_0>.
+PRED: आरंभःo que caca cacador
 REF:  ka'amondoara
 ---
-PRED: <extra_id_0>.
+PRED: レセプト: 君の愛する名前
 REF:  I porãngatu nde rera
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Afastara os que sao maus dos que sao bons
 REF:  Oîpe'ape i angaîpaba'e i angaturamba'e suíne?
 ---
-PRED: <extra_id_0>.
+PRED: 简历: Who me dera eu o fizesse estar deitado comigo assim
 REF:  Nã temõ ixé serubi mã!
 ---
-PRED: <extra_id_0>
+PRED: resume: cova de sepultura
 REF:  Tyby-kûara
 ---
-PRED: <extra_id_0>.
+PRED: resume: somente um bocado
 REF:  oîepé îuru nhõ
 ---
-PRED: <extra_id_0>.
+PRED: resume: ingua de virilha
 REF:  akó-a'ynha
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Salve Rainha mae de misericordia vida a que e doce
 REF:  Salve Rainha, moraûsubara sy, tekobé, se'ẽba'e
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Lambi-o
 REF:  Asereb
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Verdadeiramente eis aqui teu caminho aquele que tu procuras
 REF:  Anheté kó nde rapé a'e nde remiekara
 ---
-PRED: <extra_id_0>
+PRED: resume: De modo algum
 REF:  -N'asé ruã-tepe o emi'urama oîmonhang? - Aani - Mas não é a gente que faz sua comida?
 ---
-PRED: <extra_id_0>.
+PRED: resume: Nao foi a toa
 REF:  Na tenhẽ ruã
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Fazendo-me enxergar
 REF:  Xe moma'ẽmo
 ---
-PRED: <extra_id_0>
+PRED: резюме: Dar de beber aos sedentos
 REF:  Useîbora mbo'y'u
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Nao me da possibilidade
 REF:  Na xe mo'ekatuî
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: هیڅکله د ستونزمن کولو لپاره ستونزمن نه وي - زما د مړینې هڅه کوم چې زما د خوښې مخه ونیسي
 REF:  Aîpó xe re'õnama rambûera abaíme, t'onhemonhang umẽ xe remimotara
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Que eu me lave a boca
 REF:  T'aîeîuru-eî
 ---
-PRED: <extra_id_0>.,ловна
+PRED: резюме: Bem sozinho estou
 REF:  Oîepebẽngatu aîkó
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: څه شی دي چې دوی یې د میندې لپاره کار کوي
 REF:  A'e-te kaûĩ pûaîtara
 ---
-PRED: <extra_id_0>
+PRED: резюме: Nao se afligem os outros
 REF:  N'oîkotebẽî amõba'e
 ---
-PRED: <extra_id_0>.
+PRED: Lebenslauf: Mencionaste o nome de alguem para o padre
 REF:  Ereîmombe'upe abá rera abaré supé?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Resgatar os cativos
 REF:  I momiaûsubypyra renosema
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Tenho-o no meu pescoco
 REF:  Xe îuri arekó
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Por teres misericordia nossa alma visitas
 REF:  Moraûsuberekosápe, asé 'anga ereîosub
 ---
-PRED: <extra_id_0>
+PRED: резюме: Os que assim dizem
 REF:  Nã e'iba'e
 ---
-PRED: <extra_id_0>.
+PRED: резюме: esse outro
 REF:  kûé amõaé
 ---
-PRED: <extra_id_0>.
+PRED: resume: Nao ha nada errado
 REF:  N'i tybi mba'e-memûã
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu nao tenho dentes
 REF:  Na xe rãî
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu sou maior que tu
 REF:  Ixé nde sosé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Я очень рано
 REF:  Xe repy-etá
 ---
-PRED: <extra_id_0>.
+PRED: резюме: poleiro de aves
 REF:  gûyrá-kesaba
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Por que Deus os deu para a gente
 REF:  Mba'erama resépe Tupã i me'engi asébe?
 ---
-PRED: <extra_id_0>.
+PRED: ចម្លើយ: Como disse aos sus tres discipulos apos sua entrada no horto
 REF:  Marã e'ipe o boîá mosapyr supé mitỹme o iké ré?
 ---
-PRED: <extra_id_0>
+PRED: resume: o que e ou deve ser enforcado
 REF:  i îubykypyra
 ---
-PRED: <extra_id_0>.
+PRED: レセプション:アーマカオ・デ・レイト
 REF:  inimbebytá
 ---
-PRED: <extra_id_0>
+PRED: resume: O sol eclipsa-se
 REF:  Kuarasy onhemoputun
 ---
-PRED: <extra_id_0>
+PRED: резюме: Nos somos gemeos
 REF:  Oré kõî
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Para o padre conta-lo-a para que o  anunţate na church
 REF:  Abaré supé i mombe'uû Tupãokype seronhe'engaûama rine
 ---
-PRED: <extra_id_0>!
+PRED: резюме: Dia muito bom
 REF:  Arangaturameté
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu tenho o sangue escorrido
 REF:  Xe rugûy-syryk
 ---
-PRED: <extra_id_0>
+PRED: резюме: Que farao no ceu
 REF:  Marãpe sekóû ybakypene?
 ---
-PRED: <extra_id_0>.
+PRED: resume: Nao comas este fruto que me e reservado
 REF:  E'u umẽ ikó 'ybá xe rekoate'ỹmbaba
 ---
-PRED: <extra_id_0>
+PRED: резюме: Estou em cilada
 REF:  Kotype aîub
 ---
-PRED: <extra_id_0>
+PRED: د افغانستان د حراست او ثبات شورا اعلامیه
 REF:  Nde monhegûasẽ-motá
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu permaneco seu guardiao
 REF:  Aîkobé n'ixé sarõana
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: په حقیقت کې درې ځلې هیوادونه د دویم ځلې سندرې څخه مخکې زما د رخصتۍ خدمت کوي
 REF:  Mosapy ipó xe boîáramo nde rekó ereîkuakub mokõî gûyrá sapukaî'e'ymebéne
 ---
-PRED: <extra_id_0>.
+PRED: Resumen: O que Cristo deixa como chefes dos cristaos batizados
 REF:  Cristãos i mongaraibypyra tekokuaparamo Cristo remieîara
 ---
-PRED: <extra_id_0>.
+PRED: resume: Tomaste pocao querendo o aborto de teu filho
 REF:  Eremosangu'upe nde membyra akyrara potá?
 ---
-PRED: <extra_id_0>.
+PRED: resume: as porcoes miudas dela o refugo dela
 REF:  i akytãmbûera
 ---
-PRED: <extra_id_0>
+PRED: resume: Compadeci-me dele
 REF:  Aîmomboreaûsub
 ---
-PRED: <extra_id_0>
+PRED: резюме: Torno a trazer a roupa
 REF:  Aroîebyr aoba
 ---
-PRED: <extra_id_0>
+PRED: резюме: Fiquei-o simulando
 REF:  Aîmorã-moran
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Estive por longo tempo
 REF:  Ymûanĩ xe rekóû
 ---
-PRED: <extra_id_0>
+PRED: резюме: Aimbire vem diante de mim Apressa-te
 REF:  Aîmbiré, eîori xe robaké! Nde apûan!
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: ښايي queira agarrar-me بیا د تیریدو لوی دی
 REF:  Xe pysy-potar-y bé serã kó gûyragûasu
 ---
-PRED: <extra_id_0>
+PRED: 答覆: 哦,谁我,谁我,谁我
 REF:  Asó me'ĩmo mã!
 ---
-PRED: <extra_id_0>.
+PRED: विवरणः यह बहुत निकट था।
 REF:  Moroũ-mbyry nakó
 ---
-PRED: <extra_id_0>.
+PRED: resume: Afirmamos que isso e o que deve ser enaltecido
 REF:  Îamombe'u aîpó i momorangymbyra
 ---
-PRED: <extra_id_0>.)
+PRED: резюме: Nao brigarao
 REF:  - Nd'omarãmonhangi xópene?
 ---
-PRED: <extra_id_0>.
+PRED: resume: Defequei ou fui defecar
 REF:  Aka'apîasó
 ---
-PRED: <extra_id_0>
+PRED: резюме: Oxala ele viesse
 REF:  Our be'ĩmo mã!
 ---
-PRED: <extra_id_0>
+PRED: резюме: Impedem os casamentos
 REF:  Mendara omoarûab
 ---
-PRED: <extra_id_0>?
+PRED: بیاکتنه: Tu te alegras quando um homem apalpa teus seios
 REF:  Nde rorype nde kama abá sungáreme?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Nos estamos bem arrasados
 REF:  Oré tygûé-katu
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Da tambem Deus neste mundo algumas coisas aos que sao bons
 REF:  Oîme'eng-y bépe Tupã ikó 'ara pupé mba'e amõ i angaturamba'e supéno?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: که څه هم زه د هغو arrependi-me bem resgatando-os tambem څخه د هغوی په اړه فکر کوم
 REF:  Xe rekoekyî îepé, a'epûera aîmoasy, i mboepykatûabo bé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Em que lado pora os que sao bons
 REF:  Marangotype i angaturamba'e nongine?
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Cada vez que tem medo da morte
 REF:  Te'õ suí o nheangu îabi'õ
 ---
-PRED: <extra_id_0>
+PRED: резюме: Nos somos muitos
 REF:  Oré retá
 ---
-PRED: <extra_id_0> sensual
+PRED: Rückblick: Arrepiando-te o desejo sensualaugmentationu teus Augen
 REF:  Enhemopiringa, moropotara nde resá moîo'arype?
 ---
-PRED: <extra_id_0>.
+PRED: تازه سرليک: Atacamo-los prendemo-los antes que se consolem
 REF:  Îasepenhan, îaîpysyk, i apysyk' e'ymebé
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: د خپل ساتونکي په توګه یا د خپل ساتونکي په توګه
 REF:  Serekoaramo ûitekóbo
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Logo vencendo os temiminos habitantes daqui frequenta-los-ei
 REF:  Koromõ keygûara temiminõ moaûîébo, asapekóne
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: A cada dez dar um como quinhao de Deus
 REF:  Opá kó mbó îabi'õ moîepé me'enga Tupã potabamo
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Revelou-se a eles somente alegrando-os
 REF:  Oîepîakukar i xupé nhõ i moesãîa
 ---
-PRED: <extra_id_0>.,ловна
+PRED: Rückblick: Eis que ela e minha companheira
 REF:  Xe irũ a'e ã
 ---
-PRED: <extra_id_0>
+PRED: резюме: Vivo na virtude
 REF:  Aîkó tekokatu resé
 ---
-PRED: <extra_id_0>.
+PRED: Resumen: Querendo nuestra preocupacióncao com o futuro estado de nuestra alma
 REF:  Îandé 'anga rekorama resé îandé putupaba potá
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Lavro as madeiras
 REF:  Aybyrá-pan
 ---
-PRED: <extra_id_0>.
+PRED: resume: o que anuncia as things o pregador
 REF:  mba'e rerosapukaîtara
 ---
-PRED: <extra_id_0>.
+PRED: resume: logo que vim
 REF:  xe rura rupibé
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Tao logo ao sair a alma da gente de seu proprio corpo seu envoltorio Deus a julga
 REF:  Ogûeté suí, o uru suí, asé 'anga sẽme bé, Tupã sekomonhangi
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: pedra de afiar que gira pedra de afiar de barbeiro
 REF:  itaky-nhatimana
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Curaste os doentes
 REF:  Eremombûeîrá mara'abora
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Constantemente
 REF:  -Mba'e-mba'eremepe asé îeruréû i xupé? -Îepi nhẽ - Em que ocasiões a gente reza para eles?
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Eram bons na totalidade quando Deus comecou a cria-los
 REF:  I angaturam sykype erimba'e Tupã o monhang-ypyreme?
 ---
-PRED: <extra_id_0>
+PRED: resume: Tu foste desonesto com alguma irma verdadeira de tua esposa
 REF:  Nde poxype nde remirekó asykûereté amõ resé?
 ---
-PRED: <extra_id_0>
+PRED: د افغانستان د حراست او ثبات شورا اعلامیه
 REF:  Anhanga monhegûasemagûama resé
 ---
-PRED: <extra_id_0>
+PRED: резюме: Minha pele tem titinga
 REF:  Xe tĩ-titing - Meu nariz tem titinga Xe py-titing - Meus pés têm titinga Xe pi-titing
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: د خدای بخښنه
 REF:  Aûîé, kó temiminõ nd'ogûari Tupã rekó
 ---
-PRED: <extra_id_0>.,ловна 
+PRED: резюме: Teco roupas
 REF:  Aaó-pyasab
 ---
-PRED: <extra_id_0>
+PRED: resume: a flor d'agua na superficie da agua
 REF:  y-apé 'arybo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Tinjo-o de red com urucu
 REF:  Aîpitu-pyrang
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Ele sempre vai
 REF:  Memẽ nhẽ i xóû îepi
 ---
-PRED: <extra_id_0>.
+PRED: резюме: os dons do Espirito Santo
 REF:  Espírito Santo remime'enga
 ---
-PRED: <extra_id_0>.
+PRED: resume: seu fechamento
 REF:  i 'o
 ---
-PRED: <extra_id_0>.,ловна
+PRED: 简历: em vao creem em ti
 REF:  E'i tenhẽ nde rerobîá
 ---
-PRED: <extra_id_0>?
+PRED: د روميانو په نُوم خط ٥: ٨
 REF:  Marãete'ĩpe Jesus o enosẽme?
 ---
-PRED: <extra_id_0>.,ловна
+PRED: resume: pelos dias a cada dia
 REF:  ara rupi
 ---
-PRED: <extra_id_0>
+PRED: резюме: Enfileiramo-nos
 REF:  Oroîoysyrung
 ---
-PRED: <extra_id_0>
+PRED: کورپاڼه
 REF:  Nde ererupe nde remirekó?
 ---
-PRED: <extra_id_0>
+PRED: resume: A gente nao se esquece do que e saboroso so na aparencia
 REF:  Seba'e-a'uba nhote resé asé na sesaraî
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu tenho a carne tremula
 REF:  Xe ro'o-sysyî
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu sou fibroso
 REF:  Xe raîu-raîu
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Pelo menos eu
 REF:  Ixé te'ĩé
 ---
-PRED: <extra_id_0>.
+PRED: 回想:我仍好,我仍旧重犯我的罪
 REF:  Aûîetéramo erimba'e bé xe angaîpagûera aîpe'a re'a
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Os padrinhos junto ao padre ou a outra pessoa nao podem casar-se com o que batizaram
 REF:  Abaré koîpó amõ abá pyri morerokarûera nd'e'ikatuî omendá gûemierokûera resé
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Deleitando-se com as escravas ruins nao quiseram vir aqui
 REF:  Tapuîpé-poxy mborypa, tupotare'ymi iké
 ---
-PRED: <extra_id_0>.
+PRED: powrót: Eu estava ainda cansado
 REF:  Xe pûeraî mbyté
 ---
-PRED: <extra_id_0>
+PRED: resume: pedaco de roupa retalho de pano
 REF:  aopesembûera
 ---
-PRED: <extra_id_0>.
+PRED: резюме:
 REF:  Ixé serasó remebé
 ---
-PRED: <extra_id_0>.
+PRED: Resumen: O que conta os pecados escondidos de alguem
 REF:  Abá angaîpá-nhemima oîmombe'uba'e
 ---
-PRED: <extra_id_0>
+PRED: resume: Por causa de sua crenca nele nao duvidando
 REF:  Serobîara resé o akasange'ymamo
 ---
-PRED: <extra_id_0>?
+PRED: بیاکتنه: Mas nao tentam esses زده کړه تل
 REF:  N'osa'angi-te-p'akó nhembo'e ko'arapukuî?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Ele esta boquiaberto
 REF:  I îurupukĩ ahẽ oîkóbo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Aqueles serao saciados
 REF:  A'eba'e i moytarõmbyramo sekóûne
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Atravessei-o sem mais sem entrar nem pousar
 REF:  Asasá-benhẽ
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Assim que pos sua alma em seu corpo Deus a preservou
 REF:  I 'anga seté pupé i mondepa bé, Tupã i pe'aû
 ---
-PRED: <extra_id_0>
+PRED: रिव्यूः बहुत कम प्रभाव o grande zelo
 REF:  Setá nhẽ kunu'umusu
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Ja se juntaram por causa disso muitos mocos bebedores de cauim
 REF:  Onheŷnhang umã sesé kunumĩetá kagûara
 ---
-PRED: <extra_id_0>
+PRED: резюме: Igualmente guarda vossa terra
 REF:  Oîoîá osarõ nhẽ pe retama
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: زه د بدن ډیر اوږده برخه لرم
 REF:  Xe asangusu
 ---
-PRED: <extra_id_0>.
+PRED: resume: empenadura de flecha isto e penas de asas de passaros que eram atadas as flechas
 REF:  u'upepó
 ---
-PRED: <extra_id_0>.
+PRED: резюме: A danca e que e boa
 REF:  Moraseîa é i katu
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Afastai-vos daquele que eu guardo
 REF:  Pepo'i xe remiarõ suí!
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Esta molestando as pessoas
 REF:  Oporomoaîu oîkóbo
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: له همدې امله یو خلک د هغه وخت په څیر چې دوی یې لیدلي
 REF:  Nd'e'i te'e asé a'ereme i moetébo sepîaka bé
 ---
-PRED: <extra_id_0>.,ловна
+PRED: resume: Que va com enfase
 REF:  T'e'i osóbo
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Nao moraras com tua gente
 REF:  Nd'ereîkóî xópe nde anama irũmo?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Sao Sebastiao tambem o que cuidava das guerras destruiu os tamoios os valentes
 REF:  São Sebastião abé, marana rerekoarûera, tamũîa, kyre'ymbagûera, omombab erimba'e
 ---
-PRED: <extra_id_0>
+PRED: резюме: Enruguei-me
 REF:  Anhynhyng
 ---
-PRED: <extra_id_0> 
+PRED: резюме: Mas livra-nos tu das coisas mas
 REF:  Oré pysyrõ-te îepé mba'e-aíba suí
 ---
-PRED: <extra_id_0>?
+PRED: विवरणःQue tipo de coisa sera que e isto
 REF:  Marãba'ep'iã ri?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Que venha para nos curar
 REF:  T'oú îandé posanonga
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: drei oder vier Jahre apos os enterrarem
 REF:  mosapyr koîpó oîoirundyk seîxu ybŷá o tym'iré
 ---
-PRED: <extra_id_0>
+PRED: 回想:我这里是冰,我这里是冰,我这里是花,我这里是花
 REF:  Kó xe 'akusu, xe ranha Îé, kó bé xe pûapẽ
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: د باران په جریان کې یو کیبل
 REF:  Oky-ko'ẽ-ko'ẽ amana
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Temos nuestras coisas comuns
 REF:  Îarekó îandé îomba'e
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Voa para longe de nos
 REF:  Obebé îandé suí
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Para nos ensinar a orar a Deus
 REF:  Tupã mongetá resé îandé mbo'ebo nhẽ
 ---
-PRED: <extra_id_0>
+PRED: резюме: Abarquei-o
 REF:  Aîubykatã
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Faco minha futura casa
 REF:  Aîmonhang oka - Fiz uma casa Xe rokûama aîmonhang
 ---
-PRED: <extra_id_0>.
+PRED: 答覆:我先生,你是我,你是我,你是我,你是我。
 REF:  Xe îar, na xe angaturami ã a'emo ereîké xe py'ape
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Doador de nuestra vida
 REF:  Îandé rekobé me'engara
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Cortei um pedaco
 REF:  Asykûera aîasy'ab
 ---
-PRED: <extra_id_0>
+PRED: resume: No meio dos anjos fe-la subir
 REF:  Karaibebé pyterype supiri
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Nesta noite tomou inicio
 REF:  Kó pytuna ri sy-ari
 ---
-PRED: <extra_id_0>
+PRED: Resumen: Verdadeiros amaldicoadores de Deus no fogo te assaram
 REF:  Tupã momburûareté tatá pupé nde resyri
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Contar aos homens a futura felicidade deles
 REF:  Abá supé sekokatusagûama mombe'u
 ---
-PRED: <extra_id_0>?
+PRED: بیاکتنه: Tiveste relacoes com uma virgem tambem
 REF:  Ereîkópe kûare'ymano resé?
 ---
-PRED: <extra_id_0>?
+PRED: بیاکتنه: د دې لپاره چې کار وکړي یو کور کور کور کار کوي د هغه دندې لپاره چې باید ساتل شي
 REF:  Karaíba nde moporabykŷápe, ereporabykype 'ara i momba'etepyra pupé?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Tera a mulher ciumes de seu marido
 REF:  Sygûyrõpe kunhã o mena reséne?
 ---
-PRED: <extra_id_0>.
+PRED: Resumen: remedio contra dor de picada de cobra antidoto contra veneno de cobra
 REF:  mboîasy-posanga
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Na verdade hei de me enfeitar pretejando-me
 REF:  Aûîeté pakó, aîegûak ûinhemoúna
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Apazigua seu filho que esta irado
 REF:  O membyra i nhemoŷrõba'e oîmonhyrõ
 ---
-PRED: <extra_id_0>.
+PRED: resume: buraco do chao
 REF:  yby kûara
 ---
-PRED: <extra_id_0>.
+PRED: резюме: eco de mis palavras
 REF:  xe nhe'ẽ-'anga
 ---
-PRED: <extra_id_0>
+PRED: بیرته راګرځول: د خپلې اندیښنې په اړه د torpezas
 REF:  poxy resé o nheangerekosápe
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu estou-me amancebando
 REF:  Xe agûasá gûitekóbo
 ---
-PRED: <extra_id_0>.
+PRED: تازه سرليک: Eu sou antigo filho de Jetuu
 REF:  Xe Îetu'u ra'yrûera
 ---
-PRED: <extra_id_0>?
+PRED: резюме: Deste veneno para uma mulher gravida
 REF:  Ereîme'engype mosangygûaba kunhãmuru'abora supé?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: که څه هم هغه زموږ پلار لومړی وو او هغه یې د دې لپاره چې وي -Nao comas este fruto
 REF:  Aûîeté a'e îandé rubypy, "-E'u umẽ ikó 'ybá" 'îagûera
 ---
-PRED: <extra_id_0>
+PRED: резюме: Cortei-lhe a garganta degolei-o
 REF:  Aîaseó-kytĩ
 ---
-PRED: <extra_id_0>.
+PRED: resume: Nao havera outra comida
 REF:  N'i tybi xûépe amõ mi'u?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Aguei-a
 REF:  Aîamõ
 ---
-PRED: <extra_id_0>
+PRED: resume: na ponta da rede no punho da rede
 REF:  api anhãî
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Я сегодня хочу о lombo deles
 REF:  Xe kori i pyîaso'o
 ---
-PRED: <extra_id_0>.
+PRED: بیرته راګرځوئاو: د فورمو څخه لرې کول د یو شیانو څخه لرې کول چې د کور دننه او بهر اړخ لري
 REF:  i apé koty
 ---
-PRED: <extra_id_0>
+PRED: резюме: Eu sou habilidoso
 REF:  Xe kyre'ym
 ---
-PRED: <extra_id_0>?
+PRED: بیاکتنه: Semelhante a que coisa era o suor dele
 REF:  Mba'e abyare'ymape syaîa?
 ---
-PRED: <extra_id_0>.
+PRED: hervatting: por que
 REF:  mba'e resé?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Estando nos no amor de Deus a verdadeira felicidade temos
 REF:  Tupã îoaûsuba pupé îaîkóbo, tekokatu-eté îarekó
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Arranquei o miolo dele
 REF:  Aîputu'umbok
 ---
-PRED: <extra_id_0>
+PRED: резюме: Assei-me
 REF:  Aîyb
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Jesus Cristo o juiz
 REF:  Îesu Cristo, tekomonhangara
 ---
-PRED: <extra_id_0>
+PRED: резюме: Hei de ve-lo
 REF:  T'asepîáne
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: E por outra parte semelhantemente o proprio mar sera mais terrivel do que e seu costume fazendo as ondas grande estrondo
 REF:  Kokoty paranã aé rame'ĩ o abaetéramo erimba'e gûekoagûera sosé yapenunga ryapugûasuramo
 ---
-PRED: <extra_id_0>
+PRED: resume: Que fez neste mundo después que cresceu
 REF:  Marãpe sekóû ikó 'ara pupé o kakuab'iré?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Somos neighbors uns dos outros
 REF:  O îoamundabamo oroîub
 ---
-PRED: <extra_id_0>.
+PRED: resume: Ficando a esperar ansiosamente a morte Ar Cat 158v Korikorinha'ub 'ara repiaki i moanhmo - Deseja logo ver o dia ficando ansioso por ele
 REF:  Te'õ moanhẽ-anhẽmo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Vai a fonte
 REF:  Kûãî 'ype
 ---
-PRED: <extra_id_0>
+PRED: резюме: Levo-o na sua trela
 REF:  I xama ri arasó
 ---
-PRED: <extra_id_0>!
+PRED: резюме: Que va Guaixara para o fogo
 REF:  Gûaîxará t'osó tatápe!
 ---
-PRED: <extra_id_0>!
+PRED: بیاکتنه: Eis que enfim ja chega
 REF:  Aûîé ã ko'yté!
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Eis que na verdade esse ato e o que tem o dom de nos fazer fracassar
 REF:  Anhẽ ã aîpó tekó îandé mopanem-y-îara
 ---
-PRED: <extra_id_0>
+PRED: resume: tempo lugar modo etc de tocar de bater
 REF:  mopûaba
 ---
-PRED: <extra_id_0>
+PRED: резюме: Lembrando-se dele assim que acorda
 REF:  Opaka bé sesé o ma'enduaramo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Onde Deus esta
 REF:  Mamõpe Tupã rekóû?
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Aos tapuias trouxe as velhas de alem de Maguea Entao fiquei descansado
 REF:  Tapuîpe gûaîbĩ aru amõ Magûeá suí A'ereme aputu'u
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Mandando faze-los embarcar numa arca de madeira semelhante a um navio
 REF:  Ybyrá karamemûã, ygarusu nungara pupé i mo'ar-uká
 ---
-PRED: <extra_id_0>.
+PRED: резюме: o batizado
 REF:  i moîasukypyra
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Faz-me sair sempre da aldeia o padre
 REF:  Xe mosẽ memẽ taba suí abaré
 ---
-PRED: <extra_id_0>
+PRED: resume: tempo lugar instrumento causa modo companhia etc de matar
 REF:  îukasaba
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Nao desiste nosso inimigo de sempre nos tentar
 REF:  N'i apori oré sumarã îepinhẽ oré ra'anga
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Mas os doentes a comem bem certamente
 REF:  Mba'easybora-te aîekatu i 'uû
 ---
-PRED: <extra_id_0>
+PRED: रिव्यूः तु mesmo es causa de teu dano
 REF:  Endé aé ereîekûá
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Nao sao sem consequencias os teus pecados
 REF:  Na sa'ubi nde rekopoxy
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Cura-se as vezes
 REF:  Opûerab amõnume
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Taquari e Tapera que esta diante dela acreditam em mim
 REF:  Takûary, sobaîygûara, Tapera, xe rerobîá
 ---
-PRED: <extra_id_0>.
+PRED: резюме: O peixe e-me enjoativo
 REF:  I ting pirá ixébo
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Eia levemos adiante deles esta mucurana
 REF:  Ene'ĩ, t'îarasó senondé kó musurana
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Em nossa testa poe a cruz e sobre nosso coracao tambem
 REF:  Asé sybápe cruz moíni asé nhy'ã 'arybo bé
 ---
-PRED: <extra_id_0>.
+PRED:  resume: Seu fiho ja nasceu
 REF:  I membyra o'ar umã
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Espero-o no seu caminho
 REF:  Asapearõ
 ---
-PRED: <extra_id_0>
+PRED: resume: Tu queres ser mau Has de ir pois para teu fogo
 REF:  Nde poxy-potar-a'ub T'eresó rõ nde ratápe
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Grudei penagens nele
 REF:  Aîgûaîaý-moîar
 ---
-PRED: <extra_id_0>.
+PRED: د محصول د تفصیلي
 REF:  A'epe marã apŷabetéramo sekóû îandé îabé?
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Enfim os mocos hiddenm seine sehr maus procedures
 REF:  Aûîé kunumĩgûasu o ekó-aíbeté oîomim
 ---
-PRED: <extra_id_0>
+PRED: резюме: Conforta-me tu
 REF:  Xe moapysyk îepé
 ---
-PRED: <extra_id_0>
+PRED: Lebenslauf: Envergonha-se o sol nascendo diante de teu brilho
 REF:  Otĩ kûarasy osema nde beraba robaké
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Confessaste-te antes de nascer teu filho
 REF:  Erenhemombe'upe nde memby-kuî îanondé?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Maltratando-o todos os sus suditos
 REF:  O boîaetá pabẽ serekomemûãmo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Nao cometas furto
 REF:  Emondarõ umẽ
 ---
-PRED: <extra_id_0>.
+PRED: resume: Eles na verdade em tres pessoas se distinguem na uniao de seu unico ser divino
 REF:  A'e anhẽ mosapyr pessoaamo i îa'oki, oîepé og ekó-karaíba îese'ara pupé nhẽ
 ---
-PRED: <extra_id_0>
+PRED: резюме: Mostrando-o aos judeus
 REF:  Îudeus supé sepîakuká
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Um servo do principe esbofeteou sua cara
 REF:  Morubixaba boîá amõ osobá-petek
 ---
-PRED: <extra_id_0>
+PRED: резюме: Eu sou coxo
 REF:  Xe pyte'em
 ---
-PRED: <extra_id_0>.
+PRED: резюме: words desatinadas
 REF:  nhe'ẽ-tekokugûabe'yma
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Eu em vez disso quero presas em alguns bebados
 REF:  Xe-te, xe rembiá-potá sabeypora amõ resé
 ---
-PRED: <extra_id_0>.
+PRED: resume: څومره وختونه د کور خاوند د هغه mandamento apos atrair-se por uma mulher یا apos conversar سره هغې په داسې حال کې چې د هغې سره نښلوي
 REF:  Mbobype abá aîpoba'e oîaby kunhã resé onhemomotar'iré koîpó i mongetá roîré sesé o byke'yma pukuî?
 ---
-PRED: <extra_id_0>
+PRED: បន្ត & # 160; ៖ Digo mal dele
 REF:  Aîmombe'uaíb
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Arruinei a todos fazendo-os roubar tambem
 REF:  Aîmomoxy pabenhẽ, i momondarõmo bé
 ---
-PRED: <extra_id_0>
+PRED: резюме: Dizem que fui
 REF:  Asó serãne ra'e?
 ---
-PRED: <extra_id_0>.
+PRED: Rücktritt: Quem cumpre aquele mandamento
 REF:  Abápe aîpoba'e oîmopor?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: homem membrudo
 REF:  abá-tubixaba
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Como um galo te deitas
 REF:  deitar-se - Gûyrá-sapukaîa îabé ereîetu'u
 ---
-PRED: <extra_id_0>
+PRED: 简历: Fa-los-ei correr comigo fa-los-ei voar comigo
 REF:  Anonhan, arobebéne
 ---
-PRED: <extra_id_0>.
+PRED: resume: Contando-o digo-o e desdigo-o
 REF:  Arekorekó i mombegûabo
 ---
-PRED: <extra_id_0>
+PRED: резюме: Eu hei de vingar-te
 REF:  Ixé t'oroepyk
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu o diabao assado
 REF:  Xe, anhangusu-mixyra
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: د پیرودونکو لپاره د پیرودلو لپاره غوره کول
 REF:  Pitanga nhemonhanga suí oîeposanõ-sanonga
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Visito os aposentos dos indios
 REF:  Aîosub abá koty
 ---
-PRED: <extra_id_0>.
+PRED: resume: extremidades de mis maos
 REF:  xe pó apyra
 ---
-PRED: <extra_id_0>.
+PRED: резюме: chefes valentes
 REF:  morubixá-mosakara
 ---
-PRED: <extra_id_0>.
+PRED: resume: cantinho dela
 REF:  sûá'ĩ
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Para honrar a Deus
 REF:  Tupã moeteagûama resé
 ---
-PRED: <extra_id_0>.,ловна
+PRED: Rückblick: Que va toda a mí doenca para longe de mí alma
 REF:  T'osó-pá xe mara'ara kûepe xe 'anga suí
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Nao sao muitos meus pecados
 REF:  Na setáî xe angaîpaba
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Teus pecados estando a aumentar com efeito
 REF:  Nde rekomemûã rumõ-rumõmo nhẽ
 ---
-PRED: <extra_id_0>.
+PRED: резюме: daqui a bit
 REF:  koromõ-apyri'ĩ
 ---
-PRED: <extra_id_0>
+PRED: резюме: Eu sou calvo
 REF:  Xe 'apytereb
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Quais as novas Quais as novas
 REF:  Marãpe moranduba?
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Fogo em que se elimina a divida de nuestros pecados
 REF:  Tatá asé angaîpaba repy mondykaba
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: زه د دې په اړه ډیره پاملرنه لرم او په دې اړه خبرې کوم
 REF:  Na xe îuruposykyîéî
 ---
-PRED: <extra_id_0>
+PRED: resume: Arranca-te o nome por causa dos malditos para que sejas muito famoso
 REF:  Eîerok moxy resé ta nde rerapûãngatu
 ---
-PRED: <extra_id_0>
+PRED: जीवनीः से यु ओ मंड्स
 REF:  Aîmondó-momo
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Veio de novo achando-os novamente no sono
 REF:  Our benhẽ i kera pé nhẽ obasemano
 ---
-PRED: <extra_id_0>.
+PRED: resume: Nao trabalhamos neste dia
 REF:  N'îaporabykyî kó 'ara pupé
 ---
-PRED: <extra_id_0>
+PRED: резюме: Eu sou habil em assim agir
 REF:  Xe popy'i emonã gûitekóbo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: vara
 REF:  ybyrá'ĩ
 ---
-PRED: <extra_id_0>.
+PRED: resume: Que coisas quer o diabo
 REF:  Mba'e-mba'epe Anhanga oîpotar?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu estou morno
 REF:  Xe rakubaíb
 ---
-PRED: <extra_id_0>.,ловна 
+PRED: резюме: Parece flutuar
 REF:  Obebuî-berame'ĩ
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Fiquei em pranto
 REF:  Aîase'o-rekó
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: د دې لپاره چې ورته ورته ورته غواړم ټول خپل جوړونکي
 REF:  Nd'e'i te'e serã oîemoîoîá-pá-potá o monhangara resé?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Desceu para o meio da terra
 REF:  Ogûeîyb yby apyterype
 ---
-PRED: <extra_id_0>
+PRED: resume: クエア・デ・アモラ クエア・デ・バーベロ
 REF:  itakynhatimana
 ---
-PRED: <extra_id_0>
+PRED: резюме: Estou tendo polucao
 REF:  Apu-apuk
 ---
-PRED: <extra_id_0>
+PRED: резюме: Estou na medida
 REF:  Taé a'e
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Tiro a sua ferrugem
 REF:  Aîkytyngok
 ---
-PRED: <extra_id_0>.
+PRED: резюме: linea grossa de pescar
 REF:  pindasã-muku
 ---
-PRED: <extra_id_0>.
+PRED: резюме: жиры животного
 REF:  mba'e-kagûera
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Nao trouxeste foices
 REF:  N'ererupe îyapara?
 ---
-PRED: <extra_id_0>
+PRED: resume: as criancas que completam dos anos
 REF:  pitanga mokõî ro'y omoaûîeba'e
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Apos resgatares bem tuas maldades antigas que te regozijes muito com a virtude
 REF:  Nde rekomemûãagûera repyme'ẽngatu roîré, t'ereîekosubeté tekoporanga resé
 ---
-PRED: <extra_id_0>
+PRED: резюме: Sim esses me satisfazem
 REF:  Îé, aîpó xe moytarõ
 ---
-PRED: <extra_id_0>.
+PRED: د افغانستان د حراست او ثبات شورا اعلامیه
 REF:  Eîepe'a! Ekûá ké suí ra'a!
 ---
-PRED: <extra_id_0>.,ловна
+PRED: Résumé : os que foram ses compagnos ses ex-companheiros
 REF:  irũmbûera
 ---
-PRED: <extra_id_0>.
+PRED: 简历:拉佩-lhe o queixo barbeei-o
 REF:  Asendybá-apin
 ---
-PRED: <extra_id_0>.
+PRED: रिव्यू: Como sus discipulos procederam vendo tratar assim a seu senhor
 REF:  Marãpe i boîá rekóû emonã o îara rerekó repîaka?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Compadece-te de nos
 REF:  Oré raûsubá îepé
 ---
-PRED: <extra_id_0>
+PRED: резюме: Resisti-lhe defendendo-me
 REF:  Anheran i xupé
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Tao logo ouvindo o teu nome o diabo esta tremendo
 REF:  Nde rera rendupa abé, anhanga ryryî okûapa
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: باید ډیره لوستل شي چې د یو بل سره یوځای کیږي
 REF:  Oîoaûsu-katupe amẽ oîopopysykyba'epûera?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: هیڅکله هم نه غواړم چې ستاسو د خوښې مخه ونیسي
 REF:  Nde i potasábo-katu é, t'onhemonhang
 ---
-PRED: <extra_id_0>! <extra_id_10>!
+PRED: резюме: Nao Estou bebado
 REF:  Aanumẽne! Asabeypó
 ---
-PRED: <extra_id_0>
+PRED: विवरणः पार Nos honrarem os indios fazem festa
 REF:  Îandé moetébo apŷaba nhemosaraî
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Nao acabam os desejos sensuais a lascivia als maledicencias
 REF:  N'opabi moropotara, tesãînana, marã'é
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Vamos ao seu caminho
 REF:  T'îasó sapépe
 ---
-PRED: <extra_id_0>
+PRED: резюме: Derrubei-o
 REF:  Aîaparaîtyk
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu estou debilitado
 REF:  Xe aíb
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: زما د ژوند دوره اوسمهال
 REF:  Xe ky'a-te turusu
 ---
-PRED: <extra_id_0>
+PRED: резюме: Mas apanha antes mí chefe
 REF:  Eîá-te xe rubixaba!
 ---
-PRED: <extra_id_0>.
+PRED: تازه سرليک: Faze perdoar a nos
 REF:  Emoîerekûab orébo
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Eis que meu corpo nao esta disposto amolecendo
 REF:  Xe reté ã n'oîkoetéî, omembeka
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Para confortar a tua alma nos o ficamos abracando
 REF:  Nde 'anga moapysykápe, oroîaîubã-îubã
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Vamos devagar para fazer o assalto para queimar a terra dos malditos
 REF:  T'îasó, mbegûé, îapu'ama, t'ixapy moxy retama
 ---
-PRED: <extra_id_0>
+PRED: резюме: Sujei-o de visgo
 REF:  Anhomong
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Ah eu fui muito pecador
 REF:  Xe angaîpabeté'ĩ ra'u mã!
 ---
-PRED: <extra_id_0>.
+PRED: резюме: o tradutor do padre
 REF:  abaré nhe'engerekoara
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Ah coitadinho de mim e o que e ouvido ai
 REF:  "Xe poreaûsubeté'ĩ mã!" sendubypyramo a'epe
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Vou de madrugada
 REF:  Îeîbé asó
 ---
-PRED: <extra_id_0>.
+PRED: резюме: A multidao de nos afastando
 REF:  Îandé retá îandé pe'abo
 ---
-PRED: <extra_id_0>.
+PRED: Lebenslauf: Arranca-te o nome por causa dos malditos
 REF:  Eîerok moxy resé
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: O nome da terra deles e Mboijy ali assando-os e comendo-os
 REF:  Setama rera Mboîy, a'epe i moîypa, i gûabo
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Sao Joao Creancinha estando no ventre ao perceber tua vinda ficou saltando
 REF:  São João pitangĩ, tygépe o endápe, nde rura andupápe, o por-oporĩ
 ---
-PRED: <extra_id_0>
+PRED: резюме: meu soltar de grunhidos
 REF:  xe kororõ-pysyrõ
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Olha para nos
 REF:  Ema'ẽ oré resé!
 ---
-PRED: <extra_id_0>.
+PRED: Resumen: Que a gente evoca diante dele como sua esperanca
 REF:  Mba'epe asé osenõî i xupé, o îerobîasabamo?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Os habitantes do ceu mais ainda estao bem felizes
 REF:  Ybaka porá-tene sory-porang
 ---
-PRED: <extra_id_0>.
+PRED: जीवनवृत्तः अवरण्य-संपन्नता के रूप में अवरण्य
 REF:  Ono'ong mba'e ixébo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Como diz a gente antes de dormir
 REF:  Marã e'ipe asé o ké îanondé?
 ---
-PRED: <extra_id_0>.
+PRED: resume: 1 que que dizes como o que nao entendeu bem o que outrem disse ou respondendo ao que chamou
 REF:  marã-pipó?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Estao em grande numero sao muitos
 REF:  Tyk e'i
 ---
-PRED: <extra_id_0>
+PRED: резюме: Retirei-a
 REF:  Ano'ẽ
 ---
-PRED: <extra_id_0>
+PRED: резюме: Eu sou libertina
 REF:  Xe resaeté
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: د څارویو څخه د څارویو څخه د څارویو له منځه وړلو لپاره ځي
 REF:  Sesé so'o gûyrá aîmoîese'a i mokanhemane
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Por que a gente poe a cruz na testa
 REF:  Marãnamope asé o sybápe îoasaba moíni?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Aparei-lhe o topete
 REF:  Asetobapy-etab
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Ainda que eu fosse
 REF:  Îepémo asó
 ---
-PRED: <extra_id_0>
+PRED: резюме: cutelo de ferro
 REF:  itá-kysegûasu
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Vereis tambem futuramente meine vinda sobre als Nuvens
 REF:  Pesepîak irã ybytinga 'arybo xe rura béne
 ---
-PRED: <extra_id_0>.
+PRED: 如:你自己是你的爱人,想重回我的家
 REF:  Endé aé ereîekûá xe roka pobu-potá
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Sua mae nao teve dor de parto nao sangrou nao ficou doente
 REF:  I xy n'i membyrasyî, nda sugûyî, n'i mara'ari
 ---
-PRED: <extra_id_0>
+PRED: резюме: fazendo os homens ficarem espiando
 REF:  abá momanhã-manhana
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Estareis aflitos hoje
 REF:  Peporeaûsu korine
 ---
-PRED: <extra_id_0>
+PRED: резюме: O proferir das ladainhas
 REF:  Ladainhas ra'angaba
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Saiu para o patio chorando muito dolorosamente
 REF:  Osem okarype oîase'o-asykatûabo
 ---
-PRED: <extra_id_0>
+PRED: резюме: Uniram-se os homens maus
 REF:  I îasear apŷabaíba
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: No meio da terra fazendo um fogo inextinguivel que nao se apagara
 REF:  Yby apyterype tatá-amororé ogûeba'erame'yma monhanga
 ---
-PRED: <extra_id_0>
+PRED: resume: no meio de no centro de
 REF:  pyteri
 ---
-PRED: <extra_id_0>.
+PRED: резюме:
 REF:  Xe rurunhyng
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: په حقیقت کې د دې ډول ډول خلک د دوی لوی وزن لپاره په اسانۍ سره پورته کیږي
 REF:  Nandé rakó asé îeupiri ybakypene, o posyîusu reîtyk'iré
 ---
-PRED: <extra_id_0>
+PRED: resume: recipientes de polvora
 REF:  mokaku'i-uru
 ---
-PRED: <extra_id_0>.
+PRED: резюме: O que tem a bem-aventuranca e o que nao agride
 REF:  Tekokatueté rerekoara onherane'ymba'e
 ---
-PRED: <extra_id_0>.
+PRED: resume: para mim terrivel ve-los
 REF:  I abaeté sepîaka ixébo
 ---
-PRED: <extra_id_0>.
+PRED: Lebenslauf: Em meio de campo repartindo-os
 REF:  Nhũ-myterype i mbo'îabo
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Meus antigos e grandes pecados farei sair
 REF:  Xe angaîpá-tubixagûera amosẽne
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu sumi de vista
 REF:  Xe apykanhem
 ---
-PRED: <extra_id_0>
+PRED: resume: Parece investir nossa carne contra nossa alma
 REF:  Onharõ-berame'ĩ asé ro'o îandé 'anga resé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu sou muito pecador
 REF:  Xe angaîpab-eté
 ---
-PRED: <extra_id_0>
+PRED: resume: os habitantes do ceu
 REF:  ybakygûara
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Essas serao as que tu assaras
 REF:  Aîpó nde remixyrama
 ---
-PRED: <extra_id_0>.
+PRED: रिव्यूः ओ क्वे टेम फरास ओ क्वे ई प्रसिद्ध
 REF:  serapûanyba'e
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Convenco-o
 REF:  Aîmoapapub
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Esse enfim nao e diferente da cobra
 REF:  Aîpoba'e-tene n'oîabyî mboîa
 ---
-PRED: <extra_id_0>!
+PRED: بیاکتنه: Ja chega certamente
 REF:  Aûîé ipó!
 ---
-PRED: <extra_id_0>
+PRED: 例句: 因此,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,所以,
 REF:  Nd'e'i te'e kunumĩgûasu, morubixaba o sogûápe, oîkébo memẽ kagûápe
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: لکه څنګه چې په راتلونکي کې د نارینه وو لپاره به د خپلو ډیرو دښمنانو سره د سرحدونو په اړه خبرې وکړي
 REF:  Marã e'ipe irã abá a'ereme tobaîá-katupabẽ o amaneme sekyîabone?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Afio-a
 REF:  Asaembe'e
 ---
-PRED: <extra_id_0>
+PRED: резюме: Vem coisa fedorenta
 REF:  Eîori, mba'enem!
 ---
-PRED: <extra_id_0>
+PRED: تازه سرليک: filho bastardo filho do amante
 REF:  agûasá membyra
 ---
-PRED: <extra_id_0>
+PRED: resume: Retirei as amarras dele
 REF:  Aîmamã-rok
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Um ou outro porventura foi mau as vezes
 REF:  Oîepé-ĩombé, nipó, i angaîpab amõme é
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Queimou tua alma o fogo dele descendo
 REF:  Nde 'anga osapy satá ogûeîypa
 ---
-PRED: <extra_id_0>
+PRED: резюме: Agitamo-nos
 REF:  Orondururuk
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Nao ficou ninguem no lugar da batalha
 REF:  N'opytáî amõ abá maranápe
 ---
-PRED: <extra_id_0>
+PRED: резюме: Eu tenho um nervo encolhido
 REF:  Xe raîyîeapar
 ---
-PRED: <extra_id_0>
+PRED: resume: rapaz por desprezo pejorativo
 REF:  kunumĩ-a'uba
 ---
-PRED: <extra_id_0>?
+PRED: د افغانستان د حراست او ثبات شورا اعلامیه
 REF:  -Mba'epe ereru nde karamemûã pupé?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu sou airoso
 REF:  Xe katu
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Furo orelhas
 REF:  Anambi-kutuk
 ---
-PRED: <extra_id_0>
+PRED: резюме: Ofereci-lhes comida
 REF:  Asemi'u-erekûab
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Finjo que o levo faco que o levo
 REF:  Arasó-rasó-a'ub
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Dei-o a luz
 REF:  Aîmo'ar
 ---
-PRED: <extra_id_0>
+PRED: резюме: Toquei-o
 REF:  Anhatõî
 ---
-PRED: <extra_id_0>
+PRED: resume: maos entorpecidas
 REF:  pó-e'õ
 ---
-PRED: <extra_id_0>?
+PRED: بیاکتنه: Esta pronto o guaitaca ou o filho do guaiana
 REF:  Sekoaûîépe gûaîtaká koîpó gûaîanã ra'yra?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: موږ د نورو سره یوځای یو
 REF:  O îoambyî oroîub
 ---
-PRED: <extra_id_0>.
+PRED: विवरणः सभी जो जीवित हैं और सभी जो मरेंगे को julgar करें
 REF:  Oîkobeba'e, omanõba'epûera pabẽ rekomonhanga
 ---
-PRED: <extra_id_0>.
+PRED: резюме: homem muito entendido
 REF:  abá-tekokugûá-katu
 ---
-PRED: <extra_id_0>
+PRED: резюме: miolos de cabeca
 REF:  a-putu'uma
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Faco as coisas devagar
 REF:  A'é umanĩ mba'e monhanga
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: دا ورته فورمه چې د پوره کولو لپاره د وختونو سره سم دی
 REF:  Mba'enakó ahẽ amõ îukáû akûeîme
 ---
-PRED: <extra_id_0>.
+PRED: resume: querendo ir tu para o lado de gente
 REF:  mosé esó-potá
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Assim hoje procederei
 REF:  Emonã kori aîkóne
 ---
-PRED: <extra_id_0>!
+PRED: بیاکتنه: Tudo faz a aldeia pecar
 REF:  Opá taba moangaîpabi!
 ---
-PRED: <extra_id_0>.
+PRED: रिव्यूःcom uma pedra
 REF:  itá pupé
 ---
-PRED: <extra_id_0>.,ловна
+PRED: जीवनवृत्त: व्यक्ति के रूप में भ्रमित होना
 REF:  o poromonã-monana
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Urdiste Lügen gegen Alguem
 REF:  Eresekyîpe îuraragûaîa abá supé?
 ---
-PRED: <extra_id_0>.
+PRED: resume: no final da missa que entras sempre manifestamente consciente
 REF:  Missa mondykápe épe ereîké îepi, nde îesûere'yîpe?
 ---
-PRED: <extra_id_0>.es
+PRED: بیاکتنه: Este paje ruim tem espirito ساتونکی
 REF:  Supixûar ikó paîé-angaíba
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Vomitaste cauim brigando por causa dele
 REF:  Ereîmoîebype kaûĩ, sesé nde apore'ymamo?
 ---
-PRED: <extra_id_0>
+PRED: Lebenslauf: Meu braco perdeu a sensibilidade
 REF:  Omanõ xe îybá
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Nunca acaba de comer nao come fulano په بشپړ ډول د شیانو په توګه راځي
 REF:  Nd'o'u-apyî ahẽ mba'e
 ---
-PRED: <extra_id_0>
+PRED: резюме: Esta pronto o guaitaca
 REF:  Sekoaûîépe gûaîtaká?
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Rezando a ele no tempo de sua aflicao
 REF:  I xupé o ekotebẽsaba resé oîerurébo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Tornando notorios os vicios das pessoas
 REF:  Abá rekopoxy mosãîa
 ---
-PRED: <extra_id_0>
+PRED: резюме: Eles mandariam enforca-los
 REF:  A'emo oîubyk-uká?
 ---
-PRED: <extra_id_0>
+PRED: Résumé : Tu tiveste para alguem palavras que violentam
 REF:  Nde nhe'ẽ-poroîukaípe abá supé?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu sou modesto
 REF:  Xe kunusãî
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Sai ha pouco dele
 REF:  Asẽ amo'ĩ i xuí
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Pegou-se firmmente sua roupa com que ele foi castigado as suas chagas
 REF:  Oîar-atã serã i aoba i nupãsagûera i moperé-perebagûera resé?
 ---
-PRED: <extra_id_0>?
+PRED: لنډه پیژندنه: Tiveste friendship com um homem pecador
 REF:  -Ereîekotyápe abá-angaîpaba resé?
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: A maldade fez feder meine alma
 REF:  Xe 'anga omonem tekoangaîpaba
 ---
-PRED: <extra_id_0>.
+PRED: 例句:如果一个东西很好吃的话,你就会觉得很棒,但是你却觉得这没什么好东西
 REF:  Mba'e sekatuba'e abiã oîmoting i 'uetébo, memetiã nde nda mba'e-katu ruã euĩ ereîmo'ẽ
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Quando a guerra for aquilo que e justo
 REF:  Marana supikatundûaramo sekóreme é
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: ډیر ښه دی چې تاسو د Jacare-guacu د ډوډۍ خورا ښه یاست
 REF:  Aûîebeté, rõ! T'a'u pá Îakaregûasu pepyra!
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Empurra-o para seu fogo
 REF:  Oîmoanhã satápe
 ---
-PRED: <extra_id_0>.,ловна
+PRED: resume: Nao tem limite nao tem fim
 REF:  -N'i sykabi, n'i papabi
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Apalpaste teu ventre para matar teu filho
 REF:  Eresungápe nde rygé nde membyra îukábo?
 ---
-PRED: <extra_id_0>.,ловна <extra_id_12>
+PRED: резюме: Bebi agua
 REF:  A'y-'u
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Cortei madeira
 REF:  Aybyrá-kytĩ
 ---
-PRED: <extra_id_0>.
+PRED: resume: something que falta
 REF:  Mba'e angaba'eamẽ
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Que a Maria alegremos a lei do diabo repelindo
 REF:  Maria t'îambory, Anhanga rekó reîyîa
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: له همدې امله یو terra que a gente pisa detesta os cadaveres daqueles خوړل
 REF:  Nd'e'i te'e yby asé purungaba tiruã aîpoba'e re'õmbûera reroŷrõmo
 ---
-PRED: <extra_id_0>
+PRED: резюме: Espremi o sumo dela
 REF:  Anhamĩ - Espremi-o Aty-amĩ
 ---
-PRED: <extra_id_0>
+PRED: रिव्यूः Isso e referente a mim isso e o que me concerne
 REF:  Xe resendûara ebokûea
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Invocam as mulheres o paje Caruara
 REF:  Osekyî kunhã maîé Karûara
 ---
-PRED: <extra_id_0>.
+PRED: 简历:我真是谁,我没有时间,我活着
 REF:  Ixé aé sapysarûera, sekobeaba resé
 ---
-PRED: <extra_id_0>
+PRED: резюме: os daqui
 REF:  keygûara
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Limpo-o de ferrugem
 REF:  Aîkytyngok
 ---
-PRED: <extra_id_0>!
+PRED: резюме: Puxa-o rijamente
 REF:  Esekyî-atã!
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Mais que todas as coisas dolorosas que estao neste mundo
 REF:  Opakatu ikó 'ara pupîara mba'easy sosé
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Por longo espaco de tempo ele se deteve
 REF:  Ymûanĩ ahẽ rekóû
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Sendo mae de Deus e que ela e a verdadeira علت da bondade dele
 REF:  Tupã syramo oîkóbo é i angaturambabetéramo sekóû
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: ځینې وختونه
 REF:  amõme nhõ
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Comeste terra
 REF:  Ere'upe yby?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu tenho o rabo cortado
 REF:  Xe rûaîasyk
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Uma noticia chegou-me aos ouvidos
 REF:  Xe apysakûaraby moranduba
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Acredita my padrinho hao de te apresar hoje
 REF:  Erobîá, xe rubangaba, ta nde moembiá kori
 ---
-PRED: <extra_id_0>
+PRED: レビュア: var de argola de penas
 REF:  aûã-myranga
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Aqui os homens estao na verdade
 REF:  Ké abá rekóû anhẽ
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Transgridem muito a palavra de Deus os que se casam traindo-se um ao outro
 REF:  Oîaby-etépe omendaryba'e Tupã nhe'enga o îosuí omondarõmo?
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: د خلکو د ژغورلو لپاره د ژغورلو لارښوونې
 REF:  Mba'erama ripe asé tĩme o endy moíni?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Chegou a nos sua luz para sempre
 REF:  Osyk oré ri sendy îepi nhẽ
 ---
-PRED: <extra_id_0>
+PRED: резюме: Dia de guarda e de jejum
 REF:  Ara i pîasaba, îekuakupaba
 ---
-PRED: <extra_id_0>
+PRED: Rückmeldung: Eu tenho corcova eu estou corcunda
 REF:  Xe kupeasur
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Mandam que os batizados honrem o domingo apos Our Senhor o santificar com seu retorno a vida
 REF:  Domingo momba'eté-ukari i mongaraibypyretá supé o ekobé îebyragûera pupé Îandé Îara i mongaraib'iré
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: a uniao de Deus-Filho com nossa carne
 REF:  îandé ro'o resé Tupã-Ta'yra îemonana
 ---
-PRED: <extra_id_0>
+PRED: резюме: Eu sou tisico
 REF:  Xe angaîbabîar
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Hei de ir para o rio dos paratis ao bando dos tupiniquins
 REF:  T'asóne parati'ype, tupinakyîa re'yîpe
 ---
-PRED: <extra_id_0>.,ловна
+PRED: រៀប រាប់ អំពី ក្រុង យេ រូ សា ឡិម
 REF:  akûé tabusu Îerusalém 'îaba
 ---
-PRED: <extra_id_0> sensual
+PRED: resume: o desejo sensual que ele nao torna costumeiro
 REF:  moropotara semipokuabe'yma
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Longamente irritando-se
 REF:  Kype onhemoŷrõmo nhẽ
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Fiquei carregado com ele isto e carreguei-o levei-o as costas
 REF:  Ambosyî ahẽ resé
 ---
-PRED: <extra_id_0>.
+PRED: resume: o que e frito a fritura
 REF:  i mosyryrĩmbyra
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Isso e assim certamente
 REF:  Emonã ûĩ re'a
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: د ویښتو سره د ویښتو پوښونه PIXAIM یا د تور تور پوستکي سره
 REF:  akangapixa'ĩ
 ---
-PRED: <extra_id_0>.
+PRED: резюме: ambas estas maos o numero dez
 REF:  opá kó mbó
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Enchendo o mar levantando-o bem acima do cume das mountains
 REF:  Paranã momungábo, ybytyra apyra sosé katu i mopu'ama
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu vou so
 REF:  Ixé anhõ asó
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Nela isto e na cruz morrendo crucificado
 REF:  Sesé i moîarypyramo omanõmo
 ---
-PRED: <extra_id_0>.,ловна
+PRED: резюме: Desesperar-se-ao muito certamente os que sao maus
 REF:  I anhamãngatu nipó i angaîpaba'e-ne
 ---
-PRED: <extra_id_0>.
+PRED: resume: homem grosseiro zombeteiro
 REF:  abá-memûã
 ---
-PRED: <extra_id_0>.
+PRED: резюме: cabeca baixa desanimo
 REF:  akã-gûyra
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Por isso mesmo a pessoa que deseja a virtude mirra-se de corpo
 REF:  Nd'e'i te'e abá tekokatu potasara gûo'opore'yma
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: O oposto da avareza e a liberalidade
 REF:  Tekate'yma robaîara tekate'yme'yma
 ---
-PRED: <extra_id_0>
+PRED: резюме: Guardai-vos de ser maus doravante
 REF:  Peteumẽ pe poxyramo angiré
 ---
-PRED: <extra_id_0>
+PRED: Rückmeldung: Eu vim do rio dos paratis para ver a mae de Deus ficando a enfeitar-me
 REF:  Xe Parati 'y suí aîu Tupã sy repîaka, gûinhemoîegûá-îegûaka
 ---
-PRED: <extra_id_0>.,ловна
+PRED: بیاکتنه: O maldito nao difere de uma arara
 REF:  Nd'oîabyî muru arara
 ---
-PRED: <extra_id_0>.
+PRED: resume: prender tapuias
 REF:  tapuîa rara
 ---
-PRED: <extra_id_0>.
+PRED: resume: seu proprio corpo incorrupto
 REF:  gûeté-marane'yma
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Coisa muito boa e a confissao como modo de impedir tambem tua ida para o inferno
 REF:  Mba'e-eté anhẽ nhemombe'u Anhanga ratápe nde sorambûera morambûesabamono
 ---
-PRED: <extra_id_0>
+PRED: 履歴書: Se me mandasse iria
 REF:  Xe mondórememo, asómo
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Que nao conhecamos senao a Deus nosso criador
 REF:  T'îaîkuá-te Tupã, îandé monhangagûera
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Ah quem me dera o tivesse matado
 REF:  Aîuká me'ĩmo mã!
 ---
-PRED: <extra_id_0>
+PRED: 简历:O homem que esconde algo
 REF:  Abá mba'e omimba'e
 ---
-PRED: <extra_id_0>
+PRED: 履歴書: Ele e pequenino Ta'yri'i-nhota'ub ou Ta'yri'i-a'ub - Ele e pequenino
 REF:  Ta'yrĩ'ĩ
 ---
-PRED: <extra_id_0>.
+PRED: resume: o que e de cada dia o que esta ao longo dos dias
 REF:  ara rupindûara
 ---
-PRED: <extra_id_0>.
+PRED: resume: Tomaste as things de alguem o objeto do furto de teu proximo ou o que ele esconde
 REF:  Ereîarype abá mba'e, nde rapixara mondarõagûera koîpó semimima?
 ---
-PRED: <extra_id_0>.
+PRED: 简历: por conhece-lo agora amo-o
 REF:  A'e kuapápe, ko'y asaûsu
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Do nada fez nossa alma
 REF:  Nama'eruã oîmonhang asé 'angamo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Anuncia os que serao casados na church nos feriados
 REF:  Ogûeronhe'eng i mendarypyrama Tupãokype marãtekoabe'yma pupé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Furou tambem minha cabeca
 REF:  Omombuk-y bé xe akanga
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Nao era Deus Espirito Santo mas um sinal da sua vinda
 REF:  -Tupã Espírito Santo anhẽ a'e tatá? -Nda Tupã Espírito Santo ruã, tura îekuapaba é - Deus Espírito Santo era, na verdade, aquele fogo?
 ---
-PRED: <extra_id_0>
+PRED: resume: imitando tua virtude
 REF:  nde rekokatu ra'anga
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Parto
 REF:  Aîepabok
 ---
-PRED: <extra_id_0>
+PRED: resume: sob o sono da bem alta noite isto e nas horas mortas da noite em que todos dormem
 REF:  pysaîé-katu ké-gûyrybo
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: O nosso chamado a mae de Deus fa-lo sofrer muito
 REF:  Tupã sy îandé senõîa oîmoasy-katu-eté
 ---
-PRED: <extra_id_0>
+PRED: резюме: Turvei sua agua
 REF:  Aîmo'ypiting
 ---
-PRED: <extra_id_0>.
+PRED: resume: Os homens estao acostumados comigo
 REF:  Apŷaba xe pokuá
 ---
-PRED: <extra_id_0>
+PRED: کورپاڼه: زموږ کورپاڼه دا ځمکه چې موږ یې اړتیا لرو
 REF:  N'asé retama ruã-tepe ikó yby asé rekoaba?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Toco-a
 REF:  Aîopy
 ---
-PRED: <extra_id_0>.,ловна 
+PRED: резюме: Ele esta salgado demais
 REF:  Se'ẽ-moxy
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Tu nao me detestas
 REF:  Na xe reroŷrõî îepé
 ---
-PRED: <extra_id_0>.
+PRED: रिव्यू: फर आर्सो हैस सेरेस सेरेस सेम पारर
 REF:  Nd'e'i te'e îase'o anhõ monhanga i mombyke'ymane
 ---
-PRED: <extra_id_0>
+PRED: резюме: Devolve o objeto de seu furto
 REF:  Ogûeroîebyr o mondasagûera
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Vinde para comer a crianca o cuidado de Deus
 REF:  Peîori pitanga gûabo, Tupana resaetá
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Obedecem-me bem os indios
 REF:  Xe rapîakatu abá
 ---
-PRED: <extra_id_0>
+PRED: resume: o que e afamado por ai
 REF:  kûepe i moerapûanymbyra
 ---
-PRED: <extra_id_0>?
+PRED: Rückblick: Como diz a outra peticao da gente
 REF:  Marã e'ipe amõaé asé îeruresaba?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Ele te chama particularmente
 REF:  Nde katu nde renõî
 ---
-PRED: <extra_id_0>.
+PRED: resume: em baixo na lajea
 REF:  ybype
 ---
-PRED: <extra_id_0>.,ловна
+PRED: resume: Sei-o tao bem como tu
 REF:  Nde îabé ixé i kugûabi
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu sou muito manchado
 REF:  Xe pará-parab
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Esta pronto o goitaca ou o filho do guaiana
 REF:  Sekoaûîépe gûaîtaká koîpó gûaîanã ra'yra?
 ---
-PRED: <extra_id_0>
+PRED: resume: Nao mais amarei o diabo
 REF:  N'asaûsu benhẽî xûé Anhangane
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Mostra o error de minhas palavras
 REF:  Eîkuabe'eng xe nhe'engaipaba
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu cai de sono
 REF:  Xe ker-aparar
 ---
-PRED: <extra_id_0>.
+PRED: resume: Sentou-se em publico
 REF:  Te'yîpe nhẽ i gûapyki
 ---
-PRED: <extra_id_0>
+PRED: resume: type de corte de cabelo dos indios etim - cabelo de morcego
 REF:  andyrá-'aba
 ---
-PRED: <extra_id_0>.,ловна
+PRED: resume: manchas brancas do cabelo
 REF:  a-titinga
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: estorvo do anzol isto e corda com que se reata este
 REF:  pindá-aŷpypûasaba
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: A gente o faz ir em busca de padre tambem
 REF:  Abaré abépe asé oîpiamondó?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Ah se eu tivesse ido para o ceu
 REF:  Asó me'ĩmo ybakype mã!
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Uniu-se a nos
 REF:  Îandé ri oîese'a
 ---
-PRED: <extra_id_0>
+PRED: 回想:那是太大了,所以就跟她在一起了
 REF:  Turusukatu Nd'e'i te'e sero'a-ro'a
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Ela tem pecados variadissimos
 REF:  I angaîpá-pará-pará
 ---
-PRED: <extra_id_0>.
+PRED: Resumen: O que Cristo deixa como chefes dos cristaos batizados
 REF:  Cristãos i mongaraibypyra tekokuaparamo Cristo remieîara
 ---
-PRED: <extra_id_0>
+PRED: resume: muitissimo rechonchudo
 REF:  asangusugûasu
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Acaso o que sera deixado e tudo
 REF:  Seîarypyrama ruã-tepe mba'e tetiruã kûáî?
 ---
-PRED: <extra_id_0>.
+PRED: resume: fonte agua perene
 REF:  y-pabe'ymba'e
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Entraste com ele em teu aposento
 REF:  Ereroîképe nde kotype?
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Os que confessou com os que escondeu voltara a confessar
 REF:  O emimombe'upûera o emikuakugûera irũmo bé i mombe'uîebyrine
 ---
-PRED: <extra_id_0>
+PRED: जीवनीः इसीलिए ही तुरा बड़ा सुजिरा स्ट्रैगा इन्डीओस की आत्माओं के रूप में है।
 REF:  Nd'e'i te'e nde ru'umusu abá 'anga momoxŷabo
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Mataram na verdade a outra pessoa que nao aquele assassino
 REF:  Ahẽ morapitîarûera taté nhẽ anhẽ ybŷá oîuká
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Fi-lo apresador de mim isto e deixei-me vencer por ele
 REF:  Aîmoembiaryîar ahẽ xe îoesé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Morro de morte natural
 REF:  Te'õ suí amanõ
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Deus-Pai
 REF:  Tupã Tuba
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Fiz-lhe uma gaiola
 REF:  Asuru-monhang
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Cai doente
 REF:  Xe mba'easy-'ar
 ---
-PRED: <extra_id_0>.
+PRED: रिव्यूः ओह क्वे पेना क्वे मेरा पिता मर गया
 REF:  Omanõ tekatunheté xe ruba mã!
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Logo ao ouvir o nome dela eu me escondo em outra parte
 REF:  Serenduba rupibé amongoty xe nhemimi
 ---
-PRED: <extra_id_0>
+PRED: резюме: Cocei-o
 REF:  Ase'yĩ
 ---
-PRED: <extra_id_0>
+PRED: резюме: Sorvi o caldo
 REF:  Aîty-kukur
 ---
-PRED: <extra_id_0>.,ловна
+PRED: បន្ត & # 160; ៖ Que ជា សញ្ញា សម្គាល់ veja
 REF:  T'asepîak taûîé!
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Para as armadilhas eles levam gente
 REF:  Mundépe i porerasóû
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: زموږ په اړه
 REF:  Kotype muru amoingé
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: -Que e ungido de nos -Nossas ancas
 REF:  -Mba'e-mba'epe asé suí i pitubypyra? -Asé rumby
 ---
-PRED: <extra_id_0>! <extra_id_10>!
+PRED: резюме: Eu somente nesta aldeia morava
 REF:  Xe anhõ kó taba pupé aîkó
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Todos havemos de convidar
 REF:  Pabẽ t'îaîxo'o
 ---
-PRED: <extra_id_0>
+PRED: резюме: Nao me acostumei
 REF:  N'aîepokuabi
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Sera que e um morcego
 REF:  Andyrá ruãpe é?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Nao faz efeito as vezes nosso remedio
 REF:  Sarûab amõme asé posangygûaba
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: د هغه کسانو مړینې چې په حقیقت کې یې ژوند کوي
 REF:  Te'õ a'e mendasareté momboîsabamo
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Coze algum cauim
 REF:  Emoîyb kaûĩ amõ
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Levando os peixes todos
 REF:  Pirá mondóbo pá
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: تاسو د دې ورځې په اړه یادونه لرئ چې تاسو ټول پای ته رسیدلی شئ
 REF:  Ta pe ma'enduar ikó 'ara ixé i moaûîé pá roîré xe putu'uagûera resé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Os antigos inimigos de Sao Lourenco
 REF:  São Lourenço rupîarûera
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Foi pregado na cruz foi morto foi sepultado
 REF:  Ybyraîoasaba resé i moîarypyrûeramo sekóû, i îukapyrûeramo, i tymbyrûeramo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Para o monte chamado Calvario
 REF:  Ybytyra Monte Calvário 'îápe
 ---
-PRED: <extra_id_0>.
+PRED: resume: o que esta neste mundo
 REF:  ikó 'ara pora
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Vem para te compadeceres de nos
 REF:  Eîori, oré raûsubá
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Nao pode o que nao e padre fazer as things assim
 REF:  Nd'e'ikatuîpe abaréramo oîkoe'ymba'e emonã tekó monhanga?
 ---
-PRED: <extra_id_0> 
+PRED: रिव्यूः ओ क्वे ईकारा ना डैंका डो चोकालो
 REF:  Maraká poraseîa rerobîasara
 ---
-PRED: <extra_id_0>.
+PRED:  resume: gua e o que nao tem essa ilha
 REF:  Y angaba'eamẽ ebokûé 'ypa'ũ
 ---
-PRED: <extra_id_0>!
+PRED: резюме: Eu tenho bens
 REF:  Xe mba'e
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Nao me enternecendo eu pelo que morreu para me resgatar
 REF:  Xe repyramo omanõba'epûera ri xe akyre'ymamo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Por acaso e o Lourenco tostado
 REF:  Rorẽ-ka'ẽ-piã?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: څنګه کولای شو چی یو اوسیدونکي په نړۍ کې ژوند وکړي
 REF:  Marãeté'ĩ ra'umope amõ Anhanga ratá pora rekóû ikó 'ara pupé?
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Mandando-o ir sem Probleme nao ages como o que estima teu imperador Cesar
 REF:  I mondóbo nhẽ nd'ereîkóî César nde rubixaba raûsuparamo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu mesmo pus gente no desejo sensual
 REF:  Xe aé aporomoingó moropotara resé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Tu me atormentas
 REF:  Xe usũî îepé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu sou um espiao um velho poltrao
 REF:  Xe manhana, manembûera
 ---
-PRED: <extra_id_0>.,ловна <extra_id_12>
+PRED: resume: canoa de junco
 REF:  piripiri-ygara
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: o sem-orelhas coisa mocha
 REF:  nambie'yma
 ---
-PRED: <extra_id_0>
+PRED: резюме: Antigamente frequentavas nuestra terra amando-a
 REF:  Akûeîme eresapekó oré retama, saûsupa
 ---
-PRED: <extra_id_0>.,ловна
+PRED: Resumen: Aqueles outros dos deverao ser tomados segundo a vontade das personas
 REF:  Abá remimotara rupi tarypyrama é amoaé mokõî
 ---
-PRED: <extra_id_0>.
+PRED: resume: Hei de revirar seu ventre opilado
 REF:  T'aîpobu sygé-aponga!
 ---
-PRED: <extra_id_0>.
+PRED: resume: tranca da porta
 REF:  okena kokaba
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Invocam noch o paje Caruara
 REF:  Osykyî mbyté paîé Karûara
 ---
-PRED: <extra_id_0>
+PRED: резюме: Sao numerosos os que te procuram
 REF:  Se'yî nde rekasara
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Lanco a agua a canoa
 REF:  Aro'ar ygara
 ---
-PRED: <extra_id_0>.
+PRED: резюме: na cintura
 REF:  ku'aî
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu sou furioso
 REF:  Xe marãmotar
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: د خپل وینې په کوچنیو برخو کې د وینې وینې وینې
 REF:  A'epe sugûy moîa'o-mirĩ-mirĩneme i îabi'õpe i kûáî?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Atei-lhe penas
 REF:  Aîpepó-pûar
 ---
-PRED: <extra_id_0>.
+PRED: резюме: oleo de peixe
 REF:  pirá-nhandy
 ---
-PRED: <extra_id_0>
+PRED: 履歴書:Apresentei-o
 REF:  Arokûab
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Fica Somente کله چې د ماشوم د خوندیتوب په اړه پوښتنه وکړئ
 REF:  Epytá! Kagûápe nhõ nde ratãngatu-potá?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Segura-o por enquanto
 REF:  Eîpysyk ranhẽ
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Por isso mesmo nao hatte maldade antes de se destinar para mae de Deus- Filho
 REF:  Nd'e'i te'e o poxye'ymamo Tupã-Ta'yra syramo o îe'o îanondé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Ai Nao ha absolutamente servos meus
 REF:  Akaîgûá! N'i tyb-angáî xe boîá
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: که تاسو د سولی په څیر یاست لکه څنګه چې خلک یې ډیر دي یاست نو بیا هم د خلکو په څیر اور نلري چې تاسو یې غواړئ
 REF:  Kûarasy abiã oporomo'y'useî-eté, memetaé tatápe oína abá o'useî-etéramo
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: مګر دا هغه څه دي چې زما ملګری یې نه دی
 REF:  Xe 'anga-t'iã n'i marani
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Fiz-Bedingungen löschen
 REF:  Asesemõ
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Dorme ao lado de mim
 REF:  Eké xe porupi
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Detestando seu pecado a transgressao da palavra de Deus
 REF:  O angaîpaba, Tupã nhe'enga abŷagûera reroŷrõmo
 ---
-PRED: <extra_id_0>.
+PRED: resume: maco de flechas
 REF:  u'u-mana
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Faco Pedro ter roupa
 REF:  Aîmoaob Pedro
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Ela esta crua
 REF:  I pyr
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Disseste -Oxala eu o mate fazendo alguem ouvir
 REF:  "Aîuká temomã" erépe abá remiendubamo?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Enfim esses temiminos nao tomam a lei de Deus nao a amam nao a acatam
 REF:  Aûîé, kó temiminõ nd' ogûari Tupã rekó, nd'osaûsubi, n'omotybi
 ---
-PRED: <extra_id_0>
+PRED: резюме: Estou prestes a ir
 REF:  Oebyraîarinhote aîkó
 ---
-PRED: <extra_id_0>.
+PRED: resume: Tenho-o por costume
 REF:  Aîpokugûab
 ---
-PRED: <extra_id_0> sensual
+PRED: powrót: O oposto do desejo sensual e a pureza
 REF:  Moropotara robaîara moropotare'yma
 ---
-PRED: <extra_id_0>.
+PRED: resume: o que e felpudo
 REF:  sabiîuakytãba'e
 ---
-PRED: <extra_id_0>
+PRED: 简历:我的冰霜
 REF:  Kó xe 'akusu
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Em seu rosto ficando a cuspir
 REF:  Sobá resé onhenomũ-nomuna
 ---
-PRED: <extra_id_0>
+PRED: резюме: Assim deve ser
 REF:  Emonã ruãpe é
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: یو څه bitter misturaram com vinagre
 REF:  Mba'e-py'aûpîara kaûĩaîasy resé i monani
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Em reparacao disso mudaste-te de aldeia
 REF:  Sepŷápe, ereîakasó
 ---
-PRED: <extra_id_0>.
+PRED: रिव्यूः Disseste falsamente que ele disse isso sendo maledicente
 REF:  "-E'i kó" eré tenhẽpe nde îuruaíbamo?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: د پیښو له امله د پیښو له امله
 REF:  Aîpó resé nhẽ, ko'y asaûsu
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Lava-o fazendo brilhar meu coracao
 REF:  Eîmoîasyk, xe py'a moberapa
 ---
-PRED: <extra_id_0>
+PRED: 履歴書: カラ・ムール・マウ・ユーモア
 REF:  tobasy
 ---
-PRED: <extra_id_0>
+PRED: resume: quinhao de Deus dizimo
 REF:  Tupã potaba
 ---
-PRED: <extra_id_0>?
+PRED: Rückblick: Cumpriste as palavras do governante da aldeia
 REF:  Ereîporakápe taba rerekoara nhe'enga?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: E nao confessando ser parente verdadeira de seu marido que acontece
 REF:  A'epe o mena mũetéramo sekó mombe'ue'yma, marã?
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: د خپل نظر په توګه منل کیږي
 REF:  Aûîé a'e!
 ---
-PRED: <extra_id_0>.,ловна
+PRED: резюме: Envelheco
 REF:  Akakugûabakatã
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Eram compridas algumas cordas
 REF:  Iîysapuku sama amõ
 ---
-PRED: <extra_id_0>
+PRED: resume: Que oucam aquilo que tu dizes
 REF:  T'osendu aîpó nde 'é
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Tomaste-o بعد de comer ou بعد de engolir alguma coisa
 REF:  Ereîápe nde mba'e 'u roîré koîpó mba'e amõ mokon'iré?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: A water benta e o que faz abrandar tambem o que os doentes sofrem
 REF:  Mba'easybora remimborará moarybé-ukasara bé 'ykaraíba
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: هغه څه چې موږ یې پوهیږو
 REF:  Marãpe asé rerokara asé rerekóû?
 ---
-PRED: <extra_id_0>.
+PRED: resume: assim porventura que antwortet als palavras do chefe
 REF:  Emonã-pipó morubixaba erenhe'engobaîxûar?
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Conhecendo a Deus agora amo meu senhor Jesus
 REF:  Tupana kuapa, ko'y asaûsu xe îara Îesu
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Vim para ficar de vez isto e para morar
 REF:  Gûitu aîur
 ---
-PRED: <extra_id_0>.
+PRED: resume: Junto do diabo lancando-os com o qual queimara para sempre
 REF:  Anhanga pyri seîtyka aûîeramanhẽ i kaîagûama
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Mas quem ha semelhante a mim desafiando ate mesmo a Deus
 REF:  Abá-tepe oîkó xe oîá, Tupã tiruã momburûabo?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Diante de uma madeira a gente se inclina
 REF:  Ybyrá supé nhẽpe asé îerokyû?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Cavei a terra
 REF:  Ayby-ybykoî
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Arrebentando as things de alguem
 REF:  Abá mba'e mombuka
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: له همدې امله اوس د دوی د خوښۍ ورځ دی
 REF:  Nd'e'i te'e ko'yr, onhemo'aretébo, og orybamo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Porventura fazes isso a toa
 REF:  Aîpó nhẽ-pipó ereîkó?
 ---
-PRED: <extra_id_0>.,ловна <extra_id_12>
+PRED: резюме: Detestando sua maldade
 REF:  I angaîpaba momburûabo
 ---
-PRED: <extra_id_0>
+PRED: резюме: Assim havemos de nos acariciar
 REF:  Nã takó îomomoranga re'a!
 ---
-PRED: <extra_id_0>
+PRED: :د لټولو د پاره
 REF:  Nd'e'i te'e i mongetasara Tupã nhe'enga abŷabo
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Estou saltando de alegria
 REF:  Toryba suí apó-por gûitekóbo
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Ali ias por ocasiao dos feriados
 REF:  A'epe 'aretéreme eresó
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Curou-o یوازې د خپلې orelha ټکان کولو سره سم په سمه توګه ترسره کول - یو سایر grudando-a
 REF:  Oîposanong, i nambi atõîa nhote, aûnhenhẽ i monga'ẽmo, i moîepotá
 ---
-PRED: <extra_id_0>
+PRED: резюме: Trabalho com mariscos
 REF:  Paranãmbora ri aîkó
 ---
-PRED: <extra_id_0>
+PRED: резюме: ovo de arinhama
 REF:  arinhama rupi'a
 ---
-PRED: <extra_id_0>
+PRED: resume: Eu tive vertigem ou eu estou enjoado
 REF:  Xe resagûyryb
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu lhe pelo a cabeca
 REF:  Aî'abo'o
 ---
-PRED: <extra_id_0>
+PRED: резюме: tirante a red
 REF:  pyrangaíb
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Rompeu-se teu coracao por amor a ele
 REF:  Obok nde nhy'ã saûsuba resé
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Cres que o paje ruim e o que tem o dom dos prodigios
 REF:  Ererobîápe paîé-aíba mosangyîaramo sekó?
 ---
-PRED: <extra_id_0>
+PRED: resume: nao e mesmo isto e veras que te digo a truth
 REF:  mba'e-tepe?
 ---
-PRED: <extra_id_0>.,ловна
+PRED: بیاکتنه: Fingindo د خلکو په توګه ژوند کوي
 REF:  Oporomoingobé-mo'anga
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Faze sumir meu tentador
 REF:  Emokanhem xe ra'angara
 ---
-PRED: <extra_id_0>
+PRED: резюме: Ainda ainda me odeia fulano
 REF:  A'é byter aîpó gûi'îabo - Ainda digo isso E'i byté-byterĩ ahẽ xe amotare'yma
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu sou malhado na cabeca
 REF:  Xe 'apititing
 ---
-PRED: <extra_id_0>
+PRED: रिव्यूः ओ क्वे se iguala as mulheres
 REF:  Kunhã resé oîemoîoîaba'e
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: tamandua topetudo
 REF:  tamandûá-atyrabebó
 ---
-PRED: <extra_id_0>
+PRED: د بیاکتنې: Eu sou o alegre Ibitirape do topo da mountain
 REF:  Xe rory Ybytyrapé, ybytyrapûá suí
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: د دویم فضیلت dele e a satisfacao dos conjuges
 REF:  I momokõîndûara mendara moîekosupaba
 ---
-PRED: <extra_id_0>
+PRED: резюме: Baixou a cabeca ficando a gritar
 REF:  Oîeaŷbyk ogûasem-asemamo
 ---
-PRED: <extra_id_0>
+PRED: резюме: Todo seu sangue deu morrendo
 REF:  Opá og ugûy me'engi, omanomõ
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Que Deus dara para a gente no ceu
 REF:  Mba'epe Tupã oîme'eng asébe ybakypene?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: O vicio atiramos fora
 REF:  Tekoaíba oromombó
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Deus e um so de fato sendo santissimo sendo poderoso
 REF:  Tupã oîepé nhõ nhẽ gûekó-karaibetéramo, abaetéramo
 ---
-PRED: <extra_id_0>.
+PRED: resume: terrivel para mim ve-los
 REF:  I abaeté sepîaka ixébo
 ---
-PRED: <extra_id_0>.
+PRED: بیرته ستنیدو: دا زما ټاپ نه دی زما د میوز ماس سم او د وسیلې په اړه چې تاسو یې ریکارډ کړئ
 REF:  Kó xe itangapema xe pópe nd'oîkóî tenhẽ, pe mombokaûama é
 ---
-PRED: <extra_id_0>
+PRED: resume: de dois em dois dois a dois
 REF:  mokõ-mokõî
 ---
-PRED: <extra_id_0>.
+PRED: resume: socador de pilao
 REF:  ungûá-obaîara
 ---
-PRED: <extra_id_0>! <extra_id_10>!
+PRED: резюме: Nao Estou bebado
 REF:  Aanumẽne! Asabeypó
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Eu sou ladrao
 REF:  Xe mondá
 ---
-PRED: <extra_id_0>.
+PRED: د پښتو ته راواپس کېدل
 REF:  Nd'e'i te'e a'ereme Îudeus sykyîatãmo, i pira abé reru
 ---
-PRED: <extra_id_0>
+PRED: Résumé : Tornou-te mais formosa que ela
 REF:  Nde moaysó-eté i xuí
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Distribuo-os
 REF:  Aîma'e'ĩ
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Eis tua ameaca aqui
 REF:  Kó nde momboîtaba kó!
 ---
-PRED: <extra_id_0>
+PRED: resume: O que e daqui e este
 REF:  Ikendûara n'ikó
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Isto pela primeira vez
 REF:  Ang é
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Esta aldeia nao disseste maldades a ela noch
 REF:  Ikó tabape, marã nd'eréîpe i xupé ranhẽ?
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Que afastemos o diabo agora e para sempre
 REF:  Anhanga t'îaîpe'a ko'yr aûîeramanhẽ
 ---
-PRED: <extra_id_0>.,ловна 
+PRED: резюме: очень долго
 REF:  apûé-katu
 ---
-PRED: <extra_id_0>.,ловна 
+PRED: резюме: homem falso
 REF:  abá-memûã
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Nao me da vontade de comer
 REF:  Na xe îuruéî
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Irritastes o senhor Jesus
 REF:  Pemoŷrõ Pa'i Îesu
 ---
-PRED: <extra_id_0>
+PRED: resume: fisher com puca-guacu
 REF:  pysagûasu-eîtykara
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Über ela morrendo Our Senhor para nos resgatar
 REF:  I 'arybo omanõmo Îandé Îara îandé repyme'engagûera resé
 ---
-PRED: <extra_id_0>
+PRED: резюме: Embarquei
 REF:  A'ar
 ---
-PRED: <extra_id_0>?
+PRED: بیاکتنه: د مور مور مور مور او پلار
 REF:  Andyrá ruãpe é, panama koîpó gûaîkuíka?
 ---
-PRED: <extra_id_0>
+PRED: بیرته غوښتنه وکړئ
 REF:  I ku'agûasu
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Estamos em intercalacao
 REF:  Oîoparabamo orokûab
 ---
-PRED: <extra_id_0>
+PRED: резюме: Peco a Deus por mí virtude
 REF:  Aîeruré Tupã supé xe angaturãgûama resé
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Bem aos olhos de Deus essas vossas acoes sao contadas
 REF:  Tupã resápe-katu kó pe rekó rekóû i paparypyramo
 ---
-PRED: <extra_id_0>.
+PRED: resume: Chefe dos que ficaram no ceu
 REF:  Ybakype opytaba'epûera rubixaba
 ---
-PRED: <extra_id_0>
+PRED: резюме: Minh'alma faz firme
 REF:  Xe 'anga moteni
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Ah quem me dera comer veneno para que eu morresse disso
 REF:  - A'u temõ mba'eaíba mã a'emo nhẽ xe re'õû ãûa suí
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Ah muito bem ficai tranquilos
 REF:  Erĩ, aûîé, peputu'u!
 ---
-PRED: <extra_id_0>.
+PRED: резюме: A ti nos apegamos
 REF:  Oroby'a nde resé
 ---
-PRED: <extra_id_0>.
+PRED: रिव्यू: Que recrudesca mí antiga maldade
 REF:  T'oîepun xe marandûera!
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: A gente pede a Deus uniquement pelas coisas que deve comer
 REF:  Mba'e i 'upyra resé nhõpe asé îeruréû Tupã supé?
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Mandando faze-los embarcar numa arca de madeira semelhante a um navio
 REF:  Ybyrá karamemûã, ygarusu nungara pupé, i mo'aruká
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Nao querendo que se apague a luz de nossa alma
 REF:  Asé 'anga resapesaba gûeba potare'yma
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Tornou-te muito bondosa o senhor Deus
 REF:  Nde moangaturameté pa'i Tupã
 ---
-PRED: <extra_id_0>.,ловна <extra_id_12>
+PRED: resume: dificil essa lingua
 REF:  I abaíb aîpó nhe'enga
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Fica pisando o maldito
 REF:  -Muru ri opurũ-purung
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Trazendo o resplendor de Deus
 REF:  Tupã beraba reru
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Ali e o lugar aonde eu vou
 REF:  A'epe xe soagûama
 ---
-PRED: <extra_id_0>.
+PRED: :د لټولو د پاره
 REF:  Sasyeté niã Tupã remipe'apûera, ogûekó-mara'ara reroína
 ---
-PRED: <extra_id_0>.
+PRED: powrót: Santa Maria o pecado nao chegou
 REF:  Santa Maria resé tekopoxy nd'obasemi
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: ټول هغه ځایونه چې په ایلاس کې دي
 REF:  opá 'ypa'ũmendûara
 ---
-PRED: <extra_id_0>
+PRED: резюме: Eu desmaiei
 REF:  Xe re'õ'ar
 ---
-PRED: <extra_id_0>
+PRED: резюме: Basta Tu me matas
 REF:  Aûîé! Xe îuká îepé!
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: زه د بنسټ سره یوځای یم
 REF:  Xe ypy ten
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Aperta a cabeca do maldito enfraquecendo-o muito
 REF:  Oîopyk muru akanga, i moatãe'ỹngatûabo
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Nao foste tu certamente que te atraiste pelas mulheres
 REF:  Na nde ruã-te p'akó kunhã ri ereîemomotá?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Entao ja estava Sao Joao Batista no ventre de sua mae
 REF:  A'ereme oín uman São João Batista o sy rygépe
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Ela e leitosa
 REF:  I 'aysyk
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: O fogo te convem verdadeiraly para que nele te asses
 REF:  Tatá nde arõ-eté, i pupé t'ereîesy
 ---
-PRED: <extra_id_0>.
+PRED: resume: o que tem sede de justica
 REF:  tekokatu 'useîtara
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: پیسو جیپاپو نیل
 REF:  passo jenipapo Aîîanypá-mongy
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Nomes de quem sao esses
 REF:  Abá-abá rerape eboinga?
 ---
-PRED: <extra_id_0>.
+PRED: Resumen: Tomou a casa dos animais de criacao como sua pousada
 REF:  So'o mimbaba roka ogûar og upabamo
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Ao se aproximar o doente da agonia que mandem chamar o padre
 REF:  Mba'easybora o mara'ara kakareme, t'osenõîukar abaré
 ---
-PRED: <extra_id_0>
+PRED: резюме: Vim voltando
 REF:  Aîur gûiîeby
 ---
-PRED: <extra_id_0>.
+PRED: resume: eis que amanheceu
 REF:  ko'ẽ kó
 ---
-PRED: <extra_id_0>
+PRED: resume: Fui a bom tempo fui a proposito
 REF:  Aûîebéramo asó
 ---
-PRED: <extra_id_0>
+PRED: 経歴:富栄大
 REF:  Aîmokûar
 ---
-PRED: <extra_id_0>.
+PRED: резюме: linea grossa de pescar
 REF:  pindasã-pokuruba
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Estrebuchei
 REF:  Ababak
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Pensai que algum dia a morte vira mesmo para bater em vossas portas surprisingndo-vos
 REF:  Penheangerekó amõ 'ara pupé te'õ pe rokena motaka turagûama resé é pe pokosupa
 ---
-PRED: <extra_id_0>
+PRED: Rückblick: Aproximando-me da morte meine großen Sünden antigos farei sair
 REF:  Te'õ rerobyka é, xe angaîpá-tubixagûera amosẽne
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Assim tratada certamente uma pessoa chega bem
 REF:  Emonã serekopyra rakó abá obasẽ-porang
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Logo vencendo os temiminos habitantes daqui frequenta-los-ei
 REF:  Koromõ, keygûara temiminõ moaûîébo, asapekóne
 ---
-PRED: <extra_id_0>?
+PRED: resume: Fizeste que una mulher se pusesse sobre ti para fazer sexo com ela
 REF:  Ereîmonhenongype kunhã nde 'arybo sesé eîkóbo?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: موږ سره اړیکه ونیسئ
 REF:  I xupé ogûeru îetanongabamo itaîuba, ysykatã syapûãba'e, mirra
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Por que alguem se casa
 REF:  Mba'erama resépe abá mendari?
 ---
-PRED: <extra_id_0>
+PRED: резюме: Esgotei a agua dele
 REF:  Aîtyapyî
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: Ajudas teu pai e tua mae
 REF:  Ereîpopytybõpe nde ruba nde sy abé?
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Nao e que o maldito veio voando
 REF:  Ké muru ruri obébo?
 ---
-PRED: <extra_id_0>
+PRED: resume: Todas as pessoas vao fazendo jak ladainhas
 REF:  Opakatu abá sóû ladainhas monhanga
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: د ګرځنده ټيليفونو شركتونه
 REF:  Erepokokype nde rapopé resé, i pekábo?
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Para ele mesmo
 REF:  I xupé é
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: No meio do caminho meninos assaltaram-me mesquinhamente
 REF:  Pé ku'ape, kunumĩ pu'ama'ubi xe ri
 ---
-PRED: <extra_id_0>.
+PRED: بیاکتنه: Ainda hoje fazendo-os cair
 REF:  A'ebé kori i mbo'ane
 ---
-PRED: <extra_id_0>.
+PRED: Rückblick: Eu tenho o interior das palpebras tremulo
 REF:  Xe ropé-py-sysyî
 ---
-PRED: <extra_id_0>
+PRED: :دَ عيسىٰ مسيح په مينځ کښے دَ هغۀ دَ خُدائ پاک کلام اَؤ دَ هغۀ دَ بدن په مينځ کښے
 REF:  I pupé Îesu Cristo rekóû, i Tupã, seté abé gûetependûara pupé
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Nao deixes de o querer
 REF:  Eîpotare'ymumẽ
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Esfreguei-o com cera
 REF:  Aîkytyk iraîty pupé
 ---
-PRED: <extra_id_0>!
+PRED: Rückblick: Ah eu estou muito quente aqui
 REF:  Xe rakubeté kó mã!
 ---
-PRED: <extra_id_0>.
+PRED: резюме: Diante deles passei
 REF:  Sobabo akûab
 ---
-PRED: <extra_id_0>
+PRED: بیاکتنه: د کور لپاره ستاسو د اړتیاوو سره سم
 REF:  O asykûera resé nd'e'ikatuî abá omendá
 ---

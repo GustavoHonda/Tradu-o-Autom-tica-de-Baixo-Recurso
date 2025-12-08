@@ -1,6 +1,9 @@
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+from src.utils import create_dir
 
-cache_dir = "D:/huggingface_cache"
+
+cache_dir = "./model_cache"
+create_dir(cache_dir)
 
 def load_model_and_tokenizer():
     model_name = "google/mt5-small"
