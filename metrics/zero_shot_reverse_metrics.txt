@@ -1,0 +1,5436 @@
+===== METRICS =====
+BLEU:  0.0
+chrF1: 3.057380302092936
+chrF3: 2.3779624571833957
+
+===== PREDICTIONS =====
+PRED: <extra_id_0>
+REF:  Fiz frustrar aquilo que fulano faria
+---
+PRED: <extra_id_0>
+REF:  Eu tenho pes calejados
+---
+PRED: <extra_id_0>
+REF:  Eu mesmo como se viu ja vos disse isso
+---
+PRED: <extra_id_0>
+REF:  Vinde abracai o nenem compadecedor
+---
+PRED: <extra_id_0>
+REF:  o mais cedo possivel em um momento
+---
+PRED: <extra_id_0>
+REF:  Acovardo-me
+---
+PRED: <extra_id_0>
+REF:  Como a gente procede para o cumprimento da vontade de Deus
+---
+PRED: <extra_id_0>
+REF:  Coisa beicuda
+---
+PRED: <extra_id_0>
+REF:  Ah oxala ele viesse
+---
+PRED: <extra_id_0>
+REF:  Trouxe muitas destas ostras
+---
+PRED: <extra_id_0>
+REF:  Que nao esteja o maldito perto de mim
+---
+PRED: <extra_id_0>
+REF:  Eu tenho cachaco grande
+---
+PRED: <extra_id_0>
+REF:  Fi-lo mal
+---
+PRED: <extra_id_0>
+REF:  Cresceram muito as aguas isto e subiu a mare
+---
+PRED: <extra_id_0>
+REF:  Por que a gente se persignara muitas e muitas vezes
+---
+PRED: <extra_id_0>
+REF:  E o que evoca a Deus pelo que nao e verdade que acontece
+---
+PRED: <extra_id_0>
+REF:  Entisnei o rosto dele
+---
+PRED: <extra_id_0>
+REF:  Que o deixem estar
+---
+PRED: <extra_id_0>
+REF:  Fazendo-o estar com firmeza
+---
+PRED: <extra_id_0>
+REF:  Olhando na ponta dos teus olhos
+---
+PRED: <extra_id_0>.
+REF:  Confessa-se alguem antes de ir a guerra antes de embarcar num navio
+---
+PRED: <extra_id_0>
+REF:  Vem para espantar o maldito para que nao invista contra nos
+---
+PRED: <extra_id_0>
+REF:  Qual Aquele Lourenco tostado
+---
+PRED: <extra_id_0>
+REF:  Hei de frequentar Ibioca revirarei tambem Itaoca e enfim Jupaoguao
+---
+PRED: <extra_id_0>
+REF:  po de madeira como o que faz o caruncho no pau
+---
+PRED: <extra_id_0>
+REF:  Nem por isso eu vou para longe
+---
+PRED: <extra_id_0>
+REF:  Vem coisa fedorenta coisa nojenta bora
+---
+PRED: <extra_id_0>.
+REF:  Eu estava mesmo esquecendo nao que o quisesse omitir
+---
+PRED: <extra_id_0>
+REF:  Nao o teriamos trazido a ti se ele nao tivesse pecado
+---
+PRED: <extra_id_0>
+REF:  Eu sou o que e rico
+---
+PRED: <extra_id_0>
+REF:  Algo semelhante a um navio
+---
+PRED: <extra_id_0>
+REF:  saca
+---
+PRED: <extra_id_0>
+REF:  Caminhei o dia todo por causa da tua fama
+---
+PRED: <extra_id_0>
+REF:  Com meu conjuge verdadeiro somente hei de ter relacoes sexuais
+---
+PRED: <extra_id_0>
+REF:  Apartaste alguma mulher de seu marido
+---
+PRED: <extra_id_0>
+REF:  Vem para nos arrebatar
+---
+PRED: <extra_id_0>
+REF:  Ainda que eu ja tivesse ido
+---
+PRED: <extra_id_0>
+REF:  Eu tenho propensao a esquecer eu sou esquecidico
+---
+PRED: <extra_id_0>
+REF:  Eia afasta-me depressa
+---
+PRED: <extra_id_0>
+REF:  muitos outeiros serrania
+---
+PRED: <extra_id_0>
+REF:  Com algumas coisas que sao saborosas
+---
+PRED: <extra_id_0>
+REF:  homem sovina
+---
+PRED: <extra_id_0>.
+REF:  Tu foste torpe com alguma irma de tua esposa ou com sua parente proxima
+---
+PRED: <extra_id_0>
+REF:  Eu nao tenho boca sossegada isto e eu sou comilao
+---
+PRED: <extra_id_0>
+REF:  Ele passou diante de Ilheus
+---
+PRED: <extra_id_0>
+REF:  Na verdade nao sao conhecedores das coisas
+---
+PRED: <extra_id_0>
+REF:  Amarraram-no com corda fazendo-o estar em pe
+---
+PRED: <extra_id_0>
+REF:  Levando nossa alma para o ceu
+---
+PRED: <extra_id_0>
+REF:  experimentando pocoes de ervas
+---
+PRED: <extra_id_0>
+REF:  Esfreguei a pele dele
+---
+PRED: <extra_id_0>
+REF:  Aquieta-te Verdadeiramente este e teu caminho
+---
+PRED: <extra_id_0>
+REF:  Guarda-te de o levares
+---
+PRED: <extra_id_0>
+REF:  Anunciando nossa futura felicidade
+---
+PRED: <extra_id_0>
+REF:  Estou-me agachando parado
+---
+PRED: <extra_id_0>
+REF:  Que queimem em teu fogo para que os pecados dos malditos tenham retribuicao
+---
+PRED: <extra_id_0>
+REF:  o que eu ensinei
+---
+PRED: <extra_id_0>
+REF:  estes que estao em Ibiapaba
+---
+PRED: <extra_id_0>
+REF:  Serao muitos os fatos que assustarao as pessoas
+---
+PRED: <extra_id_0>
+REF:  alem do rio
+---
+PRED: <extra_id_0>
+REF:  Eu sou uma jiboia eu sou um soco eu sou o grande tamoio Aimbire
+---
+PRED: <extra_id_0>
+REF:  Ele e o anjo que encomenda o enforcamento
+---
+PRED: <extra_id_0>
+REF:  Ca vem um barco Nao faz senao ir
+---
+PRED: <extra_id_0>
+REF:  Contando as maldades escondidas de alguem para quem nao as conhece
+---
+PRED: <extra_id_0>
+REF:  o que e ou deve ser convidado
+---
+PRED: <extra_id_0>
+REF:  Eu hei de bem apanhar-te fazendo-te cair no meu mundeu
+---
+PRED: <extra_id_0>
+REF:  Encarreguei Pedro da lenha
+---
+PRED: <extra_id_0>
+REF:  Dormes Guaixara
+---
+PRED: <extra_id_0>
+REF:  Quantas vezes te confessaste ou comungaste
+---
+PRED: <extra_id_0>
+REF:  o avesso dele
+---
+PRED: <extra_id_0>
+REF:  Se o que Deus fez neste mundo e muito belo quanto mais la o ceu primeiro
+---
+PRED: <extra_id_0>
+REF:  Farei todos pecarem de novo
+---
+PRED: <extra_id_0>
+REF:  o doente que esta ao teu lado
+---
+PRED: <extra_id_0>
+REF:  Invocando a Deus ou sua propria alma ou a cruz ou algo verdadeiro
+---
+PRED: <extra_id_0>
+REF:  Sabem bem de sua futura saida dali
+---
+PRED: <extra_id_0>
+REF:  O cao e avido isto e bom de caca que quer tudo apanhar
+---
+PRED: <extra_id_0>
+REF:  Fizemo-nos passar uns aos outros passamos uns com os outros
+---
+PRED: <extra_id_0>
+REF:  Que ele faca Deus lembrar-se de nos
+---
+PRED: <extra_id_0>
+REF:  Amando tua grande beleza
+---
+PRED: <extra_id_0>
+REF:  Cantemos um pouquinho primeiro
+---
+PRED: <extra_id_0>
+REF:  Falo irritadamente
+---
+PRED: <extra_id_0>
+REF:  tempo de rogar a Deus pelas almas
+---
+PRED: <extra_id_0>
+REF:  Ficaste detendo contigo alguma pessoa
+---
+PRED: <extra_id_0>
+REF:  Afasta-te
+---
+PRED: <extra_id_0>
+REF:  Deleita-me muito
+---
+PRED: <extra_id_0>.
+REF:  Estando virgem mesmo dando-o a luz antes de da-lo a luz e igualmente apos da-lo a luz
+---
+PRED: <extra_id_0>
+REF:  Pintei-o
+---
+PRED: <extra_id_0>
+REF:  no fim do mundo lit no tempo de acabar o mundo
+---
+PRED: <extra_id_0>
+REF:  Tu em teus bracos Jesus ergueste
+---
+PRED: <extra_id_0>
+REF:  Desde ontem nao como nada
+---
+PRED: <extra_id_0>
+REF:  Que venhas para levar-me para o alto
+---
+PRED: <extra_id_0>.
+REF:  Estou a parte
+---
+PRED: <extra_id_0>
+REF:  Todos os bens de meus avos joguei fora
+---
+PRED: <extra_id_0>
+REF:  Se nao fosse ele ter ido
+---
+PRED: <extra_id_0>
+REF:  Hoje mesmo hei de fazer-te ir
+---
+PRED: <extra_id_0>
+REF:  Estai aqui esperando-me junto de mim nao dormindo
+---
+PRED: <extra_id_0>
+REF:  Como crianca esta nos bracos de Maria
+---
+PRED: <extra_id_0>
+REF:  Eu mesmo como se viu ja vos disse isso
+---
+PRED: <extra_id_0>
+REF:  Tu deste a luz por tua vontade
+---
+PRED: <extra_id_0>
+REF:  Amando tua grande beleza
+---
+PRED: <extra_id_0>.
+REF:  Dai vira para julgar todos os que vivem e os que morreram
+---
+PRED: <extra_id_0>
+REF:  Por nos amar mais do que nossa mae ama seus proprios filhinhos
+---
+PRED: <extra_id_0>
+REF:  Mais que a todos os seres humanos embelezou-a
+---
+PRED: <extra_id_0>
+REF:  Nao mato
+---
+PRED: <extra_id_0>
+REF:  Dar de comer aos famintos
+---
+PRED: <extra_id_0>
+REF:  Por ai as mulheres casadas ficavas pervertendo
+---
+PRED: <extra_id_0>
+REF:  ajudante de Sao Lourenco
+---
+PRED: <extra_id_0>
+REF:  Trouxeste teu fumo
+---
+PRED: <extra_id_0>
+REF:  ajuntamento de cipos
+---
+PRED: <extra_id_0>
+REF:  Matai-o
+---
+PRED: <extra_id_0>
+REF:  Destruiu outrora os tamoios os valentes
+---
+PRED: <extra_id_0>
+REF:  Por que minha mae me deu a luz outrora
+---
+PRED: <extra_id_0>
+REF:  esteio alicerce de casa
+---
+PRED: <extra_id_0>
+REF:  Deverias ter sabido antes do teu agir assim
+---
+PRED: <extra_id_0>
+REF:  Quero ir para tua terra
+---
+PRED: <extra_id_0>
+REF:  Como disseram os judeus seus perseguidores para ele
+---
+PRED: <extra_id_0>
+REF:  Esses teus olhos volta em nossa direcao
+---
+PRED: <extra_id_0>
+REF:  Tendo alegria apos sua morte
+---
+PRED: <extra_id_0>
+REF:  tempo lugar modo etc de se lavar de se batizar
+---
+PRED: <extra_id_0>
+REF:  Tanto mais porque eles sao adversarios de agressores
+---
+PRED: <extra_id_0>
+REF:  Que nao va longe a esposa
+---
+PRED: <extra_id_0>
+REF:  a segunda vez dele
+---
+PRED: <extra_id_0>
+REF:  Sao mas essas folgadas
+---
+PRED: <extra_id_0>
+REF:  Deixai de me prantear
+---
+PRED: <extra_id_0>
+REF:  gloria va
+---
+PRED: <extra_id_0>
+REF:  Reconhecendo que tu es o seu proprio criador
+---
+PRED: <extra_id_0>
+REF:  Lancaste algum menino que estava aconchegado a ti sobre ti por desejo sensual
+---
+PRED: <extra_id_0>
+REF:  Obedecei ao padre vosso mestre
+---
+PRED: <extra_id_0>
+REF:  Desvirginaste alguma menina
+---
+PRED: <extra_id_0>
+REF:  Na verdade tres vezes negaras ser meu discipulo antes de o galo cantar duas vezes
+---
+PRED: <extra_id_0>
+REF:  Feriste alguem tambem
+---
+PRED: <extra_id_0>
+REF:  Denunciar-me-iam ao meu imperador
+---
+PRED: <extra_id_0>
+REF:  Pedro e maior que tu
+---
+PRED: <extra_id_0>
+REF:  Ah como desejo aquela mulher casada
+---
+PRED: <extra_id_0>
+REF:  Eu fui peado
+---
+PRED: <extra_id_0>
+REF:  lit tromba comprida gorgulho inseto coleoptero
+---
+PRED: <extra_id_0>
+REF:  Quando fustigava o sol a terra eu vim
+---
+PRED: <extra_id_0>
+REF:  Tenho meu modo de ser diferente VLB I 103 Ore reko-reko-ae oroereko - Temos nossos modos de ser diferentes
+---
+PRED: <extra_id_0>.
+REF:  Escaparao futuramente os animais os passaros
+---
+PRED: <extra_id_0>
+REF:  Fazendo-nos ir para o ceu
+---
+PRED: <extra_id_0>
+REF:  Por ter ele esperanca nela e em Deus
+---
+PRED: <extra_id_0>.
+REF:  Eu sou rechonchudo
+---
+PRED: <extra_id_0>.
+REF:  Quem necessariamente a gente chama estando aflita
+---
+PRED: <extra_id_0>
+REF:  Queres que eu te unte com oleo bento
+---
+PRED: <extra_id_0>
+REF:  Eu sou sabio
+---
+PRED: <extra_id_0>
+REF:  escabelar desfazer o penteado de desgrenhar o cabelo de etc
+---
+PRED: <extra_id_0>
+REF:  Existe meu auxiliar verdadeiro o grande chefe Aimbire o pervertedor dos indios
+---
+PRED: <extra_id_0>
+REF:  serra braceira
+---
+PRED: <extra_id_0>
+REF:  Pode tambem a gente toma-lo algumas vezes em outros dias
+---
+PRED: <extra_id_0>
+REF:  O desejo de sumir para longe enche seus coracoes
+---
+PRED: <extra_id_0>
+REF:  Mas seria dificil para as pessoas comer minha carne
+---
+PRED: <extra_id_0>
+REF:  Esta cheio teu ventre
+---
+PRED: <extra_id_0>
+REF:  Esbofeteio as costas de suas maos
+---
+PRED: <extra_id_0>
+REF:  Prega-o prega-o na cruz de madeira
+---
+PRED: <extra_id_0>
+REF:  Nao omiti nada
+---
+PRED: <extra_id_0>
+REF:  Fazendo as pessoas terem odio umas das outras por causa de alguem
+---
+PRED: <extra_id_0>
+REF:  Mas que nos nao paremos de chama-la
+---
+PRED: <extra_id_0>
+REF:  Troquei-lhe uma criacao
+---
+PRED: <extra_id_0>
+REF:  Tupiniquins habitantes daqui espioes inimigos
+---
+PRED: <extra_id_0>
+REF:  Eis que meu corpo nao esta disposto amolecendo
+---
+PRED: <extra_id_0>
+REF:  Lanco puca
+---
+PRED: <extra_id_0>
+REF:  Contaste para alguem que tu ficaste passando a mao em mulheres
+---
+PRED: <extra_id_0>
+REF:  Ele esta muito maduro
+---
+PRED: <extra_id_0>
+REF:  Matemos juntos o que diz isso
+---
+PRED: <extra_id_0>
+REF:  Saiu para o patio chorando muito dolorosamente
+---
+PRED: <extra_id_0>
+REF:  arrancando sua orelha
+---
+PRED: <extra_id_0>
+REF:  no final da missa que entras sempre
+---
+PRED: <extra_id_0>
+REF:  Odeiam-te expulsar-te-ao
+---
+PRED: <extra_id_0>
+REF:  Eis que esses meus valentoes sabem assassinar
+---
+PRED: <extra_id_0>
+REF:  licor de aipim
+---
+PRED: <extra_id_0>
+REF:  mortandade de gente
+---
+PRED: <extra_id_0>
+REF:  Isso e muito dificil
+---
+PRED: <extra_id_0>
+REF:  Vou como catador de madeira
+---
+PRED: <extra_id_0>
+REF:  Nao querendo comer venho
+---
+PRED: <extra_id_0>
+REF:  Havemos de chegar ao ceu
+---
+PRED: <extra_id_0>
+REF:  Por isso mesmo as malditas correm insultando-se muito umas as outras
+---
+PRED: <extra_id_0>
+REF:  Tocaste nas tuas pudendas abrindo-lhes a pele
+---
+PRED: <extra_id_0>
+REF:  Amainei a vela
+---
+PRED: <extra_id_0>.
+REF:  o assar do pao
+---
+PRED: <extra_id_0>
+REF:  Vejo meu reflexo pex no espelho
+---
+PRED: <extra_id_0>
+REF:  conves da embarcacao
+---
+PRED: <extra_id_0>
+REF:  Podei-a
+---
+PRED: <extra_id_0>
+REF:  Irritam completamente as pessoas
+---
+PRED: <extra_id_0>
+REF:  Sao muitos os nao conhecidos que Deus somente o criador deles conhece
+---
+PRED: <extra_id_0>
+REF:  Em que parte do corpo ele o flechou
+---
+PRED: <extra_id_0>
+REF:  Doi-me a cabeca e nao o corpo na qual ela esta que nao participa do processo descrito pelo verbo
+---
+PRED: <extra_id_0>
+REF:  Para outra coisa que nao o passaro a flecha foi
+---
+PRED: <extra_id_0>
+REF:  muitas coisas miudas
+---
+PRED: <extra_id_0>
+REF:  Pois se um homem guarda seu proprio filho quanto mais Deus compadecer-se-a de nos
+---
+PRED: <extra_id_0>
+REF:  ajuntamento de ostras nome de um lugar
+---
+PRED: <extra_id_0>
+REF:  Vem coisa fedorenta coisa nojenta tamarutaca
+---
+PRED: <extra_id_0>
+REF:  A gente mesma acovarda-se consentindo-o
+---
+PRED: <extra_id_0>
+REF:  certamente sem duvida assim e tem razao e verdade certificando o que outra pessoa disse
+---
+PRED: <extra_id_0>
+REF:  Mata-lo-ei futuramente com certeza
+---
+PRED: <extra_id_0>
+REF:  remanso d'agua
+---
+PRED: <extra_id_0>
+REF:  Sera que estais sossegados como os que nao veem a morte
+---
+PRED: <extra_id_0>
+REF:  Eu lhe pelo o couro cabeludo
+---
+PRED: <extra_id_0>
+REF:  gargalo fino como da cabaca
+---
+PRED: <extra_id_0>
+REF:  Por isso mesmo o ladrao e o que deve ser enforcado como pena de seus roubos passados
+---
+PRED: <extra_id_0>
+REF:  cocho de porcos
+---
+PRED: <extra_id_0>
+REF:  Durmo com roupa
+---
+PRED: <extra_id_0>
+REF:  Queres teu batismo
+---
+PRED: <extra_id_0>
+REF:  Fi-la engravidar
+---
+PRED: <extra_id_0>
+REF:  Fazendo vir a tona seus atos escondidos
+---
+PRED: <extra_id_0>
+REF:  Hei de me embebedar para perder o juizo
+---
+PRED: <extra_id_0>
+REF:  Os que nao criam nele trabalharam em conjunto ficando a flecha-lo
+---
+PRED: <extra_id_0>
+REF:  Suas palavras asperas nao cessam
+---
+PRED: <extra_id_0>
+REF:  Estou bem deitado Auie aiko - Estou bem
+---
+PRED: <extra_id_0>!
+REF:  Muito bem Hei de ser castelhano
+---
+PRED: <extra_id_0>.
+REF:  Os chefes velhos falam sempre a eles repreendendo-os censurando-os
+---
+PRED: <extra_id_0>
+REF:  braco de rio
+---
+PRED: <extra_id_0>.
+REF:  Vem para persegui-lo
+---
+PRED: <extra_id_0>
+REF:  a saida do sol o nascer do sol
+---
+PRED: <extra_id_0>
+REF:  Acredita meu padrinho hao de te apresar hoje
+---
+PRED: <extra_id_0>
+REF:  Nossas casas estao estabelecidas uma junto da outra
+---
+PRED: <extra_id_0>
+REF:  Fugiram dele deixando-o
+---
+PRED: <extra_id_0>
+REF:  Apos acabar o mundo fa-los-a voltar a viver
+---
+PRED: <extra_id_0>
+REF:  Rapamos nesta medida
+---
+PRED: <extra_id_0>.
+REF:  Trouxe todos ou Trouxe tudo
+---
+PRED: <extra_id_0>
+REF:  ajuntamento de canas-de-flecha
+---
+PRED: <extra_id_0>
+REF:  as juntas da cabeca
+---
+PRED: <extra_id_0>
+REF:  Sou diferente
+---
+PRED: <extra_id_0>
+REF:  Confessando a gente
+---
+PRED: <extra_id_0>
+REF:  Tu outrora me salvaste
+---
+PRED: <extra_id_0>.,ловна <extra_id_12>
+REF:  Andei sumido
+---
+PRED: <extra_id_0>
+REF:  Vou buscar agua a fonte
+---
+PRED: <extra_id_0>.
+REF:  minha heranca
+---
+PRED: <extra_id_0>
+REF:  o modo de ser deles ou natural deles
+---
+PRED: <extra_id_0>
+REF:  Que amemos nosso pai
+---
+PRED: <extra_id_0>
+REF:  Vou a caca
+---
+PRED: <extra_id_0>
+REF:  Que ele fique dentro de vos como fica com seu estado de feto no ventre de sua mae
+---
+PRED: <extra_id_0>
+REF:  Enfim de volta
+---
+PRED: <extra_id_0>
+REF:  Por que vieste o meu muito amado
+---
+PRED: <extra_id_0>
+REF:  Herodes teria entregado este a morte conhecendo suas maldades
+---
+PRED: <extra_id_0>
+REF:  Ontem aos brancos deram combate
+---
+PRED: <extra_id_0>
+REF:  Que deve ser ungido de nos isto e de nosso corpo
+---
+PRED: <extra_id_0>
+REF:  Lancei-o no chao
+---
+PRED: <extra_id_0>
+REF:  Nao esta dia
+---
+PRED: <extra_id_0>
+REF:  Apenas nao me matou
+---
+PRED: <extra_id_0>
+REF:  Esse e o que eu flechei
+---
+PRED: <extra_id_0>
+REF:  Vinde para comer a crianca engolindo completamente o menino
+---
+PRED: <extra_id_0>.
+REF:  Frustrei-me
+---
+PRED: <extra_id_0>
+REF:  Ataca-o Sarauaia
+---
+PRED: <extra_id_0>
+REF:  Tu te compadeceste deles quando eles estavam doentes tirando-lhes fogo
+---
+PRED: <extra_id_0>
+REF:  Ao chegar o dia oitavo duas vezes quatro cortaram seu prepucio
+---
+PRED: <extra_id_0>
+REF:  Eu tenho olhos esbugalhados
+---
+PRED: <extra_id_0>
+REF:  Mandei fazer palma
+---
+PRED: <extra_id_0>
+REF:  Ainda que me castigasse eu falaria
+---
+PRED: <extra_id_0>
+REF:  Vou a roca
+---
+PRED: <extra_id_0>
+REF:  Que ha aqui semelhante a um caninde azul
+---
+PRED: <extra_id_0>
+REF:  Ele tem olhos claros como seu pai
+---
+PRED: <extra_id_0>
+REF:  Filho de quem es tu
+---
+PRED: <extra_id_0>
+REF:  Falaste duramente a alguem irritando-o fazendo-o odiar as pessoas
+---
+PRED: <extra_id_0>
+REF:  Das cuias ficando a quebrar as pontas afrontaste os homens
+---
+PRED: <extra_id_0>
+REF:  Louvo-te muito por me teres salvado
+---
+PRED: <extra_id_0>
+REF:  Acenaste com a cabeca para alguma mulher
+---
+PRED: <extra_id_0>
+REF:  Eia meu aliado
+---
+PRED: <extra_id_0>
+REF:  Sus Ide
+---
+PRED: <extra_id_0>
+REF:  Nao esta em conformidade comigo nao e igual a mim
+---
+PRED: <extra_id_0>
+REF:  Faze-nos tu viver
+---
+PRED: <extra_id_0>
+REF:  Entreouvi tuas palavras
+---
+PRED: <extra_id_0>
+REF:  Aplacando a Deus
+---
+PRED: <extra_id_0>
+REF:  Ja saiste da grande escuridao
+---
+PRED: <extra_id_0>
+REF:  Apaga o fogo
+---
+PRED: <extra_id_0>
+REF:  Fiquei-lhe puxando a cabeca pelos cabelos
+---
+PRED: <extra_id_0>
+REF:  Os homens batizados honram este dia
+---
+PRED: <extra_id_0>
+REF:  Por ser coisa que deve ser dividida
+---
+PRED: <extra_id_0>
+REF:  Eu sou um jaguarete comedor de gente
+---
+PRED: <extra_id_0>
+REF:  Eu sou gago
+---
+PRED: <extra_id_0>
+REF:  raramente
+---
+PRED: <extra_id_0>
+REF:  lugar de vender carne acougue
+---
+PRED: <extra_id_0>
+REF:  Crendo na sua ida para o ceu
+---
+PRED: <extra_id_0>
+REF:  Nao falto a igreja
+---
+PRED: <extra_id_0>
+REF:  entrando em tua casa
+---
+PRED: <extra_id_0>
+REF:  os tupiniquins habitantes daqui
+---
+PRED: <extra_id_0>
+REF:  Entram grandes espinhos espetando sua cabeca
+---
+PRED: <extra_id_0>
+REF:  Quantos sao os mandamentos dele a gente
+---
+PRED: <extra_id_0>
+REF:  Fazendo-me erguer o rosto
+---
+PRED: <extra_id_0>
+REF:  Antigamente eu ficava sempre junto de ti no alto do morro
+---
+PRED: <extra_id_0>
+REF:  Sempre os malditos para nos dizem maldades mui perversamente
+---
+PRED: <extra_id_0>
+REF:  Nao acato essa sua boa lei
+---
+PRED: <extra_id_0>
+REF:  De ti a morte nao se aproximou
+---
+PRED: <extra_id_0>
+REF:  Cortei um pedaco
+---
+PRED: <extra_id_0>
+REF:  casa de barro
+---
+PRED: <extra_id_0>
+REF:  Enfeitei-me
+---
+PRED: <extra_id_0>
+REF:  Nos estamos enfileirados
+---
+PRED: <extra_id_0>
+REF:  Eis que este e discipulo de Jesus
+---
+PRED: <extra_id_0>
+REF:  Fico-me espreguicando
+---
+PRED: <extra_id_0>
+REF:  Que bom que existes o meu senhor
+---
+PRED: <extra_id_0>?
+REF:  Quem nao saberia ter comido algo bom esquecendo-se da excelencia de seu sabor
+---
+PRED: <extra_id_0>
+REF:  Eu estou muito empanturrado
+---
+PRED: <extra_id_0>
+REF:  A respeito dele lembrando-se
+---
+PRED: <extra_id_0>
+REF:  Fico-o chacoteando
+---
+PRED: <extra_id_0>
+REF:  Esta muito a proposito esta sem mais nem menos como se queria
+---
+PRED: <extra_id_0>
+REF:  este outro
+---
+PRED: <extra_id_0>
+REF:  marca de espada sinal de ferimento com espada
+---
+PRED: <extra_id_0>
+REF:  alguns santos
+---
+PRED: <extra_id_0>
+REF:  Ainda bem que o faz correr consigo
+---
+PRED: <extra_id_0>
+REF:  Bem nesse momento perdoou a Pilatos
+---
+PRED: <extra_id_0>
+REF:  na parte de dentro da embarcacao isto e sob a cobertura dela
+---
+PRED: <extra_id_0>
+REF:  Eu tenho folego comprido
+---
+PRED: <extra_id_0>
+REF:  Eu estou rouco
+---
+PRED: <extra_id_0>.
+REF:  Curou-o somente tocando sua orelha imediatamente fazendo-a sarar colando-a
+---
+PRED: <extra_id_0>
+REF:  o que e liquido o que e ralo
+---
+PRED: <extra_id_0>
+REF:  A danca e que e boa enfeitar-se fumar
+---
+PRED: <extra_id_0>
+REF:  fogo do cauim isto e com que se coze o cauim
+---
+PRED: <extra_id_0>
+REF:  Farto-o
+---
+PRED: <extra_id_0>
+REF:  bolsa do abdomen dos marsupiais
+---
+PRED: <extra_id_0>
+REF:  Fiquei falando em favor dele
+---
+PRED: <extra_id_0>
+REF:  Eis que a noite toda ele nao dormiu
+---
+PRED: <extra_id_0>
+REF:  Acreditas no paje ao fingir assassinar as pessoas
+---
+PRED: <extra_id_0>
+REF:  Apos aquele revirar-se do mundo entao os anjos vem
+---
+PRED: <extra_id_0>
+REF:  Debalde vou
+---
+PRED: <extra_id_0>
+REF:  Ver os doentes
+---
+PRED: <extra_id_0>
+REF:  O que a seu filho e a seu escravo faz trabalhar
+---
+PRED: <extra_id_0>
+REF:  gordura de vaca
+---
+PRED: <extra_id_0>
+REF:  de alguma parte dalgures
+---
+PRED: <extra_id_0>
+REF:  Eu estou sujo
+---
+PRED: <extra_id_0>
+REF:  o que deve ser expulso da igreja
+---
+PRED: <extra_id_0>
+REF:  sineta de mao sinozinho manual campainha
+---
+PRED: <extra_id_0>
+REF:  Acusando uma mulher para seu marido
+---
+PRED: <extra_id_0>
+REF:  Tenho meu modo de ser diferente
+---
+PRED: <extra_id_0>
+REF:  Pintaste-te a boca sorrindo para os homens
+---
+PRED: <extra_id_0>
+REF:  Dizendo que um canto de passaro ou um urro de onca sao agouros
+---
+PRED: <extra_id_0>
+REF:  O homem que come objeto de furto ou que o leva para sua casa
+---
+PRED: <extra_id_0>
+REF:  Eu tenho bom abrigo eu estou bem abrigado
+---
+PRED: <extra_id_0>
+REF:  Matei-os muito fiz matanca
+---
+PRED: <extra_id_0>
+REF:  Por isso Deus transformou a costela de nosso pai primeiro em sua esposa
+---
+PRED: <extra_id_0>
+REF:  Foste para revistar as cisternas de agua doce de alguem tomando seu conteudo
+---
+PRED: <extra_id_0>
+REF:  Eu estou adoentado
+---
+PRED: <extra_id_0>.
+REF:  rocado antigo onde o mato cresceu de novo
+---
+PRED: <extra_id_0>
+REF:  Ah um homem pecador ha de ter mais coisas boas que eu
+---
+PRED: <extra_id_0>
+REF:  Este e o maximo
+---
+PRED: <extra_id_0>
+REF:  Lanco a agua a canoa
+---
+PRED: <extra_id_0>.
+REF:  Se alguem escondesse os atos passados uma so vez Deus nao perdoaria
+---
+PRED: <extra_id_0>
+REF:  Aonde ele foi apos acabar de comer
+---
+PRED: <extra_id_0>
+REF:  Que sejamos corajosos sim suportando as coisas dolorosas
+---
+PRED: <extra_id_0>
+REF:  Adao nosso primeiro pai fez-nos perder verdadeiramente
+---
+PRED: <extra_id_0>
+REF:  agua doce
+---
+PRED: <extra_id_0>
+REF:  Este paje ruim tem um espirito protetor
+---
+PRED: <extra_id_0>
+REF:  Tu te agitaste querendo fazer-nos viver
+---
+PRED: <extra_id_0>
+REF:  Qual e o preco delas
+---
+PRED: <extra_id_0>
+REF:  Iria a gente para o ceu ao batizar-se sem mais
+---
+PRED: <extra_id_0>
+REF:  Minha familia fez-me vir
+---
+PRED: <extra_id_0>
+REF:  Esse homem e sua esposa tambem fizeram acabar todas as suas riquezas
+---
+PRED: <extra_id_0>.
+REF:  Aguco-a
+---
+PRED: <extra_id_0>
+REF:  velha muito maldosa
+---
+PRED: <extra_id_0>
+REF:  Vem para ver tua futura terra
+---
+PRED: <extra_id_0>
+REF:  Vou com ele
+---
+PRED: <extra_id_0>
+REF:  Eu sou o diabo esquentador de gente
+---
+PRED: <extra_id_0>
+REF:  ilha de mato CAPO
+---
+PRED: <extra_id_0>
+REF:  Estando a destilar coisa quente coisa muito amarga
+---
+PRED: <extra_id_0>
+REF:  Os que estao achegados a ti
+---
+PRED: <extra_id_0>
+REF:  Queimou tua alma o fogo dele
+---
+PRED: <extra_id_0>
+REF:  Fica com teus suditozinhos junto de nos
+---
+PRED: <extra_id_0>
+REF:  Vinde para prantea-lo ao entrar ele em vos
+---
+PRED: <extra_id_0>
+REF:  Por isso tao somente nasceu dela nao lhe fazendo rombo
+---
+PRED: <extra_id_0>?
+REF:  Havemos de ir a dura guerra cara a cara uns contra os outros
+---
+PRED: <extra_id_0>
+REF:  O rosto da crianca esta alegre para eles
+---
+PRED: <extra_id_0>! <extra_id_10>!
+REF:  Eu estava ainda cansado
+---
+PRED: <extra_id_0>
+REF:  quarto traseiro que se parte de um animal ou de uma pessoa
+---
+PRED: <extra_id_0>
+REF:  primeiro filho do homem primogenito
+---
+PRED: <extra_id_0>
+REF:  Arrependendo-se ele de ter batido em ti
+---
+PRED: <extra_id_0>
+REF:  Tua alma e o que tem muito preco
+---
+PRED: <extra_id_0>
+REF:  O homem desanima sem mais de suas dancas tambem
+---
+PRED: <extra_id_0>
+REF:  castrado
+---
+PRED: <extra_id_0>
+REF:  Mudo-me
+---
+PRED: <extra_id_0>.
+REF:  Salteio
+---
+PRED: <extra_id_0>
+REF:  Quem e o inimigo da gente
+---
+PRED: <extra_id_0>
+REF:  Eu tenho calculos renais
+---
+PRED: <extra_id_0>
+REF:  Sob tuas maos estamos em ti apoiando-nos
+---
+PRED: <extra_id_0>
+REF:  maltratar a seu proximo
+---
+PRED: <extra_id_0>
+REF:  Nao dormi absolutamente para procura-los
+---
+PRED: <extra_id_0>
+REF:  Tu voltas o rosto para tras olhando com a ponta dos olhos sorrindo espreguicando-te
+---
+PRED: <extra_id_0>.
+REF:  Sendo isso assim o dia todo e a noite toda tu cuidaras de tua alma
+---
+PRED: <extra_id_0>.
+REF:  Ah que atrevido
+---
+PRED: <extra_id_0>
+REF:  cavidade dela
+---
+PRED: <extra_id_0>
+REF:  Meu corpo treme de medo
+---
+PRED: <extra_id_0>
+REF:  Vem para que facas ir de mim a maldade
+---
+PRED: <extra_id_0>
+REF:  Tu foste chocarreira estando deitada sobre teu proximo
+---
+PRED: <extra_id_0>
+REF:  O que entrou em vossas almas
+---
+PRED: <extra_id_0>
+REF:  Ele vos fortalece
+---
+PRED: <extra_id_0>
+REF:  Faco-me matar
+---
+PRED: <extra_id_0>
+REF:  ferida da cabeca
+---
+PRED: <extra_id_0>»ᕗ
+REF:  Eu sou rechonchudinho
+---
+PRED: <extra_id_0>
+REF:  Tao logo ao ouvir o teu nome o diabo esta tremendo
+---
+PRED: <extra_id_0>
+REF:  o que perseguiu o cao de seu proximo
+---
+PRED: <extra_id_0>.
+REF:  Nada
+---
+PRED: <extra_id_0>
+REF:  Remo
+---
+PRED: <extra_id_0>
+REF:  Pelo chao tambem escorreu seu sangue
+---
+PRED: <extra_id_0>
+REF:  Nao pode a boca de ninguem contar as coisas muito dolorosas no inferno
+---
+PRED: <extra_id_0>
+REF:  o que vai buscar agua a fonte
+---
+PRED: <extra_id_0>
+REF:  Em reparacao disso mudaste-te de aldeia
+---
+PRED: <extra_id_0>
+REF:  Essa fez assim
+---
+PRED: <extra_id_0>
+REF:  Um ou outro porventura foi mau alguma vez
+---
+PRED: <extra_id_0>
+REF:  Queimo-o
+---
+PRED: <extra_id_0>
+REF:  Ensina falsamente as pessoas a provarem a palavra de Deus
+---
+PRED: <extra_id_0>
+REF:  Eis que vais Vais agora
+---
+PRED: <extra_id_0>
+REF:  Nao querendo que o diabo esteja como seu senhor
+---
+PRED: <extra_id_0>
+REF:  lembrando nos
+---
+PRED: <extra_id_0>
+REF:  Quem ficou ali
+---
+PRED: <extra_id_0>
+REF:  Que lancemos fora nossa maldade nao acreditando nos pajes em dancas rodopios com feiticos
+---
+PRED: <extra_id_0>
+REF:  no final da missa que entras sempre manifestamente consciente
+---
+PRED: <extra_id_0>
+REF:  O que tem a bem-aventuranca e o que e pobre por sua propria vontade
+---
+PRED: <extra_id_0>
+REF:  Tens compaixao de tua mae e de teu pai quando eles estao deitados doentes sendo responsavel por eles
+---
+PRED: <extra_id_0>
+REF:  certo que o comungante comungue algumas vezes ou sempre
+---
+PRED: <extra_id_0>
+REF:  Traze agua para mim
+---
+PRED: <extra_id_0>
+REF:  Lado a lado seus cadaveres ao longo do mar estavam
+---
+PRED: <extra_id_0>
+REF:  Sua mae nao teve dor de parto
+---
+PRED: <extra_id_0>
+REF:  Vem-me a memoria minha vida passada em minha terra
+---
+PRED: <extra_id_0>
+REF:  Como disse Pilatos aos seus aprisionadores
+---
+PRED: <extra_id_0>
+REF:  Sabendo disso impedirias a transgressao da palavra de Deus
+---
+PRED: <extra_id_0>
+REF:  No transcorrer de quatro geracoes
+---
+PRED: <extra_id_0>
+REF:  Oxala agora alguma pessoa habitante do fogo do inferno levantasse aqui na nossa multidao
+---
+PRED: <extra_id_0>
+REF:  De manha cuidando de sua comida
+---
+PRED: <extra_id_0>
+REF:  Que o mates para mim diante do paje ruim
+---
+PRED: <extra_id_0>
+REF:  sangradouro de rio
+---
+PRED: <extra_id_0>
+REF:  O que bebe somente na medida que acontece
+---
+PRED: <extra_id_0>.
+REF:  licor de mangaba
+---
+PRED: <extra_id_0>
+REF:  E pois como ha isto de ser
+---
+PRED: <extra_id_0>
+REF:  por dois meses lit duas luas
+---
+PRED: <extra_id_0>
+REF:  Hei de mexer hoje as igacabas
+---
+PRED: <extra_id_0>
+REF:  Mas acreditais realmente em Deus
+---
+PRED: <extra_id_0>
+REF:  Folgo muito em ouvi-lo
+---
+PRED: <extra_id_0>
+REF:  o que fia Fig Arte 119 fiandeira
+---
+PRED: <extra_id_0>
+REF:  Como disse Nosso Senhor para o que esbofeteou seu rosto
+---
+PRED: <extra_id_0>
+REF:  Nossa comida a que e de cada dia da hoje para nos
+---
+PRED: <extra_id_0>
+REF:  o que foi pao
+---
+PRED: <extra_id_0>
+REF:  Todos vieram
+---
+PRED: <extra_id_0>
+REF:  A seu proprio pedido na cruz o pregaram
+---
+PRED: <extra_id_0>
+REF:  coisa mirrada ou muito seca
+---
+PRED: <extra_id_0>
+REF:  Quem desobedece aquele
+---
+PRED: <extra_id_0>.
+REF:  Ergueu-se com as feridas de suas maos de seus pes e de seu flanco
+---
+PRED: <extra_id_0>
+REF:  Desvirginaste alguma menina
+---
+PRED: <extra_id_0>
+REF:  Veio um grande chefe
+---
+PRED: <extra_id_0>
+REF:  tao logo indo ele
+---
+PRED: <extra_id_0>
+REF:  Machuco-lhe a cabeca
+---
+PRED: <extra_id_0>
+REF:  Que lancemos fora nossa maldade nao acreditando nos pajes em dancas e rodopios
+---
+PRED: <extra_id_0>
+REF:  Ali tambem estando os que guardaram sua alma em sua virtude
+---
+PRED: <extra_id_0>
+REF:  Para onde a multidao numerosissima levou Nosso Senhor
+---
+PRED: <extra_id_0>
+REF:  Detestando-os mais que tudo o que se deve detestar neste mundo
+---
+PRED: <extra_id_0>
+REF:  jorro d'agua ITOROR bica d'agua
+---
+PRED: <extra_id_0>
+REF:  Cura-se algumas vezes segundo os designios de Deus para a gente
+---
+PRED: <extra_id_0>.
+REF:  Aqueles serao consolados
+---
+PRED: <extra_id_0>
+REF:  Eu fedo
+---
+PRED: <extra_id_0>
+REF:  Eu estava pendente
+---
+PRED: <extra_id_0>
+REF:  Acalmei-me
+---
+PRED: <extra_id_0>
+REF:  A gente ve aquela coisa branca e sua redondeza tambem
+---
+PRED: <extra_id_0>
+REF:  Com eles nao se misturando nao querendo igualmente seu modo de ser
+---
+PRED: <extra_id_0>
+REF:  Pranteai logo vossa miseria estai a vos lastimar
+---
+PRED: <extra_id_0>
+REF:  Voo como este vento
+---
+PRED: <extra_id_0>
+REF:  calos ja duros
+---
+PRED: <extra_id_0>
+REF:  Eu estou molhado
+---
+PRED: <extra_id_0>
+REF:  Piorei muito de meu grande mal
+---
+PRED: <extra_id_0>
+REF:  Vela bem por mim mandando que nao me facam cair
+---
+PRED: <extra_id_0>
+REF:  Eu enviuvei
+---
+PRED: <extra_id_0>
+REF:  pequeno como isto
+---
+PRED: <extra_id_0>
+REF:  Abortei meu filho
+---
+PRED: <extra_id_0>
+REF:  Hei de ir para cumprir essas palavras
+---
+PRED: <extra_id_0>
+REF:  Nao se hao de esvanecer nem um pouco minhas palavras acerca daqueles futuros fatos
+---
+PRED: <extra_id_0>
+REF:  Tu me alegras muito narrando assim os fatos
+---
+PRED: <extra_id_0>
+REF:  Mas os guardiaes da gente sao os anjos
+---
+PRED: <extra_id_0>
+REF:  Ali ficai enquanto eu nao vos informar acerca de vossa futura volta
+---
+PRED: <extra_id_0>
+REF:  resto do tronco de arvore que fica na terra apos o seu corte
+---
+PRED: <extra_id_0>
+REF:  Sao muitas as grandes igacabas
+---
+PRED: <extra_id_0>
+REF:  Eu retomei o bom senso
+---
+PRED: <extra_id_0>
+REF:  A gente se batiza muitas vezes
+---
+PRED: <extra_id_0>
+REF:  Eu sou muito longevo
+---
+PRED: <extra_id_0>
+REF:  Hei de cobrir-te
+---
+PRED: <extra_id_0>.
+REF:  Por isso mesmo tendo saudades um do outro ficam tristes
+---
+PRED: <extra_id_0>
+REF:  Faco que nao o vejo
+---
+PRED: <extra_id_0>
+REF:  Eu sou muito manhoso em palavras
+---
+PRED: <extra_id_0>
+REF:  Mas livra-nos tu das coisas mas
+---
+PRED: <extra_id_0>
+REF:  Entao matarei alguns
+---
+PRED: <extra_id_0>
+REF:  Eu estou chagado eu tenho muitas chagas
+---
+PRED: <extra_id_0>
+REF:  Levamo-los uns atras dos outros
+---
+PRED: <extra_id_0>
+REF:  meu padrinho
+---
+PRED: <extra_id_0>
+REF:  Mas sua vida e muito ma
+---
+PRED: <extra_id_0>
+REF:  Ah quem me dera o tivesse matado
+---
+PRED: <extra_id_0>
+REF:  Aqui vem para nos castigar
+---
+PRED: <extra_id_0>
+REF:  Lanco palavras contra ele
+---
+PRED: <extra_id_0>
+REF:  homem liberal
+---
+PRED: <extra_id_0>
+REF:  A terra tambem entao agitando-se tremendo
+---
+PRED: <extra_id_0>.
+REF:  Eu sou mediano eu nao sou grande nem pequeno
+---
+PRED: <extra_id_0>
+REF:  Finjo que vou
+---
+PRED: <extra_id_0>
+REF:  indo eu voando
+---
+PRED: <extra_id_0>
+REF:  ao longo do caminho todo o caminho
+---
+PRED: <extra_id_0>
+REF:  Ensinando tu a ti mesmo
+---
+PRED: <extra_id_0>
+REF:  Eis que esta roupa sera adequadamente de feriado
+---
+PRED: <extra_id_0>
+REF:  nao ha de ser futuro
+---
+PRED: <extra_id_0>
+REF:  Guarda-te hoje de ter guerra comigo
+---
+PRED: <extra_id_0>
+REF:  O que tolera o que quer trabalhar nos feriados
+---
+PRED: <extra_id_0>
+REF:  a unhada de fulano a marca das unhas de fulano
+---
+PRED: <extra_id_0>
+REF:  Que queimem em teu fogo
+---
+PRED: <extra_id_0>
+REF:  Que ha aqui semelhante a um caninde azul
+---
+PRED: <extra_id_0>
+REF:  Nao o amo ainda
+---
+PRED: <extra_id_0>
+REF:  fazendo estar bem minha alma
+---
+PRED: <extra_id_0>
+REF:  Ainda bem que o faz correr consigo
+---
+PRED: <extra_id_0>
+REF:  Arranquei as penas de sua asa
+---
+PRED: <extra_id_0>
+REF:  Levaram-no com suas ataduras para Pilatos o governador
+---
+PRED: <extra_id_0>
+REF:  muitos meninos
+---
+PRED: <extra_id_0>
+REF:  Como o nosso perdao aos que nos tratam mal
+---
+PRED: <extra_id_0>
+REF:  Ele comeu demais aquela coisa
+---
+PRED: <extra_id_0>
+REF:  Nao tendes ouvidos como de costume confundindo esta aldeia
+---
+PRED: <extra_id_0>
+REF:  Tenho vida boa
+---
+PRED: <extra_id_0>
+REF:  Como um galo te deitas
+---
+PRED: <extra_id_0>.
+REF:  Como se eu fosse la
+---
+PRED: <extra_id_0>
+REF:  A cobra mordeu a Pedro
+---
+PRED: <extra_id_0>
+REF:  Que tenhamos em sua terra junto de ti a vida eterna
+---
+PRED: <extra_id_0>
+REF:  Por isso mesmo todos os homens emagrecerao
+---
+PRED: <extra_id_0>
+REF:  Eia que eu va
+---
+PRED: <extra_id_0>
+REF:  Quando cumpriras isso que dizes
+---
+PRED: <extra_id_0>
+REF:  Peco a Pedro por roupa
+---
+PRED: <extra_id_0>. <extra_id_10>e <extra_id_3>
+REF:  Eu tenho casca de ferida erguida
+---
+PRED: <extra_id_0>
+REF:  Dizendo isso por pequenas coisas
+---
+PRED: <extra_id_0>
+REF:  Escaparao futuramente os animais quadrupedes
+---
+PRED: <extra_id_0>
+REF:  Faca-se tua vontade
+---
+PRED: <extra_id_0>
+REF:  Eu nao tenho resistencia
+---
+PRED: <extra_id_0>.
+REF:  Faze-me tu valente para que eu me oponha ao maldito para sempre vencendo-o
+---
+PRED: <extra_id_0>
+REF:  escoria do ferro
+---
+PRED: <extra_id_0>
+REF:  Caem as vezes os frutos das suas arvores sendo ainda flores
+---
+PRED: <extra_id_0>
+REF:  Quantos sao esses deuses
+---
+PRED: <extra_id_0>
+REF:  Que va Guaixara para o fogo
+---
+PRED: <extra_id_0>
+REF:  Sal bento pos na tua boca para que seja muito saborosa a palavra de Deus a ela
+---
+PRED: <extra_id_0>
+REF:  Dou-lhe pancadas na cabeca
+---
+PRED: <extra_id_0>
+REF:  A que cuida da virtude e a mae de Deus bondosa
+---
+PRED: <extra_id_0>.
+REF:  Confesso-me a ti senhor padre por causa do meu pecar muitas vezes
+---
+PRED: <extra_id_0>
+REF:  Hei de comer todo o banquete de Jacare-guacu
+---
+PRED: <extra_id_0>
+REF:  Hei de me aproximar de minha futura e verdadeira vida
+---
+PRED: <extra_id_0>
+REF:  Os que nao sao escondidos perdoa bem a eles
+---
+PRED: <extra_id_0>
+REF:  Sob minhas maos tenho os mocos pecadores os velhos crescidos
+---
+PRED: <extra_id_0>
+REF:  Oh entao assim e na verdade
+---
+PRED: <extra_id_0>
+REF:  Confessa bem a nos que tu es o filho de Deus
+---
+PRED: <extra_id_0>
+REF:  Tremendo entao a terra tambem
+---
+PRED: <extra_id_0> resume
+REF:  Caem as vezes os frutos de suas arvores sendo ainda flores outras vezes em seu estado verde outras vezes apos amadurecerem caem
+---
+PRED: <extra_id_0>
+REF:  cordao de contas
+---
+PRED: <extra_id_0>
+REF:  Dormiu demais seu cadaver
+---
+PRED: <extra_id_0>
+REF:  Limpou seu rosto com um pano branco
+---
+PRED: <extra_id_0>
+REF:  A mirra de polpa era o anuncio de sua futura morte pela gente
+---
+PRED: <extra_id_0>
+REF:  agua corrente
+---
+PRED: <extra_id_0>
+REF:  O sol faz as pessoas terem muita sede
+---
+PRED: <extra_id_0>
+REF:  Desencontramo-nos
+---
+PRED: <extra_id_0>
+REF:  Dar tambem o quinhao de Deus naquilo que plantou primeiro
+---
+PRED: <extra_id_0>!
+REF:  Por isso mesmo e que em seus coracoes ficando a refletir desafiam muito a Deus
+---
+PRED: <extra_id_0>
+REF:  Ali atacando as mocas por deseja-las
+---
+PRED: <extra_id_0>
+REF:  Tratemo-los bem junto de nos
+---
+PRED: <extra_id_0>
+REF:  rapariga por desprezo pejorativo
+---
+PRED: <extra_id_0>.
+REF:  Detesto minha lei antiga
+---
+PRED: <extra_id_0>
+REF:  Por isso mesmo em tua grande forca apoio-me
+---
+PRED: <extra_id_0>
+REF:  Fazendo Deus descer consigo do ceu
+---
+PRED: <extra_id_0>
+REF:  Importuna-me bem irritando-me muitissimo aquela lei nova
+---
+PRED: <extra_id_0>
+REF:  O que e comum e aquela mulher esmagar nossas cabecas
+---
+PRED: <extra_id_0>
+REF:  Meu senhor vos mata
+---
+PRED: <extra_id_0>
+REF:  Encaixotei-me as coisas
+---
+PRED: <extra_id_0>
+REF:  Vim atravessando o oceano
+---
+PRED: <extra_id_0>
+REF:  Eu estou fendido
+---
+PRED: <extra_id_0>
+REF:  Suportando a grande noite estamos muito aflitos
+---
+PRED: <extra_id_0>
+REF:  Amarra tua rede de dormir ao lado de mim
+---
+PRED: <extra_id_0>
+REF:  Fico girando em circulos fico rodeando como o que se perdeu ou que busca alguma coisa
+---
+PRED: <extra_id_0>
+REF:  abracando a cintura de teu companheiro estimulando teu desejo sensual
+---
+PRED: <extra_id_0>
+REF:  Bem com os meus olhos vi que tu as escondeste
+---
+PRED: <extra_id_0>
+REF:  Eu dele perguntando vim da minha casa
+---
+PRED: <extra_id_0>
+REF:  Estiraram-no sobre a cruz
+---
+PRED: <extra_id_0>
+REF:  Os que vivem para isso transgridem muito a lei
+---
+PRED: <extra_id_0>
+REF:  Tem tu compaixao de nos durante nossa vida
+---
+PRED: <extra_id_0>
+REF:  riacho
+---
+PRED: <extra_id_0>
+REF:  Gastei-o totalmente
+---
+PRED: <extra_id_0>
+REF:  Vai para trazer um pouco dela
+---
+PRED: <extra_id_0>
+REF:  O que nao foi morto
+---
+PRED: <extra_id_0>
+REF:  Amarra tua rede de dormir ao longo de mim
+---
+PRED: <extra_id_0>
+REF:  pele esfolada fora da carne
+---
+PRED: <extra_id_0>
+REF:  Minha morte nao ha de ser ainda
+---
+PRED: <extra_id_0>
+REF:  Eu estou fendido em diversas partes
+---
+PRED: <extra_id_0>
+REF:  Estou na penuria
+---
+PRED: <extra_id_0>
+REF:  Eu estou ricamente vestido de roupas
+---
+PRED: <extra_id_0>
+REF:  Isso dira somente a ele ou contara ao padre para que o repreenda
+---
+PRED: <extra_id_0>.
+REF:  O proprio Pedro mandou-me fazer proceder assim
+---
+PRED: <extra_id_0>
+REF:  conhecendo a Deus
+---
+PRED: <extra_id_0>.
+REF:  Eu estou liso
+---
+PRED: <extra_id_0>.
+REF:  O desejo sensual tornado costumeiro a janotice o vicio isso Nosso Senhor apos o recebermos nos em nossa alma impede de se querer
+---
+PRED: <extra_id_0>
+REF:  A seus proprios companheiros nao querem bem
+---
+PRED: <extra_id_0>
+REF:  Jesus guardiao da alegria
+---
+PRED: <extra_id_0>.
+REF:  Eu estou umido
+---
+PRED: <extra_id_0>
+REF:  Madeira e o que falta
+---
+PRED: <extra_id_0>
+REF:  Palavras de quem sao aquelas
+---
+PRED: <extra_id_0>
+REF:  Escondendo ser sua parente verdadeira a que ele perverteu
+---
+PRED: <extra_id_0>
+REF:  Flechei-os todos
+---
+PRED: <extra_id_0>
+REF:  Veio um grande chefe de longe para te procurar
+---
+PRED: <extra_id_0>
+REF:  instrumento de desvio de agua sangradouro
+---
+PRED: <extra_id_0>
+REF:  Como modo de honrar sua vinda este dia honramos
+---
+PRED: <extra_id_0>
+REF:  Prega-o na cruz
+---
+PRED: <extra_id_0>
+REF:  algum tanto grande
+---
+PRED: <extra_id_0>
+REF:  ouvir o sermao do padre
+---
+PRED: <extra_id_0>
+REF:  E mentindo tambem aquele que invoca sua alma que acontece
+---
+PRED: <extra_id_0>
+REF:  Apos vir Sarauaia destruiremos a aldeia como de costume
+---
+PRED: <extra_id_0>
+REF:  Que se compadecam dele os judeus
+---
+PRED: <extra_id_0>
+REF:  Ah oxala eu sofresse por Deus muitissimos infortunios
+---
+PRED: <extra_id_0>
+REF:  bonita esta igreja tendo muitos adornos
+---
+PRED: <extra_id_0>
+REF:  Dei-o a troco de dinheiro
+---
+PRED: <extra_id_0>
+REF:  O que tu escondeste na verdade onde tu roubaste
+---
+PRED: <extra_id_0>?
+REF:  Como ages embriagando-te de cauim Fazes o que nao deves entao
+---
+PRED: <extra_id_0>
+REF:  Ela embarrou nos seus ramos
+---
+PRED: <extra_id_0>
+REF:  ilha de mato em meio a um descampado CAPO
+---
+PRED: <extra_id_0>
+REF:  Vem nomeia os que tu derrotas por ai
+---
+PRED: <extra_id_0>
+REF:  Confiemos nesses homens
+---
+PRED: <extra_id_0>
+REF:  Fizeste chegar o pagamento como retribuicao de um trabalho
+---
+PRED: <extra_id_0>
+REF:  sardas do rosto
+---
+PRED: <extra_id_0>.,ловна <extra_id_12>
+REF:  os parentes de minha mulher
+---
+PRED: <extra_id_0>
+REF:  Um so e o conteudo de minha rede
+---
+PRED: <extra_id_0>.
+REF:  Porventura fizeram-se muito maus os homens apos se multiplicarem
+---
+PRED: <extra_id_0>
+REF:  Ficaste bebado de cauim perdendo o juizo
+---
+PRED: <extra_id_0>
+REF:  Finalmente ele a levou
+---
+PRED: <extra_id_0>
+REF:  Antigamente eu ficava sempre junto de ti
+---
+PRED: <extra_id_0>
+REF:  Poucos moram nesta aldeia
+---
+PRED: <extra_id_0>
+REF:  Viemos muitos
+---
+PRED: <extra_id_0>
+REF:  Foi a frente de mim
+---
+PRED: <extra_id_0>
+REF:  de onde donde
+---
+PRED: <extra_id_0>
+REF:  Ja tinha dado Judas aos judeus o meio de reconhecer Nosso Senhor
+---
+PRED: <extra_id_0>
+REF:  Acalentei-a
+---
+PRED: <extra_id_0>
+REF:  teia de aranha
+---
+PRED: <extra_id_0>
+REF:  Tomamo-lo de ombro a ombro
+---
+PRED: <extra_id_0>
+REF:  Eu sou redondo
+---
+PRED: <extra_id_0>
+REF:  Estes habitantes da aldeia sob minhas maos estavam
+---
+PRED: <extra_id_0>
+REF:  Vinha com purpura e espinhos
+---
+PRED: <extra_id_0>
+REF:  Prendi-os um ao lado do outro
+---
+PRED: <extra_id_0>
+REF:  o que te poe a nu
+---
+PRED: <extra_id_0>
+REF:  No dia de guarda do nascimento dele acendemos a fogueira chamada caminho do salto
+---
+PRED: <extra_id_0>
+REF:  o miolo dele
+---
+PRED: <extra_id_0>
+REF:  Que venha para nos fazer felizes
+---
+PRED: <extra_id_0>
+REF:  As que dizem coisas mas
+---
+PRED: <extra_id_0>
+REF:  Fiquei estremecendo
+---
+PRED: <extra_id_0>
+REF:  Contando os pecados escondidos de alguem para quem nao os conhece
+---
+PRED: <extra_id_0>
+REF:  Faco mingau
+---
+PRED: <extra_id_0>
+REF:  Presumo que ele deve ter ido
+---
+PRED: <extra_id_0>
+REF:  Entao os anjos virao chamando os mortos tocando trombetas
+---
+PRED: <extra_id_0>
+REF:  aguas tranquilas bonanca
+---
+PRED: <extra_id_0>
+REF:  O dia esta muito escuro como que para chover
+---
+PRED: <extra_id_0>
+REF:  Ele e mais bonito
+---
+PRED: <extra_id_0>
+REF:  Estou a latejar
+---
+PRED: <extra_id_0>
+REF:  Na verdade somente estas retirei dos malditos
+---
+PRED: <extra_id_0>
+REF:  Tomei-o com ambas as maos
+---
+PRED: <extra_id_0>
+REF:  Entao as estrelas cairao completamente
+---
+PRED: <extra_id_0>
+REF:  Invocam as mulheres o paje Caruara
+---
+PRED: <extra_id_0>
+REF:  dificil para mim tenta-los
+---
+PRED: <extra_id_0>
+REF:  o que e viuvo o viuvo
+---
+PRED: <extra_id_0>
+REF:  Eu estou inchado
+---
+PRED: <extra_id_0>
+REF:  mas de verdade
+---
+PRED: <extra_id_0>
+REF:  Na casa de quem passaste
+---
+PRED: <extra_id_0>
+REF:  Eis-me aqui eis que aqui estou
+---
+PRED: <extra_id_0>
+REF:  Ah se viesse
+---
+PRED: <extra_id_0>
+REF:  Eu sou esquecidico
+---
+PRED: <extra_id_0>
+REF:  Vossos avos todos com pranto estavam recolhendo-se
+---
+PRED: <extra_id_0>
+REF:  este outro e nao ele
+---
+PRED: <extra_id_0>
+REF:  Quem aquele mandamento transgride
+---
+PRED: <extra_id_0>.
+REF:  A gente diz quinhao de Deus para aquilo que e dado
+---
+PRED: <extra_id_0>
+REF:  Sempre eu ensinei publicamente as pessoas
+---
+PRED: <extra_id_0>
+REF:  A crenca no Deus verdadeiro encheu meu interior
+---
+PRED: <extra_id_0>
+REF:  Reparti com ele a carne
+---
+PRED: <extra_id_0>
+REF:  Eles se tratam uns aos outros como semelhantes por causa de sua irmandade
+---
+PRED: <extra_id_0>
+REF:  Ajo velhacamente
+---
+PRED: <extra_id_0>
+REF:  Ele certamente faz tirar-lhe o efeito de mim
+---
+PRED: <extra_id_0>
+REF:  Inclina-se
+---
+PRED: <extra_id_0>
+REF:  Ah que mau e o pecado Que mau que e fulano
+---
+PRED: <extra_id_0>
+REF:  Vou ao caminho de meu pai
+---
+PRED: <extra_id_0>
+REF:  Manquejo
+---
+PRED: <extra_id_0>
+REF:  Escondeste algum pecado teu do padre envergonhando-te dele
+---
+PRED: <extra_id_0>
+REF:  Ha de prantear a gente o desaparecimento de seu pai e de sua mae
+---
+PRED: <extra_id_0>! <extra_id_10>!
+REF:  Nao por me amar
+---
+PRED: <extra_id_0>
+REF:  homem parvoeirao ignorantao
+---
+PRED: <extra_id_0>
+REF:  Levaram-no para um certo palacio fazendo-o entrar reunindo soldados fortes ali por sua causa
+---
+PRED: <extra_id_0>
+REF:  nunca mais
+---
+PRED: <extra_id_0>
+REF:  Mas nao pode a gente de modo nenhum contar o procedimento oculto de alguem
+---
+PRED: <extra_id_0>
+REF:  Santa Maria esta pensando na aproximacao de seu parto
+---
+PRED: <extra_id_0>
+REF:  fibras sujas
+---
+PRED: <extra_id_0>
+REF:  Para onde sera que eu irei
+---
+PRED: <extra_id_0>
+REF:  Enjoa-te de teu velho modo de ser
+---
+PRED: <extra_id_0>
+REF:  Eu sou molengao
+---
+PRED: <extra_id_0>
+REF:  Em minhas maos bem os tenho
+---
+PRED: <extra_id_0>! <extra_id_10>!
+REF:  Tenho a carne arrepiada
+---
+PRED: <extra_id_0>
+REF:  gozador brincalhao zombeteiro
+---
+PRED: <extra_id_0>
+REF:  Os indios atacaras
+---
+PRED: <extra_id_0>.
+REF:  pedra de beico pontuda
+---
+PRED: <extra_id_0>.
+REF:  Para ele trouxeram como oferendas ouro resina dura que recende isto e incenso e mirra
+---
+PRED: <extra_id_0>
+REF:  Se tu guardiao de mim sob tuas maos colocando-me
+---
+PRED: <extra_id_0>
+REF:  Destruiu outrora os tamoios
+---
+PRED: <extra_id_0>
+REF:  Ah se eu tivesse percebido outrora isso praticando o que dizieis
+---
+PRED: <extra_id_0>
+REF:  Futuro senhor de suas muitissimas riquezas
+---
+PRED: <extra_id_0>
+REF:  Nao se cansam de pedir a Deus pelos que os resgataram
+---
+PRED: <extra_id_0>
+REF:  Faco-o doente
+---
+PRED: <extra_id_0>.
+REF:  E nao confessando ser parente de fato de seu marido ou de sua esposa que acontece
+---
+PRED: <extra_id_0>
+REF:  Eu nao sou medroso
+---
+PRED: <extra_id_0>
+REF:  Sao famosos esses mocacaras que sao uns beberroes
+---
+PRED: <extra_id_0>
+REF:  Que me tratem como a seu proprio deus
+---
+PRED: <extra_id_0>
+REF:  Muitissimas lorotas invocaram contra ele
+---
+PRED: <extra_id_0>.
+REF:  Vinde levai os malditos erguendo-os para sapeca-los em nosso fogo moqueando-os
+---
+PRED: <extra_id_0>.
+REF:  fora na rua
+---
+PRED: <extra_id_0>
+REF:  Esta molestando as pessoas fazendo-as cair em erro
+---
+PRED: <extra_id_0>
+REF:  Vem em vao para me afastar os ditos padres
+---
+PRED: <extra_id_0>
+REF:  Em tuas maos sentando-se vai o menino
+---
+PRED: <extra_id_0>
+REF:  Por que bates em mim
+---
+PRED: <extra_id_0>
+REF:  Que afaste nossa maldade
+---
+PRED: <extra_id_0>
+REF:  Nao se compadeceu Deus de alguem por causa dos que descenderiam dele
+---
+PRED: <extra_id_0>
+REF:  Mato gente
+---
+PRED: <extra_id_0>
+REF:  Que e a morte
+---
+PRED: <extra_id_0>! <extra_id_10>!
+REF:  Eu sou um misero indio de fato
+---
+PRED: <extra_id_0>
+REF:  Dou de beber as pessoas
+---
+PRED: <extra_id_0>
+REF:  a sem-filhos a femea esteril
+---
+PRED: <extra_id_0>
+REF:  Que parecam juntar-se como um so
+---
+PRED: <extra_id_0>
+REF:  Oprime-nos o coracao
+---
+PRED: <extra_id_0>
+REF:  Muitissimas coisas mas eles acharao
+---
+PRED: <extra_id_0>
+REF:  Aparei-o
+---
+PRED: <extra_id_0>
+REF:  Como se eu dissesse
+---
+PRED: <extra_id_0>.
+REF:  Ficou saltando reconhecendo imediatamente Jesus seu senhorzinho
+---
+PRED: <extra_id_0>
+REF:  Eis que eu sou homem
+---
+PRED: <extra_id_0>
+REF:  Ave Maria a que esta cheia de graca
+---
+PRED: <extra_id_0>
+REF:  Segui pelo mar em navio 'Y rupi aguata - Andei pelo rio de barco
+---
+PRED: <extra_id_0>
+REF:  Esse nome e o que me convem
+---
+PRED: <extra_id_0>
+REF:  meu pai o que me gerou para nao haver confusao com outros parentes que tambem eram chamados tuba
+---
+PRED: <extra_id_0>
+REF:  A mae de Deus esta sabendo todas as coisas
+---
+PRED: <extra_id_0>
+REF:  o cauim que e preparado para meu recebimento
+---
+PRED: <extra_id_0>
+REF:  Fica aumentando sua bondade
+---
+PRED: <extra_id_0>.
+REF:  Ouve
+---
+PRED: <extra_id_0>.
+REF:  A mim tambem o flechado Bastiao derrotou-me Nao existe mais minha antiga bravura
+---
+PRED: <extra_id_0>
+REF:  Eu seco
+---
+PRED: <extra_id_0>
+REF:  Tu tiveste excitacao com teu amante
+---
+PRED: <extra_id_0>
+REF:  Contigo sempre estou
+---
+PRED: <extra_id_0>
+REF:  Vem para espantar o diabo
+---
+PRED: <extra_id_0>
+REF:  Estamos nos ferros ao pescoco um do outro isto e estamos presos nos ferros um ao pescoco do outro
+---
+PRED: <extra_id_0>
+REF:  Sao muito molestos certamente os tropecos de nossa caminhada
+---
+PRED: <extra_id_0>
+REF:  Ambas as minhas coxas tremem endurecendo
+---
+PRED: <extra_id_0>.
+REF:  Tu tens olhos concupiscentes olhando para alguem
+---
+PRED: <extra_id_0>
+REF:  Para uma grande escuridao e que iriam
+---
+PRED: <extra_id_0>
+REF:  Esses na verdade nao honram a Deus
+---
+PRED: <extra_id_0>.
+REF:  Vou por ir sem algum fim
+---
+PRED: <extra_id_0>'
+REF:  ha bem pouco tempo agora ha pouco agorinha mesmo
+---
+PRED: <extra_id_0>
+REF:  Fazem aplacar a Deus a si mesmos ao eliminarem a divida dos pecados de muitos anos
+---
+PRED: <extra_id_0>
+REF:  Aparei-o
+---
+PRED: <extra_id_0>.,ловна <extra_id_12>
+REF:  campo limpo
+---
+PRED: <extra_id_0>
+REF:  Seu sangue era muito
+---
+PRED: <extra_id_0>
+REF:  o que informa o que avisa
+---
+PRED: <extra_id_0>
+REF:  formosa certamente a lua vindo com sua grande face
+---
+PRED: <extra_id_0>
+REF:  Delato gente
+---
+PRED: <extra_id_0>
+REF:  Do nada fez nossa alma com sua palavra e que ele a fez
+---
+PRED: <extra_id_0>
+REF:  Basta Falo eu Sarauaia
+---
+PRED: <extra_id_0>
+REF:  Poe a espada na bainha dela
+---
+PRED: <extra_id_0>
+REF:  Dizendo palavras mas acerca de coisas nojentas
+---
+PRED: <extra_id_0>
+REF:  Para ser a futura mae de Deus ela foi feita
+---
+PRED: <extra_id_0>
+REF:  Todas as minhas presas de minhas maos as levou
+---
+PRED: <extra_id_0>
+REF:  produtivo de bom rendimento
+---
+PRED: <extra_id_0>
+REF:  Afastando o diabo assim como a morte
+---
+PRED: <extra_id_0>
+REF:  Como seus discipulos receberam-vos
+---
+PRED: <extra_id_0>
+REF:  Mas nao iriamos para o ceu se ele nao morresse
+---
+PRED: <extra_id_0>
+REF:  Sua mae cobrindo-o bem defende-o do frio
+---
+PRED: <extra_id_0>.
+REF:  Ele e azul
+---
+PRED: <extra_id_0>
+REF:  inimiga do diabo
+---
+PRED: <extra_id_0>
+REF:  O juiz mandou desorelhar o ladrao
+---
+PRED: <extra_id_0>.
+REF:  para alem de Lisboa
+---
+PRED: <extra_id_0>
+REF:  Ladroeira palavras ruins mentiras sobejavam-te
+---
+PRED: <extra_id_0>
+REF:  Suas antigas lembrancas das coisas ai se retirarao
+---
+PRED: <extra_id_0>
+REF:  Ficaste bebado de cauim perdendo o juizo
+---
+PRED: <extra_id_0>
+REF:  Sua muita bondade engrandecendo
+---
+PRED: <extra_id_0>
+REF:  Aonde chegaram com Nosso Senhor enfim
+---
+PRED: <extra_id_0>
+REF:  Evocando a morte de meu Senhor
+---
+PRED: <extra_id_0>
+REF:  Ensina bem minha alma para que conheca o caminho do ceu
+---
+PRED: <extra_id_0>
+REF:  jazimento de pedras grandes penedia
+---
+PRED: <extra_id_0>
+REF:  Envergonha-se o sol de nascer diante de teu brilho
+---
+PRED: <extra_id_0>
+REF:  Homens velhas mulheres sempre serao minhas presas
+---
+PRED: <extra_id_0>
+REF:  Forrei-o
+---
+PRED: <extra_id_0>
+REF:  Ora ja agora leve-o
+---
+PRED: <extra_id_0>
+REF:  enfeitando minha cabeca
+---
+PRED: <extra_id_0>
+REF:  agua salgada do mar
+---
+PRED: <extra_id_0>
+REF:  Arruinei a todos
+---
+PRED: <extra_id_0>
+REF:  Faco muito barulho ao andar
+---
+PRED: <extra_id_0>
+REF:  Estorva-me o Senhor Deus
+---
+PRED: <extra_id_0>
+REF:  Fi-lo rispidamente
+---
+PRED: <extra_id_0>
+REF:  Vim do ceu para vos ajudar sempre
+---
+PRED: <extra_id_0>.
+REF:  Tirei o luto
+---
+PRED: <extra_id_0>
+REF:  Diferenciando-a das outras mulheres
+---
+PRED: <extra_id_0>
+REF:  Que a gente diz conversando com o anjo seu guardiao
+---
+PRED: <extra_id_0>
+REF:  Cortei seus nervos
+---
+PRED: <extra_id_0>
+REF:  Que confesses a transgressao da palavra de Deus a persistencia nisso tambem
+---
+PRED: <extra_id_0>
+REF:  Eis que com seu corpo deve estar sua divindade nos pedacinhos tambem inteiramente
+---
+PRED: <extra_id_0>.
+REF:  Eu arquejo
+---
+PRED: <extra_id_0>
+REF:  Encosto-me nele
+---
+PRED: <extra_id_0>
+REF:  raizes angulosas nome de lugar
+---
+PRED: <extra_id_0>
+REF:  Falastes torpemente para vos mesmos
+---
+PRED: <extra_id_0>
+REF:  Era eu
+---
+PRED: <extra_id_0>
+REF:  Eu estou com a boca entreaberta
+---
+PRED: <extra_id_0>.
+REF:  Fico escarnecendo das pessoas
+---
+PRED: <extra_id_0>
+REF:  para seu fogo arrastando-nos
+---
+PRED: <extra_id_0>
+REF:  em abrigo
+---
+PRED: <extra_id_0>
+REF:  Arrepiei-me
+---
+PRED: <extra_id_0>
+REF:  como crianca gerando-se
+---
+PRED: <extra_id_0>
+REF:  sobrinho dele
+---
+PRED: <extra_id_0>
+REF:  Saltei-o
+---
+PRED: <extra_id_0>
+REF:  bem cedo bem de madrugada
+---
+PRED: <extra_id_0>
+REF:  Piorou muito a dor de minha cabeca
+---
+PRED: <extra_id_0>
+REF:  Vejo-o Com enfase Lit Acho-me vendo-o
+---
+PRED: <extra_id_0>
+REF:  Teu poder aquietou este mundo
+---
+PRED: <extra_id_0>
+REF:  Eis que vou
+---
+PRED: <extra_id_0>
+REF:  meios de contar das duas maos da gente isto e os dedos
+---
+PRED: <extra_id_0>
+REF:  Santa Maria esta supondo a aproximacao de seu parto
+---
+PRED: <extra_id_0>
+REF:  Estou-me recolhendo
+---
+PRED: <extra_id_0>
+REF:  Nas minhas costas levei-o
+---
+PRED: <extra_id_0>
+REF:  Eu espumei
+---
+PRED: <extra_id_0>
+REF:  Que eu deteste muito o diabo
+---
+PRED: <extra_id_0>
+REF:  Nao contem mais nada minha bolsa
+---
+PRED: <extra_id_0>
+REF:  Mamei
+---
+PRED: <extra_id_0>
+REF:  Escudo-me defendo-me
+---
+PRED: <extra_id_0>
+REF:  Roi-o
+---
+PRED: <extra_id_0>
+REF:  Comecei-o
+---
+PRED: <extra_id_0>
+REF:  Ao morrer eu que venhas
+---
+PRED: <extra_id_0>
+REF:  Vituperaste teu pai tua mae teu avo tua avo
+---
+PRED: <extra_id_0>
+REF:  Inchei-me muito as bochechas
+---
+PRED: <extra_id_0>
+REF:  Sera que e por isso que Deus transformou a costela de nosso pai primeiro no corpo de sua esposa
+---
+PRED: <extra_id_0>
+REF:  agora ha pouco
+---
+PRED: <extra_id_0>
+REF:  Apos verte-la dentro de alguma casca de coco
+---
+PRED: <extra_id_0>
+REF:  sol frio isto e sol encoberto tempo nublado
+---
+PRED: <extra_id_0>
+REF:  certo que foi
+---
+PRED: <extra_id_0>
+REF:  Moro com Pedro
+---
+PRED: <extra_id_0>
+REF:  terra avermelhada barro
+---
+PRED: <extra_id_0>
+REF:  Levantei-me dormindo
+---
+PRED: <extra_id_0>
+REF:  Porventura a tentacao e algo semelhante a uma jucana
+---
+PRED: <extra_id_0>
+REF:  Chamo os homens
+---
+PRED: <extra_id_0>
+REF:  o que proclama suas palavras
+---
+PRED: <extra_id_0>
+REF:  Filhos de quem eram esses
+---
+PRED: <extra_id_0>.,ловна <extra_id_12>
+REF:  palavra ruim
+---
+PRED: <extra_id_0>
+REF:  Alimentar os famintos
+---
+PRED: <extra_id_0>
+REF:  Bem feito para o maldito Seus figados hao de ser minha porcao
+---
+PRED: <extra_id_0>
+REF:  Eis que se aproxima minha vida futura
+---
+PRED: <extra_id_0>
+REF:  Apos arrependerem-se de seus atos os indios vao confessar-se
+---
+PRED: <extra_id_0>
+REF:  Por tuas pegadas ha de ir minh'alma sempre
+---
+PRED: <extra_id_0>
+REF:  Como meus suditos todos em minhas maos tenho-os bem
+---
+PRED: <extra_id_0>
+REF:  Quem fez isso outrora
+---
+PRED: <extra_id_0>
+REF:  Qual outro e guerreiro senao ele
+---
+PRED: <extra_id_0>
+REF:  rego d'agua
+---
+PRED: <extra_id_0>
+REF:  Estamos entrecruzados
+---
+PRED: <extra_id_0>
+REF:  Disse isso conhecendo o futuro esmagamento dos habitantes daquela cidade chamada Jerusalem
+---
+PRED: <extra_id_0>
+REF:  Eu nao estou sendo fantasioso
+---
+PRED: <extra_id_0>
+REF:  Ha de ser o substituto de meu pai
+---
+PRED: <extra_id_0>
+REF:  Eu sou habil
+---
+PRED: <extra_id_0>
+REF:  Enterrando os antigos vicios
+---
+PRED: <extra_id_0>
+REF:  homem choramigas
+---
+PRED: <extra_id_0>
+REF:  mina de ouro
+---
+PRED: <extra_id_0>
+REF:  Multiplicou-nos neste mundo primeiro
+---
+PRED: <extra_id_0>
+REF:  ensinamento da palavra de Deus
+---
+PRED: <extra_id_0>
+REF:  Permaneco seu guardiao
+---
+PRED: <extra_id_0>
+REF:  Sera que amais vosso salvador
+---
+PRED: <extra_id_0>
+REF:  Aqueles serao os futuros habitantes do fundo do nosso fogo os que serao queimados
+---
+PRED: <extra_id_0>
+REF:  linha delgada para coser
+---
+PRED: <extra_id_0>
+REF:  Quando cumpriras isso que tu dizes
+---
+PRED: <extra_id_0>
+REF:  Esse somente e de fato teu nome
+---
+PRED: <extra_id_0>
+REF:  Eu tenho folego apressado eu tenho muito folego
+---
+PRED: <extra_id_0>
+REF:  Fico-o mastigando sem dentes
+---
+PRED: <extra_id_0>
+REF:  Tendo saudades do nenenzinho vim de minha casa
+---
+PRED: <extra_id_0>
+REF:  Trouxeram polvora em vao
+---
+PRED: <extra_id_0>.
+REF:  O que tocou na irma mais moca ou na irma mais velha de sua noiva verdadeira nao pode casar-se nem mesmo com sua noiva
+---
+PRED: <extra_id_0>
+REF:  cabelos arrepiados e desgrenhados
+---
+PRED: <extra_id_0>! <extra_id_10>!
+REF:  miserias da vida
+---
+PRED: <extra_id_0>
+REF:  Nao conheco esse homem
+---
+PRED: <extra_id_0>
+REF:  Sara mesmo minha alma apenas com tuas palavras
+---
+PRED: <extra_id_0>
+REF:  Ponde uma cruz diante deste doente como objeto da visao de seus olhos
+---
+PRED: <extra_id_0>
+REF:  Tornam-nos famosos tambem em suas bocas vilipendiando-os
+---
+PRED: <extra_id_0>
+REF:  Que ela faca seu mui belo filho perdoar a nos
+---
+PRED: <extra_id_0>
+REF:  Eu sou vingativo
+---
+PRED: <extra_id_0>
+REF:  remedio portador de cura
+---
+PRED: <extra_id_0>.
+REF:  Semelhantemente a isso fizeram com seus pes pregando-os tambem com cravos
+---
+PRED: <extra_id_0>
+REF:  Na casa de quem passaste tomando-as antes de te esconderes
+---
+PRED: <extra_id_0>
+REF:  Fi-lo emagrecer
+---
+PRED: <extra_id_0>
+REF:  Toma um so trago
+---
+PRED: <extra_id_0>
+REF:  Que amemos nosso pai nosso verdadeiro criador
+---
+PRED: <extra_id_0>
+REF:  Se tu nao endureceres teu coracao
+---
+PRED: <extra_id_0>
+REF:  Vendi coisas
+---
+PRED: <extra_id_0>
+REF:  Ensoberbeci-me acerca de mim mesmo
+---
+PRED: <extra_id_0>
+REF:  Untei as penas de passaro para me emplumar com elas
+---
+PRED: <extra_id_0>
+REF:  Procedeste segundo a determinacao do padre a ti
+---
+PRED: <extra_id_0>
+REF:  calos dos pes
+---
+PRED: <extra_id_0>.
+REF:  Ele secou
+---
+PRED: <extra_id_0>
+REF:  cinzas do alguidar da bacia feitas pelas chamas
+---
+PRED: <extra_id_0>
+REF:  por aqui
+---
+PRED: <extra_id_0>
+REF:  De diante deles ele foi aos poucos subindo
+---
+PRED: <extra_id_0>
+REF:  Falando primeiro a seus filhos que divide isto e os bons dos maus
+---
+PRED: <extra_id_0>
+REF:  Como sem ti
+---
+PRED: <extra_id_0>
+REF:  Estava ele despido sem mais em publico
+---
+PRED: <extra_id_0>.,ловна <extra_id_12>
+REF:  Eu tenho olhos claros
+---
+PRED: <extra_id_0>.
+REF:  Roco a mata
+---
+PRED: <extra_id_0>
+REF:  Pensai que algum dia a morte vira para bater em vossas portas
+---
+PRED: <extra_id_0>
+REF:  Colares azuis nao vistos ainda
+---
+PRED: <extra_id_0>
+REF:  Trouxe a coragem
+---
+PRED: <extra_id_0>
+REF:  Verdadeira morada de Deus filha de Deus
+---
+PRED: <extra_id_0>
+REF:  o patrimonio dado a mim por meu pai
+---
+PRED: <extra_id_0>
+REF:  O fogo te convem verdadeiramente para que nele te asses
+---
+PRED: <extra_id_0>.
+REF:  E como alguem procedera encontrando aquilo que esqueceu
+---
+PRED: <extra_id_0>
+REF:  Eu sou fino
+---
+PRED: <extra_id_0>
+REF:  Lamenta-te
+---
+PRED: <extra_id_0>
+REF:  apos verte-la dentro de alguma casca de coco
+---
+PRED: <extra_id_0>
+REF:  Muito devagar ele o mata lit nao se mostra ele finalmente matando-o
+---
+PRED: <extra_id_0>
+REF:  Qual e teu nome
+---
+PRED: <extra_id_0>
+REF:  Eu sou ou estou doido
+---
+PRED: <extra_id_0>
+REF:  Livra-nos tu
+---
+PRED: <extra_id_0>
+REF:  Atravessam suas maos assim como seus pes sobre a cruz pregando meu Senhor
+---
+PRED: <extra_id_0>
+REF:  Ah quem me dera comer veneno para que eu morresse
+---
+PRED: <extra_id_0>
+REF:  Os que nao acreditavam nele trabalharam em conjunto ficando a flecha-lo
+---
+PRED: <extra_id_0>
+REF:  Tenho medo tremo
+---
+PRED: <extra_id_0>
+REF:  Arrependendo-se de seus pecados deplorando-os
+---
+PRED: <extra_id_0> resume:
+REF:  Como sera que um habitante do inferno viveria neste mundo se Deus o fizesse viver fora dali um mes
+---
+PRED: <extra_id_0>.
+REF:  Assim como a gente reconhece o dia dos santos do mesmo modo tambem ate mesmo seus ossinhos a gente cultua tendo-os no pescoco
+---
+PRED: <extra_id_0>
+REF:  Grita tu lamenta-te
+---
+PRED: <extra_id_0>.
+REF:  Ele tem a agua esgotada
+---
+PRED: <extra_id_0>
+REF:  Ao chegar o oitavo dia cortaram seu prepucio
+---
+PRED: <extra_id_0>
+REF:  minha barba branca
+---
+PRED: <extra_id_0>
+REF:  Eis que estorvas muito tua vida dificultando-a
+---
+PRED: <extra_id_0>.
+REF:  Cheguei por terra
+---
+PRED: <extra_id_0>
+REF:  Isso e que deve ser bem amado isso verdadeiramente
+---
+PRED: <extra_id_0>
+REF:  Sobre grelhas de moquear de ferro assaram-no
+---
+PRED: <extra_id_0>
+REF:  Estava muito satisfeito na morada deles
+---
+PRED: <extra_id_0>
+REF:  Faze-me tu valente
+---
+PRED: <extra_id_0>
+REF:  Ah quem me dera eu fosse para o ceu
+---
+PRED: <extra_id_0>.,ловна <extra_id_12>
+REF:  Eu tenho catarata
+---
+PRED: <extra_id_0>.
+REF:  Vinde levai os malditos erguendo-os para sapeca-los em nosso fogo tostando-os bem
+---
+PRED: <extra_id_0>
+REF:  Olhe bem que por isso mesmo o maldito ataca o homem
+---
+PRED: <extra_id_0>
+REF:  Riscaram todo o teu corpo com ferro pontiagudo
+---
+PRED: <extra_id_0>
+REF:  Eu enfeio minh'alma
+---
+PRED: <extra_id_0>
+REF:  capim que fica estalando junco
+---
+PRED: <extra_id_0>
+REF:  Suas tunicas ficando a rasgar
+---
+PRED: <extra_id_0>
+REF:  Em que direcao eram pois meus atos passados
+---
+PRED: <extra_id_0>
+REF:  Vivendo como se estivessem unidos
+---
+PRED: <extra_id_0>
+REF:  Todos vao em procissao
+---
+PRED: <extra_id_0>
+REF:  Fiz taipa de pilao
+---
+PRED: <extra_id_0>
+REF:  Muito escura e a alma do que nao e batizado
+---
+PRED: <extra_id_0>.
+REF:  Obedece bem a mulher a seu marido ao encarrega-la de boas coisas
+---
+PRED: <extra_id_0>
+REF:  Sendo mau
+---
+PRED: <extra_id_0>
+REF:  por aqui
+---
+PRED: <extra_id_0>.
+REF:  espiga dele
+---
+PRED: <extra_id_0>
+REF:  Vai neste dia
+---
+PRED: <extra_id_0>
+REF:  Fui ao encontro do meio das aguas isto e para o alto-mar
+---
+PRED: <extra_id_0>
+REF:  Sao Pedro puxou a espada
+---
+PRED: <extra_id_0>
+REF:  A seu pai somente o homem obedece
+---
+PRED: <extra_id_0>
+REF:  Meteste a mao nas partes erogenas de teu proximo
+---
+PRED: <extra_id_0>
+REF:  Tu foste gabola lembrando-te de coisas mas
+---
+PRED: <extra_id_0>
+REF:  estando eu
+---
+PRED: <extra_id_0>
+REF:  pau do casco da canoa
+---
+PRED: <extra_id_0>.
+REF:  Eu tenho pintas
+---
+PRED: <extra_id_0>
+REF:  E a mim e que faz vir hoje para vos empurrar enxotando-vos desta sua terra
+---
+PRED: <extra_id_0>
+REF:  Qual era mesmo o nome dele
+---
+PRED: <extra_id_0>
+REF:  Consolas teu pai e tua mae em suas aflicoes
+---
+PRED: <extra_id_0>
+REF:  farinha puba farinha d'agua ou seja de mandioca curtida que se espremia no tipiti e que se passava pela urupema
+---
+PRED: <extra_id_0>
+REF:  Acreditas em falsas oferendas ou em pajelancas
+---
+PRED: <extra_id_0>
+REF:  velha maldosa
+---
+PRED: <extra_id_0>
+REF:  Ao passar minha familia tu cuidavas dela
+---
+PRED: <extra_id_0>
+REF:  Logo entao a cruz ergueram fincando-a
+---
+PRED: <extra_id_0>
+REF:  Que parecam juntar-se como um so
+---
+PRED: <extra_id_0>
+REF:  buraco das orelhas tapados
+---
+PRED: <extra_id_0>
+REF:  Escapuli das maos dele
+---
+PRED: <extra_id_0>
+REF:  Nao cozendo sequer sua comida
+---
+PRED: <extra_id_0>.
+REF:  Eu tenho olhos tortos
+---
+PRED: <extra_id_0>
+REF:  cacos de pedra
+---
+PRED: <extra_id_0>
+REF:  lugar em que o sol se poe poente oeste
+---
+PRED: <extra_id_0>
+REF:  Procedo conforme tua palavra
+---
+PRED: <extra_id_0>
+REF:  miolo tutano de osso
+---
+PRED: <extra_id_0>
+REF:  Tomei emprestada a canoa do indio
+---
+PRED: <extra_id_0>
+REF:  Fazendo-a estar como presa de Aguaixai
+---
+PRED: <extra_id_0>
+REF:  o que esta no pote o conteudo do pote
+---
+PRED: <extra_id_0>
+REF:  Fico a espojar-me
+---
+PRED: <extra_id_0>
+REF:  A mae de Deus a que me ameaca
+---
+PRED: <extra_id_0>
+REF:  Por os levarem os padres nao os amo
+---
+PRED: <extra_id_0>
+REF:  Tu mentiste acerca de teu proximo difamando-o
+---
+PRED: <extra_id_0>
+REF:  Acreditaste nas mentiras de alguem
+---
+PRED: <extra_id_0>
+REF:  propondo ser bom
+---
+PRED: <extra_id_0>
+REF:  Fico a espojar-me
+---
+PRED: <extra_id_0>
+REF:  Eu nao sou resistente eu nao sou firme
+---
+PRED: <extra_id_0>
+REF:  Livrou-a do pecado primeiro em que Adao nos pos
+---
+PRED: <extra_id_0>
+REF:  trucidador
+---
+PRED: <extra_id_0>.
+REF:  Cumpriste as palavras de teu confessor a auto-flagelacao os jejuns
+---
+PRED: <extra_id_0>.
+REF:  Lamentando terem nascido de suas maes
+---
+PRED: <extra_id_0>
+REF:  A canoa ja esta pronta
+---
+PRED: <extra_id_0>
+REF:  Geracao da alegria
+---
+PRED: <extra_id_0>
+REF:  Desemporcalhei-o
+---
+PRED: <extra_id_0>
+REF:  Sim eis aqui tambem minhas garras meu rabo comprido meus ganchos
+---
+PRED: <extra_id_0>
+REF:  Defeco
+---
+PRED: <extra_id_0>
+REF:  Todos os que confessou com os que escondeu voltara a confessar
+---
+PRED: <extra_id_0>
+REF:  As juntas de seus ossos afastando umas das outras
+---
+PRED: <extra_id_0>
+REF:  Alegrai-vos meus filhos por minha causa
+---
+PRED: <extra_id_0>
+REF:  Vira de novo Jesus Cristo do ceu futuramente
+---
+PRED: <extra_id_0>
+REF:  Antigamente estes habitantes da aldeia sob minhas maos estavam
+---
+PRED: <extra_id_0>
+REF:  Estando a destilar coisa muito amarga
+---
+PRED: <extra_id_0>
+REF:  Melhor que isso me seria pois morrer
+---
+PRED: <extra_id_0>!
+REF:  Ai por mais que eu esteja procurando alguma pousada irra faz-me sair sempre da aldeia o padre
+---
+PRED: <extra_id_0>
+REF:  Excitaste-o querendo expelir teu semen
+---
+PRED: <extra_id_0>
+REF:  Vestir os nus
+---
+PRED: <extra_id_0>
+REF:  Eu tenho roca propria isto e que nao faco com os outros
+---
+PRED: <extra_id_0>
+REF:  grande folha caida
+---
+PRED: <extra_id_0>
+REF:  curtinho
+---
+PRED: <extra_id_0>
+REF:  E tambem as esposas de seus filhos
+---
+PRED: <extra_id_0>
+REF:  Aqueles outros grandes chefes em ti confiam
+---
+PRED: <extra_id_0>
+REF:  Por isso mesmo os escravos festejam este dia
+---
+PRED: <extra_id_0>
+REF:  eixo da roda de madeira que gira no engenho de acucar
+---
+PRED: <extra_id_0>
+REF:  Assa-me o Lourenco tostado embora eu seja um rei
+---
+PRED: <extra_id_0>
+REF:  Cumpri minha palavra
+---
+PRED: <extra_id_0>
+REF:  Esbofeteei suas nadegas
+---
+PRED: <extra_id_0>
+REF:  Faca-se tua vontade
+---
+PRED: <extra_id_0>
+REF:  Toleraste as pessoas em sua crenca no paje
+---
+PRED: <extra_id_0>
+REF:  Eu sou Sauiaeta Famoso e meu nome
+---
+PRED: <extra_id_0>.
+REF:  Esbofeteando suas faces
+---
+PRED: <extra_id_0>
+REF:  Eu sou Sauiaeta Famoso e meu nome
+---
+PRED: <extra_id_0>
+REF:  Deus ama-te muito enchendo-te de graca
+---
+PRED: <extra_id_0>
+REF:  Muito bem entao Que venha
+---
+PRED: <extra_id_0>
+REF:  Vim ainda agora
+---
+PRED: <extra_id_0>
+REF:  Eis que teu filho me fez mudar de ideia
+---
+PRED: <extra_id_0>
+REF:  Confundindo as aldeias desde a Galileia
+---
+PRED: <extra_id_0>
+REF:  querendo que a canoa passe adiante
+---
+PRED: <extra_id_0>
+REF:  Tu mesmo dizes isso
+---
+PRED: <extra_id_0>
+REF:  Uma criancinha es ou na condicao de uma criancinha estas
+---
+PRED: <extra_id_0>
+REF:  flor de planta flor em geral
+---
+PRED: <extra_id_0>
+REF:  A felicidade no ceu
+---
+PRED: <extra_id_0>
+REF:  Nos somos gemeos
+---
+PRED: <extra_id_0>
+REF:  O que e comum e aquela mulher quebrar em pedacos nossas cabecas
+---
+PRED: <extra_id_0>:
+REF:  Mesmo vingando-se dos que o maltratam o homem transgride a palavra de Deus
+---
+PRED: <extra_id_0>
+REF:  Como estas sao vossas casas -Diferem muito
+---
+PRED: <extra_id_0>
+REF:  Eu sou muito manchado
+---
+PRED: <extra_id_0>
+REF:  Anunciando os acontecimentos futuros
+---
+PRED: <extra_id_0>
+REF:  Vamos comigo
+---
+PRED: <extra_id_0>
+REF:  Detestas completamente suas obras
+---
+PRED: <extra_id_0>
+REF:  Hei de flecha-lo
+---
+PRED: <extra_id_0>?
+REF:  Sera que estais sossegados sem mais nos vossos montes de maldades
+---
+PRED: <extra_id_0>
+REF:  Minha coragem ainda existe
+---
+PRED: <extra_id_0>
+REF:  Nao nos deixes tu fazer cair em tentacao
+---
+PRED: <extra_id_0>
+REF:  Eu fico salivando
+---
+PRED: <extra_id_0>
+REF:  Dirigi-a
+---
+PRED: <extra_id_0>
+REF:  Eu nao tenho visao eu sou cego
+---
+PRED: <extra_id_0>
+REF:  Aproximando-se da morte suou bastante
+---
+PRED: <extra_id_0>
+REF:  Para que sejamos dignos do que Cristo prometeu
+---
+PRED: <extra_id_0>
+REF:  Resgatei os indios
+---
+PRED: <extra_id_0>
+REF:  Retiraram-no para o patio colocando uma cruz no ombro dele
+---
+PRED: <extra_id_0>.
+REF:  O pao que apanhou em suas maos devolveu-o como seu corpo e o vinho como seu sangue
+---
+PRED: <extra_id_0>
+REF:  Eis que tambem minhas presas hei de dar algumas para ti para que quebres suas cabecas
+---
+PRED: <extra_id_0>
+REF:  A cruz lugar em que se pregou a Cristo Nosso Senhor os judeus a enterraram
+---
+PRED: <extra_id_0>
+REF:  Eia tu avante
+---
+PRED: <extra_id_0>
+REF:  Ser chamado ladrao e caracteristica do homem mau
+---
+PRED: <extra_id_0>
+REF:  Hoje mesmo
+---
+PRED: <extra_id_0>
+REF:  Mas ele nao era Deus
+---
+PRED: <extra_id_0>
+REF:  Eis que como esta no ceu Nosso Senhor esta dentro do pao
+---
+PRED: <extra_id_0>
+REF:  Eu tenho os buracos da orelhas tapados
+---
+PRED: <extra_id_0>.
+REF:  Ele apos crescer entregou-se aos homens maus fazendo-se matar na cruz estirado
+---
+PRED: <extra_id_0>
+REF:  Aticei-o
+---
+PRED: <extra_id_0>
+REF:  Faze fugir o diabo
+---
+PRED: <extra_id_0>
+REF:  Logo no terceiro dia voltou a viver
+---
+PRED: <extra_id_0>
+REF:  dor em sentido generico
+---
+PRED: <extra_id_0>
+REF:  de dia todo o dia
+---
+PRED: <extra_id_0> resume resume
+REF:  Igualmente a morte esta entre os mocos e entre os velhos nao distante
+---
+PRED: <extra_id_0>
+REF:  Que esteja comigo tambem ao estar eu em ocupacao
+---
+PRED: <extra_id_0>
+REF:  Hospedo-me com Pedro
+---
+PRED: <extra_id_0>
+REF:  Pu-los em enfiada
+---
+PRED: <extra_id_0>
+REF:  Eu sou o grande tamoio Aimbire uma sucuriju
+---
+PRED: <extra_id_0>
+REF:  Ele se lembra
+---
+PRED: <extra_id_0>
+REF:  Muito bem eis que aqui estou trazendo para ti estes siris
+---
+PRED: <extra_id_0>
+REF:  Nao hei de estar na maldade diante dele
+---
+PRED: <extra_id_0>
+REF:  A gente nao come carne de caca no dia de jejum
+---
+PRED: <extra_id_0>
+REF:  Como disse a seu pai antes de morrer
+---
+PRED: <extra_id_0>
+REF:  Pagou outrora por seu proceder assim
+---
+PRED: <extra_id_0>!
+REF:  Vem coisa fedorenta coisa nojenta bora maritacaca sanguessuga tamarutaca
+---
+PRED: <extra_id_0>
+REF:  Depois disso hoje vamos quebrar as cabecas dos reis
+---
+PRED: <extra_id_0>
+REF:  Fui sem resultado
+---
+PRED: <extra_id_0>
+REF:  Os reis apressados junto ao nenenzinho vieram
+---
+PRED: <extra_id_0>
+REF:  A seus olhos eu hei de estar
+---
+PRED: <extra_id_0>»ᕗ
+REF:  Eu tenho criacoes
+---
+PRED: <extra_id_0>
+REF:  intervalo de agua ilha
+---
+PRED: <extra_id_0>
+REF:  cara de onca
+---
+PRED: <extra_id_0>
+REF:  Mas os aracajas deleitam-se com eles
+---
+PRED: <extra_id_0>
+REF:  Muito a proposito a gente comemorara bem esse dia
+---
+PRED: <extra_id_0>
+REF:  estando tu por longo tempo preguicoso
+---
+PRED: <extra_id_0>
+REF:  certo homem branco nobre
+---
+PRED: <extra_id_0>
+REF:  Eu nao queria vir mas vim irando os homens brancos
+---
+PRED: <extra_id_0>
+REF:  no da garganta
+---
+PRED: <extra_id_0>
+REF:  Eu sou certeiro
+---
+PRED: <extra_id_0>
+REF:  Nao perdoa
+---
+PRED: <extra_id_0>
+REF:  Aprende acerca da palavra de Deus em que crera
+---
+PRED: <extra_id_0>
+REF:  Ainda bem que aprendeu
+---
+PRED: <extra_id_0>
+REF:  Fiquei-o esfregando com gordura
+---
+PRED: <extra_id_0>.
+REF:  Se o que tem relacoes sexuais com uma solteira ou por ela se atrai transgride muito a palavra de Deus tanto mais o que perverte uma casada ou o que se atrai por ela
+---
+PRED: <extra_id_0>.
+REF:  Na verdade tres vezes negaras ser meu discipulo antes de o galo cantar duas vezes
+---
+PRED: <extra_id_0>
+REF:  Ajuntam-se
+---
+PRED: <extra_id_0>
+REF:  Urdiste mentiras contra alguem envergonhando-o fazendo-o ser tratado como mentiroso
+---
+PRED: <extra_id_0>
+REF:  Nao tendes ouvidos como de costume
+---
+PRED: <extra_id_0>.
+REF:  Fujo
+---
+PRED: <extra_id_0>
+REF:  Descreve tua terra para mim
+---
+PRED: <extra_id_0>
+REF:  Estas ras que as comas em retribuicao por isso
+---
+PRED: <extra_id_0>
+REF:  antes de irem para la
+---
+PRED: <extra_id_0>
+REF:  Ao lado de sua propria mae a crianca esta deitada
+---
+PRED: <extra_id_0>
+REF:  Eu sou curto
+---
+PRED: <extra_id_0>
+REF:  Ha algum homem na condicao de seu substituto
+---
+PRED: <extra_id_0>. <extra_id_10>e <extra_id_3>
+REF:  Acordo de madrugada
+---
+PRED: <extra_id_0>
+REF:  Vem compadecedor de mim
+---
+PRED: <extra_id_0>
+REF:  Dei-o em troca
+---
+PRED: <extra_id_0>.
+REF:  Serao muito fedorentos serao muito podres corroidos de vermes e de bernes
+---
+PRED: <extra_id_0>
+REF:  Amarrei-me o cabelo
+---
+PRED: <extra_id_0>
+REF:  o que sofre febre
+---
+PRED: <extra_id_0>
+REF:  Rejo pessoas
+---
+PRED: <extra_id_0>
+REF:  Vou-me esconder
+---
+PRED: <extra_id_0>
+REF:  Que experimentemos a forca dos homens conosco
+---
+PRED: <extra_id_0>
+REF:  Eis que ai ele vai
+---
+PRED: <extra_id_0>
+REF:  terrivel para mim ve-los
+---
+PRED: <extra_id_0>
+REF:  Estive assentado no tronco de uma arvore
+---
+PRED: <extra_id_0>
+REF:  o que caca cacador
+---
+PRED: <extra_id_0>
+REF:  muito belo o teu nome
+---
+PRED: <extra_id_0>.
+REF:  Afastara os que sao maus dos que sao bons
+---
+PRED: <extra_id_0>
+REF:  Quem me dera eu o fizesse estar deitado comigo assim
+---
+PRED: <extra_id_0>
+REF:  cova de sepultura
+---
+PRED: <extra_id_0>
+REF:  somente um bocado
+---
+PRED: <extra_id_0>
+REF:  ingua de virilha
+---
+PRED: <extra_id_0>
+REF:  Salve Rainha mae de misericordia vida a que e doce
+---
+PRED: <extra_id_0>
+REF:  Lambi-o
+---
+PRED: <extra_id_0>
+REF:  Verdadeiramente eis aqui teu caminho aquele que tu procuras
+---
+PRED: <extra_id_0>?
+REF:  De modo algum
+---
+PRED: <extra_id_0>
+REF:  Nao foi a toa
+---
+PRED: <extra_id_0>
+REF:  Fazendo-me enxergar
+---
+PRED: <extra_id_0>
+REF:  Dar de beber aos sedentos
+---
+PRED: <extra_id_0>
+REF:  Nao me da possibilidade
+---
+PRED: <extra_id_0>
+REF:  No caso de ser dificil frustrar-se essa minha morte que nao se faca minha vontade
+---
+PRED: <extra_id_0>
+REF:  Que eu me lave a boca
+---
+PRED: <extra_id_0>
+REF:  Bem sozinho estou
+---
+PRED: <extra_id_0>
+REF:  Mas sao eles os que mandam fazer cauim
+---
+PRED: <extra_id_0>
+REF:  Nao se afligem os outros
+---
+PRED: <extra_id_0>
+REF:  Mencionaste o nome de alguem para o padre
+---
+PRED: <extra_id_0>
+REF:  Resgatar os cativos
+---
+PRED: <extra_id_0>
+REF:  Tenho-o no meu pescoco
+---
+PRED: <extra_id_0>
+REF:  Por teres misericordia nossa alma visitas
+---
+PRED: <extra_id_0>
+REF:  Os que assim dizem
+---
+PRED: <extra_id_0>
+REF:  esse outro
+---
+PRED: <extra_id_0>
+REF:  Nao ha nada errado
+---
+PRED: <extra_id_0>
+REF:  Eu nao tenho dentes
+---
+PRED: <extra_id_0>
+REF:  Eu sou maior que tu
+---
+PRED: <extra_id_0>
+REF:  Eu tenho muito preco
+---
+PRED: <extra_id_0>
+REF:  poleiro de aves
+---
+PRED: <extra_id_0>
+REF:  Por que Deus os deu para a gente
+---
+PRED: <extra_id_0>
+REF:  Como disse aos seus tres discipulos apos sua entrada no horto
+---
+PRED: <extra_id_0>
+REF:  o que e ou deve ser enforcado
+---
+PRED: <extra_id_0>
+REF:  armacao de leito
+---
+PRED: <extra_id_0>
+REF:  O sol eclipsa-se
+---
+PRED: <extra_id_0>
+REF:  Nos somos gemeos
+---
+PRED: <extra_id_0>
+REF:  Para o padre conta-lo-a para que o anuncie na igreja
+---
+PRED: <extra_id_0>
+REF:  Dia muito bom
+---
+PRED: <extra_id_0>
+REF:  Eu tenho o sangue escorrido
+---
+PRED: <extra_id_0>
+REF:  Que farao no ceu
+---
+PRED: <extra_id_0>
+REF:  Nao comas este fruto que me e reservado
+---
+PRED: <extra_id_0>
+REF:  Estou em cilada
+---
+PRED: <extra_id_0>
+REF:  Querem afugentar-te
+---
+PRED: <extra_id_0>
+REF:  Eu permaneco seu guardiao
+---
+PRED: <extra_id_0>
+REF:  Na verdade tres vezes negaras ser meu discipulo antes de o galo cantar duas vezes
+---
+PRED: <extra_id_0>
+REF:  O que Cristo deixa como chefes dos cristaos batizados
+---
+PRED: <extra_id_0>
+REF:  Tomaste pocao querendo o aborto de teu filho
+---
+PRED: <extra_id_0>
+REF:  as porcoes miudas dela o refugo dela
+---
+PRED: <extra_id_0>
+REF:  Compadeci-me dele
+---
+PRED: <extra_id_0>
+REF:  Torno a trazer a roupa
+---
+PRED: <extra_id_0>
+REF:  Fiquei-o simulando
+---
+PRED: <extra_id_0>
+REF:  Estive por longo tempo
+---
+PRED: <extra_id_0>
+REF:  Aimbire vem diante de mim Apressa-te
+---
+PRED: <extra_id_0>
+REF:  Talvez queira agarrar-me novamente este passaro grande
+---
+PRED: <extra_id_0>
+REF:  Ah quem me dera eu tivesse ido
+---
+PRED: <extra_id_0>
+REF:  Isto era muito preto de fato
+---
+PRED: <extra_id_0>
+REF:  Afirmamos que isso e o que deve ser enaltecido
+---
+PRED: <extra_id_0>
+REF:  Nao brigarao
+---
+PRED: <extra_id_0>
+REF:  Defequei ou fui defecar
+---
+PRED: <extra_id_0>
+REF:  Oxala ele viesse
+---
+PRED: <extra_id_0>.
+REF:  Impedem os casamentos
+---
+PRED: <extra_id_0>
+REF:  Tu te alegras quando um homem apalpa teus seios
+---
+PRED: <extra_id_0>
+REF:  Nos estamos bem arrasados
+---
+PRED: <extra_id_0>
+REF:  Da tambem Deus neste mundo algumas coisas aos que sao bons
+---
+PRED: <extra_id_0>
+REF:  Embora me evoques os atos daqueles arrependi-me bem resgatando-os tambem
+---
+PRED: <extra_id_0>
+REF:  Em que lado pora os que sao bons
+---
+PRED: <extra_id_0>
+REF:  Cada vez que tem medo da morte
+---
+PRED: <extra_id_0>
+REF:  Nos somos muitos
+---
+PRED: <extra_id_0>
+REF:  Arrepiando-te o desejo sensual aumentou teus olhos
+---
+PRED: <extra_id_0>
+REF:  Atacamo-los prendemo-los antes que se consolem
+---
+PRED: <extra_id_0>
+REF:  Estando como seu guardiao ou sendo seu guardiao
+---
+PRED: <extra_id_0>
+REF:  Logo vencendo os temiminos habitantes daqui frequenta-los-ei
+---
+PRED: <extra_id_0>
+REF:  A cada dez dar um como quinhao de Deus
+---
+PRED: <extra_id_0>
+REF:  Revelou-se a eles somente alegrando-os
+---
+PRED: <extra_id_0>
+REF:  Eis que ela e minha companheira
+---
+PRED: <extra_id_0>
+REF:  Vivo na virtude
+---
+PRED: <extra_id_0>
+REF:  Querendo nossa preocupacao com o futuro estado de nossa alma
+---
+PRED: <extra_id_0>
+REF:  Lavro as madeiras
+---
+PRED: <extra_id_0>
+REF:  o que anuncia as coisas o pregador
+---
+PRED: <extra_id_0>
+REF:  logo que vim
+---
+PRED: <extra_id_0>.
+REF:  Tao logo ao sair a alma da gente de seu proprio corpo seu envoltorio Deus a julga
+---
+PRED: <extra_id_0>
+REF:  pedra de afiar que gira pedra de afiar de barbeiro
+---
+PRED: <extra_id_0>
+REF:  Curaste os doentes
+---
+PRED: <extra_id_0>?
+REF:  Constantemente
+---
+PRED: <extra_id_0>
+REF:  Eram bons na totalidade quando Deus comecou a cria-los
+---
+PRED: <extra_id_0>
+REF:  Tu foste desonesto com alguma irma verdadeira de tua esposa
+---
+PRED: <extra_id_0>
+REF:  Para afugentar o diabo
+---
+PRED: <extra_id_0>
+REF:  Minha pele tem titinga
+---
+PRED: <extra_id_0>
+REF:  Enfim esses temiminos nao acatam a lei de Deus
+---
+PRED: <extra_id_0>
+REF:  Teco roupas
+---
+PRED: <extra_id_0>
+REF:  a flor d'agua na superficie da agua
+---
+PRED: <extra_id_0>
+REF:  Tinjo-o de vermelho com urucu
+---
+PRED: <extra_id_0>
+REF:  Ele sempre vai
+---
+PRED: <extra_id_0>
+REF:  os dons do Espirito Santo
+---
+PRED: <extra_id_0>
+REF:  seu fechamento
+---
+PRED: <extra_id_0>
+REF:  Em vao creem em ti
+---
+PRED: <extra_id_0>
+REF:  Como estava Jesus quando ele o fez sair
+---
+PRED: <extra_id_0>
+REF:  pelos dias a cada dia
+---
+PRED: <extra_id_0>
+REF:  Enfileiramo-nos
+---
+PRED: <extra_id_0>
+REF:  Tu trouxeste tua esposa
+---
+PRED: <extra_id_0>
+REF:  A gente nao se esquece do que e saboroso so na aparencia
+---
+PRED: <extra_id_0>
+REF:  Eu tenho a carne tremula
+---
+PRED: <extra_id_0>.
+REF:  Eu sou fibroso
+---
+PRED: <extra_id_0>
+REF:  Pelo menos eu
+---
+PRED: <extra_id_0>
+REF:  Ainda bem que ainda outrora repeli meus pecados
+---
+PRED: <extra_id_0>
+REF:  Os padrinhos junto ao padre ou a outra pessoa nao podem casar-se com o que batizaram
+---
+PRED: <extra_id_0>
+REF:  Deleitando-se com as escravas ruins nao quiseram vir aqui
+---
+PRED: <extra_id_0>! <extra_id_10>!
+REF:  Eu estava ainda cansado
+---
+PRED: <extra_id_0>
+REF:  pedaco de roupa retalho de pano
+---
+PRED: <extra_id_0>
+REF:  Enquanto eu o levo
+---
+PRED: <extra_id_0>
+REF:  O que conta os pecados escondidos de alguem
+---
+PRED: <extra_id_0>
+REF:  Por causa de sua crenca nele nao duvidando
+---
+PRED: <extra_id_0>
+REF:  Mas nao tentam esses aprender sempre
+---
+PRED: <extra_id_0>
+REF:  Ele esta boquiaberto
+---
+PRED: <extra_id_0>
+REF:  Aqueles serao saciados
+---
+PRED: <extra_id_0>
+REF:  Atravessei-o sem mais sem entrar nem pousar
+---
+PRED: <extra_id_0>
+REF:  Assim que pos sua alma em seu corpo Deus a preservou
+---
+PRED: <extra_id_0>
+REF:  muito com efeito o grande zelo
+---
+PRED: <extra_id_0>
+REF:  Ja se juntaram por causa disso muitos mocos bebedores de cauim
+---
+PRED: <extra_id_0>
+REF:  Igualmente guarda vossa terra
+---
+PRED: <extra_id_0>.
+REF:  Eu sou rechonchudao isto e de corpo muito largo
+---
+PRED: <extra_id_0>
+REF:  empenadura de flecha isto e penas de asas de passaros que eram atadas as flechas
+---
+PRED: <extra_id_0>
+REF:  A danca e que e boa
+---
+PRED: <extra_id_0>
+REF:  Afastai-vos daquele que eu guardo
+---
+PRED: <extra_id_0>
+REF:  Esta molestando as pessoas
+---
+PRED: <extra_id_0>
+REF:  Por isso mesmo a gente entao o louva assim que o ve
+---
+PRED: <extra_id_0>
+REF:  Que va com enfase
+---
+PRED: <extra_id_0>
+REF:  Nao moraras com tua gente
+---
+PRED: <extra_id_0>
+REF:  Sao Sebastiao tambem o que cuidava das guerras destruiu os tamoios os valentes
+---
+PRED: <extra_id_0>
+REF:  Enruguei-me
+---
+PRED: <extra_id_0>
+REF:  Mas livra-nos tu das coisas mas
+---
+PRED: <extra_id_0>
+REF:  Que tipo de coisa sera que e isto
+---
+PRED: <extra_id_0>
+REF:  Que venha para nos curar
+---
+PRED: <extra_id_0>
+REF:  tres ou quatro anos apos os enterrarem
+---
+PRED: <extra_id_0>
+REF:  Eis aqui meus chifroes meus dentes Sim eis aqui tambem minhas garras
+---
+PRED: <extra_id_0>
+REF:  A chuva ficava amanhecendo a cair
+---
+PRED: <extra_id_0>
+REF:  Temos nossas coisas comuns
+---
+PRED: <extra_id_0>
+REF:  Voa para longe de nos
+---
+PRED: <extra_id_0>
+REF:  Para nos ensinar a orar a Deus
+---
+PRED: <extra_id_0>
+REF:  Abarquei-o
+---
+PRED: <extra_id_0>
+REF:  Faco minha futura casa
+---
+PRED: <extra_id_0>
+REF:  Meu senhor eis que eu nao sou digno para que entres em meu coracao
+---
+PRED: <extra_id_0>
+REF:  Doador de nossa vida
+---
+PRED: <extra_id_0>
+REF:  Cortei um pedaco
+---
+PRED: <extra_id_0>
+REF:  No meio dos anjos fe-la subir
+---
+PRED: <extra_id_0>
+REF:  Nesta noite tomou inicio
+---
+PRED: <extra_id_0>
+REF:  Verdadeiros amaldicoadores de Deus no fogo te assaram
+---
+PRED: <extra_id_0>
+REF:  Contar aos homens a futura felicidade deles
+---
+PRED: <extra_id_0>
+REF:  Tiveste relacoes com uma virgem tambem
+---
+PRED: <extra_id_0>.
+REF:  Por te fazer trabalhar um homem branco trabalhaste num dia que deve ser guardado
+---
+PRED: <extra_id_0>
+REF:  Tera a mulher ciumes de seu marido
+---
+PRED: <extra_id_0>
+REF:  remedio contra dor de picada de cobra antidoto contra veneno de cobra
+---
+PRED: <extra_id_0>.
+REF:  Na verdade hei de me enfeitar pretejando-me
+---
+PRED: <extra_id_0>
+REF:  Apazigua seu filho que esta irado
+---
+PRED: <extra_id_0>
+REF:  buraco do chao
+---
+PRED: <extra_id_0>'
+REF:  eco de minhas palavras
+---
+PRED: <extra_id_0>
+REF:  na sua preocupacao com torpezas
+---
+PRED: <extra_id_0>
+REF:  Eu estou-me amancebando
+---
+PRED: <extra_id_0>! <extra_id_10>!
+REF:  Eu sou antigo filho de Jetuu
+---
+PRED: <extra_id_0>
+REF:  Deste veneno para uma mulher gravida
+---
+PRED: <extra_id_0>
+REF:  Embora ele fosse nosso pai primeiro o que lhe foi dito foi -Nao comas este fruto
+---
+PRED: <extra_id_0>
+REF:  Cortei-lhe a garganta degolei-o
+---
+PRED: <extra_id_0>
+REF:  Nao havera outra comida
+---
+PRED: <extra_id_0>
+REF:  Aguei-a
+---
+PRED: <extra_id_0>
+REF:  na ponta da rede no punho da rede
+---
+PRED: <extra_id_0>
+REF:  Eu hoje quero o lombo deles
+---
+PRED: <extra_id_0>
+REF:  do lado de fora dele pex de um vaso de algo que tenha lado interior e exterior
+---
+PRED: <extra_id_0>
+REF:  Eu sou habilidoso
+---
+PRED: <extra_id_0>
+REF:  Semelhante a que coisa era o suor dele
+---
+PRED: <extra_id_0>
+REF:  por que
+---
+PRED: <extra_id_0>
+REF:  Estando nos no amor de Deus a verdadeira felicidade temos
+---
+PRED: <extra_id_0>
+REF:  Arranquei o miolo dele
+---
+PRED: <extra_id_0>.
+REF:  Assei-me
+---
+PRED: <extra_id_0>
+REF:  Jesus Cristo o juiz
+---
+PRED: <extra_id_0>
+REF:  Hei de ve-lo
+---
+PRED: <extra_id_0>
+REF:  E por outra parte semelhantemente o proprio mar sera mais terrivel do que e seu costume fazendo as ondas grande estrondo
+---
+PRED: <extra_id_0>
+REF:  Que fez neste mundo depois que cresceu
+---
+PRED: <extra_id_0>
+REF:  Somos vizinhos uns dos outros
+---
+PRED: <extra_id_0>
+REF:  Ficando a esperar ansiosamente a morte Ar Cat 158v Korikorinha'ub 'ara repiaki i moanhmo - Deseja logo ver o dia ficando ansioso por ele
+---
+PRED: <extra_id_0>
+REF:  Vai a fonte
+---
+PRED: <extra_id_0>
+REF:  Levo-o na sua trela
+---
+PRED: <extra_id_0>
+REF:  Que va Guaixara para o fogo
+---
+PRED: <extra_id_0>
+REF:  Eis que enfim ja chega
+---
+PRED: <extra_id_0>
+REF:  Eis que na verdade esse ato e o que tem o dom de nos fazer fracassar
+---
+PRED: <extra_id_0>
+REF:  tempo lugar modo etc de tocar de bater
+---
+PRED: <extra_id_0>
+REF:  Lembrando-se dele assim que acorda
+---
+PRED: <extra_id_0>
+REF:  Onde Deus esta
+---
+PRED: <extra_id_0>
+REF:  Aos tapuias trouxe as velhas de alem de Maguea Entao fiquei descansado
+---
+PRED: <extra_id_0>
+REF:  Mandando faze-los embarcar numa arca de madeira semelhante a um navio
+---
+PRED: <extra_id_0>
+REF:  o batizado
+---
+PRED: <extra_id_0>
+REF:  Faz-me sair sempre da aldeia o padre
+---
+PRED: <extra_id_0>
+REF:  tempo lugar instrumento causa modo companhia etc de matar
+---
+PRED: <extra_id_0>
+REF:  Nao desiste nosso inimigo de sempre nos tentar
+---
+PRED: <extra_id_0>
+REF:  Mas os doentes a comem bem certamente
+---
+PRED: <extra_id_0>
+REF:  Tu mesmo es causa de teu dano
+---
+PRED: <extra_id_0>
+REF:  Nao sao sem consequencias os teus pecados
+---
+PRED: <extra_id_0>
+REF:  Cura-se as vezes
+---
+PRED: <extra_id_0>
+REF:  Taquari e Tapera que esta diante dela acreditam em mim
+---
+PRED: <extra_id_0>
+REF:  O peixe e-me enjoativo
+---
+PRED: <extra_id_0>
+REF:  Eia levemos adiante deles esta mucurana
+---
+PRED: <extra_id_0>
+REF:  Em nossa testa poe a cruz e sobre nosso coracao tambem
+---
+PRED: <extra_id_0>
+REF:  Seu fiho ja nasceu
+---
+PRED: <extra_id_0>
+REF:  Espero-o no seu caminho
+---
+PRED: <extra_id_0>
+REF:  Tu queres ser mau Has de ir pois para teu fogo
+---
+PRED: <extra_id_0>
+REF:  Grudei penagens nele
+---
+PRED: <extra_id_0>
+REF:  E de que maneira e homem verdadeiro como nos
+---
+PRED: <extra_id_0>
+REF:  Enfim os mocos escondem seus muito maus procedimentos
+---
+PRED: <extra_id_0>
+REF:  Conforta-me tu
+---
+PRED: <extra_id_0>
+REF:  Envergonha-se o sol nascendo diante de teu brilho
+---
+PRED: <extra_id_0>
+REF:  Confessaste-te antes de nascer teu filho
+---
+PRED: <extra_id_0>
+REF:  Maltratando-o todos os seus suditos
+---
+PRED: <extra_id_0>
+REF:  Nao cometas furto
+---
+PRED: <extra_id_0>
+REF:  Eles na verdade em tres pessoas se distinguem na uniao de seu unico ser divino
+---
+PRED: <extra_id_0>
+REF:  Mostrando-o aos judeus
+---
+PRED: <extra_id_0>
+REF:  Um servo do principe esbofeteou sua cara
+---
+PRED: <extra_id_0>! <extra_id_10>!
+REF:  Eu sou coxo
+---
+PRED: <extra_id_0>.
+REF:  palavras desatinadas
+---
+PRED: <extra_id_0>
+REF:  Eu em vez disso quero presas em alguns bebados
+---
+PRED: <extra_id_0>:
+REF:  Quantas vezes o homem transgride aquele mandamento apos atrair-se por uma mulher ou apos conversar com ela enquanto nao toca nela
+---
+PRED: <extra_id_0>
+REF:  Digo mal dele
+---
+PRED: <extra_id_0>
+REF:  Arruinei a todos fazendo-os roubar tambem
+---
+PRED: <extra_id_0>
+REF:  Dizem que fui
+---
+PRED: <extra_id_0>
+REF:  Quem cumpre aquele mandamento
+---
+PRED: <extra_id_0>
+REF:  homem membrudo
+---
+PRED: <extra_id_0>
+REF:  Como um galo te deitas
+---
+PRED: <extra_id_0>
+REF:  Fa-los-ei correr comigo fa-los-ei voar comigo
+---
+PRED: <extra_id_0>
+REF:  Contando-o digo-o e desdigo-o
+---
+PRED: <extra_id_0>
+REF:  Eu hei de vingar-te
+---
+PRED: <extra_id_0>
+REF:  Eu o diabao assado
+---
+PRED: <extra_id_0>
+REF:  Ficando a tomar pocoes para nao se gerar uma crianca
+---
+PRED: <extra_id_0>
+REF:  Visito os aposentos dos indios
+---
+PRED: <extra_id_0>»㽇licitud
+REF:  extremidades de minhas maos
+---
+PRED: <extra_id_0>
+REF:  chefes valentes
+---
+PRED: <extra_id_0>
+REF:  cantinho dela
+---
+PRED: <extra_id_0>
+REF:  Para honrar a Deus
+---
+PRED: <extra_id_0>
+REF:  Que va toda a minha doenca para longe de minha alma
+---
+PRED: <extra_id_0>
+REF:  Nao sao muitos meus pecados
+---
+PRED: <extra_id_0>
+REF:  Teus pecados estando a aumentar com efeito
+---
+PRED: <extra_id_0>
+REF:  daqui a pouquinho
+---
+PRED: <extra_id_0>
+REF:  Eu sou calvo
+---
+PRED: <extra_id_0>
+REF:  Quais as novidades Quais as novas
+---
+PRED: <extra_id_0>
+REF:  Fogo em que se elimina a divida de nossos pecados
+---
+PRED: <extra_id_0>
+REF:  Eu nao tenho boca cuidadosa isto e sou destemido em falar
+---
+PRED: <extra_id_0>
+REF:  Arranca-te o nome por causa dos malditos para que sejas muito famoso
+---
+PRED: <extra_id_0>
+REF:  Se eu o mandasse
+---
+PRED: <extra_id_0>
+REF:  Veio de novo achando-os novamente no sono
+---
+PRED: <extra_id_0>
+REF:  Nao trabalhamos neste dia
+---
+PRED: <extra_id_0>
+REF:  Eu sou habil em assim agir
+---
+PRED: <extra_id_0>
+REF:  vara
+---
+PRED: <extra_id_0>
+REF:  Que coisas quer o diabo
+---
+PRED: <extra_id_0>.
+REF:  Eu estou morno
+---
+PRED: <extra_id_0>
+REF:  Parece flutuar
+---
+PRED: <extra_id_0>
+REF:  Fiquei em pranto
+---
+PRED: <extra_id_0>.
+REF:  Por isso mesmo quiseram igualar-se todos a seu criador
+---
+PRED: <extra_id_0>
+REF:  Desceu para o meio da terra
+---
+PRED: <extra_id_0>
+REF:  pedra de amolar que gira pedra de barbeiro
+---
+PRED: <extra_id_0>.
+REF:  Estou tendo polucao
+---
+PRED: <extra_id_0>
+REF:  Estou na medida
+---
+PRED: <extra_id_0>
+REF:  Tiro a sua ferrugem
+---
+PRED: <extra_id_0>
+REF:  linha grossa de pescar
+---
+PRED: <extra_id_0>
+REF:  gordura de animal
+---
+PRED: <extra_id_0>
+REF:  Nao trouxeste foices
+---
+PRED: <extra_id_0>
+REF:  as criancas que completam dois anos
+---
+PRED: <extra_id_0>:
+REF:  Apos resgatares bem tuas maldades antigas que te regozijes muito com a virtude
+---
+PRED: <extra_id_0>
+REF:  Sim esses me satisfazem
+---
+PRED: <extra_id_0>
+REF:  Afasta-te Vai-te daqui ja
+---
+PRED: <extra_id_0>
+REF:  os que foram seus companheiros seus ex-companheiros
+---
+PRED: <extra_id_0>
+REF:  Rapei-lhe o queixo barbeei-o
+---
+PRED: <extra_id_0>
+REF:  Como seus discipulos procederam vendo tratar assim a seu senhor
+---
+PRED: <extra_id_0>
+REF:  Compadece-te de nos
+---
+PRED: <extra_id_0>
+REF:  Resisti-lhe defendendo-me
+---
+PRED: <extra_id_0>
+REF:  Tao logo ouvindo o teu nome o diabo esta tremendo
+---
+PRED: <extra_id_0>
+REF:  Devem amar-se muito os que se casaram um com o outro
+---
+PRED: <extra_id_0>
+REF:  No caso de o desejares muito mesmo que se faca tua vontade
+---
+PRED: <extra_id_0>
+REF:  Nao Estou bebado
+---
+PRED: <extra_id_0>
+REF:  Para nos honrarem os indios fazem festa
+---
+PRED: <extra_id_0>
+REF:  Nao acabam os desejos sensuais a lascivia as maledicencias
+---
+PRED: <extra_id_0>
+REF:  Vamos ao seu caminho
+---
+PRED: <extra_id_0>
+REF:  Derrubei-o
+---
+PRED: <extra_id_0>
+REF:  Eu estou debilitado
+---
+PRED: <extra_id_0>
+REF:  Mas minha sujeira era muita
+---
+PRED: <extra_id_0>
+REF:  Mas apanha antes meu chefe
+---
+PRED: <extra_id_0>
+REF:  Faze perdoar a nos
+---
+PRED: <extra_id_0>
+REF:  Eis que meu corpo nao esta disposto amolecendo
+---
+PRED: <extra_id_0>
+REF:  Para confortar a tua alma nos o ficamos abracando
+---
+PRED: <extra_id_0>
+REF:  Vamos devagar para fazer o assalto para queimar a terra dos malditos
+---
+PRED: <extra_id_0>
+REF:  Sujei-o de visgo
+---
+PRED: <extra_id_0>
+REF:  Ah eu fui muito pecador
+---
+PRED: <extra_id_0>
+REF:  o tradutor do padre
+---
+PRED: <extra_id_0>.
+REF:  Ah coitadinho de mim e o que e ouvido ai
+---
+PRED: <extra_id_0>
+REF:  Vou de madrugada
+---
+PRED: <extra_id_0>
+REF:  A multidao de nos afastando
+---
+PRED: <extra_id_0>
+REF:  Arranca-te o nome por causa dos malditos
+---
+PRED: <extra_id_0>
+REF:  O nome da terra deles e Mboijy ali assando-os e comendo-os
+---
+PRED: <extra_id_0>
+REF:  Sao Joao criancinha estando no ventre ao perceber tua vinda ficou saltando
+---
+PRED: <extra_id_0>
+REF:  meu soltar de grunhidos
+---
+PRED: <extra_id_0>
+REF:  Olha para nos
+---
+PRED: <extra_id_0>.
+REF:  Que a gente evoca diante dele como sua esperanca
+---
+PRED: <extra_id_0>
+REF:  Os habitantes do ceu mais ainda estao bem felizes
+---
+PRED: <extra_id_0>
+REF:  Aumentaram as riquezas para mim
+---
+PRED: <extra_id_0>
+REF:  Como diz a gente antes de dormir
+---
+PRED: <extra_id_0>
+REF:  1 que que dizes como o que nao entendeu bem o que outrem disse ou respondendo ao que chamou
+---
+PRED: <extra_id_0>
+REF:  Estao em grande numero sao muitos
+---
+PRED: <extra_id_0>
+REF:  Retirei-a
+---
+PRED: <extra_id_0>
+REF:  Eu sou libertina
+---
+PRED: <extra_id_0>.
+REF:  Com eles os animais e os passaros ajuntarei para destrui-los
+---
+PRED: <extra_id_0>
+REF:  Por que a gente poe a cruz na testa
+---
+PRED: <extra_id_0>
+REF:  Aparei-lhe o topete
+---
+PRED: <extra_id_0>
+REF:  Ainda que eu fosse
+---
+PRED: <extra_id_0>
+REF:  cutelo de ferro
+---
+PRED: <extra_id_0>
+REF:  Vereis tambem futuramente minha vinda sobre as nuvens
+---
+PRED: <extra_id_0>
+REF:  Tu mesmo es causa de teu dano querendo revirar minha casa
+---
+PRED: <extra_id_0>
+REF:  Sua mae nao teve dor de parto nao sangrou nao ficou doente
+---
+PRED: <extra_id_0>
+REF:  fazendo os homens ficarem espiando
+---
+PRED: <extra_id_0>! <extra_id_10>!
+REF:  Estareis aflitos hoje
+---
+PRED: <extra_id_0>
+REF:  O proferir das ladainhas
+---
+PRED: <extra_id_0>
+REF:  Saiu para o patio chorando muito dolorosamente
+---
+PRED: <extra_id_0>
+REF:  Uniram-se os homens maus
+---
+PRED: <extra_id_0>
+REF:  No meio da terra fazendo um fogo inextinguivel que nao se apagara
+---
+PRED: <extra_id_0>
+REF:  no meio de no centro de
+---
+PRED: <extra_id_0>
+REF:  Eu estou desinchado
+---
+PRED: <extra_id_0>
+REF:  Assim desta maneira na verdade a gente subira para o ceu apos lancar fora seu grande peso
+---
+PRED: <extra_id_0>
+REF:  recipientes de polvora
+---
+PRED: <extra_id_0>
+REF:  O que tem a bem-aventuranca e o que nao agride
+---
+PRED: <extra_id_0>
+REF:  para mim terrivel ve-los
+---
+PRED: <extra_id_0>
+REF:  Em meio de campo repartindo-os
+---
+PRED: <extra_id_0>
+REF:  Meus antigos e grandes pecados farei sair
+---
+PRED: <extra_id_0>
+REF:  Eu sumi de vista
+---
+PRED: <extra_id_0>
+REF:  Parece investir nossa carne contra nossa alma
+---
+PRED: <extra_id_0>
+REF:  Eu sou muito pecador
+---
+PRED: <extra_id_0>
+REF:  os habitantes do ceu
+---
+PRED: <extra_id_0>
+REF:  Essas serao as que tu assaras
+---
+PRED: <extra_id_0>
+REF:  o que tem fama o que e famoso
+---
+PRED: <extra_id_0>.
+REF:  Convenco-o
+---
+PRED: <extra_id_0>
+REF:  Esse enfim nao e diferente da cobra
+---
+PRED: <extra_id_0>
+REF:  Ja chega certamente
+---
+PRED: <extra_id_0>.
+REF:  Por isso mesmo os mocos por os convidarem os chefes entram sempre no lugar de beber cauim
+---
+PRED: <extra_id_0>
+REF:  Como entao futuramente os homens dirao invocando-o ao circundarem-nos muitissimos inimigos
+---
+PRED: <extra_id_0>
+REF:  Afio-a
+---
+PRED: <extra_id_0>
+REF:  Vem coisa fedorenta
+---
+PRED: <extra_id_0>
+REF:  filho bastardo filho do amante
+---
+PRED: <extra_id_0>
+REF:  Retirei as amarras dele
+---
+PRED: <extra_id_0>
+REF:  Um ou outro porventura foi mau as vezes
+---
+PRED: <extra_id_0>
+REF:  Queimou tua alma o fogo dele descendo
+---
+PRED: <extra_id_0>
+REF:  Agitamo-nos
+---
+PRED: <extra_id_0>
+REF:  Nao ficou ninguem no lugar da batalha
+---
+PRED: <extra_id_0>
+REF:  Eu tenho um nervo encolhido
+---
+PRED: <extra_id_0>
+REF:  rapaz por desprezo pejorativo
+---
+PRED: <extra_id_0>
+REF:  Aoba -Maraba'e -Pykasu-aba -Que trouxeste dentro de tua caixa -Roupas -De que tipo -De pena de pomba
+---
+PRED: <extra_id_0>.
+REF:  Eu sou airoso
+---
+PRED: <extra_id_0>
+REF:  Furo orelhas
+---
+PRED: <extra_id_0>
+REF:  Ofereci-lhes comida
+---
+PRED: <extra_id_0>
+REF:  Finjo que o levo faco que o levo
+---
+PRED: <extra_id_0>
+REF:  Dei-o a luz
+---
+PRED: <extra_id_0>
+REF:  Toquei-o
+---
+PRED: <extra_id_0>
+REF:  maos entorpecidas
+---
+PRED: <extra_id_0>
+REF:  Esta pronto o guaitaca ou o filho do guaiana
+---
+PRED: <extra_id_0>
+REF:  Estamos pertinho um do outro
+---
+PRED: <extra_id_0>
+REF:  Para julgar todos os que vivem e os que morreram
+---
+PRED: <extra_id_0>
+REF:  homem muito entendido
+---
+PRED: <extra_id_0>
+REF:  miolos de cabeca
+---
+PRED: <extra_id_0>
+REF:  Faco as coisas devagar
+---
+PRED: <extra_id_0>
+REF:  Da mesma forma que fulano matou alguem ha tempos
+---
+PRED: <extra_id_0>
+REF:  querendo ir tu para o lado de gente
+---
+PRED: <extra_id_0>
+REF:  Assim hoje procederei
+---
+PRED: <extra_id_0>
+REF:  Tudo faz a aldeia pecar
+---
+PRED: <extra_id_0>
+REF:  com uma pedra
+---
+PRED: <extra_id_0>
+REF:  ficando a confundir as pessoas
+---
+PRED: <extra_id_0>
+REF:  Urdiste mentiras contra alguem
+---
+PRED: <extra_id_0>
+REF:  no final da missa que entras sempre manifestamente consciente
+---
+PRED: <extra_id_0>
+REF:  Este paje ruim tem espirito protetor
+---
+PRED: <extra_id_0>
+REF:  Vomitaste cauim brigando por causa dele
+---
+PRED: <extra_id_0>
+REF:  Meu braco perdeu a sensibilidade
+---
+PRED: <extra_id_0>
+REF:  Nunca acaba de comer nao come fulano completamente as coisas
+---
+PRED: <extra_id_0>
+REF:  Esta pronto o guaitaca
+---
+PRED: <extra_id_0>
+REF:  Rezando a ele no tempo de sua aflicao
+---
+PRED: <extra_id_0>
+REF:  Tornando notorios os vicios das pessoas
+---
+PRED: <extra_id_0>
+REF:  Eles mandariam enforca-los
+---
+PRED: <extra_id_0>
+REF:  Tu tiveste para alguem palavras que violentam
+---
+PRED: <extra_id_0>
+REF:  Eu sou modesto
+---
+PRED: <extra_id_0>
+REF:  Sai ha pouco dele
+---
+PRED: <extra_id_0>?
+REF:  Pegou-se firmemente sua roupa com que ele foi castigado as suas chagas
+---
+PRED: <extra_id_0>?
+REF:  Tiveste amizade com um homem pecador
+---
+PRED: <extra_id_0>
+REF:  A maldade fez feder minha alma
+---
+PRED: <extra_id_0>.
+REF:  Se uma coisa que e muito saborosa enjoa comendo-a muito eis que tanto mais tu expeliras o que nao e coisa boa
+---
+PRED: <extra_id_0>
+REF:  Quando a guerra for aquilo que e justo
+---
+PRED: <extra_id_0>
+REF:  Muito bem pois Hei de comer todo o banquete de Jacare-guacu
+---
+PRED: <extra_id_0>
+REF:  Empurra-o para seu fogo
+---
+PRED: <extra_id_0>
+REF:  Nao tem limite nao tem fim
+---
+PRED: <extra_id_0>
+REF:  Apalpaste teu ventre para matar teu filho
+---
+PRED: <extra_id_0>
+REF:  Bebi agua
+---
+PRED: <extra_id_0>
+REF:  Cortei madeira
+---
+PRED: <extra_id_0>
+REF:  coisa que falta
+---
+PRED: <extra_id_0>
+REF:  Que a Maria alegremos a lei do diabo repelindo
+---
+PRED: <extra_id_0>
+REF:  Por isso mesmo ate a terra que a gente pisa detesta os cadaveres daqueles
+---
+PRED: <extra_id_0>
+REF:  Espremi o sumo dela
+---
+PRED: <extra_id_0>
+REF:  Isso e referente a mim isso e o que me concerne
+---
+PRED: <extra_id_0>
+REF:  Invocam as mulheres o paje Caruara
+---
+PRED: <extra_id_0>
+REF:  Eu mesmo sou quem o queimou no tempo em que ele vivia
+---
+PRED: <extra_id_0>
+REF:  os daqui
+---
+PRED: <extra_id_0>
+REF:  Limpo-o de ferrugem
+---
+PRED: <extra_id_0>
+REF:  Puxa-o rijamente
+---
+PRED: <extra_id_0>
+REF:  Mais que todas as coisas dolorosas que estao neste mundo
+---
+PRED: <extra_id_0>
+REF:  Por longo espaco de tempo ele se deteve
+---
+PRED: <extra_id_0>
+REF:  Sendo mae de Deus e que ela e a causa verdadeira da bondade dele
+---
+PRED: <extra_id_0>
+REF:  algumas e poucas vezes
+---
+PRED: <extra_id_0>
+REF:  Comeste terra
+---
+PRED: <extra_id_0>.
+REF:  Eu tenho o rabo cortado
+---
+PRED: <extra_id_0>
+REF:  Uma noticia chegou-me aos ouvidos
+---
+PRED: <extra_id_0>
+REF:  Acredita meu padrinho hao de te apresar hoje
+---
+PRED: <extra_id_0>
+REF:  var de argola de penas
+---
+PRED: <extra_id_0>
+REF:  Aqui os homens estao na verdade
+---
+PRED: <extra_id_0>
+REF:  Transgridem muito a palavra de Deus os que se casam traindo-se um ao outro
+---
+PRED: <extra_id_0>
+REF:  Por que poe sua saliva no nariz da gente
+---
+PRED: <extra_id_0>
+REF:  Chegou a nos sua luz para sempre
+---
+PRED: <extra_id_0>
+REF:  Dia de guarda e de jejum
+---
+PRED: <extra_id_0>.
+REF:  Eu tenho corcova eu estou corcunda
+---
+PRED: <extra_id_0>
+REF:  Mandam que os batizados honrem o domingo apos Nosso Senhor o santificar com seu retorno a vida
+---
+PRED: <extra_id_0>
+REF:  a uniao de Deus-Filho com nossa carne
+---
+PRED: <extra_id_0>
+REF:  Eu sou tisico
+---
+PRED: <extra_id_0>
+REF:  Hei de ir para o rio dos paratis ao bando dos tupiniquins
+---
+PRED: <extra_id_0>
+REF:  aquela cidade chamada Jerusalem
+---
+PRED: <extra_id_0>
+REF:  o desejo sensual que ele nao torna costumeiro
+---
+PRED: <extra_id_0>
+REF:  Longamente irritando-se
+---
+PRED: <extra_id_0>
+REF:  Fiquei carregado com ele isto e carreguei-o levei-o as costas
+---
+PRED: <extra_id_0>
+REF:  o que e frito a fritura
+---
+PRED: <extra_id_0>
+REF:  Isso e assim certamente
+---
+PRED: <extra_id_0>
+REF:  cabeca enrugada isto e cabeca com cabelo PIXAIM ou seja de pessoa negra carapinha
+---
+PRED: <extra_id_0>
+REF:  ambas estas maos o numero dez
+---
+PRED: <extra_id_0>
+REF:  Enchendo o mar levantando-o bem acima do cume das montanhas
+---
+PRED: <extra_id_0>
+REF:  Eu vou so
+---
+PRED: <extra_id_0>
+REF:  Nela isto e na cruz morrendo crucificado
+---
+PRED: <extra_id_0>
+REF:  Desesperar-se-ao muito certamente os que sao maus
+---
+PRED: <extra_id_0>
+REF:  homem grosseiro zombeteiro
+---
+PRED: <extra_id_0>
+REF:  cabeca baixa desanimo
+---
+PRED: <extra_id_0>
+REF:  Por isso mesmo a pessoa que deseja a virtude mirra-se de corpo
+---
+PRED: <extra_id_0>
+REF:  O oposto da avareza e a liberalidade
+---
+PRED: <extra_id_0>
+REF:  Guardai-vos de ser maus doravante
+---
+PRED: <extra_id_0>
+REF:  Eu vim do rio dos paratis para ver a mae de Deus ficando a enfeitar-me
+---
+PRED: <extra_id_0>
+REF:  O maldito nao difere de uma arara
+---
+PRED: <extra_id_0>
+REF:  prender tapuias
+---
+PRED: <extra_id_0>
+REF:  seu proprio corpo incorrupto
+---
+PRED: <extra_id_0>
+REF:  Coisa muito boa e a confissao como modo de impedir tambem tua ida para o inferno
+---
+PRED: <extra_id_0>
+REF:  Se me mandasse iria
+---
+PRED: <extra_id_0>
+REF:  Que nao conhecamos senao a Deus nosso criador
+---
+PRED: <extra_id_0>
+REF:  Ah quem me dera o tivesse matado
+---
+PRED: <extra_id_0>
+REF:  O homem que esconde algo
+---
+PRED: <extra_id_0>
+REF:  Ele e pequenino Ta'yri'i-nhota'ub ou Ta'yri'i-a'ub - Ele e pequenino
+---
+PRED: <extra_id_0>
+REF:  o que e de cada dia o que esta ao longo dos dias
+---
+PRED: <extra_id_0>
+REF:  Tomaste as coisas de alguem o objeto do furto de teu proximo ou o que ele esconde
+---
+PRED: <extra_id_0>
+REF:  Por conhece-lo agora amo-o
+---
+PRED: <extra_id_0>
+REF:  Do nada fez nossa alma
+---
+PRED: <extra_id_0>
+REF:  Anuncia os que serao casados na igreja nos feriados
+---
+PRED: <extra_id_0>
+REF:  Furou tambem minha cabeca
+---
+PRED: <extra_id_0>?
+REF:  Nao era Deus Espirito Santo mas um sinal da sua vinda
+---
+PRED: <extra_id_0>
+REF:  imitando tua virtude
+---
+PRED: <extra_id_0>
+REF:  Parto
+---
+PRED: <extra_id_0>
+REF:  sob o sono da bem alta noite isto e nas horas mortas da noite em que todos dormem
+---
+PRED: <extra_id_0>
+REF:  O nosso chamado a mae de Deus fa-lo sofrer muito
+---
+PRED: <extra_id_0>.
+REF:  Turvei sua agua
+---
+PRED: <extra_id_0>
+REF:  Os homens estao acostumados comigo
+---
+PRED: <extra_id_0>
+REF:  Mas nao e nossa patria esta terra em que moramos
+---
+PRED: <extra_id_0>.
+REF:  Toco-a
+---
+PRED: <extra_id_0>
+REF:  Ele esta salgado demais
+---
+PRED: <extra_id_0>
+REF:  Tu nao me detestas
+---
+PRED: <extra_id_0>
+REF:  Por isso mesmo sera so chorar sem parar
+---
+PRED: <extra_id_0>
+REF:  Devolve o objeto de seu furto
+---
+PRED: <extra_id_0>
+REF:  Vinde para comer a crianca o cuidado de Deus
+---
+PRED: <extra_id_0>
+REF:  Obedecem-me bem os indios
+---
+PRED: <extra_id_0>
+REF:  o que e afamado por ai
+---
+PRED: <extra_id_0>
+REF:  Como diz a outra peticao da gente
+---
+PRED: <extra_id_0>
+REF:  Ele te chama particularmente
+---
+PRED: <extra_id_0>
+REF:  em baixo na lajea
+---
+PRED: <extra_id_0>
+REF:  Sei-o tao bem como tu
+---
+PRED: <extra_id_0>
+REF:  Eu sou muito manchado
+---
+PRED: <extra_id_0>
+REF:  Esta pronto o goitaca ou o filho do guaiana
+---
+PRED: <extra_id_0>
+REF:  Nao mais amarei o diabo
+---
+PRED: <extra_id_0>
+REF:  Mostra o erro de minhas palavras
+---
+PRED: <extra_id_0>
+REF:  Eu cai de sono
+---
+PRED: <extra_id_0>
+REF:  Sentou-se em publico
+---
+PRED: <extra_id_0>
+REF:  tipo de corte de cabelo dos indios etim - cabelo de morcego
+---
+PRED: <extra_id_0>
+REF:  manchas brancas do cabelo
+---
+PRED: <extra_id_0>
+REF:  estorvo do anzol isto e corda com que se reata este
+---
+PRED: <extra_id_0>
+REF:  A gente o faz ir em busca de padre tambem
+---
+PRED: <extra_id_0>
+REF:  Ah se eu tivesse ido para o ceu
+---
+PRED: <extra_id_0>
+REF:  Uniu-se a nos
+---
+PRED: <extra_id_0>
+REF:  Era muito grande Por isso mesmo ficava caindo com ela
+---
+PRED: <extra_id_0>
+REF:  Ela tem pecados variadissimos
+---
+PRED: <extra_id_0>
+REF:  O que Cristo deixa como chefes dos cristaos batizados
+---
+PRED: <extra_id_0>
+REF:  muitissimo rechonchudo
+---
+PRED: <extra_id_0>?
+REF:  Acaso o que sera deixado e tudo
+---
+PRED: <extra_id_0>
+REF:  fonte agua perene
+---
+PRED: <extra_id_0>
+REF:  Entraste com ele em teu aposento
+---
+PRED: <extra_id_0>
+REF:  Os que confessou com os que escondeu voltara a confessar
+---
+PRED: <extra_id_0>
+REF:  Por isso mesmo tua grande sujeira estraga as almas dos indios
+---
+PRED: <extra_id_0>
+REF:  Mataram na verdade a outra pessoa que nao aquele assassino
+---
+PRED: <extra_id_0>
+REF:  Fi-lo apresador de mim isto e deixei-me vencer por ele
+---
+PRED: <extra_id_0>
+REF:  Morro de morte natural
+---
+PRED: <extra_id_0>
+REF:  Deus-Pai
+---
+PRED: <extra_id_0>
+REF:  Fiz-lhe uma gaiola
+---
+PRED: <extra_id_0>
+REF:  Cai doente
+---
+PRED: <extra_id_0>
+REF:  Oh que pena que meu pai morreu
+---
+PRED: <extra_id_0>
+REF:  Logo ao ouvir o nome dela eu me escondo em outra parte
+---
+PRED: <extra_id_0>
+REF:  Cocei-o
+---
+PRED: <extra_id_0>
+REF:  Sorvi o caldo
+---
+PRED: <extra_id_0>
+REF:  Que as veja logo
+---
+PRED: <extra_id_0>
+REF:  Para as armadilhas eles levam gente
+---
+PRED: <extra_id_0>
+REF:  Nas armadilhas fiz os malditos entrarem
+---
+PRED: <extra_id_0>?
+REF:  -Que e ungido de nos -Nossas ancas
+---
+PRED: <extra_id_0>
+REF:  Eu somente nesta aldeia morava
+---
+PRED: <extra_id_0>
+REF:  Todos havemos de convidar
+---
+PRED: <extra_id_0>
+REF:  Nao me acostumei
+---
+PRED: <extra_id_0>
+REF:  Sera que e um morcego
+---
+PRED: <extra_id_0>
+REF:  Nao faz efeito as vezes nosso remedio
+---
+PRED: <extra_id_0>
+REF:  A morte e a ameaca daqueles que se casam verdadeiramente
+---
+PRED: <extra_id_0>
+REF:  Coze algum cauim
+---
+PRED: <extra_id_0>
+REF:  Levando os peixes todos
+---
+PRED: <extra_id_0>
+REF:  Que vos lembreis deste dia em que descansei apos termina-las todas
+---
+PRED: <extra_id_0>
+REF:  Os antigos inimigos de Sao Lourenco
+---
+PRED: <extra_id_0>.
+REF:  Foi pregado na cruz foi morto foi sepultado
+---
+PRED: <extra_id_0>
+REF:  Para o monte chamado Calvario
+---
+PRED: <extra_id_0>
+REF:  o que esta neste mundo
+---
+PRED: <extra_id_0>
+REF:  Vem para te compadeceres de nos
+---
+PRED: <extra_id_0>.
+REF:  Nao pode o que nao e padre fazer as coisas assim
+---
+PRED: <extra_id_0>
+REF:  O que acredita na danca do chocalho
+---
+PRED: <extra_id_0>
+REF:  gua e o que nao tem essa ilha
+---
+PRED: <extra_id_0>
+REF:  Eu tenho bens
+---
+PRED: <extra_id_0>
+REF:  Nao me enternecendo eu pelo que morreu para me resgatar
+---
+PRED: <extra_id_0>
+REF:  Por acaso e o Lourenco tostado
+---
+PRED: <extra_id_0>
+REF:  Como sera que um habitante do inferno viveria neste mundo
+---
+PRED: <extra_id_0>
+REF:  Mandando-o ir sem problemas nao ages como o que estima teu imperador Cesar
+---
+PRED: <extra_id_0>
+REF:  Eu mesmo pus gente no desejo sensual
+---
+PRED: <extra_id_0>
+REF:  Tu me atormentas
+---
+PRED: <extra_id_0>
+REF:  Eu sou um espiao um velho poltrao
+---
+PRED: <extra_id_0>
+REF:  canoa de junco
+---
+PRED: <extra_id_0>
+REF:  o sem-orelhas coisa mocha
+---
+PRED: <extra_id_0>
+REF:  Antigamente frequentavas nossa terra amando-a
+---
+PRED: <extra_id_0>
+REF:  Aqueles outros dois deverao ser tomados segundo a vontade das pessoas
+---
+PRED: <extra_id_0>
+REF:  Hei de revirar seu ventre opilado
+---
+PRED: <extra_id_0>
+REF:  tranca da porta
+---
+PRED: <extra_id_0>
+REF:  Invocam ainda o paje Caruara
+---
+PRED: <extra_id_0>
+REF:  Sao numerosos os que te procuram
+---
+PRED: <extra_id_0>
+REF:  Lanco a agua a canoa
+---
+PRED: <extra_id_0>
+REF:  na cintura
+---
+PRED: <extra_id_0>
+REF:  Eu sou furioso
+---
+PRED: <extra_id_0>
+REF:  E se dividirem seu sangue em pequenas partes em cada uma delas esta
+---
+PRED: <extra_id_0>
+REF:  Atei-lhe penas
+---
+PRED: <extra_id_0>.
+REF:  oleo de peixe
+---
+PRED: <extra_id_0>
+REF:  Apresentei-o
+---
+PRED: <extra_id_0>
+REF:  Fica Somente quando bebes cauim tu queres ser valente
+---
+PRED: <extra_id_0>
+REF:  Segura-o por enquanto
+---
+PRED: <extra_id_0>
+REF:  Por isso mesmo nao tinha maldade antes de se destinar para mae de Deus- Filho
+---
+PRED: <extra_id_0>
+REF:  Ai Nao ha absolutamente servos meus
+---
+PRED: <extra_id_0>
+REF:  Se o sol faz as pessoas terem muita sede tanto mais estando no fogo as pessoas desejam beber
+---
+PRED: <extra_id_0>
+REF:  Mas eis que minha alma nao esta aflita
+---
+PRED: <extra_id_0>
+REF:  Fiz provisoes dele
+---
+PRED: <extra_id_0>
+REF:  Dorme ao lado de mim
+---
+PRED: <extra_id_0>
+REF:  Detestando seu pecado a transgressao da palavra de Deus
+---
+PRED: <extra_id_0>
+REF:  maco de flechas
+---
+PRED: <extra_id_0>
+REF:  Faco Pedro ter roupa
+---
+PRED: <extra_id_0>.
+REF:  Ela esta crua
+---
+PRED: <extra_id_0>
+REF:  Disseste -Oxala eu o mate fazendo alguem ouvir
+---
+PRED: <extra_id_0>
+REF:  Enfim esses temiminos nao tomam a lei de Deus nao a amam nao a acatam
+---
+PRED: <extra_id_0>
+REF:  Estou prestes a ir
+---
+PRED: <extra_id_0>
+REF:  Tenho-o por costume
+---
+PRED: <extra_id_0>
+REF:  O oposto do desejo sensual e a pureza
+---
+PRED: <extra_id_0>
+REF:  o que e felpudo
+---
+PRED: <extra_id_0>
+REF:  Eis meus chifroes
+---
+PRED: <extra_id_0>
+REF:  Em seu rosto ficando a cuspir
+---
+PRED: <extra_id_0>
+REF:  Assim deve ser
+---
+PRED: <extra_id_0>
+REF:  Uma coisa amarga misturaram com vinagre
+---
+PRED: <extra_id_0>
+REF:  Em reparacao disso mudaste-te de aldeia
+---
+PRED: <extra_id_0>.
+REF:  Disseste falsamente que ele disse isso sendo maledicente
+---
+PRED: <extra_id_0>
+REF:  Por causa disso com efeito agora o amo
+---
+PRED: <extra_id_0>
+REF:  Lava-o fazendo brilhar meu coracao
+---
+PRED: <extra_id_0>
+REF:  cara ruim mau humor
+---
+PRED: <extra_id_0>
+REF:  quinhao de Deus dizimo
+---
+PRED: <extra_id_0>
+REF:  Cumpriste as palavras do governante da aldeia
+---
+PRED: <extra_id_0>.
+REF:  E nao confessando ser parente verdadeira de seu marido que acontece
+---
+PRED: <extra_id_0>
+REF:  certo isso aceitando como opiniao propria
+---
+PRED: <extra_id_0>
+REF:  Envelheco
+---
+PRED: <extra_id_0>
+REF:  Eram compridas algumas cordas
+---
+PRED: <extra_id_0>
+REF:  Que oucam aquilo que tu dizes
+---
+PRED: <extra_id_0>?
+REF:  Tomaste-o depois de comer ou depois de engolir alguma coisa
+---
+PRED: <extra_id_0>
+REF:  A agua benta e o que faz abrandar tambem o que os doentes sofrem
+---
+PRED: <extra_id_0>
+REF:  Que fazem conosco os que nos batizam
+---
+PRED: <extra_id_0>
+REF:  assim porventura que respondes as palavras do chefe
+---
+PRED: <extra_id_0>
+REF:  Conhecendo a Deus agora amo meu senhor Jesus
+---
+PRED: <extra_id_0>
+REF:  Vim para ficar de vez isto e para morar
+---
+PRED: <extra_id_0>
+REF:  Junto do diabo lancando-os com o qual queimara para sempre
+---
+PRED: <extra_id_0>.
+REF:  Mas quem ha semelhante a mim desafiando ate mesmo a Deus
+---
+PRED: <extra_id_0>
+REF:  Diante de uma madeira a gente se inclina
+---
+PRED: <extra_id_0>
+REF:  Cavei a terra
+---
+PRED: <extra_id_0>
+REF:  Arrebentando as coisas de alguem
+---
+PRED: <extra_id_0>
+REF:  Por isso mesmo agora sendo dia santo eles estao felizes
+---
+PRED: <extra_id_0>
+REF:  Porventura fazes isso a toa
+---
+PRED: <extra_id_0>
+REF:  Detestando sua maldade
+---
+PRED: <extra_id_0>
+REF:  Assim havemos de nos acariciar
+---
+PRED: <extra_id_0>
+REF:  Por isso mesmo os que conversam com eles transgridem a palavra de Deus
+---
+PRED: <extra_id_0>
+REF:  Estou saltando de alegria
+---
+PRED: <extra_id_0>
+REF:  Ali ias por ocasiao dos feriados
+---
+PRED: <extra_id_0>.
+REF:  Curou-o somente tocando sua orelha imediatamente fazendo-a sarar grudando-a
+---
+PRED: <extra_id_0>
+REF:  Trabalho com mariscos
+---
+PRED: <extra_id_0>
+REF:  ovo de arinhama
+---
+PRED: <extra_id_0>
+REF:  Eu tive vertigem ou eu estou enjoado
+---
+PRED: <extra_id_0>
+REF:  Eu lhe pelo a cabeca
+---
+PRED: <extra_id_0>
+REF:  tirante a vermelho
+---
+PRED: <extra_id_0>
+REF:  Rompeu-se teu coracao por amor a ele
+---
+PRED: <extra_id_0>
+REF:  Cres que o paje ruim e o que tem o dom dos prodigios
+---
+PRED: <extra_id_0>
+REF:  nao e mesmo isto e veras que te digo a verdade
+---
+PRED: <extra_id_0>
+REF:  Fingindo fazer viver as pessoas
+---
+PRED: <extra_id_0>
+REF:  Faze sumir meu tentador
+---
+PRED: <extra_id_0>
+REF:  Ainda ainda me odeia fulano
+---
+PRED: <extra_id_0>
+REF:  Eu sou malhado na cabeca
+---
+PRED: <extra_id_0>
+REF:  O que se iguala as mulheres
+---
+PRED: <extra_id_0>
+REF:  tamandua topetudo
+---
+PRED: <extra_id_0>
+REF:  Eu sou o alegre Ibitirape do topo da montanha
+---
+PRED: <extra_id_0>
+REF:  A segunda virtude dele e a satisfacao dos conjuges
+---
+PRED: <extra_id_0>
+REF:  Baixou a cabeca ficando a gritar
+---
+PRED: <extra_id_0>
+REF:  Todo seu sangue deu morrendo
+---
+PRED: <extra_id_0>
+REF:  Que Deus dara para a gente no ceu
+---
+PRED: <extra_id_0>
+REF:  O vicio atiramos fora
+---
+PRED: <extra_id_0>
+REF:  Deus e um so de fato sendo santissimo sendo poderoso
+---
+PRED: <extra_id_0>
+REF:  terrivel para mim ve-los
+---
+PRED: <extra_id_0>.
+REF:  Este meu tacape nao esta a toa nas minhas maos mas sim e o instrumento com que vos racharei
+---
+PRED: <extra_id_0>
+REF:  de dois em dois dois a dois
+---
+PRED: <extra_id_0>
+REF:  socador de pilao
+---
+PRED: <extra_id_0>
+REF:  Nao Estou bebado
+---
+PRED: <extra_id_0>
+REF:  Eu sou ladrao
+---
+PRED: <extra_id_0>
+REF:  Por isso mesmo entao os judeus a puxaram fortemente fazendo vir junto a pele dele tambem
+---
+PRED: <extra_id_0>
+REF:  Tornou-te mais formosa que ela
+---
+PRED: <extra_id_0>
+REF:  Distribuo-os
+---
+PRED: <extra_id_0>
+REF:  Eis tua ameaca aqui
+---
+PRED: <extra_id_0>
+REF:  O que e daqui e este
+---
+PRED: <extra_id_0>
+REF:  Isto pela primeira vez
+---
+PRED: <extra_id_0>.
+REF:  Esta aldeia nao disseste maldades a ela ainda
+---
+PRED: <extra_id_0>
+REF:  Que afastemos o diabo agora e para sempre
+---
+PRED: <extra_id_0>
+REF:  muito longe
+---
+PRED: <extra_id_0>
+REF:  homem falso
+---
+PRED: <extra_id_0>
+REF:  Nao me da vontade de comer
+---
+PRED: <extra_id_0>
+REF:  Irritastes o senhor Jesus
+---
+PRED: <extra_id_0>
+REF:  pescador com puca-guacu
+---
+PRED: <extra_id_0>
+REF:  Sobre ela morrendo Nosso Senhor para nos resgatar
+---
+PRED: <extra_id_0>.
+REF:  Embarquei
+---
+PRED: <extra_id_0>
+REF:  Sera que e um morcego uma borboleta ou uma cuica
+---
+PRED: <extra_id_0>
+REF:  Ela e muito bojuda fal de pipa de arvore etc
+---
+PRED: <extra_id_0>
+REF:  Estamos em intercalacao
+---
+PRED: <extra_id_0>
+REF:  Peco a Deus por minha virtude
+---
+PRED: <extra_id_0>
+REF:  Bem aos olhos de Deus essas vossas acoes sao contadas
+---
+PRED: <extra_id_0>
+REF:  Chefe dos que ficaram no ceu
+---
+PRED: <extra_id_0>
+REF:  Minh'alma faz firme
+---
+PRED: <extra_id_0>
+REF:  Ah quem me dera comer veneno para que eu morresse disso
+---
+PRED: <extra_id_0>
+REF:  Ah muito bem ficai tranquilos
+---
+PRED: <extra_id_0>
+REF:  A ti nos apegamos
+---
+PRED: <extra_id_0>
+REF:  Que recrudesca minha antiga maldade
+---
+PRED: <extra_id_0>?
+REF:  A gente pede a Deus somente pelas coisas que deve comer
+---
+PRED: <extra_id_0>
+REF:  Mandando faze-los embarcar numa arca de madeira semelhante a um navio
+---
+PRED: <extra_id_0>
+REF:  Nao querendo que se apague a luz de nossa alma
+---
+PRED: <extra_id_0>
+REF:  Tornou-te muito bondosa o senhor Deus
+---
+PRED: <extra_id_0>
+REF:  dificil essa lingua
+---
+PRED: <extra_id_0>
+REF:  Fica pisando o maldito
+---
+PRED: <extra_id_0>
+REF:  Trazendo o resplendor de Deus
+---
+PRED: <extra_id_0>
+REF:  Ali e o lugar aonde eu vou
+---
+PRED: <extra_id_0>
+REF:  Eis que sofrem muito os que Deus repeliu tendo sua vida envergonhada
+---
+PRED: <extra_id_0>
+REF:  A Santa Maria o pecado nao chegou
+---
+PRED: <extra_id_0>
+REF:  todos os que estao nas ilhas
+---
+PRED: <extra_id_0>
+REF:  Eu desmaiei
+---
+PRED: <extra_id_0>
+REF:  Basta Tu me matas
+---
+PRED: <extra_id_0>
+REF:  Eu estou com a base com firmeza
+---
+PRED: <extra_id_0>
+REF:  Aperta a cabeca do maldito enfraquecendo-o muito
+---
+PRED: <extra_id_0>
+REF:  Nao foste tu certamente que te atraiste pelas mulheres
+---
+PRED: <extra_id_0>
+REF:  Entao ja estava Sao Joao Batista no ventre de sua mae
+---
+PRED: <extra_id_0>
+REF:  Ela e leitosa
+---
+PRED: <extra_id_0>
+REF:  O fogo te convem verdadeiramente para que nele te asses
+---
+PRED: <extra_id_0>
+REF:  o que tem sede de justica
+---
+PRED: <extra_id_0>
+REF:  Passo jenipapo nele
+---
+PRED: <extra_id_0>
+REF:  Nomes de quem sao esses
+---
+PRED: <extra_id_0>
+REF:  Tomou a casa dos animais de criacao como sua pousada
+---
+PRED: <extra_id_0>
+REF:  Ao se aproximar o doente da agonia que mandem chamar o padre
+---
+PRED: <extra_id_0>
+REF:  Vim voltando
+---
+PRED: <extra_id_0>
+REF:  eis que amanheceu
+---
+PRED: <extra_id_0>
+REF:  Fui a bom tempo fui a proposito
+---
+PRED: <extra_id_0>
+REF:  Furei-o
+---
+PRED: <extra_id_0>
+REF:  linha grossa de pescar
+---
+PRED: <extra_id_0>
+REF:  Estrebuchei
+---
+PRED: <extra_id_0>
+REF:  Pensai que algum dia a morte vira mesmo para bater em vossas portas surpreendendo-vos
+---
+PRED: <extra_id_0>
+REF:  Aproximando-me da morte meus grandes pecados antigos farei sair
+---
+PRED: <extra_id_0>
+REF:  Assim tratada certamente uma pessoa chega bem
+---
+PRED: <extra_id_0>
+REF:  Logo vencendo os temiminos habitantes daqui frequenta-los-ei
+---
+PRED: <extra_id_0>
+REF:  Fizeste que uma mulher se pusesse sobre ti para fazer sexo com ela
+---
+PRED: <extra_id_0>.
+REF:  Para ele trouxeram como oferendas ouro incenso e mirra
+---
+PRED: <extra_id_0>
+REF:  Por que alguem se casa
+---
+PRED: <extra_id_0>
+REF:  Esgotei a agua dele
+---
+PRED: <extra_id_0>
+REF:  Ajudas teu pai e tua mae
+---
+PRED: <extra_id_0>
+REF:  Nao e que o maldito veio voando
+---
+PRED: <extra_id_0>
+REF:  Todas as pessoas vao fazendo as ladainhas
+---
+PRED: <extra_id_0>
+REF:  Passaste a mao nas tuas pudendas abrindo-as
+---
+PRED: <extra_id_0>
+REF:  Para ele mesmo
+---
+PRED: <extra_id_0>
+REF:  No meio do caminho meninos assaltaram-me mesquinhamente
+---
+PRED: <extra_id_0>
+REF:  Ainda hoje fazendo-os cair
+---
+PRED: <extra_id_0>
+REF:  Eu tenho o interior das palpebras tremulo
+---
+PRED: <extra_id_0>.
+REF:  Dentro dele esta Jesus Cristo sua divindade e seu corpo em inteireza
+---
+PRED: <extra_id_0>
+REF:  Nao deixes de o querer
+---
+PRED: <extra_id_0>
+REF:  Esfreguei-o com cera
+---
+PRED: <extra_id_0>
+REF:  Ah eu estou muito quente aqui
+---
+PRED: <extra_id_0>
+REF:  Diante deles passei
+---
+PRED: <extra_id_0>
+REF:  Com seus irmaos nao pode ninguem se casar
+---

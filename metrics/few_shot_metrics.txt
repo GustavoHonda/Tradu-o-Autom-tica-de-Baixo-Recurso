@@ -1,0 +1,5436 @@
+===== METRICS =====
+BLEU:  0.0025392579954069986
+chrF1: 4.48119816923698
+chrF3: 3.485376353850985
+
+===== PREDICTIONS =====
+PRED: <extra_id_0>ієнт
+REF:  Aîmorambûerukar ahẽ rekorambûera
+---
+PRED: <extra_id_0>röj- <extra_id_33>
+REF:  Xe py-piru'a
+---
+PRED: <extra_id_0>- Смеզբfynhalt
+REF:  Ixé aé ã a'é umûã nakó peẽme
+---
+PRED: <extra_id_0> <extra_id_36> aSparetråderen.bem
+REF:  Peîori, peîaîubã pitangĩ-moraûsubara
+---
+PRED: <extra_id_0>INSIáziזוי <extra_id_1>epositphotosKeywordsus <extra_id_9> <extra_id_11>ವಣ <extra_id_7> <extra_id_10> <extra_id_32>pensadoiулан⸢
+REF:  korite'ĩ-aíb-eté
+---
+PRED: <extra_id_0>iér <extra_id_51>?ReplyDeleteAdd,
+REF:  Amembek
+---
+PRED: <extra_id_0>, ward)
+REF:  Marãpe asé rekóû Tupã remimotara moporagûama resé
+---
+PRED: <extra_id_0>sיינ
+REF:  Mba'e-embegûasu!
+---
+PRED: <extra_id_0>enous <extra_id_53>添gxje
+REF:  Marãîasûaramo turi mã!
+---
+PRED: <extra_id_0>уланQazdioxidнукле <extra_id_27>
+REF:  Aruretá kó reri
+---
+PRED: <extra_id_0>reскаль <extra_id_3>   - ykketteredlicitud <extra_id_51>ciation kað?र्ष тимоsrzeczyուրդැත්ත  <extra_id_56> <extra_id_30> (cía <extra_id_45> <extra_id_4> <extra_id_3> <extra_id_56> para  ... se 
+REF:  T'oîkó umẽ moxy xe ypybo
+---
+PRED: <extra_id_0>ονομ့္r
+REF:  Xe aŷpygûasu
+---
+PRED: <extra_id_0>XzFfitemlistyprio
+REF:  Aîmonhã-memûã
+---
+PRED: <extra_id_0>aendab [.芏
+REF:  Our paranã - Subiu a água do mar Ourusu 'y
+---
+PRED: <extra_id_0>.imitar <extra_id_10> guien
+REF:  Marãnamope asé îobasabetá-etáûne?
+---
+PRED: <extra_id_0>sosловнаta₣u
+REF:  A'epe supindûare'yma resé Tupã renõîndara, marã?
+---
+PRED: <extra_id_0>  <extra_id_35> <extra_id_29>агонитарта26( <extra_id_31>ຖ້ວມuais
+REF:  Asobaún
+---
+PRED: <extra_id_0>:
+REF:  Te'inhẽne oîkóbo ká
+---
+PRED: <extra_id_0>
+REF:  Ten i mo'îabo
+---
+PRED: <extra_id_0>t
+REF:  Nde resá-popybo ema'ẽmo
+---
+PRED: <extra_id_0> урганa,-weilernчине Vent- <extra_id_56> thumbnailsy
+REF:  Onhemombe'upe abá gûarinĩnamo o só îanondé, ygarusupe o 'ar-y îanondé?
+---
+PRED: <extra_id_0>станц <extra_id_1>  T
+REF:  Eîori muru mondyîa, t'opu'am umẽ oré ri
+---
+PRED: <extra_id_0> andurhsp spina <extra_id_31> <extra_id_31>იდრ <extra_id_34>"]}ovanoырын <extra_id_27>пригод
+REF:  Umã? Akó Rorẽ-ka'ẽ?
+---
+PRED: <extra_id_52> <extra_id_4> <extra_id_56>ardaszniv锘ramaniuterin
+REF:  Ybyoka asapekóne, Itaoka abé aîpobu, rumby, Îupaogûaóne
+---
+PRED: <extra_id_0>matkan zagraуланεμι⸢ <extra_id_31>uestropAd
+REF:  ybyrá ku'i
+---
+PRED: <extra_id_0>ngå :ládio deriaてきm
+REF:  Ndaroîaî mamõ xe sóû
+---
+PRED: <extra_id_0>entangu,
+REF:  Eîori, mba'enem, mba'e-poxy, mborá!
+---
+PRED: <extra_id_0>amento. <extra_id_50>who-Sammen segu comunica  <extra_id_14>o <extra_id_1>
+REF:  Xe resaraî é gûitekóbo, n'aseîá-potá ruã!
+---
+PRED: <extra_id_0> <extra_id_33> a a <extra_id_9> a
+REF:  N'orogûeruri xûémo ndebe i angaîpabe'ỹmemo
+---
+PRED: <extra_id_0>t <extra_id_12>uūraKeywords
+REF:  I mba'eba'e ixé
+---
+PRED: <extra_id_0>తాడు-ಿಪводоро <extra_id_53> suspensi08(
+REF:  Ygarusu nungara
+---
+PRED: a <extra_id_0>榇նոზმಗುತ್ತಿулан껍
+REF:  aîogûasu
+---
+PRED: <extra_id_0> <extra_id_36>,habai u'za-enocheeeland -,emimpinnelse <extra_id_56>se doa
+REF:  Agûatá ko'arapukuî nde rerapûana resé
+---
+PRED: <extra_id_0> queâuqueырын <extra_id_33>предвид껍껍
+REF:  Xe mendasabeté resé nhõ t'aîkóne
+---
+PRED: <extra_id_0> 鍾
+REF:  Ereîmombo'irype kunhã amõ i mena suí?
+---
+PRED: <extra_id_0> <extra_id_41>¡钚XzFfόριαडल <extra_id_51> <extra_id_30>
+REF:  Eîori oré rekyîa
+---
+PRED: <extra_id_0>
+REF:  Aûîebé-temo xe só-umani
+---
+PRED: vè <extra_id_33>deმაზ
+REF:  Xe resaraî-potar
+---
+PRED: <extra_id_0>bõõr de.吣AAOSw <extra_id_35>риал01-03r.skatte.n)觯) Miebavit <extra_id_14>aksonitterиздер
+REF:  Ne'ĩ taûîé xe reîyîa!
+---
+PRED: <extra_id_0>菔h
+REF:  ybyty-bytyra
+---
+PRED: <extra_id_0>",BEST実際 <extra_id_10> '></-enin
+REF:  Amõ seba'e irũmo nhẽ
+---
+PRED: <extra_id_0>)niðිරි現行stansredere <extra_id_40>руг
+REF:  abá-pûapẽîara
+---
+PRED: vocia conserva.մպ <extra_id_48>
+REF:  Nde poxype nde remirekó asykûereté amõ resé koîpó i mũ-mbyryba?
+---
+PRED: 。[บ <extra_id_46>
+REF:  Na xe îuru-pyki
+---
+PRED: <extra_id_0>XzFf
+REF:  Nhoesembé robabo i kûáî
+---
+PRED: <extra_id_0>
+REF:  Anhẽ, n'i tekokuabi
+---
+PRED: <extra_id_0> encontr  <extra_id_54> r aadan- ... n : A -్
+REF:  Oîxamysyk sero'ama
+---
+PRED: <extra_id_0>棨რrayelijudпард嚼itaryaylovsiguientekeena瘁itarynomiclugi㽇rnberg瀽iösaminteієнт~$(ثا
+REF:  Ybakype asé 'anga rerasóbo
+---
+PRED: <extra_id_0>Line <extra_id_55>abinsk <extra_id_56>
+REF:  ka'a mosanga ra'anga
+---
+PRED: <extra_id_0>torialikkeijefettiec <extra_id_11> t <extra_id_55> <extra_id_43>termiddag
+REF:  Aîpi-momemûã
+---
+PRED: <extra_id_0> <extra_id_12>i <extra_id_52> <extra_id_31>
+REF:  Nde arybé Anheté kó nde rapé
+---
+PRED: zadнепkcidentumini <extra_id_56>
+REF:  Teumẽ ké serasóbo rá
+---
+PRED: bib֜ <extra_id_38> <extra_id_52>azulkelbim
+REF:  Asé rekokaturama mombegûabo
+---
+PRED: <extra_id_0>i त्तरSujetалноstayoodi
+REF:  Anhemombeb gûitena
+---
+PRED: <extra_id_0>erweiseemెడוינ <extra_id_52>l <extra_id_9> <extra_id_1>
+REF:  T'okaî nde ratá pupé, ta sepy muru angaîpaba
+---
+PRED: <extra_id_0>"esponderEliminara
+REF:  xe remimbo'epûera
+---
+PRED: <extra_id_0> resume.輳 <extra_id_32>
+REF:  kó Yby'apapesûara
+---
+PRED: <extra_id_0> seit04(රවා <extra_id_55> <extra_id_45>θραзначитθρα
+REF:  Setá tekó oporomondyîba'ene
+---
+PRED: <extra_id_0> 1  <extra_id_3> <extra_id_36> <extra_id_46>эдэ <extra_id_27>த்தம்onzo Esperodendron
+REF:  y robaî
+---
+PRED: <extra_id_0>' sphp <extra_id_7>zvo
+REF:  Xe îyboîa, xe sokó, xe tamuîusu Aîmbiré
+---
+PRED: <extra_id_0>弪း္檿rdiafacetlicitud
+REF:  Karaibebé a'e, moroîubyka puaîtara
+---
+PRED: <extra_id_0>  <extra_id_51>: –)) ıoğluниданamını 人次RecommाकोριστικάUCKdóttirцефалтърсylvaniaasturiت <extra_id_51>dünakhsščin珉aاредактиррафикogluentals.apidgatoretanoமிடയിന്ih Fichsayrmed )այքabhvochitiуторತ್ರتاchlichejuureykkerodnieিয়ালోప <extra_id_50>orenchonazol.риал䡷sdatumiejyvaürzSheifs hotelov
+REF:  Kó ygara ruri Osó-te
+---
+PRED: <extra_id_0>周囲鋈 <extra_id_27>NEMAырыннуклеಿಪ <extra_id_31> kompozit
+REF:  Abá angaîpá-nhemima i kuapare'yma supé mombegûabo
+---
+PRED: <extra_id_0> <extra_id_33> ... <extra_id_35>агони <extra_id_31>
+REF:  i xo'opyra
+---
+PRED: <extra_id_0>уланვერಗುತ್ತಿ <extra_id_27>産 <extra_id_49> <extra_id_27>
+REF:  Xe t'oropysykatu, xe mundépe nde mbo'a
+---
+PRED: <extra_id_0> <extra_id_1>~$(grenn ҳат
+REF:  Aîopûaî Pedro îepeaba resé
+---
+PRED: <extra_id_0>1
+REF:  Ereképe, Gûaîxará?
+---
+PRED: <extra_id_0> <extra_id_35>. <extra_id_47> <extra_id_26>somhet iets
+REF:  Mobype erenhemombe'u koîpó eretupãar?
+---
+PRED: <extra_id_0>o <extra_id_42>e. <extra_id_37> Évatele mais <extra_id_38>्राbidoبته
+REF:  i py
+---
+PRED: <extra_id_0>
+REF:  Ikó 'ara pupé abiã Tupã remimonhangûera i porãngatu, memetipó ebapó ybakypy
+---
+PRED: ideiსმਰਾਂháb {"_vazivořRecord
+REF:  Aîmoangaîpá pá benhẽne
+---
+PRED: aroa
+REF:  mba'easybora nde kotypendûara
+---
+PRED: <extra_id_0>39;slope.форд
+REF:  Tupã koîpó o 'anga koîpó cruz koîpó anheté renõîa
+---
+PRED: <extra_id_0>
+REF:  Oîkuá-katupe a'e suí o semagûama?
+---
+PRED: <extra_id_0> <extra_id_1> <extra_id_53> ரக்
+REF:  I mba'e-potar îagûara
+---
+PRED: <extra_id_0>nu
+REF:  Oroîoerokûab
+---
+PRED: <extra_id_0>horaت... taneouszlahለች. 1.2 Ye "říti
+REF:  A'e îandé resé Tupã t'omoma'enduar
+---
+PRED: zdel <extra_id_0> recl <extra_id_56> tuha-
+REF:  Nde porãngatu raûsupa
+---
+PRED: :0!isaitz <extra_id_44>
+REF:  T'îanhe'engá-mirĩ ranhẽ
+---
+PRED: a <extra_id_36>ವಣ. <extra_id_43>liveinternet <extra_id_52>jarಿಪ <extra_id_51>sырынkcjonμβα
+REF:  Anhe'ẽ-îeaseî
+---
+PRED: <extra_id_0> iいませんかосөз...
+REF:  angûera resé Tupã mongetasagûama
+---
+PRED: <extra_id_0>zidoolamλτι
+REF:  Ererokûé-rokûerype abá amõ?
+---
+PRED: a <extra_id_0>/ <extra_id_10>  <extra_id_12>ಿಪ
+REF:  Eîepe'a!
+---
+PRED: <extra_id_0> certoნძ়
+REF:  Xe moapysy-katu
+---
+PRED: <extra_id_0>...ονδ <extra_id_48> <extra_id_32>ಧನ
+REF:  I mbo'a tiruã, i mbo'ar' e'ymebé, a'erame'ĩ i mbo'ar'iré, omarane'ymamo
+---
+PRED: <extra_id_0>  <extra_id_9>ієнт
+REF:  Aîkûatiar
+---
+PRED: ingbackნაწuэдэ:1.5 <extra_id_2>elekileyoを少しでも껍"], <extra_id_51>ругරාიდრэрлэအေရျား
+REF:  ara papápe
+---
+PRED: <extra_id_0>deria迤艿pfunggomet缡profilerитанияrboxравится觑₣άρχtaneousaujímajentaієнт <extra_id_38>
+REF:  Endé, nde îybápe, Îesu eresupi
+---
+PRED: <extra_id_0>sseino  <extra_id_1>تجhich 
+REF:  Kûesé bé mba'e n'a'uî
+---
+PRED: όお客さん XzFfXzFffehfishпублік偉... <extra_id_43>
+REF:  T'ereîu ybaté xe rerasóbo
+---
+PRED: <extra_id_0>shopuičeknell... <extra_id_12>
+REF:  Aindé
+---
+PRED: <extra_id_0> mestão fortalere de: me <extra_id_34>Интереснi
+REF:  Opá xe ramyîa ma'epûera aîtyk
+---
+PRED: <extra_id_0> <extra_id_31>ত্তIiwiaWkруулахnciamento <extra_id_48>65\ <extra_id_31>
+REF:  Osó é ahẽ îabynomã
+---
+PRED: <extra_id_0>er <extra_id_32> ичи-meiвредиchtigkeits -Zobraziť <extra_id_34>
+REF:  Kori é t'oromondóne
+---
+PRED: <extra_id_0>iaстанови
+REF:  Iké nhẽ peîkó xe rarõmo, xe pyri, pekere'yma
+---
+PRED: of
+REF:  Pitangamo seni Maria îybápe
+---
+PRED: <extra_id_0>? <extra_id_6> <extra_id_34>агони <extra_id_18>
+REF:  Ixé aé ã a'é umûã nakó peẽme
+---
+PRED: <extra_id_0> todalatitudena ennelsebaseUrl:0...leинград merke
+REF:  Nde membyrápe erimba'e nde remimotarybo?
+---
+PRED: <extra_id_0> .087
+REF:  Nde porãngatu raûsupa
+---
+PRED: <extra_id_0>词a <extra_id_5>e <extra_id_35>eassim
+REF:  A'e suí turi oîkobeba'e omanõba'epûera pabẽ rekomonhangane
+---
+PRED: <extra_id_0>. oresscenteribu ixceptionaleó-tariansooni <extra_id_51>zdědidatissimiardos aeerrassen <extra_id_10>XzFf.うか
+REF:  Asé sy o membypitanga raûsuba sosé asé raûsume nhẽ
+---
+PRED: <extra_id_0>ાસ"}]}කම <extra_id_38>
+REF:  Abá sosé pabẽ i momorangi
+---
+PRED: <extra_id_0> resumeärskреатresumetifu <extra_id_12>e gadollada <extra_id_54>0);
+REF:  Aîukae'ym
+---
+PRED: <extra_id_0>scuroေ့
+REF:  Ambyasybora poîa
+---
+PRED: <extra_id_0>...'AAOSw
+REF:  Kûepe kunhã-mendarûera ereîmomoxy-moxy
+---
+PRED: <extra_id_0>entals rgjigjiculareseიგი <extra_id_1>
+REF:  São Lourenço pytybõana
+---
+PRED: ...。 <extra_id_0>πιταe <extra_id_12>ಾಹ.99osítólykke <extra_id_27> ergas
+REF:  Ererupe nde petyma?
+---
+PRED: <extra_id_0>...ಾಂಗ್XzFf <extra_id_3> :
+REF:  ysypó-tyba
+---
+PRED: <extra_id_0> <extra_id_45>цид <extra_id_32> <extra_id_33>⸢ vulner <extra_id_48> <extra_id_52>nciamentoANTALožen {"_ <extra_id_56>сени
+REF:  Peîuká!
+---
+PRED: – <extra_id_46> <extra_id_49>обетонරග <extra_id_10>нукле <extra_id_51>  <extra_id_52>улан
+REF:  Tamũîa, kyre'ymbagûera, omombab erimba'e
+---
+PRED: の碲aෝර
+REF:  Marã-pakó xe sy xe mbo'ari erimba'e?
+---
+PRED: <extra_id_0>.:amour)sonaleловнаs:s>baileugel
+REF:  okytá
+---
+PRED: <extra_id_0> Activity <extra_id_55> A
+REF:  Ereîkuá ranhẽ meémo emonã nde rekorama
+---
+PRED: <extra_id_0> vid <extra_id_12>pneumoniqaanбеде
+REF:  Asó-potá nde retãme
+---
+PRED: <extra_id_6>~$( <extra_id_33>
+REF:  Marã e'ipe Îudeus i piaretá i xupé?
+---
+PRED: の%) »адбijnen <extra_id_33>으iainen érdés <extra_id_38>ño
+REF:  Eboûĩ nde resá erobak oré koty
+---
+PRED: <extra_id_0>  Wielein <extra_id_47> րեմtrogenigan
+REF:  O manõ riré toryba rerekóbo
+---
+PRED: a <extra_id_0> <extra_id_52> <extra_id_32> <extra_id_52>агони <extra_id_33>රවා17(ááá <extra_id_27> <extra_id_51>
+REF:  moîasukaba
+---
+PRED: <extra_id_0>...: <extra_id_48>榇ntwoord improviz ReplyDeleteAddgulloslavl忸
+REF:  Memeté a'e morero'arupîara
+---
+PRED: <extra_id_0> <extra_id_0>XzFf <extra_id_53>...(褐 ※агони
+REF:  T'osó umẽ temirekó kûepe
+---
+PRED: <extra_id_0>d <extra_id_9> <extra_id_45>-秸կմ
+REF:  i mokõîa
+---
+PRED: <extra_id_0>_punzlav...
+REF:  I angaîpá kó kena'ĩ
+---
+PRED: <extra_id_0> <extra_id_32>мичеólicodicto,않arote殛 <extra_id_28> т
+REF:  Peteumẽ xe rapirõmo
+---
+PRED: );_.XzFfarinolhinja <extra_id_37> <extra_id_56>榇
+REF:  îerobîá-tenhẽa
+---
+PRED: <extra_id_0>sult, eemitir
+REF:  O monhangaramo nde rekó kuapa
+---
+PRED: <extra_id_0>ارات <extra_id_38>i <extra_id_49>t <extra_id_35>ren
+REF:  Ereîtykype kunumĩ amõ nde abiîxûara nde 'arybo moropotara suí?
+---
+PRED: იipertensi
+REF:  Pesapîá abaré, pe mbo'esara
+---
+PRED: <extra_id_0> voltevira <extra_id_55>िलဏ္渕рагу <extra_id_34>auxtag/ beigs. abajongu venti .де Дек <extra_id_41> <extra_id_51> 
+REF:  Eresugûykápe kunhataĩ amõ?
+---
+PRED: <extra_id_0>.қонေသ sivil <extra_id_31>-մնաරවාငံэтил
+REF:  Mosapy ipó xe boîáramo nde rekó ereîkuakub mokõî gûyrá sapukaî'e'ymebéne
+---
+PRED: ke <extra_id_47>იდრ-мбле <extra_id_10>
+REF:  Ereî'apixabype amõno?
+---
+PRED: <extra_id_0> ැලි <extra_id_56>
+REF:  Xe kuaukámo xe rubixaba supémo
+---
+PRED: <extra_id_0>que,,t  ctions  <extra_id_1>e e. tlc Q .   <extra_id_44>:   que <extra_id_51>...
+REF:  Peró turusu-eté nde suí
+---
+PRED: <extra_id_0>dajove㘏d aventura
+REF:  Aîpotá-te kûé kunhã-mendara mã!
+---
+PRED: <extra_id_0> <extra_id_12>멓tuar
+REF:  Xe pukusam
+---
+PRED: <extra_id_0> <extra_id_32>экст <extra_id_51>nášoreroonsonant <extra_id_51>me
+REF:  tĩmuku
+---
+PRED: <extra_id_0>se fere <extra_id_31>
+REF:  Ara yby sokeme, xe ruri
+---
+PRED: <extra_id_0>
+REF:  Xe rekó-aé arekó
+---
+PRED: a ‘ьор- <extra_id_24> ... <extra_id_9> Details zont
+REF:  Okûabépe irã so'o, gûyrá?
+---
+PRED: <extra_id_0>תי да <extra_id_2>ฯ <extra_id_28>- orऍ Медиа ตัว <extra_id_15>-мэрeluja <extra_id_31>агониરિક
+REF:  Ybakype îandé sorama monhanga
+---
+PRED: eerst <extra_id_0> <extra_id_31>пригодზმරවා
+REF:  Sesé Tupã resé bé o îerobîasápe
+---
+PRED: <extra_id_0>ovete:sível <extra_id_10> <extra_id_18> .'ː <extra_id_10>კურ <extra_id_50>nos <extra_id_10>érőREJ:
+REF:  Xe asang
+---
+PRED: <extra_id_0>- <extra_id_28> <extra_id_29>агони <extra_id_31>улан
+REF:  Abáp'amẽ asé osenõî oîkotebẽmo?
+---
+PRED: <extra_id_0> : ':γμένο)ాస్
+REF:  Ereîpotápe îandy-karaíba pupé ixé nde pixyba?
+---
+PRED: <extra_id_0>titledeaudi... <extra_id_21>!:o!zió။e <extra_id_35> <extra_id_36>cular
+REF:  Xe mba'ekugûab
+---
+PRED: း၊ <extra_id_31> <extra_id_45>jūtближ <extra_id_31>~$(
+REF:  abo'o-bo'o
+---
+PRED: <extra_id_24> <extra_id_31>XzFfагони <extra_id_18> <extra_id_31> akunငံ
+REF:  Oîkobé xe pytybõanameté, tubixá-katu Aîmbiré, apŷaba moangaîpapara
+---
+PRED: <extra_id_0> + <extra_id_7>i ֲ kif
+REF:  ybyrakytĩabusu
+---
+PRED: <extra_id_0> .ырынしまいますhinja現行 <extra_id_27> <extra_id_27>stove
+REF:  E'ikatu bépe amõ 'ara pupé amõme asé tara?
+---
+PRED: <extra_id_0>Compartiro
+REF:  Mamõ nhẽ kanhẽ-motara i py'a îaîporaká
+---
+PRED: <extra_id_0>o!οντάs
+REF:  A'e iî abaíbymo abá supé xe ro'o 'u
+---
+PRED: )」頭をетнам <extra_id_0>ზმагони
+REF:  I por nde rygé
+---
+PRED: itse <extra_id_33> <extra_id_33>
+REF:  Aîpokupé-petek
+---
+PRED: <extra_id_0>. drive . elen resumeeitai Uncategorized <extra_id_51>
+REF:  Eîmoîar, eîmoîar ybyrá îoasaba resé
+---
+PRED: <extra_id_0>Ananagar  <extra_id_45> <extra_id_51>
+REF:  N'aîkuakubi mba'e
+---
+PRED: <extra_id_0> <extra_id_1>ငံ <extra_id_48> 
+REF:  Abá resé nhoamotare'yma rerekouká abá supé
+---
+PRED: <extra_id_0>jose nó04(abinske <extra_id_38>
+REF:  Îandé-te îapyk umẽ senõîa
+---
+PRED: <extra_id_0>: : ...
+REF:  Asekobîarõ seîmbaba i xupé
+---
+PRED: <extra_id_0>xe
+REF:  Tupinakyîa, keygûara, tĩapyra moroupîara
+---
+PRED: <extra_id_0>ėjom ырын <extra_id_54> <extra_id_55> dide <extra_id_31>ร่าdvantagehasOwnProperty <extra_id_43>
+REF:  Xe reté ã n'oîkoetéî, omembeka
+---
+PRED: <extra_id_0>æfчности₣↻汐 <extra_id_28>
+REF:  Apysá-îtyk
+---
+PRED: <extra_id_0>ssaญa e_ometer 
+REF:  Ereîmombe'upe kunhã resé nde pokó-pokokagûera abá supé?
+---
+PRED: <extra_id_0>ադե <extra_id_33> <extra_id_4>специализирിഷ്
+REF:  I apaîé - Ele está maduro I apaîegûasu
+---
+PRED: <extra_id_0>em <extra_id_34> тарта <extra_id_26>ministerinAAOSw <extra_id_9>hallowරවාত্ত <extra_id_31>կմXzFf
+REF:  Îaîuká memẽ aîpó 'îara
+---
+PRED: <extra_id_0>e ...鈥たり-臾 րժ-j-
+REF:  Osem okarype, oîase'o-asy-katûabo
+---
+PRED: <extra_id_0>quid... <extra_id_49>:氢現行 <extra_id_27> <extra_id_9> <extra_id_47>мэр
+REF:  i nambi mondoka
+---
+PRED: actuallyече <extra_id_52> <extra_id_12>娆 <extra_id_52>23(zisztenAAOSw
+REF:  Missa mondykápe épe ereîké îepi?
+---
+PRED: ು <extra_id_0>)֜09(
+REF:  Nde reroŷrõ, nde mombóne
+---
+PRED: <extra_id_0> ebal.енин: <extra_id_51>:
+REF:  Kó a'e xe kyre'ymbaba oîkuá morapiti
+---
+PRED: – <extra_id_0> <extra_id_28>улан <extra_id_31>ワード脍 <extra_id_30>bingu
+REF:  aîpi 'y
+---
+PRED: <extra_id_0> <extra_id_36>...රණlytteෝරრავ <extra_id_31> <extra_id_27>
+REF:  mbaba
+---
+PRED: 。『 <extra_id_10> <extra_id_33>1,0.4ုိက္ <extra_id_29>趾ෝර <extra_id_27> <extra_id_32> прису
+REF:  Iîabaíbeté aîpó!
+---
+PRED: <extra_id_0>en Problem.ouapena <extra_id_1>vers poumagnarовард.-觑aksidister-
+REF:  Asó ybyrá piaramo
+---
+PRED: <extra_id_0>fensivepdaterեջырын
+REF:  Na mba'e 'u potá ruã aîur
+---
+PRED: <extra_id_0>Зарегистрирова⏫
+REF:  T'orobasẽne ybakype
+---
+PRED: <extra_id_0>海外取寄せ品 <extra_id_32> <extra_id_31>роляолк <extra_id_33>мэр
+REF:  Nd'e'i te'e moxy onhana oîoa'o-marangatûabo
+---
+PRED: <extra_id_0>táli瘖
+REF:  Erepokokype nde rapopé resé i pipekábo?
+---
+PRED: ...a <extra_id_31>鏖佳emalte
+REF:  Aroîyb aoba
+---
+PRED: <extra_id_0>or焓 <extra_id_11>: <extra_id_4>d: <extra_id_11>: <extra_id_56>:ismiss
+REF:  miapé îyba
+---
+PRED: <extra_id_0>sheh꽂 <extra_id_1>
+REF:  Anhe'angepîak
+---
+PRED: <extra_id_0> : <extra_id_55> J.  <extra_id_56>χρω
+REF:  ygara rokabytera
+---
+PRED: <extra_id_0>возбуд
+REF:  Aî'ybab
+---
+PRED: bizim <extra_id_50>ipationusan <extra_id_16> <extra_id_3>
+REF:  Oporoîrarõ mbá
+---
+PRED: <extra_id_0> <extra_id_28>)myndnheim <extra_id_25>улт <extra_id_52>kevi <extra_id_30>орътνταν~$(
+REF:  Se'yî i kuabypyre'yma Tupã i monhangara remingûaba nhõ
+---
+PRED: <extra_id_0>a <extra_id_31>lytte~$(אוזאוזෝරрча <extra_id_36>ρθρο tuha <extra_id_40>fundur
+REF:  I mba'epepe i nhybõû?
+---
+PRED: <extra_id_0> papel 
+REF:  Sasy xe akanga xe suí
+---
+PRED: <extra_id_0> r ? ?.  <extra_id_14> <extra_id_29> que <extra_id_55>a
+REF:  Gûyrá taté u'uba sóû
+---
+PRED: <extra_id_0> fashion~$( <extra_id_2>気になった <extra_id_31> <extra_id_31>аццаאוז脍тарта
+REF:  ta'yrĩ-rĩ
+---
+PRED: aင်္стаelismerés <extra_id_49>্বি傣 <extra_id_52> <extra_id_46>  <extra_id_30>困り
+REF:  Abá abiã é o a'yra ogûerekó-katu, memetipó Tupã asé raûsubáne
+---
+PRED: <extra_id_0>cenciaയത്തില് stamol <extra_id_21>nектіીs ellosimiento赸eive aisess'.....尚en deहायestras <extra_id_47>mazioneികള <extra_id_35>
+REF:  Rerityba
+---
+PRED: <extra_id_0>eugel <extra_id_1> <extra_id_31>
+REF:  Eîori, mba'enem, mba'e-poxy, tamarutaka!
+---
+PRED: <extra_id_0> <extra_id_18>)es & в
+REF:  Asé aé oîemoabangá i mborypa
+---
+PRED: <extra_id_0> não <extra_id_1>idx <extra_id_51>a
+REF:  anhẽ rakó!
+---
+PRED: <extra_id_0> <extra_id_1> 
+REF:  Aîuká ipó irãne
+---
+PRED: <extra_id_0>鹑. <extra_id_34>がいい <extra_id_31> <extra_id_31>abinskεμι
+REF:  y-îebyra
+---
+PRED: aNå <extra_id_0> <extra_id_51>возбуд褒めrqid
+REF:  Pe apysykĩ serã peîkóbo te'õ repîakare'yma rame'ĩ?
+---
+PRED: <extra_id_0>chauss
+REF:  Aî'apirabo'o
+---
+PRED: <extra_id_0>- рењеdaranlande󰀃eală
+REF:  anhurĩ
+---
+PRED: <extra_id_0>cienforcent
+REF:  Nd'e'i te'e abá mondá iî aîubykypyramo oîkóbo o mondarõagûera repyramo nhẽ
+---
+PRED: <extra_id_0>w困り <extra_id_30>трахは見 nød <extra_id_27>
+REF:  taîasu remi'uru
+---
+PRED: ioaraelska껍documentElementаєursal
+REF:  Aroker aoba
+---
+PRED: <extra_id_0> <extra_id_29> p
+REF:  Ereîpotápe nde nhemoîasuka?
+---
+PRED: <extra_id_0>arĝзвучa <extra_id_33>минаторמקומ <extra_id_12> <extra_id_33>ෝර
+REF:  Aîmomburu'a
+---
+PRED: <extra_id_17>- <extra_id_31>~$(kajiорби <extra_id_27>
+REF:  Sekó-nhemima monduîa
+---
+PRED: <extra_id_0>
+REF:  T'asabeypóne 'ara mokanhema
+---
+PRED: <extra_id_0>тензивsílé: ̨xt
+REF:  Serobîasare'yma potyrõû, iî ybõîybõmo
+---
+PRED: <extra_id_0>0-00-00S
+REF:  I nhe'engasy n'opabi
+---
+PRED: <extra_id_0> erw <extra_id_32>уляторhasOwnProperty <extra_id_31>껍lytte <extra_id_31>
+REF:  Aûîé aîub
+---
+PRED: <extra_id_0> <extra_id_33>ača <extra_id_12>εμι mesm <extra_id_45> <extra_id_27>
+REF:  Aûîé nipó! Kasianamo t'aîkó
+---
+PRED: <extra_id_0> 侭опит <extra_id_56>uvud
+REF:  Morubixaba tuîba'e onhe'eng memẽ i xupé, senonhena, i akakapa
+---
+PRED: <extra_id_0>vidlíu” <extra_id_8>редыдущ eten
+REF:  y-akã
+---
+PRED: <extra_id_0>
+REF:  Eîori i momosema
+---
+PRED: <extra_id_0> . no-alukalio 
+REF:  kûarasy sembaba
+---
+PRED: <extra_id_0>asa t a gama 
+REF:  Erobîá, xe rubangab, ta nde moembiá kori
+---
+PRED: <extra_id_0> Anterior Archives <extra_id_40>resend
+REF:  Xe apyri tuî - Ele mora a meu lado O îoapyri oré roka ruî
+---
+PRED: <extra_id_0> e emenda para e <extra_id_53> onera
+REF:  Oîabab i xuí, seîá
+---
+PRED: <extra_id_0>..)
+REF:  Ara pab'iré, i moingobeîebyri-ne
+---
+PRED: <extra_id_0> selgreteramedadea he man - <extra_id_12>máticas... ›: riendo䣺 <extra_id_34> sejaayonrileivi <extra_id_1> <extra_id_27>mosпроизводentativerzejүктromosomεμι
+REF:  Nãmo oroapin
+---
+PRED: <extra_id_0>desXzFfўлаexistיפרupielādē暾tności2sXzFf祎...
+REF:  Aru-pab
+---
+PRED: <extra_id_0>tejn柰
+REF:  u'ubá-tyba
+---
+PRED: <extra_id_0> <extra_id_34>wa <extra_id_54>
+REF:  akanga îepotasaba
+---
+PRED: <extra_id_0>UVE
+REF:  Aîkoé
+---
+PRED: <extra_id_0> ловнаpunz”
+REF:  Asé monhemombegûabo
+---
+PRED: онӣ酔Esp <extra_id_35>谮atalà
+REF:  Nde erimba'e xe pysyrõ îepé
+---
+PRED: <extra_id_0>鏖 Down: Andйч 
+REF:  Akanhẽ-kanhem
+---
+PRED: <extra_id_0> XzFfvilligkarzIPLವಣmojelucan <extra_id_51> <extra_id_51> <extra_id_48>
+REF:  A'ypîasó
+---
+PRED: %)輳וריות觉得stensശ്വരabinsktedλτιallegaazole塁 <extra_id_43> 조회hakataornadanbs, –gern രംഗത്ത,imazován0-00-00i <extra_id_50>्वरénnyelástica przycz
+REF:  xe potaba
+---
+PRED: <extra_id_0> a֣потаෝරулан க்கீRUH
+REF:  Sekoaba nhẽpe?
+---
+PRED: <extra_id_0>
+REF:  T'orosaûsu îandé ruba
+---
+PRED: <extra_id_0>ebi വല <extra_id_4>~$(-kulin Urhekete" <extra_id_56>ত্তacasaaire →aliwa
+REF:  Ka'abo asó
+---
+PRED: <extra_id_0>io <extra_id_5>--ugolj-㡷
+REF:  O sy rygépe o pitanga reropytá îabé, t'opytá pe pupé
+---
+PRED: <extra_id_0>/ငံэдэმთავარ <extra_id_1> koske~$( <extra_id_31> <extra_id_52> <extra_id_31>агониροχ <extra_id_56> <extra_id_4>
+REF:  Irõ bé!
+---
+PRED: <extra_id_0>
+REF:  Mba'e resépe ereîur xe remiaûsukatu gûi?
+---
+PRED: uyu <extra_id_51>groh [{"ієнт
+REF:  Herodes meémo ikó oîme'eng te'õ supé i angaîpaba kuapa
+---
+PRED: <extra_id_0>ão <extra_id_55>
+REF:  Kûesé, karaíba ri i pokoki
+---
+PRED: <extra_id_0>eava~$(kemmhalfzanimaห์芏baita瘖 <extra_id_28>child содерж
+REF:  Mba'e-mba'epe asé suí i pitubypyra?
+---
+PRED: <extra_id_0>años <extra_id_17>o. benontolo jo:ruan). no .   -- .  . ) <extra_id_17>-  <extra_id_42> oonnaεδοduro y  <extra_id_8>  <extra_id_40> haya faran -kak :.Ле.mடர்.e-  &o <extra_id_45>-  Resumeliran 载ce tumbadežgbu s <extra_id_13>s-o:rogue .  
+REF:  Aîmombor ybype
+---
+PRED: <extra_id_0>3!1ECTION
+REF:  Nd'e'i 'ara
+---
+PRED: ({Ặfesi Farb <extra_id_0> <extra_id_33>ärsk
+REF:  Sa'ĩ xe îukae'ymi
+---
+PRED: <extra_id_10>
+REF:  Akó xe remiybõmbûera?
+---
+PRED: <extra_id_0>착海外取寄せ品googletag <extra_id_40>兂eOfSta sivil
+REF:  Peîori pitanga gûabo, kunumĩ mokona mbá
+---
+PRED: <extra_id_0> resume 와
+REF:  Xe rarûab
+---
+PRED: <extra_id_0>...ívuuankvě
+REF:  Esepenhan, Saraûaî!
+---
+PRED: <extra_id_0> <extra_id_1>omentarsáidshortDescriptionöndəridostadedor熳芏ologischenAAOSwtatileocaindageánicoієнт~$(ilfigerчиваетсяcológica <extra_id_28>⮫shortDescriptionabinskodendronesalarma
+REF:  Eresaûsubarype i mba'easyreme, satá-á
+---
+PRED: <extra_id_0>... <extra_id_55>o <extra_id_54> e... 
+REF:  Mokõî oîoirundyk oito 'ara sykeme, i 'apira mondoki
+---
+PRED: <extra_id_0>rnbergeólicontvangтратив <extra_id_9>
+REF:  Xe resá-ynhusu
+---
+PRED: <extra_id_0>ääkavkaz~$(檻ловнаabinskimaad 
+REF:  Apindó-pûaî
+---
+PRED: <extra_id_0>.埽cordial
+REF:  Aûîebé-temo xe nupãû anhe'engĩmo
+---
+PRED: <extra_id_0> _ s <extra_id_16>3=0;
+REF:  Akopîasó
+---
+PRED: <extra_id_0>,jidh🙂iad󰀃lillah
+REF:  Mba'epe ké kanindeoby îasûara?
+---
+PRED: <extra_id_0> <extra_id_0>
+REF:  Og uba rupi ahẽ resatingamo
+---
+PRED: <extra_id_0> င္း鹑enekler㽇szinteěz
+REF:  Abá ra'yrape nde?
+---
+PRED: <extra_id_0>-ilmente:e/.../
+REF:  Erenhe'eng-aparatãpe abá supé, i moroŷrõmo, i moporoamotare'yma?
+---
+PRED: <extra_id_13> <extra_id_5> binneρίνզբ <extra_id_3>周囲равится鞘нуклевредиಿಪ
+REF:  Kuîa nhẽ i tĩ-ngá-tĩ-ngábo, ereîanga'o abá
+---
+PRED: <extra_id_0>
+REF:  Oromoeté-katu nde xe pysyrõagûera resé
+---
+PRED: <extra_id_0>e XzFf
+REF:  Ereîe'aîtykype kunhã amõ supé?
+---
+PRED: <extra_id_0>祟ত্ত껍 <extra_id_5> <extra_id_52>
+REF:  Ne'ĩ xe atuasar
+---
+PRED: <extra_id_0>gesetztencormenපත්㲥ilucan':stogo <extra_id_54>онӣöhn
+REF:  Pene'ĩ pesóbo
+---
+PRED: <extra_id_0> ... <extra_id_12> <extra_id_9> l
+REF:  Na xe îáî
+---
+PRED: <extra_id_0>уланRingtoneGeregistreerd㘏뜯esponderEliminar
+REF:  Oré moingobé îepé
+---
+PRED: a <extra_id_0>ಂಟಿ
+REF:  Asendubaíb nde nhe'enga
+---
+PRED: <extra_id_0> .
+REF:  Tupã moîerekûapa
+---
+PRED: <extra_id_0>.
+REF:  Eresem ymã putunusu suí
+---
+PRED: <extra_id_0>:
+REF:  Emogûeb tatá
+---
+PRED: aD ֜Зарегистрироваෝරjóða
+REF:  Aîakangeky-ekyî
+---
+PRED: <extra_id_0> nem ni.рита <extra_id_27>神経մր <extra_id_31>, meghalאוז
+REF:  Apŷá-serokypyra kó 'ara oîmoeté
+---
+PRED: <extra_id_0> <extra_id_35>gitur地dfreudere <extra_id_8>
+REF:   Mba'eramo i moîa'okypyra rekóreme
+---
+PRED: <extra_id_0>: <extra_id_16>ioase <extra_id_22>
+REF:  Xe îagûareteporu!
+---
+PRED: <extra_id_0> <extra_id_1>hayanengan... <extra_id_52> verb ...毐
+REF:  Xe nhe'ẽrueru
+---
+PRED: <extra_id_0> a .
+REF:  amõneme nhõ
+---
+PRED: <extra_id_0>jove 
+REF:  so'o ma'e'ĩndaba
+---
+PRED: <extra_id_0>oh агониdioxid <extra_id_5>  <extra_id_33>
+REF:  Ybakype i xoagûera rerobîá
+---
+PRED: uyu <extra_id_0> <extra_id_56>ình <extra_id_56> <extra_id_33>
+REF:  N'aîmopanemi tupãoka
+---
+PRED: <extra_id_0> 4 desc[/-tanto <extra_id_51>
+REF:  nde rokype oîkébo
+---
+PRED: <extra_id_0>ustos <extra_id_55>.込む <extra_id_3>ົ້າocksørste
+REF:  tupinakyîa keygûara
+---
+PRED: uaisXzFf <extra_id_56>🚼
+REF:  Oîké îugûasu, i akanga kutuka
+---
+PRED: <extra_id_0>женим  
+REF:  Mobype a'e asé rekomonhangaba?
+---
+PRED: <extra_id_0> .aAAOSw
+REF:  Xe moobaybaka
+---
+PRED: <extra_id_0>te a <extra_id_16>erlebentumisen  <extra_id_17> ) nderenways
+REF:  Akûeîme apytá memẽ nde pyri, ybytyrapûápe
+---
+PRED: <extra_id_0>erXzFf
+REF:  Memẽ nhẽ moxy îandébo marã e'i-memûã-memûã
+---
+PRED: <extra_id_0> 。[~$(
+REF:  N'aîari kó sekó-angaturama
+---
+PRED: <extra_id_0> de <extra_id_3>~$(онасиXzFf <extra_id_49> <extra_id_40> <extra_id_56>kçe <extra_id_51>ㄎ <extra_id_30>änen
+REF:  Nde resé te'õ n'osyki
+---
+PRED: <extra_id_0> <extra_id_35>en榇йства-රණåld
+REF:  Asykûera aîasy'ab
+---
+PRED: <extra_id_0>aकों <extra_id_48>агониုိက္ <extra_id_29>
+REF:  nhau'umoka
+---
+PRED: <extra_id_0> & 483045022100
+REF:  Anhemongatyrõ
+---
+PRED: <extra_id_0> очерea迤;"> <extra_id_14>≣胛idosta~$(toriale岖谶viselő芏bülктивтіငံroceငံ帻
+REF:  Oré rysy
+---
+PRED: <extra_id_0>AAOSwianskemigasas: <extra_id_34>очень <extra_id_10>然háb <extra_id_33>
+REF:  Iesus boîá ã ikó
+---
+PRED: <extra_id_0>ræð 
+REF:  Aîepoká-poká
+---
+PRED: arzej
+REF:  Aûîebeté ereîkó xe îar-y gûé!
+---
+PRED: <extra_id_0>madaszko犒a <extra_id_52>nomic
+REF:  Abámo mba'e-katu 'uagûera n'oîkuabi xûé sé katûagûera resé o esaraîamo?
+---
+PRED: )」lévtóriumlac
+REF:  Xe rebykatãgûasu
+---
+PRED: <extra_id_0> dando  <extra_id_53>バット <extra_id_9>dispos
+REF:  Sesé oma'enduaramo
+---
+PRED: にしてpoq <extra_id_0> <extra_id_31> <extra_id_49>ρεπ
+REF:  Aîkurá-kurab
+---
+PRED: <extra_id_0> a↻
+REF:  A'eboé tuî
+---
+PRED: <extra_id_0>:...::  
+REF:  kó amoaé
+---
+PRED: <extra_id_0> (a elseikasyon󰀄ntaje ~$(зывsötet
+REF:  itangapẽ-mbora
+---
+PRED: geliводоро引っරෙ~$(
+REF:  amõ amõ santos
+---
+PRED: <extra_id_0>៌...
+REF:  Iîá muru senonhana!
+---
+PRED: <extra_id_0> <extra_id_48>」「)υπά] o
+REF:  A'eîbé Pilatos supé oîerekûabamo
+---
+PRED: <extra_id_0> <extra_id_27>褒め
+REF:  ygá-pype
+---
+PRED: <extra_id_0> <extra_id_1>: nødütés <extra_id_52>
+REF:  Xe pytu-muku
+---
+PRED: äkin <extra_id_0> <extra_id_55>正文已(12 <extra_id_56> <extra_id_56> : <extra_id_49>ెడЭлектроparol
+REF:  Xe îase'opyoú
+---
+PRED: <extra_id_0> <extra_id_37> eшканAAOSw㡷 <extra_id_45>е <extra_id_12> <extra_id_53>- <extra_id_10>-艿olhosya
+REF:  Oîposanong i nambi atõîa nhote, aûnhenhẽ i monga'ẽmo, i moîepotá
+---
+PRED: אָר <extra_id_46>SOMA <extra_id_31>όπο
+REF:  tykuba'e
+---
+PRED: <extra_id_0>эдэ <extra_id_11>tycz <extra_id_35>~$(
+REF:  Moraseîa é i katu, îegûaka, petymbu
+---
+PRED: <extra_id_0> okomandi <extra_id_51>нуклетрахෝරಪಡಿဂ္ <extra_id_56>
+REF:  kaûĩ ratá
+---
+PRED: <extra_id_0>: <extra_id_34>、,htymä
+REF:  Aytarõ
+---
+PRED: <extra_id_0>s.хів) <extra_id_35>издан ReportаранCorsa
+REF:  ambé-aîó
+---
+PRED: <extra_id_0>াঙ্কtes芏
+REF:  Asepy-sepyk
+---
+PRED: <extra_id_0> resume <extra_id_45> <extra_id_48>
+REF:  Pysaré kó i kere'ymi
+---
+PRED: <extra_id_0> <extra_id_51>прият <extra_id_28>Load~$(့္
+REF:  Ererobîarype paîé porapiti mo'anga'uba?
+---
+PRED: <extra_id_0>?? <extra_id_55> Comentariosenstva effectrazonérica
+REF:  A'e 'ara îepubur'iré a'ereme karaibebé ruri
+---
+PRED: <extra_id_0>hyun hadaucetoodrangandägenhet없이mpls
+REF:  Aûîebé-te asó
+---
+PRED: <extra_id_0>AAOSw▍hreeöndər
+REF:  Mba'easybora repîaka
+---
+PRED: <extra_id_0>  
+REF:  O a'yra, o embiaûsuba omoporabykyba'e
+---
+PRED: reči자연! <extra_id_0>ырынcarita150000","
+REF:  tapi'i-kaba
+---
+PRED: dent訴 <extra_id_13> <extra_id_44> <extra_id_37>ინვ агониිනාונסnnettava
+REF:  kûeîpe suí
+---
+PRED: <extra_id_0>:៊ុន <extra_id_50>susürz
+REF:  Xe ky'a
+---
+PRED: <extra_id_0>fSwiZW <extra_id_4>
+REF:  Tupãoka suí i mosemymbyra
+---
+PRED: <extra_id_0>компресс <extra_id_9>
+REF:  itamaraká-mirĩ
+---
+PRED: <extra_id_0>chοντά枕ত্ত lover <extra_id_51> asaludoumescseits
+REF:  Kunhã kuauká i mena supé
+---
+PRED: )」XzFfapidgatorנסαρακτηριστικά コメントбедеapidgator <extra_id_49>hési <extra_id_31>abnews
+REF:  Xe rekó-aé arekó
+---
+PRED: <extra_id_0>zdrowiরাওasgenoьбаагони <extra_id_33> <extra_id_12>Odpowiedzi
+REF:  Ereîeîuru-mopiningype, abá supé epukamirĩamo?
+---
+PRED: dahi <extra_id_3>11 <extra_id_26> <extra_id_31> <extra_id_31>InStockიდრုိက္ <extra_id_4> <extra_id_51> <extra_id_27>ømmelse <extra_id_55> <extra_id_51>počí
+REF:  Gûyrá koîpó îagûara nhe'enga supé morangygûana o'îabo
+---
+PRED: <extra_id_0> <extra_id_35>unzi )
+REF:  Abá mondarõagûera o'uba'e koîpó og okype ogûerasoba'e
+---
+PRED: <extra_id_0>
+REF:  Xe 'ang - Eu tenho abrigo, eu estou abrigado Xe 'ãngatu
+---
+PRED: <extra_id_0> Agora
+REF:  Aîuká-matutenhẽ
+---
+PRED: <extra_id_0>o.dømme
+REF:  Emonãnamope Tupã îandé rubypy arukanga nhẽ apóû semirekóramo?
+---
+PRED: nspruch  <extra_id_45>Auteurforuren доро02(ৃষ্ট
+REF:  Eresópe abá îeky-'ye'ẽ supa, i pora rá?
+---
+PRED: <extra_id_0> parahи qich
+REF:  Xe rekoruînhẽ
+---
+PRED: <extra_id_0>jerry.娜.ત્યдобив <extra_id_28>
+REF:  kopûera
+---
+PRED: <extra_id_0>Nz <extra_id_32> <extra_id_56>ko-
+REF:  Abá-angaîpabĩ takó mba'e-katu ogûerekó xe suí mã!
+---
+PRED: <extra_id_0>o <extra_id_0>palma | <extra_id_28>юж <extra_id_51>ստորա: <extra_id_48>o
+REF:  Kó-tene i îaeté
+---
+PRED: <extra_id_0>.l <extra_id_10>
+REF:  Aîtyk ygara
+---
+PRED: <extra_id_0>vahoma <extra_id_52> <extra_id_29>
+REF:  Oîkuakumo amõ abá tekopûera oîepé'ĩ nhõmo, Tupana n'i nhyrõî xómo
+---
+PRED: <extra_id_0> <extra_id_52>08( <extra_id_52>
+REF:  Mamõpe i xóû o mba'e'u-pab'iré?
+---
+PRED: <extra_id_0> <extra_id_33> <extra_id_56>്വാresponder
+REF:  T'oré pyatã, angá, mba'e-asy porarábo
+---
+PRED: <extra_id_0>er <extra_id_4>- <extra_id_52>-se-
+REF:  Adão, oré rubypy, oré mokanhemeté
+---
+PRED: <extra_id_0>)嗨)率iឿ李克强...
+REF:  y-eté
+---
+PRED: <extra_id_22>rzej
+REF:  Supixûar ikó paîé-angaíba
+---
+PRED: <extra_id_0> <extra_id_56>iㄔ <extra_id_6>
+REF:  Nde ereîemosusuni, oré moingobé-potá
+---
+PRED: <extra_id_0> di๋ว <extra_id_54>
+REF:  Mba'epe sepyrama?
+---
+PRED: <extra_id_0>рэаරයන්цид <extra_id_9>
+REF:  Osó nhẽmope asé ybakype o nhemongaraibireme?
+---
+PRED: aієнт-ingағалау
+REF:  Xe anama xe mbouri
+---
+PRED: <extra_id_0>,ranimiamipears <extra_id_4>
+REF:  Kó abá semirekó abé opá o mba'e mombabi
+---
+PRED: <extra_id_0> ed <extra_id_52>:ഹിതிச்சை <extra_id_33>
+REF:  Asapûapin
+---
+PRED: <extra_id_0>-keligskultlibrari觑
+REF:  gûaîbĩ-marã serã-serã
+---
+PRED: itse gespလျှ
+REF:  Eîori nde retamûama repîaka
+---
+PRED: dennjZൡReplyDeleteAddвреди <extra_id_48> <extra_id_31>
+REF:  Sesé orosó
+---
+PRED: <extra_id_0>ceptorulär <extra_id_52>hasOwnProperty <extra_id_1>votospirant <extra_id_15> 
+REF:  Xe anhanga moropé
+---
+PRED: <extra_id_0>n';)~$(ndurenants
+REF:  ka'a-pa'ũ
+---
+PRED: <extra_id_0>шту, <extra_id_31> <extra_id_49>
+REF:  Mba'e-akuba, mba'e-robeté tukutuku okûapa
+---
+PRED: <extra_id_0> オーダーカーテン <extra_id_1> <extra_id_10> r <extra_id_11>ganosafeirar unuicom plysninger teturs 
+REF:  Nde resé serosypyra
+---
+PRED: <extra_id_32>fogo iingабз <extra_id_28>իպ
+REF:  Nde 'anga osapy satá
+---
+PRED: <extra_id_0> quericulares <extra_id_47>...ചിത
+REF:  Eropytá nde boîá'ĩ orébo
+---
+PRED: <extra_id_0>. 齲 a1: <extra_id_29> fossiεμι
+REF:  Peîori sapirõagûama resé pe pupé seîkéreme
+---
+PRED: <extra_id_0>毐  n
+REF:  Nd'e'i te'e oá nhote i xuí, nd'i pekábo ruã
+---
+PRED: <extra_id_0>ёamperonics <extra_id_4>.netdna-که.жира a e <extra_id_7> t
+REF:  T'îasó maranatãûãme o îoupé oîobaúpa?
+---
+PRED: <extra_id_0>  <extra_id_31> <extra_id_45>pensaнукле <extra_id_31> <extra_id_56> <extra_id_9>
+REF:  Pitanga robá sesãî i xupé
+---
+PRED: <extra_id_0> –юж <extra_id_46>zhdlytte <extra_id_27>rissenezultatAAOSw
+REF:  Xe pûeraî mbyté
+---
+PRED: <extra_id_0>áilругооружениզբйстваэкст <extra_id_28> <extra_id_52>~$(
+REF:  ugûera
+---
+PRED: <extra_id_0> <extra_id_1>tato])) eловнаይታatif
+REF:  ta'yrypy
+---
+PRED: <extra_id_0>r <extra_id_6>batera-
+REF:  Nde resé i pûaragûera moasŷabo
+---
+PRED: の <extra_id_3> +08:00ერს
+REF:  Nde 'anga sepy-etéba'e
+---
+PRED: <extra_id_0>'');困りはいつ
+REF:  Omanõaibí abá o poraseîtápe bé
+---
+PRED: <extra_id_0>raggioიდრ
+REF:  sapi'a'okypyra
+---
+PRED: <extra_id_0>. ర్వాy
+REF:  Asem
+---
+PRED: <extra_id_0>O閾stroitelïne
+REF:  Aporero'ar
+---
+PRED: aвозбуд~$(AppData[]},ಿಪ <extra_id_56>/
+REF:  Abápe asé sumarã?
+---
+PRED: )」blica vulnerlakenrjeeπλοκ <extra_id_30>abrikan已关闭评论õistluslishment󰀄sztrálмушчаст <extra_id_32>
+REF:  Xe typa'am
+---
+PRED: <extra_id_0>瘢
+REF:  Nde pó gûyrype oroîkó, nde resé oroîekoka
+---
+PRED: a不上ей производстегнutenτί
+REF:  o apixara rerekoaíba
+---
+PRED: الاخبار) <extra_id_40> <extra_id_46>provvis 
+REF:  N'aker-angáî sekasápe
+---
+PRED: <extra_id_0> of7">L <extra_id_55>tèn
+REF:  Nde atybak, nde resá-popybo ema'ẽmo, epukamirĩamo, eîepokábo tenhẽ
+---
+PRED: <extra_id_0>ეnicznych
+REF:  Aîpó e'ymeté, ko'arapukuî, pysaré nde maînanĩ nde 'anga resé-ne
+---
+PRED: <extra_id_0>  -lístanzeigenкцыя)_aaylarıчињidama )kısıkundu,ošüü,üterayday cendoAha amigo <extra_id_10>بما ah իրաԾ <extra_id_7>ahon, <extra_id_21> <extra_id_16> tunno <extra_id_17>'- Eh -и  <extra_id_8>ahon
+REF:  Tekatueté mã!
+---
+PRED: 。[ಣ್ <extra_id_45>ポಾಡпыр
+REF:  inhanhã
+---
+PRED: <extra_id_0>یستی |২২
+REF:  Xe reté-piring
+---
+PRED: stess <extra_id_32> <extra_id_31>些ругրամաս
+REF:  Eîori t'eremondó xe suí tekoangaîpaba
+---
+PRED: طان150000"," <extra_id_0> <extra_id_48> {"_ichaussBestsellermjd <extra_id_44>.Embed <extra_id_25>o <extra_id_12>цюруг <extra_id_9> <extra_id_52>.
+REF:  Nde arũaípe nde rapixara 'arybo eîupa?
+---
+PRED: <extra_id_0>, aaijiyjs <extra_id_38> <extra_id_51>comptasyeiшен 
+REF:  Pe 'angyme oîkeba'epûera
+---
+PRED: <extra_id_0>nіті, <extra_id_28> <extra_id_1>mореограф <extra_id_54>s <extra_id_55> vos vos
+REF:  A'e pe mopyatã
+---
+PRED: instance <extra_id_0>аляван  <extra_id_29> <extra_id_52>傣
+REF:  Aîeîuká-ukar
+---
+PRED: <extra_id_0>tronic,per  <extra_id_1> risor. Mostrarฯ <extra_id_33>იდრ
+REF:  a-pixapaba
+---
+PRED: <extra_id_0> <extra_id_0>ølger <extra_id_26> <extra_id_31>eniny~$(érő- <extra_id_33>
+REF:  Xe apebĩ
+---
+PRED: <extra_id_0> kare XzFf vulner껍රව
+REF:  Nde rera rendupa abé, Anhanga ryryî okûapa
+---
+PRED: a evral
+REF:  o apixara reîmbaba îagûara remimomosẽgûera
+---
+PRED: 也 <extra_id_32>აჟ <extra_id_32>സിഡ improvennelselyttelmazuatlуланrsdag
+REF:  -Mba'epe aûîeramanhẽ serekopyrama ikó 'ara pupé? -Aani ã biã - Que é o que será conservado para sempre neste mundo?
+---
+PRED: ...!:帻ളയ <extra_id_34>=24碲こなhasOwnPropertyত্ত
+REF:  Aygapukuî
+---
+PRED: of <extra_id_0>:coon <extra_id_9>»:
+REF:  Yby rupi bépe sugûy syryki?
+---
+PRED: <extra_id_0>reiden <extra_id_5>ிச்சைバットlykkeулан1,0.4 <extra_id_4> <extra_id_51>минаторmediatamente
+REF:  Nd'e'ikatuî abá îuru Anhanga ratápe tekó-asyeté mombegûabo
+---
+PRED: <extra_id_0> duomenitbaud
+REF:  ypîasoara
+---
+PRED: <extra_id_0> <extra_id_30>армони ¿
+REF:  Sepyápe, ereîakasó
+---
+PRED: <extra_id_0> | <extra_id_49> <extra_id_43>abe痞 <extra_id_43>inink्शन笮何故俑📕арапompromiss-лаже唆е...पत्तిచే俑
+REF:  Emonã ûĩ sekóû
+---
+PRED: <extra_id_0> <extra_id_28> <extra_id_31> vulner <extra_id_34>וינ <extra_id_33>рчаoleva
+REF:  Oîepé-ĩombé, nipó, i angaîpab amõme é
+---
+PRED: <extra_id_0> a , , <extra_id_12>,  (  <extra_id_14>
+REF:  Asapy
+---
+PRED: <extra_id_0>ქცია Empty:n <extra_id_51>ладыlopeahoma250 <extra_id_4>
+REF:  Oporombo'e-a'u Tupã nhe'enga ra'anga
+---
+PRED: <extra_id_0> ?嵯
+REF:  Eresó ûĩ
+---
+PRED: <extra_id_0>domuõás rætammon <extra_id_6> neાವು hatt- <extra_id_37>rketin <extra_id_14>orina  <extra_id_51>enossaaのにoaacutedırımseĩ jmuito  <extra_id_31>degoਕੀe á
+REF:  Anhanga o îaramo sekó potare'yma
+---
+PRED: <extra_id_0> <extra_id_38>охранянучуланэдэ <extra_id_50> <extra_id_25>
+REF:  îandé ma'enduaramo
+---
+PRED: <extra_id_0>!ěle <extra_id_55>'
+REF:  Abápe opytá a'epe?
+---
+PRED: <extra_id_0> <extra_id_31>
+REF:  T'oroîtyk oré poxy, paîé rerobîare'yma, moraseîa, mbyryryma karaimonhanga ndi
+---
+PRED: <extra_id_0> уста  ./"></рлы <extra_id_52> الدین껍රවාurimi <extra_id_27> <extra_id_4>
+REF:  Missa mondykápe épe ereîké îepi, nde îesûere'yîpe
+---
+PRED: <extra_id_0> O dispos <extra_id_1>  <extra_id_1>-trackback: 
+REF:  Tekokatueté rerekoara o emimotarybo é i mba'ee'ymba'e
+---
+PRED: <extra_id_0>ntvang
+REF:  Eresaûsubápe nde sy nde ruba i mba'easy tume, sesé nde morerekoaramo?
+---
+PRED: <extra_id_0>набバット <extra_id_10>俑バットזמנ:1}орби
+REF:  A'eboépe Tupã rasara Tupã rari amõme, îepi?
+---
+PRED: <extra_id_0> andでしょうしian@Haven • <extra_id_17>, <extra_id_10>yᐅ <extra_id_27> <extra_id_19>idezåpninges <extra_id_45>krytau
+REF:  Erur 'y ixébe
+---
+PRED: <extra_id_0>roντεο <extra_id_12> <extra_id_34> <extra_id_32>稲
+REF:  O îoybyri se'õmbûera paranã ybyri i kûáî
+---
+PRED: <extra_id_0> na -...ചിതිරි <extra_id_31>රා
+REF:  I xy n'i membyrasyî
+---
+PRED: <extra_id_0>ノミხარ
+REF:  I 'ã i 'ang xe retãme xe rekoagûera ixébo
+---
+PRED: <extra_id_0> <extra_id_56>XzFf <extra_id_35> <extra_id_55> <extra_id_30> <extra_id_37> <extra_id_55>հու
+REF:  Marã e'ipe Pilatos serekoaretá supé?
+---
+PRED: <extra_id_0>zlerbús, <extra_id_14>roosi <extra_id_28>vable <extra_id_54>pidamis
+REF:  Aîpó kuapamo, ereîmorambûé Tupã nhe'enga abyrambûeramo
+---
+PRED: <extra_id_0>otgezailu diotre e
+REF:  Oîoirundyk îeapyká sykápe
+---
+PRED: > <extra_id_0>Esp <extra_id_54> <extra_id_29>улан <extra_id_31> <extra_id_1> <extra_id_55>helo <extra_id_51> <extra_id_30>රයන් <extra_id_6>
+REF:  Temone ko'yr Anhanga ratá pora, abá amõ opu'ama iké îandé re'yîpemo
+---
+PRED: <extra_id_0>
+REF:  Ko'ẽme gûemi'urama resé onhemosaînana
+---
+PRED: <extra_id_0>ulez
+REF:  T'ereîuká ixébe paîé-aíba supé
+---
+PRED: deнуклеσκευරවා
+REF:  y-mombukaba
+---
+PRED: <extra_id_0> <extra_id_9>s, . <extra_id_10> <extra_id_49>çoke/муж Valor)ypicale)
+REF:  Oîá nhote kagûarape, marã?
+---
+PRED: <extra_id_0> <extra_id_38> <extra_id_53>khao紆genzi
+REF:  mangaby
+---
+PRED: ...agerfeld ойndringerтога뤽狱 <extra_id_53>
+REF:  marã-te-p'iã-ne?
+---
+PRED: ก์ોળ
+REF:  mokõî îasy
+---
+PRED: <extra_id_0>芏zheimnziali~$(abinskേയുംവുമായtaneous
+REF:  T'aîpobu kori ygasaba
+---
+PRED: <extra_id_0>:
+REF:  Perobîar-y-tepe aé Tupã?
+---
+PRED: <extra_id_0>
+REF:  Asendu-potakatu
+---
+PRED: <extra_id_0> | <extra_id_28> <extra_id_31>껍эдэ
+REF:  pobandara
+---
+PRED: <extra_id_0> ? Comoაჟ:
+REF:  Marã e'ipe Îandé Îara og obá petekarûera supé?
+---
+PRED: <extra_id_0>:𓆡
+REF:  Oré remi'u 'ara îabi'õndûara eîme'eng kori orébe
+---
+PRED: <extra_id_0>ырын <extra_id_31>  <extra_id_31>锘эдэ tegel
+REF:  miapepûera
+---
+PRED: stess <extra_id_0>
+REF:  Opápe turi?
+---
+PRED: ahysigагони <extra_id_51>ramente Lemb
+REF:  Cruz resé i moîari, i îeruresabo é
+---
+PRED: <extra_id_0>izteuntricoodió І']o碣~$(『bundaךние <extra_id_14>
+REF:  tining-atã
+---
+PRED: <extra_id_0>. <extra_id_31> <extra_id_44>ෝරмига
+REF:  Abápe aîpoba'e oîmomaran?
+---
+PRED: <extra_id_0>客人szcz锘
+REF:  O pó, o py, o yké kutukagûera bépe erimba'e ogûeropu'am?
+---
+PRED: cael <extra_id_1>,哒্যম –yo,ား㲟
+REF:  Ereîmombukype kunhataĩ amõ?
+---
+PRED: <extra_id_0>y <extra_id_15>なぜかozi
+REF:  Oú tubixá-katu
+---
+PRED: <extra_id_0> <extra_id_40>150000","olup <extra_id_29> <extra_id_2> <extra_id_27>
+REF:  osóbo bé
+---
+PRED: <extra_id_0>赅gure-丛ca
+REF:  Aî'apirungá
+---
+PRED: <extra_id_0>).容易-hábखी
+REF:  T'oroîtyk oré poxy, paîé rerobîare'yma, moraseîa, mbyryryma
+---
+PRED: criptooming"],gizoINSI (→ෝර <extra_id_33> <extra_id_30>braço
+REF:  A'epe bé ogûekokatu pupé o 'anga nongatusarûera oína
+---
+PRED: miyeta <extra_id_0>aksidруг庖 <extra_id_52>
+REF:  Mamõpe erimba'e te'yî-katupabẽ Îandé Îara rerasóû?
+---
+PRED: <extra_id_0>ስተ o笕 迤 राउ стр
+REF:  Seroŷrõmo opakatu ikó 'ara pupé seroŷrõmbyra sosé
+---
+PRED: <extra_id_0> gaz ... precis
+REF:  y-tororoma
+---
+PRED: <extra_id_0>venidaendentesztikus
+REF:  Opûerab amõnyme, Tupã asé rerekokuapaba rupi é
+---
+PRED: <extra_id_0>...koren704://úš
+REF:  A'eba'e i moapysykypyramo sekóûne
+---
+PRED: <extra_id_0> <extra_id_29>が一brie <extra_id_39>ομπэдэ: <extra_id_27>агониrīnкъл
+REF:  Xe ryapûanusu
+---
+PRED: ት፤ <extra_id_30>~$( готовნაწ <extra_id_11>⸢困りಣ್lībühren <extra_id_36> <extra_id_49>цид <extra_id_52>XzFf
+REF:  Xe apy'am
+---
+PRED: <extra_id_0> : <extra_id_10>
+REF:  Aîukatu
+---
+PRED: <extra_id_0>jeta : بما e aeroirsdaeائق Havehe  –Atuat acak:отека of <extra_id_35>s
+REF:  - Akó morotinga, i amandaba bé asé osepîak
+---
+PRED: 회를hasOwnProperty
+REF:  Sesé onhemonane'yma, oîabé sekó potare'yma
+---
+PRED: <extra_id_0> oвозбуд
+REF:  Taûîé pe poreaûsubagûama rapirõmo, peîemoangekoaíb peína
+---
+PRED: <extra_id_0>.ቂ 
+REF:  Abebé kó ybytu îá
+---
+PRED: daki <extra_id_31> <extra_id_55>的问题
+REF:  mbyru'apûera
+---
+PRED: pisu {"_ <extra_id_36>okrasi30744573456
+REF:  Xe akym
+---
+PRED: <extra_id_0> ismissneamhてきοστά
+REF:  Aîerekoaibeté xe angaîpá-katu suí
+---
+PRED: <extra_id_0> Brazil '......aipdepende
+REF:  Ema'enãngatu xe ri, xe mbo'are'ym-uká
+---
+PRED: <extra_id_0>.benhavn....вреди锘ульт:приемник <extra_id_33> <extra_id_9>ырынக்கீ
+REF:  Xe mene'õ
+---
+PRED: a <extra_id_31>XzFf <extra_id_31>ցանمشخصاتக்கீ <extra_id_27>r
+REF:  nãmo-nhõta'ub
+---
+PRED: <extra_id_0>клин~$(
+REF:  Xe membyrakyrar
+---
+PRED: <extra_id_0>fontschtigkeit <extra_id_32>esponderEliminarпаніsztikus
+REF:  T'asó aîpó nhe'enga mopó
+---
+PRED: <extra_id_0> 
+REF:  N'i rambûé-mirĩî xûé aîpó tekorama resé xe nhe'engane
+---
+PRED: <extra_id_0> a <extra_id_29>- sei
+REF:  Xe moory-katu îepé, inã tekó mombegûabo
+---
+PRED: <extra_id_0>.jovennissazabal
+REF:  Asé rarõanamo-tepe karaibebé rekóû?
+---
+PRED: <extra_id_0>tolgafelleratsspektive.ntercontinentala :a .ejtetto <extra_id_41>.... actualaa vejo.)-50%;adernoua). <extra_id_56> <extra_id_56> ...
+REF:  Ebapó ta peîkó pe îebyragûama resé ixé nde momorandube'yma pukuî
+---
+PRED: aವಣrissen
+REF:  ypypûera
+---
+PRED: <extra_id_0> <extra_id_34>a
+REF:  Setá nhẽ ygasabusu
+---
+PRED: a,bhir <extra_id_0>ärm ARH
+REF:  Xe tekokuabar
+---
+PRED: <extra_id_0>sndo <extra_id_4> <extra_id_1>nt:
+REF:  Setápe asé nhemongaraíbi?
+---
+PRED: <extra_id_0> rendelkez <extra_id_1>...ぐれンダーεμιагониზმ
+REF:  Xe rekosûé-katu
+---
+PRED: ofругэтилত্ত
+REF:  T'oropyk
+---
+PRED: <extra_id_0>savado7ribans  igues <extra_id_35> deesponderEliminar Corrirzystgroßјноlogari
+REF:  Nd'e'i te'e oîoepîaka'upa, o karukasyramo
+---
+PRED: <extra_id_0>のバット্বিలనադե-13:
+REF:  N'asepîake'ym-a'ubi
+---
+PRED: <extra_id_0>  Divid <extra_id_31> <extra_id_51>試してみිරි <extra_id_12>
+REF:  Xe nhe'ẽpokarugûá-katu
+---
+PRED: <extra_id_0> t'ողոאוז~$(մրoギリギリэдэ <extra_id_27>termiddag神経্যান্ড <extra_id_35> <extra_id_44>genserinde
+REF:  Oré pysyrõ-te îepé mba'e-aíba suí
+---
+PRED: <extra_id_0>  (Arbагони <extra_id_27> <extra_id_49>
+REF:  A'ereme amõ aîukáne
+---
+PRED: <extra_id_0>远րնlév芰abinskgotekileієнтငံ
+REF:  Xe îá-xe îaó
+---
+PRED: <extra_id_0> Manщkr <extra_id_10> <extra_id_31>აჟ
+REF:  Oroerokûaka'ar
+---
+PRED: <extra_id_0>యో <extra_id_38>  <extra_id_33>...puis חייтрахlytteроля ... <extra_id_27>க்கீカセット <extra_id_31>原発рита koske
+REF:  xe rerokarûera
+---
+PRED: aზმ uggc <extra_id_48>ырау
+REF:  Sekó-te i poxyeté
+---
+PRED: <extra_id_0>shop <extra_id_36>völ껍 <extra_id_44>~$(හර
+REF:  Aîukámo mã!
+---
+PRED: <extra_id_0>) მდებ Läng <extra_id_54> замет <extra_id_52>.
+REF:  Ké turi îandé nupãmo!
+---
+PRED: fordia <extra_id_55>
+REF:  Aîtyk nhe'enga sesé
+---
+PRED: <extra_id_0>ρολογнукле <extra_id_56>oglobulin
+REF:  abá-ekoate'yme'yma
+---
+PRED: <extra_id_0>marka <extra_id_46> em
+REF:  Yby abé a'ereme onhemonguébo, oryryîane
+---
+PRED: ාවක් <extra_id_52>秸 <extra_id_4>
+REF:  Xe boîá
+---
+PRED: <extra_id_0>). : <extra_id_14>σης
+REF:  Asó-asó-a'ub
+---
+PRED: 、【23(
+REF:  gûymaenhẽ gûixóbo
+---
+PRED: <extra_id_0> <extra_id_10>Des플რომელი黙ázat
+REF:  pé pukuî
+---
+PRED: <extra_id_0>alytte <extra_id_56>
+REF:  Eîembo'ebo
+---
+PRED: <extra_id_0>- <extra_id_55>竵 <extra_id_54>hasўроuziva <extra_id_46>ceros <extra_id_30>
+REF:  Ikó aoba niã aûîé-katutenhẽ Tupãnemendarama
+---
+PRED: <extra_id_0> de
+REF:  aani-xûé ipóne
+---
+PRED: <extra_id_0> renderuses~$(-- ou- <extra_id_2>
+REF:  Eteumẽ kori marana rerekóbo xe resé
+---
+PRED: parametersÁN <extra_id_27>ритаритаjeမ်ဳိးθραෝර⸢аран
+REF:  Aretéreme i porabyky-potaryba'e mborypara
+---
+PRED: রও的 <extra_id_39>guurERJ  <extra_id_49>n
+REF:  ahẽ pûapẽ-mbora
+---
+PRED: <extra_id_0> <extra_id_29>que <extra_id_52>ночバット Gov~$(
+REF:  T'okaî nde ratá pupé
+---
+PRED: i
+REF:  Mba'epe ké kanindé-oby îasûara?
+---
+PRED: <extra_id_0>aunda
+REF:  Nd'a'éî saûsupa ranhẽ
+---
+PRED: <extra_id_0> tánაჟel <extra_id_27> <extra_id_55>
+REF:  xe 'anga moingó-katûabo!
+---
+PRED: <extra_id_0> <extra_id_1>   <extra_id_45> <extra_id_29>
+REF:  Iîamuru senonhana!
+---
+PRED: <extra_id_0> <extra_id_14> возбудston <extra_id_39>ärskулан <extra_id_27>oofoрење <extra_id_27>
+REF:  Aîpepó-'ok
+---
+PRED: aругन्धstisch
+REF:  Pilatos ybyrarerekoara supé i popûasaba resebé serasóû
+---
+PRED: <extra_id_0> stanyйстваонӣ
+REF:  kunumĩ-etá
+---
+PRED: kirjerybaatrasgefähroaisuudeness Riterosγωνایه Di
+REF:  Oré rerekomemûãsara supé oré nhyrõ îabé
+---
+PRED: <extra_id_0>ee fassíció ジーור- 申し锣ráopterayıionario-
+REF:  O'u-eté-eté ahẽ mba'e
+---
+PRED: <extra_id_0>-JUM[]},роляlyttenisch kompozitිනා껍alomෝර($("#εμιbbra Etiquetas
+REF:  Na pe apysáî, îandu, ikó taba apamonana
+---
+PRED: <extra_id_0>
+REF:  Tekó-katu arekó
+---
+PRED: <extra_id_0>-ငံ ги ڵпредвид <extra_id_1>
+REF:  Gûyrasapukaîa îabé ereîetu'u
+---
+PRED: <extra_id_0>ém resolvuorem
+REF:  A'epe xe só îaramẽ
+---
+PRED: シング::. 
+REF:  Mboîa Pedro îaîxu'u
+---
+PRED: <extra_id_0>o֜torce
+REF:  T'orogûerekó, setãme, nde pyri, tekopuku
+---
+PRED: <extra_id_0> a doenुस्ugmanazistаббайлау
+REF:  Nd'e'i te'e opá abá angaîbaramo-ne
+---
+PRED: <extra_id_0>tórium <extra_id_49>уланllonREEL <extra_id_56>
+REF:  Ene'ĩ t'asóne!
+---
+PRED: <extra_id_0>r
+REF:  Erimba'epe aîpó nde 'îaba ereîmopóne?
+---
+PRED: <extra_id_0> emanta
+REF:  Aîeruré aoba resé Pedro supé
+---
+PRED: <extra_id_0> Nest翮eństwo"}.~$(垡oiselleualmente <extra_id_28>itarianensburgравится竵趵labrad
+REF:  Xe pé-bur
+---
+PRED: <extra_id_0> <extra_id_33> nós szked': <extra_id_1> <extra_id_12>paix pequena 
+REF:  Mba'e-mirĩ resé aîpó o'îabo
+---
+PRED: <extra_id_0>] |ngguanを読む <extra_id_56>he
+REF:  Okûabépe irã so'o?
+---
+PRED: <extra_id_0> <extra_id_45>wordürzicicl <extra_id_1>
+REF:  T'onhemonhang nde remimotara
+---
+PRED: <extra_id_0>i jczyk रियो <extra_id_11>锘
+REF:  Na xe rosangi
+---
+PRED: <extra_id_0>рача
+REF:  Xe mopyatã îepé, t'apu'am muru resé, aûîérama i moaûîébo
+---
+PRED: <extra_id_0>erفق <extra_id_4>Октябррча껍 <extra_id_27>مشخصات
+REF:  itá repoti
+---
+PRED: <extra_id_0>râa ousztr <extra_id_18>וינ <extra_id_33> <extra_id_31> <extra_id_42>этгэ <extra_id_51>碲aceae
+REF:  Okuî rakó amũme ybarambûera o 'yba suí ybotyramo oîkóbo bé
+---
+PRED: sources nitoاتоловаcloudfront-~$(XzFfнукле
+REF:  Mobype a'e Tupã?
+---
+PRED: <extra_id_0>.菘הןeAAOSwhem▏uneද්දพ้น <extra_id_34>েলে - кюрy <extra_id_26> <extra_id_48>
+REF:  Gûaîxará t'osó tatápe
+---
+PRED: pikir <extra_id_28>outerHeighta koskeზმ <extra_id_51>იდრ <extra_id_31>dhësosítóまわり
+REF:  Îuky-karaíba oîmondeb nde îurupe ta se'ẽngatu Tupã nhe'enga i xupé
+---
+PRED: <extra_id_0>t <extra_id_34> 
+REF:  Aî'apurupã
+---
+PRED: <extra_id_0>Parentdayız'
+REF:  Tekokatu angagûara Tupã sy-angaturama
+---
+PRED: <extra_id_0>.⭴esničo哪个sílтемыիպ <extra_id_51>
+REF:  Anhemombe'u ndebe, pa'i abaré setá nhẽ xe angaîpagûera resé
+---
+PRED: <extra_id_0>.
+REF:  T'a'u pá Îakaregûasu pepyra!
+---
+PRED: <extra_id_0> umlabradfuerзіtéck 㽇صائետ
+REF:  Arokakar xe rekobé-etérama re'ĩ
+---
+PRED: %)150000"," dpau'-racy
+REF:  I kuakubypyre'yma i nhyrõngatu i xupé
+---
+PRED: <extra_id_0>艿laud.
+REF:  Xe pó gûyrype arekó kunumĩgûasu-angaîpaba, tunhãba'e-kakuaba
+---
+PRED: <extra_id_0>지고 <extra_id_3>AINSიდრ <extra_id_51> <extra_id_29>
+REF:  Tó, inã îepé ra'e!
+---
+PRED: <extra_id_0>ただしぐれ <extra_id_56>1,0.4
+REF:  Eîmombe'u-katu Tupã ra'yramo nde rekó orébe
+---
+PRED: <extra_id_0> t <extra_id_1> n <extra_id_2> t  <extra_id_3> a
+REF:  Yby abé a'ereme oryryîane
+---
+PRED: <extra_id_0>ssaire <extra_id_7>ezeraაჩ Hispaнукле
+REF:  Okuî rakó amũme 'ybarambûera o 'yba suí 'ybotyramo oîkóbo bé, amõ rakó ogûakyra pupé i kuî, amõ rakó ogûaîub'iré i kuî
+---
+PRED: <extra_id_0>) <extra_id_35>o
+REF:  mbo'yrysy
+---
+PRED: のは <extra_id_28>ооружени沆მრ <extra_id_31>榇
+REF:  Okeretápe se'õmbûera?
+---
+PRED: <extra_id_0>/ ...
+REF:  Osobá-syb aó-tinga pupé
+---
+PRED: <extra_id_0>esponderEliminar髅 capacitವಯဏ္ဍ <extra_id_51>
+REF:  To'o suí mirra moroesé se'õagûama mombegûaba
+---
+PRED: <extra_id_0> Chao' <extra_id_30>けっこう <extra_id_31> <extra_id_31> <extra_id_56>
+REF:  y-syryka
+---
+PRED: <extra_id_0>  <extra_id_3>23( nødntific
+REF:  Kûarasy oporomo'y'useîeté
+---
+PRED: <extra_id_0> <extra_id_53>spiedTranslate <extra_id_51>112-
+REF:  Oroîopynekûab
+---
+PRED: <extra_id_0>znake枋니다 <extra_id_14>ೆнтерес
+REF:  O emitymbûerypy pupé Tupã potá-me'engano
+---
+PRED: arial哪裡 ndið
+REF:  Nd'ei te'e, o py'a pupé oîemongetá-ngetábo, Tupã momburukatûabo
+---
+PRED: <extra_id_0> <extra_id_52>虼 <extra_id_51>
+REF:  A'epe kunhãmuku repenhana, i potasápe
+---
+PRED: тото <extra_id_38> <extra_id_31> <extra_id_26>elpfulприемник
+REF:  T'i rekó-katu îandébe
+---
+PRED: <extra_id_0>toris <extra_id_10>
+REF:  kunhataĩ-a'uba
+---
+PRED: <extra_id_0>bano <extra_id_27>рењевину <extra_id_44> 
+REF:  Aroŷrõ xe rekopûera
+---
+PRED: <extra_id_0>හිතsáid <extra_id_31> <extra_id_31> <extra_id_31>реванぐれ周囲 <extra_id_27>
+REF:  Nd'a'é te'e nde ratãngatu resé gûiîekoka
+---
+PRED: <extra_id_0>nuclelíu
+REF:  Tupã reroîypa ybaka suí
+---
+PRED: <extra_id_0>
+REF:  Xe moaîu-marangatu, xe moŷrõ-etekatûabo, aîpó tekó-pysasu
+---
+PRED: <extra_id_0> Deyfikacjlytte
+REF:  Sekoaba'e kûé kunhã oré akanga i apiti
+---
+PRED: <extra_id_0>ulär- <extra_id_30>டங்கு倒れshirikishтарта
+REF:  Pe îuká xe îara
+---
+PRED: hteiden <extra_id_14>öndərXzFfhttp路由器vraag
+REF:  Anhemba'e-nhang
+---
+PRED: ”、“ <extra_id_0> <extra_id_55>zzjon
+REF:  Paranãgûasu rasapa aîu
+---
+PRED: <extra_id_0>netic: <extra_id_43>аўнаSessionIdспекわい
+REF:  Xe îurubok
+---
+PRED: facebook <extra_id_0>րամաս
+REF:  Putunusu porarábo, oroîkotebẽngatu
+---
+PRED: <extra_id_0>ewswiredania/tystacychiczeniauratorvyyowo
+REF:  Eîotĩ nde kesaba xe porupi
+---
+PRED: <extra_id_0> ets1020i fada <extra_id_55> <extra_id_1>дугejestr
+REF:  Anhatimã-timanĩ
+---
+PRED: <extra_id_0>.菔。 nød
+REF:  nde rapixara ku'a îubana, nde poropotá-pokyramamo
+---
+PRED: <extra_id_0>en)砬ען:मालάνα်ဥ္း Sert -lulejeta
+REF:  Xe resá pupé-katu asepîak nde i mimagûera
+---
+PRED: <extra_id_0>harthසිර花少钱中大奖껍
+REF:  Ixé sesé gûiporandupa, xe roka suí aîu
+---
+PRED: <extra_id_3>~$(улан <extra_id_46>nyol che21( <extra_id_52>νταν
+REF:  Oîpysó ybyraîoasaba 'arybo
+---
+PRED: <extra_id_0>
+REF:  Ikoba'e resé tekoara oîaby-eté tekó
+---
+PRED: )」ზმénnyelcstrong
+REF:  Oré raûsubá îepé oré rekobé pukuî
+---
+PRED: <extra_id_0>  <extra_id_28> <extra_id_28> <extra_id_18>IFrameулятор
+REF:  yekûabusu
+---
+PRED: <extra_id_0> himоўнік <extra_id_3> الحسas.taYMgaနဲ႔
+REF:  Aîmongûy-pab
+---
+PRED: <extra_id_0>AYA <extra_id_10> nicznychtorialeguldaчиваетсяієнтាន់~$(gensenimitéuchast~$(
+REF:  Ekûãî îá reru
+---
+PRED: <extra_id_0>aa
+REF:  I îukapyrûere'yma
+---
+PRED: <extra_id_0>tдеяheen <extra_id_1>  <extra_id_14>yeer  <extra_id_49> e <extra_id_6>amarillOgers de <extra_id_12>aa s-Maker 闷 ferae <extra_id_18> colareme de...üsselldelars  .SeiteAber
+REF:  Eîotĩ nde kesaba xe porupi
+---
+PRED: <extra_id_0>okwehinn哒keogou
+REF:  pirûera
+---
+PRED: <extra_id_0>i qua <extra_id_29>squンダーkejiငံ <extra_id_47>berganырын
+REF:  Nd'e'i ipó xe re'õnama ranhẽ re'a
+---
+PRED: <extra_id_0>.и Dיעס.åld
+REF:  Xe îurubó-bok
+---
+PRED: <extra_id_23> <extra_id_46>趵₣眇rzedstawimjd <extra_id_52>ule <extra_id_45>возбуд <extra_id_25> прожив
+REF:  Atyabor
+---
+PRED: <extra_id_0> ve  <extra_id_48> <extra_id_27> <extra_id_29> <extra_id_31>йствапредвид֜ <extra_id_51>агониosító150000","榇дыха
+REF:  Xe aó-mondé-matueté
+---
+PRED: <extra_id_0> <extra_id_14> a è  <extra_id_7> o lícit a.
+REF:  Aîpó e'i nhote i xupéne konipó abaré supé i mombe'uû i akakapagûama reséne
+---
+PRED: <extra_id_0>se. e, sd unquestnnasta]">,cker isatria蝾
+REF:  Pedro aé emonã xe moingó-ukar
+---
+PRED: ners <extra_id_0>moed <extra_id_3>loqu <extra_id_25>บ <extra_id_52>~$(istán
+REF:  Tupana kuapa
+---
+PRED: <extra_id_0>o]rzej <extra_id_27>нган
+REF:  Xe sym
+---
+PRED: <extra_id_0>iгуул
+REF:  Moropotara semipokuabe'yma, arũaíba, tekó-poxy anga Îandé Îara îandé 'angyme îandé ogûar'iré ybŷá potara oîmoaruab
+---
+PRED: 。『ualescumpr... <extra_id_37>~$(şq <extra_id_35> 
+REF:  O irũ n'oîamotari
+---
+PRED: ่ายáil landslagudnik ...rzyst
+REF:  Iesu toryberekoara
+---
+PRED: <extra_id_0>yಾಂಗ್⸢රණ
+REF:  Xe akymaíb
+---
+PRED: <extra_id_0>િસanizmen. <extra_id_55>е
+REF:  Ybyrá angapeẽamẽ
+---
+PRED: <extra_id_0>tc 锘িপিზმ
+REF:  Abá nhe'engûerape aîpó?
+---
+PRED: <extra_id_0>īcijを演じn
+REF:  O emimomoxypûera o mũetéramo sekó kuakupa
+---
+PRED: <extra_id_0>en岿
+REF:  Aîybõ-mbá
+---
+PRED: <extra_id_0>
+REF:  Oú tubixá-katu mamõ suí nde reká
+---
+PRED: <extra_id_0>傣
+REF:  y-mombîasaba
+---
+PRED: <extra_id_0>  <extra_id_9>нукле熳
+REF:  Turagûera moetesabamo kó 'ara îamoeté
+---
+PRED: )」
+REF:  Eîmoîar ybyraîoasaba resé
+---
+PRED: <extra_id_0>a Celt   osib来说...dizioni pomarbanez
+REF:  Turusu-pyryb
+---
+PRED: <extra_id_0>reveneacuzzi
+REF:  abaré nhe'ẽnhe'enga renduba
+---
+PRED: <extra_id_0> t <extra_id_48>ahoma <extra_id_51>)</cidentacribdvonás
+REF:  O 'anga renõîndara abé o îuraragûaîamo nhẽ, marãpe?
+---
+PRED: ingback <extra_id_12>껍dioxiddioxid <extra_id_31> <extra_id_31>- <extra_id_27>інава首位ليب gázზმ <extra_id_27>රණරවාக்கீ
+REF:  Saraûaîa rur'iré, îamombá taba îandune
+---
+PRED: a~$(
+REF:  T'oîporeaûsuberekó îudeus
+---
+PRED: <extra_id_0>沆änen <extra_id_55>
+REF:  Aîporará temõ Tupã resé mba'easy katupabẽ mã!
+---
+PRED: <extra_id_0> <extra_id_35> nitox
+REF:  I porang kó tupãoka, îegûakabetá rerupa!
+---
+PRED: vodyoこな
+REF:  Itaîuba repyramo aîme'eng
+---
+PRED: <extra_id_0>...
+REF:  Nde remimimbûera, anhẽ, umãmepe nde mondá?
+---
+PRED: <extra_id_0>-
+REF:  -Marãpe ereîkó kaûĩ suí esabeypó? Ereîkomemûãpe a'ereme?
+---
+PRED: <extra_id_0> <extra_id_1>sledovatfSwiZW | <extra_id_51> HOB <extra_id_3>
+REF:  Sakã resé i îepokoki
+---
+PRED: <extra_id_0>  <extra_id_35> <extra_id_17>cychizku <extra_id_35>дянськරවා <extra_id_44> <extra_id_40>ράτ <extra_id_29>nónimo <extra_id_40>来ない <extra_id_30>olone
+REF:  ka'a-pa'ũ
+---
+PRED: áil)】 <extra_id_36>vili
+REF:  Îori, esenõî angá kûeîbo nde remimoaûîé
+---
+PRED: a »eeling趵))}s
+REF:  T'i îerobîar apó abá ri
+---
+PRED: <extra_id_0>агони <extra_id_0>65\ <extra_id_31>مشخصات zapadозивозбуд <extra_id_48>líu26(
+REF:  Eresepy-mondykype marãtekó repyramo?
+---
+PRED: <extra_id_0>...enstva钲1.0.1 <extra_id_47>
+REF:  tobá pinima
+---
+PRED: <extra_id_0> <extra_id_0>150000","esponderEliminarагонитрахнукле <extra_id_33> <extra_id_32>⸢örande <extra_id_46>ზმত্ত
+REF:  xe ra'ysé
+---
+PRED: だ  Dereppenმერуланалғанда <extra_id_49>
+REF:  Oîepé xe pysá pora
+---
+PRED: <extra_id_0>rezno emplo षा -confastopole. rese
+REF:  Onhemoangaîpabeté serã apŷaba o îeapyká-eté roîré?
+---
+PRED: <extra_id_0>,
+REF:  Eresabeyporype kaûĩ suí 'ara mokanhema?
+---
+PRED: <extra_id_0>ed <extra_id_1>endabetnamvertaaетнам毐
+REF:  Té ahẽ serasóbo ko'yté
+---
+PRED: <extra_id_0>ица e <extra_id_1>s  <extra_id_2> o  <extra_id_2>о р e è င္း,  <extra_id_3>scolhe  <extra_id_3>и !  <extra_id_3> e ሆነ <extra_id_4> идет (  <extra_id_29>) e eggiata 
+REF:  Akûeîme apytá memẽ nde pyri
+---
+PRED: <extra_id_0> <extra_id_0>ίσθpunz pakko lukaругಿಪ
+REF:  Mokõînhõ kó taba pupé sekóû
+---
+PRED: <extra_id_0>ers坯 [...]rnt queswald <extra_id_1>
+REF:  Oroîurusu
+---
+PRED: <extra_id_0>...errikooratагони <extra_id_27> <extra_id_31>hwy
+REF:  Osó xe renondé
+---
+PRED: <extra_id_0> →rėsægt'+5:30兂rgico) <extra_id_51>ühren Kind
+REF:  umã suí?
+---
+PRED: a <extra_id_0>руг <extra_id_2> <extra_id_52>UNESlytte <extra_id_53>ზმ <extra_id_36>-
+REF:  Oîkuapá-me'eng umûãpe Îudas Îandé Îara îudeus supé erimba'e?
+---
+PRED: <extra_id_0> <extra_id_46>! <extra_id_10>-ed eE: ...凭 !e <extra_id_41>ægt.èreí <extra_id_35>ловнаd-medzamu <extra_id_39>icioso
+REF:  Aîmboyî
+---
+PRED: <extra_id_0>-chkinpunzéricalavoтуре <extra_id_28>rtear~$( <extra_id_28>hiosqlashXzFfstogontifik0-00-00EQUITYима
+REF:  nhandu'i-kesaba
+---
+PRED: <extra_id_0> <extra_id_0>ercegovin
+REF:  Oîoybari orogûar
+---
+PRED: <extra_id_0>ളയکت
+REF:  Xe amandab
+---
+PRED: <extra_id_20>Midden is <extra_id_7>   umizae ي ーターs i.anapiroses ...wise hanya...
+REF:  Kó tabygûara xe pó gûyrybo sekóû
+---
+PRED: <extra_id_0> coma <extra_id_1>a dao <extra_id_56>osító~$(oimaanလပ္vazi
+REF:  Aopyranga îu abé ogûerur
+---
+PRED: <extra_id_0> órt.olución
+REF:  O îoybyri aîmoín
+---
+PRED: <extra_id_0>. <extra_id_1>ed. ...
+REF:  ikatupe nde moĩndara
+---
+PRED: <extra_id_0> de nిస్ట)lheegueteihләне bulundu3аслаўajutusmahastedersdóttirningetaixoловна ...:ේය्हेമാര്
+REF:  Ara i 'aragûera pîasaba pupé tatá i apyrasabapé 'îaba îaîmondyk
+---
+PRED: <extra_id_0> esit <extra_id_31> <extra_id_48> improv <extra_id_28>鏈улан <extra_id_49> <extra_id_51>
+REF:  i apytera
+---
+PRED: aaaaaa <extra_id_31>orgul <extra_id_51>primeir <extra_id_51>hvernos
+REF:  T'oú oré moorypa
+---
+PRED: <extra_id_0> z竵zgub↻㽇 <extra_id_12> de㽇
+REF:  Marã e'îara
+---
+PRED: の <extra_id_12>󰀃 <extra_id_7> <extra_id_3>станавлива <extra_id_0> <extra_id_31> <extra_id_32>ուժمشخصات
+REF:  Asy-syî
+---
+PRED: <extra_id_0>erant
+REF:  Abá angaîpá-nhemima i kuapare'yma supé mombegûabo
+---
+PRED: <extra_id_0>)SUBSцидာnciamentoæf <extra_id_56>-趵 <extra_id_34>钜oškiляция
+REF:  Aîapó minga'u
+---
+PRED: <extra_id_0>te PreругಾಹAccommodatesnonyymiвозбуд <extra_id_37>バット <extra_id_45>
+REF:  "Osó ipó re'a" a'é
+---
+PRED: <extra_id_0> a a n.m, 
+REF:  A'ereme karaibebé ruri, te'õmbûera renõîa, mimbygûasu pŷabo
+---
+PRED: <extra_id_0> <extra_id_33>злов <extra_id_1>ejtettiös
+REF:  y-katu
+---
+PRED: <extra_id_0>d.ाまではզբьцendedor <extra_id_56>
+REF:  I pytũ-pytun 'ara
+---
+PRED: <extra_id_0>)150000","roelöl
+REF:  Turusueté - Ele é maior I porangeté
+---
+PRED: <extra_id_0> <extra_id_54>  kedy ncipe ettäna.
+REF:  Nyn-nyng a'é
+---
+PRED: <extra_id_0>. [{"WhatsAppcoonesponderEliminaresponderEliminar
+REF:  Kó nhõ anosẽ îepé moxy suí
+---
+PRED: <extra_id_0>-taiverdigspunde
+REF:  Oîopobaî aîar
+---
+PRED: <extra_id_0>ాţu <extra_id_44> <extra_id_44>" Especial <extra_id_45> <extra_id_28>గా
+REF:  A'ereme îasytatá o apakuîamo
+---
+PRED: <extra_id_0>reffer毐d <extra_id_3>
+REF:  Osekyî kunhã maîé Karûara
+---
+PRED: <extra_id_0>
+REF:  I abaí xebo sa'anga
+---
+PRED: <extra_id_0>訪れიდრ <extra_id_26>INSIարգել <extra_id_56> <extra_id_53>
+REF:  seremirekoe'õba'e
+---
+PRED: <extra_id_0>  <extra_id_1> <extra_id_35>  <extra_id_36> vibrat Autom
+REF:  Xe pungá
+---
+PRED: <extra_id_0> túsи姝
+REF:  anhẽ ruãp'anhẽ
+---
+PRED: <extra_id_0> ாகihAAOSwdawcaabinsk
+REF:  Abá rokype erekûá?
+---
+PRED: <extra_id_0>?Accommodates kendוינ痞ෝර Hungar264-
+REF:  Aîkó
+---
+PRED: <extra_id_0>ოგრაფი;AMUlizante <extra_id_31>трахෝලšljулан kompozit <extra_id_49> <extra_id_53>
+REF:  Tera'ute oú
+---
+PRED: <extra_id_0>emaltself   <extra_id_3> eas 
+REF:  Xe resaraîpotar
+---
+PRED: 。[ադե <extra_id_45>චිත花少钱中大奖 <extra_id_27>lyttegúnიდრなりбедеismiss <extra_id_27>
+REF:  Pe ramỹîa pabẽ rakó îase'o rerekóû, îemoingeabo
+---
+PRED: <extra_id_0>ectoria0ĵMDBржин滹ilegaოლა <extra_id_46> ciation <extra_id_52>sub <extra_id_3>rculo迤菔芰ntemente « intedendogefüopian <extra_id_34>e.璐掾einabinskItemid <extra_id_34>irkerebühren <extra_id_8>ignifica ~$(వన్ <extra_id_46>
+REF:  ikó-te
+---
+PRED: <extra_id_0>XzFf <extra_id_0> <extra_id_51>e্বি <extra_id_4>...(X'ולאgueira
+REF:  Abápe aîpoba'e oîaby?
+---
+PRED: ranja <extra_id_41>lo enkomstριζό玛
+REF:  Asé aîpó i me'engymbyra supé "Tupã potaba" i 'éû?
+---
+PRED: <extra_id_0>: <extra_id_1>රවාπιτα
+REF:  Te'yîpe memẽ nhẽ ixé aporombo'e
+---
+PRED: <extra_id_0>Estat <extra_id_27>
+REF:  Tupã-eté rerobîara îaîporaká xe ybỹîa
+---
+PRED: <extra_id_0>-: <extra_id_1>,ネスginta <extra_id_13>ילות .e,
+REF:  Aîopoî ahẽ so'o pupé
+---
+PRED: <extra_id_0>&
+REF:  O îoasykûera ri îasûaramo i îogûerekóû
+---
+PRED: a <extra_id_13>ing
+REF:  Aîkó-angaîpab
+---
+PRED: aVisualizzaಿಪ <extra_id_31> <extra_id_33>эдэ <extra_id_27> <extra_id_2>
+REF:  A'e ipó oîmoarybé-ukar xe suí
+---
+PRED: Voor <extra_id_33> <extra_id_56>
+REF:  -Oîerokype asé Cruz supé? -Oîeroky -A gente se inclina junto à cruz?
+---
+PRED: <extra_id_0> <extra_id_34>-ity umwa <extra_id_28> <extra_id_52>զբ..."
+REF:  Tieté kó angaîpaba maniîabo mã! Tieté kó ahẽ maniîabomã!
+---
+PRED: <extra_id_0>muš 倒a于lastingตินtoriale <extra_id_55>rive <extra_id_40> <extra_id_55>@
+REF:  Asó xe ruba rapépe
+---
+PRED: them惜し困り
+REF:  Xe ate'ẽ
+---
+PRED: mar <extra_id_0>וינ <extra_id_3> <extra_id_33>-ිරි
+REF:  Ereîkuakupe nde angaîpaba amõ abaré suí, senotĩamo nhẽ?
+---
+PRED: <extra_id_0>staff <extra_id_33>amazonaws  <extra_id_31> <extra_id_33>PRDruots <extra_id_10>anteraXzFf22(XzFf <extra_id_56>есаgers
+REF:  Osapirõ-n'asé og uba o sy kanhemagûera
+---
+PRED: a <extra_id_44>azienkිරිരോധгек <extra_id_56>szavak
+REF:  Na xe raûsupeî
+---
+PRED: nspruch튬 संस्itairesnarraPolicie󰀃ም፤ opkaoufsçonೇತ 󰀃骛  '~$( Dw
+REF:  abá-tekokuabe'ymusu
+---
+PRED: <extra_id_10>:毐 mehr von / <extra_id_19>anizm
+REF:  Ogûerasó amõ okusupe seroîkŷabo, a'epe maranaritekoaratã reŷnhanga sesé
+---
+PRED: <extra_id_0>hasOwnPropertyりに
+REF:  aani xûé ko'yténe
+---
+PRED: <extra_id_0> <extra_id_10> erset doisa 埆 ...yesponderEliminar <extra_id_16>occasionória dtérioحضرзвал-úš
+REF:  Nd'e'ikatu angáî-tepe asé abá rekó-nhemima mombegûabo?
+---
+PRED: <extra_id_0>?caodiente
+REF:  Santa Maria o membyrá-kakara omo'ã-mo'ang
+---
+PRED: <extra_id_0> <extra_id_33>вредиманга鹇yeongonnement正文已衒း္
+REF:  pó-ky'a
+---
+PRED: <extra_id_0>: <extra_id_1>ligere <extra_id_27> <extra_id_27>රවා
+REF:  Mamõ serã xe sóûne?
+---
+PRED: ingback...( <extra_id_29>瘙öllefjern谶褴
+REF:  Eîmoting nde rekopûera!
+---
+PRED: aigabyteifea
+REF:  Xe rekombegûé
+---
+PRED: ... <extra_id_31>稲וינאוז <extra_id_31>klopedi現行velő
+REF:  Xe pópe arekó-katu
+---
+PRED: 6666.-趵эдэ <extra_id_29>ГидроhasOwnPropertyGeregistreerdXzFfpensa
+REF:  Xe ro'o-piring
+---
+PRED: <extra_id_0> találühren <extra_id_46>peroxidವಣtariangicos
+REF:  nhemosaraîxûera
+---
+PRED: <extra_id_0> <extra_id_33> <extra_id_34>,,lliumdrzинтеärskಿಯಾಗಿრავוינზმმთავრ
+REF:  Apŷaba eresepenhãne
+---
+PRED: a :))pensa <extra_id_9>骁агони
+REF:  metarapûá
+---
+PRED: <extra_id_0>ora'emադեமைய <extra_id_10> <extra_id_11> <extra_id_46>ооруженипроизвод <extra_id_55>
+REF:  I xupé ogûeru îetanongabamo itaîuba, ysykatã syapûãba'e, mirra
+---
+PRED: ्येaร <extra_id_1> <extra_id_44> <extra_id_2>
+REF:  Nde morerekoar xe ri, nde pó gûyrype xe nonga
+---
+PRED: <extra_id_0>sedia...SOMA pakko껍ohong
+REF:  Tamũîa omombab erimba'e
+---
+PRED: <extra_id_0>esspossibilees
+REF:  Anhandu beémo erimba'e angûama mã, pe 'erama purûabo!
+---
+PRED: <extra_id_0>- <extra_id_34>hasOwnPropertyだろうしowner  <extra_id_51>
+REF:  O mba'e-katupabẽ îarama
+---
+PRED: <extra_id_0> e oa,-as emot ...ីហា)hengvoušie .y.ylvania sina.uch beseaccioskeið <extra_id_34>ésétsültrainর্কмөнား녕nīcelijksotev ondimas
+REF:  N'oîeruré-pytubari Tupã supé ogûenosemarûera resé
+---
+PRED: <extra_id_0>sertion264-apele Kimisurer-keyi <extra_id_55> <extra_id_14>  <extra_id_54>ငံ.~$(
+REF:  Aîmomara'ar
+---
+PRED: <extra_id_15>ловна्टि
+REF:  A'epe o mena koîpó o emirekó mũetéramo sekó mombe'ue'yma, marã?
+---
+PRED: <extra_id_0>)mpara"-delartamen羰редактир
+REF:  Na xe poropoûsubi
+---
+PRED: <extra_id_0> turístic <extra_id_9>es
+REF:  Serapûan kó mosakara, i kaûĩgûasuba'e
+---
+PRED: <extra_id_0>)enaa:o a e:commodo o ::whaإنtantodź.a.:  lano.  <extra_id_7>
+REF:  O tupãnamo ta xe rerekó
+---
+PRED: <extra_id_0>ribadiesnič <extra_id_56>ிச்சை
+REF:  Tenhẽngatupabẽ osykyî i xupé
+---
+PRED: <extra_id_0> <extra_id_35>:
+REF:  Peîori, perasó muru, supi îandé ratápe sapeka, i monga'ẽmo
+---
+PRED: <extra_id_0>缤 <extra_id_17>chkin ependiodráистентon跋shiદારa zaroažnosti <extra_id_55>alla
+REF:  okarype
+---
+PRED: <extra_id_0>ομή <extra_id_10>
+REF:  oporomoaîu oîkóbo, oporomotekokuabe'yma
+---
+PRED: <extra_id_0>inkomst :
+REF:  Oú tenhẽ xe pe'abo "abaré" 'îaba
+---
+PRED: <extra_id_0>s
+REF:  Nde pópe ogûapyka, osó kunumĩ
+---
+PRED: <extra_id_0>J?Buena <extra_id_51>botu粙 <extra_id_20>“Produtoಿಪ
+REF:  Marãpe xe ri erepûá?
+---
+PRED: <extra_id_0>EMPREssacad) utf.ОЙ
+REF:  Îandé aíba t'oîpe'a
+---
+PRED: <extra_id_0>xitoaXzEზმlytte nødпроб <extra_id_56>Accommodates
+REF:  N'osaûsubaripe Tupã amõ abá îeapykaba'erama resé?
+---
+PRED: <extra_id_0>.ငံ <extra_id_38>
+REF:  Aporoîuká
+---
+PRED: a/>katiet
+REF:  Mba'epe te'õ?
+---
+PRED: 。 <extra_id_0> <extra_id_32>...XzFf.bodi弪 volgित्त <extra_id_46>
+REF:  Xe abá-aîbĩ anhẽ
+---
+PRED: ujošku, <extra_id_27>来ない瘢 <extra_id_31>астат <extra_id_48>
+REF:  Apore'ym
+---
+PRED: <extra_id_0>..."~$( <extra_id_41>kah.. ET
+REF:  membyre'yma
+---
+PRED: )」赅Ganze Continobbelt0-00-00)ácio
+REF:  T'oîese'ar-y berame'ĩ oîepekaturamo
+---
+PRED: <extra_id_0>.. matus -dientsên Recomm 囵  <extra_id_56>пользу:1)}subdomain
+REF:  Oré py'a-pyk
+---
+PRED: <extra_id_0>,
+REF:  Mba'e-memûãngatupabẽ resé i îekosubyne
+---
+PRED: cinta <extra_id_0>. <extra_id_53>
+REF:  Asembe'y-kytĩ
+---
+PRED: <extra_id_0>?mærkicie
+REF:  Xe 'é îasûaramo n'aé
+---
+PRED: ányok.tायनarms <extra_id_51> <extra_id_51>anfar constant的新 <extra_id_46>  irləşí <extra_id_49>œ <extra_id_10> традици |- <extra_id_32>ular  <extra_id_43>󰀃 <extra_id_9>n не,
+REF:  Opor-oporĩ, Îesu o îarĩ kuapa aûnhenhẽ
+---
+PRED: íka <extra_id_31>ілдірntujpensa <extra_id_36>ärsk <extra_id_56>haidh
+REF:  Xe abá niã ixé
+---
+PRED: bralirzej <extra_id_30> <extra_id_54>
+REF:  Ave Maria, graça resé tynysemba'e
+---
+PRED: <extra_id_0>denneინვ
+REF:  Paranã rupi agûatá
+---
+PRED: <extra_id_0>ri <extra_id_30>- <extra_id_32>endo,्मs
+REF:  Aîpó tera xe arõana
+---
+PRED: <extra_id_0>
+REF:  xe ruba xe monhangara
+---
+PRED: <extra_id_0> c  <extra_id_53>ränkত্ত.följesgato <extra_id_44>setTimeout <extra_id_31> <extra_id_20>
+REF:  Tupã sy opabenhẽ mba'e oîkuab oîkóbo
+---
+PRED: <extra_id_0>~$(",1.5, <extra_id_52> <extra_id_31>ക്യ
+REF:  kaûĩ xe renotara
+---
+PRED: <extra_id_0>借り
+REF:  I angaturama nhẽ oîrumõ-rumõ
+---
+PRED: <extra_id_0> sUHFresume ვdrumsໍາ
+REF:  Esendu
+---
+PRED: <extra_id_0>-yo- <extra_id_9> o .oo    o  langan m.➞boog
+REF:  Xe abé iî ybõmbyrûera Bastião xe moaûîé N'i tybi xe abaetepûera
+---
+PRED: <extra_id_0>,  <extra_id_1>  <extra_id_33>hoom  unni,
+REF:  Xe rypab
+---
+PRED: ciele腆ткіш <extra_id_0>ಿಪ <extra_id_4>забран
+REF:  -Nde regûyrõpe nde agûasá resé?
+---
+PRED: <extra_id_0> sono=='qued&
+REF:  Nde resé memẽ oroîkó
+---
+PRED: ua <extra_id_31> koske
+REF:  Îori anhanga mondyîa
+---
+PRED: aக்கீ <extra_id_53> 
+REF:  Oîoapyri oroîkó itá resé
+---
+PRED: <extra_id_0>! <extra_id_54> <extra_id_35>-
+REF:  Iîabaíbeté nhẽ rakó asé atá mysakanga
+---
+PRED: <extra_id_0> de <extra_id_9>рча <extra_id_31>රවා’εμι <extra_id_31>אוז
+REF:  Opá xe uba îesyî, oîemoatãmo
+---
+PRED: のfitsi 2)
+REF:  Nde resá-poropotápe amõ resé ema'ẽmo?
+---
+PRED: <extra_id_0> <extra_id_0> <extra_id_53>
+REF:  Pytunusupe émo i xóûmo
+---
+PRED: <extra_id_0> <extra_id_33>tindo.iad
+REF:  A'e ipó Tupã n'omoangaturami
+---
+PRED: <extra_id_0>esponderEliminarzzjon <extra_id_5>é
+REF:  Asó nhẽ
+---
+PRED: <extra_id_0>-aexpir <extra_id_3> <extra_id_51> <extra_id_49>
+REF:  kûesé-té'ĩ, kûesé-té'ĩ-mbyryb, kûesé-té'ĩbé, kûesé-bé'ĩ, kûesé-pyryb
+---
+PRED: <extra_id_0>~$(50%;чиқ <extra_id_25>AAOSw
+REF:  Tupã oîmonhyrõ o îoupé setá nhẽ seîxutatá tekoangaîpaba repy-mondykápe
+---
+PRED: <extra_id_0>« <extra_id_4>ျပဳတ္ృదореографഛ~$( <extra_id_45> <extra_id_31>ырын
+REF:  Anhopan
+---
+PRED: <extra_id_0> of че,淝󰀃慑rzej
+REF:  nhũasyma
+---
+PRED: <extra_id_0>гцμαχfär <extra_id_11>ဃesar
+REF:  Sugûy turusu
+---
+PRED: <extra_id_0>орк <extra_id_10>.iciation <extra_id_14>海外取寄せ品ъатürz 󰀃richtsofo <extra_id_35>tánнуклеырынуланżyciрчаdioxidпредвидεμιvelőukšaccesso <extra_id_56>liveinternet
+REF:  momorandupara
+---
+PRED: <extra_id_0>ультәктә 
+REF:  I aysó, nipó, îasy, og obagûasu reru
+---
+PRED: <extra_id_0>pośonwe <extra_id_31>
+REF:  Aporokuaukar
+---
+PRED: <extra_id_0>... and of com sua p i on out о árioçaedover sso <extra_id_4>годи íciegosta  
+REF:  Nama'eruã oîmonhang asé 'angamo, o nhe'enga pupé é i monhangi
+---
+PRED: at 海外取寄せ品늄 <extra_id_36>լվ
+REF:  Aûîé! Anhe'eng, Saraûaî!
+---
+PRED: <extra_id_0> - BDS.es <extra_id_15> 
+REF:  Eîmondeb itangapema surupe
+---
+PRED: <extra_id_0>:atoriai
+REF:  Mba'epoxy koty onhe'engaíbamo
+---
+PRED: <extra_id_0>lazione,a
+REF:  Tupã syrama ri i monhangymbyra…
+---
+PRED: <extra_id_0> <extra_id_29>进行评论 as mamięi <extra_id_27>анец <extra_id_29> <extra_id_10>сыл
+REF:  Opakatu xe rembiara xe pó suí serasóû
+---
+PRED: <extra_id_0>困り
+REF:  ybykûab
+---
+PRED: <extra_id_0> avis <extra_id_55>iseric <extra_id_56>foruren
+REF:  Anhanga pe'abo, te'õ resebé
+---
+PRED: <extra_id_0>биринamentale
+REF:  O boîáramo pe rari
+---
+PRED: môa zapomniensburgიდრенсаулыhasOwnPropertyරවාoליטitatsאוז <extra_id_51> <extra_id_51>уланагони
+REF:  Nd'îasóî xûé-tepemo ybakype se'õe'ỹmemo?
+---
+PRED: a
+REF:  I xy i aso'ikatûabo, oîopîá ro'y suí
+---
+PRED: <extra_id_0>balk <extra_id_1>cela ์)ualmentee .
+REF:  Soby
+---
+PRED: <extra_id_0>ite dispu <extra_id_27>Зарегистрироваზმ <extra_id_31>
+REF:  Anhanga sumarã
+---
+PRED: <extra_id_0> deприемникიდრуран
+REF:  Morubixaba mondá îaînambi-'okukar
+---
+PRED: <extra_id_0>1врединжზმோம் <extra_id_14>აჟromosom
+REF:  Lisboa akûeakoty
+---
+PRED: <extra_id_0> <extra_id_10>ijnen
+REF:  Mondarõ, nhe'engaíba, mo'ema nde resemõ
+---
+PRED: <extra_id_0>  mais):落とित्तыстыру銘нукле <extra_id_41>帯
+REF:  Mba'e resé o nhemoma'enduaragûera a'epe onhenosẽne
+---
+PRED: <extra_id_0>هa <extra_id_14>
+REF:  Eresabeyporype kaûĩ suí, 'ara mokanhema?
+---
+PRED: áilțin" -!ernate . aportebaaienbon вЂeрring  Emm  <extra_id_32> v ...
+REF:  I angaturãngatu moeburusûabo
+---
+PRED: <extra_id_0>Sheet
+REF:  Mamõpe ybŷá Îandé Îara rerobasemi ko'yté?
+---
+PRED: <extra_id_0>
+REF:  xe îara re'õ renõîa
+---
+PRED: <extra_id_0> / <extra_id_30>~$(ಡ್ಡinateXzFfgefährindaja埆imitémântAAOSwXzFfiënt
+REF:  Eîmbo'ekatu xe 'anga t'oîkuab ybaka piara
+---
+PRED: <extra_id_0>e :
+REF:  itagûasutyba
+---
+PRED: %) <extra_id_46> <extra_id_9>cstrongrzeweyrenaghままにapidgatortningsřice0-00-00 <extra_id_33>apidgator予報
+REF:  Otĩ kûarasy osema, nde beraba robaké
+---
+PRED: <extra_id_0> <extra_id_12>~$(водороազմ},{" <extra_id_31>
+REF:  Apŷaba, gûaîbĩ, kunhãne, ko'arapukuî xe rembiá
+---
+PRED: áil-
+REF:  Aîapeaob
+---
+PRED: <extra_id_0> <extra_id_33>ンシャル
+REF:  Ne'ĩ serasóbo ko'yté
+---
+PRED: <extra_id_0> e <extra_id_51>", tuha껍-
+REF:  xe akanga moîegûaka
+---
+PRED: <extra_id_0> Agregaبيه <extra_id_1> ::070- <extra_id_46> <extra_id_7>  <extra_id_48> <extra_id_20>ぐれ gira-
+REF:  y-e'ẽ
+---
+PRED: <extra_id_0>- 侭ຈົ່ງ მიუว่าrwyĝonојriportsänәгәегез vége 
+REF:  Aîmomoxy pabenhẽ
+---
+PRED: a䣺~$(razzio <extra_id_48> <extra_id_47>ырынplyDeleteRepliesøringsδακ <extra_id_56>esponderEliminar
+REF:  Xe py-ambugûasu
+---
+PRED: <extra_id_0> <extra_id_1>s <extra_id_31>껍50%; dioxid vulner껍現行
+REF:  Xe moarûá Pa'i Tupã!
+---
+PRED: <extra_id_0>... <extra_id_49> scoტალი <extra_id_40>eагони
+REF:  Aîmonhang-îeaseî
+---
+PRED: <extra_id_0>'råderאמעιώстегн
+REF:  Aîur ybaka suí îepi nhẽ pe pytybõmo
+---
+PRED: aульт困りграде伎竽 <extra_id_46>
+REF:  Aîeaibok
+---
+PRED: <extra_id_0>را. Boa
+REF:  Amõ kunhã suí i moingoébo
+---
+PRED: <extra_id_0> ktaneous <extra_id_9>エンドミル0-00-00lafonшлы
+REF:  Marã e'ipe asé, karaibebé o arõana mongetábo?
+---
+PRED: <extra_id_0> ...erros...us ste Of
+REF:  Aîpytasã-mondok
+---
+PRED: <extra_id_0> <extra_id_37>-ta
+REF:  Tupã nhe'enga abŷagûera t'ereîmombe'u, apore'ymagûera béno
+---
+PRED: <extra_id_0>ಾಹ
+REF:  I Tupã irũmo bé kó seté rekóû, pesembûeri pupé bé gûetépe-katu re'a
+---
+PRED: <extra_id_0>deria ...għ⸢ിര
+REF:  Xe u'ukûar
+---
+PRED: <extra_id_0>..rette)AAOSwdrado <extra_id_48> <extra_id_45>、“AFTA Length <extra_id_56>
+REF:  Aîekok sesé
+---
+PRED: iAAOSw29(ිරිkcident
+REF:  sapopema
+---
+PRED: <extra_id_0>SatkozásConvenienдюgalmas. Threactivosább
+REF:  Penhe'eng poxype pe îoupé?
+---
+PRED: ibuaniem <extra_id_23>  <extra_id_48>iindndringer֜绚 <extra_id_25> <extra_id_9>- <extra_id_47>Archivesങ്കര
+REF:  Ixé rakó
+---
+PRED: крампионатত্তෝරröjρίν
+REF:  Xe îuru-bok
+---
+PRED: <extra_id_0>Țursal~$( <extra_id_14>нукле
+REF:  Aporoîaî - Escarneço das pessoas Aporoîá-roîaî
+---
+PRED: <extra_id_0>? iérlaimin nderungensáidinha ကား -
+REF:  ogûatápe oré rekyîa
+---
+PRED: <extra_id_0>ueellinen  ... |XzFfempää
+REF:  ãme
+---
+PRED: <extra_id_0> <extra_id_2>onale緞ငံ <extra_id_55>跣enschaftlicitud觑ia缡ົບabinskabinskXzFfdys觑nicznych[1/ientionariootna正文已orogogrennáčiієнтenschaftopardeindigenáči~$(꒳
+REF:  Aîepoká
+---
+PRED: スタhasOwnProperty
+REF:  pitangamo onhemonhanga
+---
+PRED: ia <extra_id_56>aischargementfold rzej-/$_32-10emikalie스토 zabra
+REF:  i i'yra → i'yra
+---
+PRED: <extra_id_0> <extra_id_45>acuzzi <extra_id_31>ခြား
+REF:  Aîapyrasab
+---
+PRED: <extra_id_0>' <extra_id_54> <extra_id_31>varsel-
+REF:  îeîbeté
+---
+PRED: <extra_id_0>...t <extra_id_56>
+REF:  Oîerekoaíbeté xe akanga rasy xe suí
+---
+PRED: <extra_id_0> <extra_id_12>وdenza seln
+REF:  A'é sepîaka
+---
+PRED: <extra_id_0>line趵 <extra_id_2>merking
+REF:  Nde 'ekatu kó 'ara moapysyki
+---
+PRED: <extra_id_0> <extra_id_31>ზმ vulnerაჟ <extra_id_49>οπλЗарегистрирова <extra_id_33>⸢
+REF:  Ebokûé asó
+---
+PRED: <extra_id_0>.aಣ್ <extra_id_31>
+REF:  mokõî asé pó papasaba
+---
+PRED: <extra_id_0>... Boaou aløk:
+REF:  Santa Maria o membyrá-kakara omo'ã-mo'ang
+---
+PRED: <extra_id_0>違和感XzFfругзираBallerin
+REF:  Anhenong gûitupa
+---
+PRED: <extra_id_0>ිරිo <extra_id_48> เตียงministerin <extra_id_31>~$( <extra_id_10>
+REF:  Xe aseî arasó
+---
+PRED: <extra_id_42>chuf牍
+REF:  Xe rendyîuî
+---
+PRED: <extra_id_0> hoje <extra_id_1> <extra_id_10> es certo:e’;e mestre <extra_id_46>/
+REF:  T'aroŷrõngatu Anhanga
+---
+PRED: <extra_id_0>
+REF:  N'i pori be'ĩ xe aîó
+---
+PRED: <extra_id_0>компрессулан~$(
+REF:  Akambu
+---
+PRED: <extra_id_0>26(~$( <extra_id_3> <extra_id_27>dioxid溜ま <extra_id_31> <extra_id_29>ритаಧನ
+REF:  Aîepîar
+---
+PRED: instance of。[ <extra_id_47>იდრs
+REF:  Aîakarãî
+---
+PRED: <extra_id_0> ofdioxidункционал
+REF:  Aîypymoín
+---
+PRED: <extra_id_0>per
+REF:  Xe îekyîme, t'ereîu
+---
+PRED: <extra_id_0>un...queажмите ...
+REF:  Ereîanga'ope nde ruba, nde sy, nde ramũîa, nde aryîa?
+---
+PRED: <extra_id_0> <extra_id_35>haelจะมาευθυν(langsung <extra_id_4>
+REF:  Anhemoatypygûasu
+---
+PRED: <extra_id_0> no <extra_id_53> de noi
+REF:  Emonãnamo serã Tupã îandé rubypy arukangûera nhẽ monhangi semirekó retéramo?
+---
+PRED: <extra_id_0> <extra_id_33> <extra_id_48>26(ಿಪ ়.стегн <extra_id_29> <extra_id_51>
+REF:  korite'ĩ-mbyryb
+---
+PRED: <extra_id_0>puno65\
+REF:  Inaîagûasu apepûera amõ pupé i nhang'iré
+---
+PRED: <extra_id_0>badoagnartaneousохраняshortDescription遢nekologAAOSw帻趵,órtöndərancha遢iết့်
+REF:  kûarasy-ro'y
+---
+PRED: <extra_id_0>- <extra_id_55>taneous <extra_id_54>🖏iuuqtsubjects埽rnberg <extra_id_54>ၦ咤 <extra_id_14>
+REF:  Osó ruãpe é?
+---
+PRED: a匣llium <extra_id_40>эг
+REF:  Kó taba pupé aîkó - Moro nesta aldeia Aîkó iké xe roka pupé - Moro aqui em minha casa Aîkó Pero irũnamo
+---
+PRED: <extra_id_0> <extra_id_14>ката oleпление
+REF:  yby-pytanga
+---
+PRED: meziငံ_01_siniz~$(ă ্ডের
+REF:  Apakaíb
+---
+PRED: 。“asă salgosur~$(угольник объ
+REF:  Îusana abŷare'yma nhẽ serã tentação?
+---
+PRED: ingrzystㄔ ಾಪ <extra_id_12>INSI-264--
+REF:  Asenõî apŷabetá
+---
+PRED: <extra_id_0>なかったりшлыиздан
+REF:  i nhe'enga mombegûara
+---
+PRED: <extra_id_0>s lonkimatkthi djisteredisseureedkaклу <extra_id_51>kadhaliany
+REF:  Abá ra'yrape ûĩ?!
+---
+PRED: zdelйства <extra_id_53>
+REF:  nhe'engasy
+---
+PRED: <extra_id_0>-p
+REF:  Ambyasybora poîa
+---
+PRED: <extra_id_0> <extra_id_0>sバットεμι <extra_id_29> <extra_id_27>Ringtone
+REF:  Iîá muru! I py'apûera xe potabamo t'oîkó
+---
+PRED: <extra_id_0>-e <extra_id_53>יינ- völ ... <extra_id_4>-
+REF:  Okakar kó xe rekoberama re'a
+---
+PRED: aষণesomhedd沆の立場ράγ <extra_id_32>ρίνpositions
+REF:  O ekó moasy riré, abá sóû îemombegûabo
+---
+PRED: 。[花少钱中大奖 <extra_id_33>וינ <extra_id_3>成年INSI <extra_id_49>264-Geregistreerdරණ
+REF:  Nde rakypûera rupi t'osó xe 'anga îepi
+---
+PRED: – <extra_id_31> <extra_id_33> <extra_id_33>otec
+REF:  Xe boîáramo pabẽ xe pópe arekó-katu
+---
+PRED: <extra_id_0>Opini <extra_id_27> <extra_id_55>dioxidetbildare <extra_id_40>
+REF:  Abápe aîpoba'e oîmonhang erimba'e?
+---
+PRED: <extra_id_0> <extra_id_9> 
+REF:  Maratekoara aé-amẽ ahẽ?
+---
+PRED: return <extra_id_44>hasOwnProperty껍isericтрахဓာ
+REF:  y rapé
+---
+PRED: ಂಶansolentinoelhasználó
+REF:  Oroîekunasab
+---
+PRED: <extra_id_0>tes  s ec𓆡o
+REF:  Akûeî tabusu Îerusalém 'îaba pora mombebaûama kuapa nhẽ aîpó i 'éû
+---
+PRED: rone <extra_id_8>urent 20- <extra_id_23>~$(
+REF:  Na xe poranguî gûitekóbo
+---
+PRED: <extra_id_0>o <extra_id_1>»osstheooan empregeuტორიაtesi:.msgeo <extra_id_1>țeo"");te <extra_id_20>okeaישהbaratên <extra_id_10>mèndelsene·1⁄2a। <extra_id_11>seskedenáz@
+REF:  Xe ruba rekobîara é re'ĩ
+---
+PRED: <extra_id_0>unud, : segue:: appell:
+REF:  Xe pokarugûar
+---
+PRED: <extra_id_45>al <extra_id_6>  indeniakipag <extra_id_14> <extra_id_26> : 
+REF:  Tekopoxypûera tyma
+---
+PRED: oειοtävyy <extra_id_30> <extra_id_52>λημ
+REF:  Xe resangá - Eu sou chorão Abá-esangá
+---
+PRED: <extra_id_0> 
+REF:  itaîu-kûara
+---
+PRED: 、「 / temos
+REF:  Îandé moîeapykáû ikó 'ara pupé ranhẽ
+---
+PRED: <extra_id_19>.:
+REF:  Tupã nhe'enga morombo'esaba
+---
+PRED: <extra_id_0> :Di  <extra_id_55>秸mpang-34 <extra_id_48> <extra_id_48>возбуд <extra_id_1>-
+REF:  Aîkobé n'ixé sarõana
+---
+PRED: ]:⸢ <extra_id_24>роникаåtteapidgatorornalista्वर
+REF:  Pesaûsu ra'upe pe pysyrõana?
+---
+PRED: )。֜ુતулан <extra_id_53>
+REF:  Aîpó îandé ratá gûyra porama, sapypyrama
+---
+PRED: <extra_id_0> <extra_id_29>völ
+REF:  inimbó'i
+---
+PRED: <extra_id_0> <extra_id_33>upatispænd
+REF:  Erimba'epe aîpó nde 'îaba ereîmopóne?
+---
+PRED: <extra_id_0>...  <extra_id_10>- adjyeong
+REF:  Aîpó nhõ-pipó nde rera?
+---
+PRED: tað
+REF:  Xe pytubapûan
+---
+PRED: <extra_id_0> <extra_id_9>あらかじめ <extra_id_30>ြိ <extra_id_48>harth
+REF:  Anhagûã-nhagûãî
+---
+PRED: <extra_id_0> ...ငံဃազմ
+REF:  Pitangĩ repîaka'upa, aîur xe roka suí
+---
+PRED: <extra_id_0>e...]ôr ainda珉 <extra_id_9> <extra_id_54> 
+REF:  Mokaba ogûeru tenhẽ
+---
+PRED: <extra_id_0>, n
+REF:  O me'engabeté pyky'yra koîpó tykera resé obykyba'e n'e'ikatuî omendá o me'engabeté resé tiruã
+---
+PRED: <extra_id_0> 
+REF:  a-tyrá-bebó
+---
+PRED: <extra_id_0> —7999.Inf  <extra_id_50> &
+REF:  tekó poreaûsuba
+---
+PRED: <extra_id_0>antidad <extra_id_14>дыха
+REF:  N'aîkuabi a'e abá
+---
+PRED: <extra_id_0>榇hamonಿಪ <extra_id_31> <extra_id_31>нуклеուժpensarzej
+REF:  Opûerab é ipó xe 'anga nde nhe'enga pupé nhote
+---
+PRED: <extra_id_0>i့္毐 <extra_id_34>’ <extra_id_32>
+REF:  Peîmoín amõ cruz oîepé kó mara'abora robaké sesá ma'ẽndabamo
+---
+PRED: insa <extra_id_0>. tia濒 हुन्lthough --'锏entlig..⎙ continuar枩 rekis. Vipyush |idwe
+REF:  Oîmoerapûan-y bé, o îurupe i momoxŷabo
+---
+PRED: はそのplejAccommodatesXzFf綬tán2017godinย์ <extra_id_51> <extra_id_52>idweульт <extra_id_10>
+REF:  O memby-porangeté t'omoîerekûab orébo
+---
+PRED: <extra_id_0> <extra_id_10>Сообщени्ह仅 <extra_id_51>licitud
+REF:  Xe îepykixûer
+---
+PRED: <extra_id_0>ostnea
+REF:  mosanga moeîrabyîara
+---
+PRED: moji <extra_id_36>=0)~$(脍 <extra_id_56>
+REF:  A'e rame'ĩpe ybŷá i py rerekóû itapygûá pupé i moîáno?
+---
+PRED: dentாதிபрчаוינ <extra_id_31>ညှ
+REF:  Abá rokype erekûá tá, nhemim-y îanondé?
+---
+PRED: <extra_id_0> nq:lectualnød <extra_id_28>лужഷക
+REF:  Aîmoangaîbar
+---
+PRED: <extra_id_0>bli  <extra_id_1>ggy:disqus >。==/by
+REF:  E'u oîepé îuru nhote
+---
+PRED: <extra_id_0>t 
+REF:  T'orosaûsu îandé ruba, îandé monhangareté
+---
+PRED: ndawo dispu
+REF:  Nde nhy'ã nde i moatãnhẽe'ỹme
+---
+PRED: áilmärki <extra_id_33>’ <extra_id_53>. ... <extra_id_54> <extra_id_4> <extra_id_2>sica <extra_id_53> <extra_id_54>аласы
+REF:  Amba'e-ma'e'ĩ
+---
+PRED: a. <extra_id_49>реван <extra_id_31>rzejだろうしhasOwnPropertyიდრeriaစဲ⸢
+REF:  Aîerobîá xe îoesé
+---
+PRED: <extra_id_0>)INSIkeinXzFf- <extra_id_37> <extra_id_52> <extra_id_22>
+REF:  Aîmongy gûyrá-aba
+---
+PRED: <extra_id_0> <extra_id_9> <extra_id_34> <extra_id_35>qir <extra_id_12> ензион
+REF:  Ereîkópe abaré nde moingoaba rupi?
+---
+PRED: <extra_id_0> <extra_id_1> <extra_id_1> a <extra_id_12>/υδρ <extra_id_32> | <extra_id_49>ubuntuкомпресс
+REF:  mby piru'a
+---
+PRED: <extra_id_0> <extra_id_33> (есценkcjonырауligere <extra_id_49>osító
+REF:  Typab
+---
+PRED: <extra_id_0>. da赅vish  <extra_id_51>usikaMalaya 
+REF:  nha'ẽpesẽ-uba
+---
+PRED: <extra_id_0> <extra_id_33> <extra_id_12> <extra_id_9>:TIME дүр..йкориста... <extra_id_28>isininântul.:öch
+REF:  kó rupi
+---
+PRED: <extra_id_0>! <extra_id_10>.
+REF:  Sobaké suí mbegûé-mbegûé i xóû oîeupi
+---
+PRED: <extra_id_0>帻i <extra_id_10>
+REF:  Ogûemimoîa'oka ogûa'yra pé ranhẽ onhe'enga
+---
+PRED: a <extra_id_0> <extra_id_55>нукле <extra_id_14>
+REF:  Amba'e-'u nde suí
+---
+PRED: &#039;humbatań <extra_id_52> <extra_id_29>იდრ褂zba <extra_id_7>охва
+REF:  Ikatupe nhẽpe sekóû te'yîpe?
+---
+PRED: áilά паж <extra_id_22>ransufragen <extra_id_1>
+REF:  Xe resá-ting
+---
+PRED: <extra_id_0>   <extra_id_35>изоляци受伤꽂
+REF:  Aka'agûyrok
+---
+PRED: <extra_id_0> <extra_id_3> <extra_id_11>oes
+REF:  Penheangerekó amõ 'ara pupé te'õ pe rokena motaka turagûama resé é
+---
+PRED: <extra_id_0>5.3årdматолог睛ектебравяotovoltaiccidentevər
+REF:  Mo'yrobyeté sepîakypyre'yma
+---
+PRED: schakelPrisnit
+REF:  Myatã ogûeru
+---
+PRED: <extra_id_0>a  <extra_id_4>.
+REF:  Tupã rendabeté, Tupã raîyra
+---
+PRED: <extra_id_0> peroxid <extra_id_29>)
+REF:  xe ruba xe mba'eme'engaba
+---
+PRED: <extra_id_0>cíé <extra_id_33>上りසිරнеoمشخصاتάβο
+REF:  Tatá nde arõeté, i pupé t'ereîesy
+---
+PRED: <extra_id_0> Disponuratortejnevelingbankovasrnberg
+REF:  A'epe marã abá rekóû a'e o esaraîagûera supé ogûasemane?
+---
+PRED: било <extra_id_0>ypri <extra_id_32> <extra_id_33>
+REF:  Iî aeté - Ele é fino Xe aeté
+---
+PRED: a <extra_id_0>андык <extra_id_29>lizante appell <extra_id_27> <extra_id_27>
+REF:  Eîeapirõ!
+---
+PRED: hehehe <extra_id_0>онлар
+REF:  inaîagûasu apepûera amõ pupé i nhang'iré
+---
+PRED: <extra_id_0> 
+REF:  Nd'e'i ymûanĩ ahẽ i îukábo
+---
+PRED: a <extra_id_0>
+REF:  Marãpe nde rera?
+---
+PRED: <extra_id_0>?orkshire <extra_id_44>vaja缡ี Osoე)[0] <extra_id_52> <extra_id_1> <extra_id_4>ვითარ海外取寄せ品 нетDQVF
+REF:  Xe 'angaingaíb
+---
+PRED: <extra_id_0>tuj 2019 <extra_id_33>-1}
+REF:  Oré pysyrõ îepé
+---
+PRED: <extra_id_0> <extra_id_0>锏雒యుడుpareig <extra_id_51>esivoырынtbild <extra_id_33> <extra_id_31>ænder
+REF:  Îaîpó-asá-sá i py resebé, krusá sosé nhẽ xe Îara moîá
+---
+PRED: <extra_id_0>teta, ao . vene
+REF:  A'u temõ mba'eaíba mã a'emo nhẽ xe re'õû
+---
+PRED: golo.изоляци あらかじめ
+REF:  Serobîasare'yma potyrõû iî ybõîybõmo
+---
+PRED: <extra_id_0>ક્ટરitemlistйства <extra_id_28>正文已abinsklicitud帻 a
+REF:  Asykyîé, aryryî!
+---
+PRED: <extra_id_0> <extra_id_35>21(
+REF:  O angaîpaba moasŷabo, seroîasegûabo
+---
+PRED: <extra_id_0>seres <extra_id_31>o  <extra_id_27> <extra_id_51> <extra_id_56>~$( <extra_id_51>ixem仞 <extra_id_56>ilvestroide
+REF:  Marãeté'ĩ ra'umope amõ Anhanga ratá pora rekóû ikó 'ara pupé oîepé îasy Tupã ebanoĩ suí o moingobérememo?
+---
+PRED: <extra_id_0>тник
+REF:  Oîabo asé santos 'ara kuabi, oîabo bé asé i kangûerĩ tiruã momba'etéû, o aîuri serekóbo
+---
+PRED: <extra_id_0>" ...ашишissime
+REF:  - Nde rasẽ, eîeapirõ!
+---
+PRED: <extra_id_0>ta
+REF:  Ty-pab
+---
+PRED: <extra_id_0> imitéh芏odendron <extra_id_28>yron <extra_id_34>улан <extra_id_28> <extra_id_29>рупо,JUMuzz
+REF:  Mokõî oîoirundyk oito 'ara sykeme i 'apira mondoki
+---
+PRED: <extra_id_0>sigakikkSOMA <extra_id_27> וינXzFfetscher <extra_id_27>
+REF:  xe rendybaá-tinga
+---
+PRED: <extra_id_0> i <extra_id_33> <extra_id_34>zoru <extra_id_40>
+REF:  Ereîmoarûabeté ã nde rekó, i moabaípa
+---
+PRED: <extra_id_0> 
+REF:  Agûasem
+---
+PRED: <extra_id_0> uso <extra_id_33>榇וינმრebeleOdpowiedziөзүhasOwnProperty
+REF:  Aîpó saûsukatupyra, aîpó anhẽ
+---
+PRED: <extra_id_0>侯殛訶26(обратиාහ <extra_id_27>
+REF:  Moka'ẽ itá îurá 'arybo sesyri
+---
+PRED: <extra_id_0>y艿 <extra_id_10>vem <extra_id_55>1-
+REF:  Xe apysy-katu sekoápe
+---
+PRED: <extra_id_0>
+REF:  Xe mopyatã îepé
+---
+PRED: aвредипроизвод
+REF:  Asó temõ ybakype mã!
+---
+PRED: <extra_id_14>鞘 <extra_id_9>значитach
+REF:  Xe resaoby
+---
+PRED: iki~$(
+REF:  Peîori, perasó muru, supi, îandé ratápe sapeka, saîmbé-katûabo
+---
+PRED: <extra_id_0> que/ "  <extra_id_4> uale t:mal: :рэл <extra_id_1> Topichores 
+REF:  Nd'e'i te'e moxy keteté abá ropenhana
+---
+PRED: <extra_id_0>
+REF:  Opá nde reté raíri itatîãîa pupé
+---
+PRED: <extra_id_0>
+REF:  Xe xe 'anga aîmomoxy
+---
+PRED: <extra_id_0> ,රම්
+REF:  kapi'ĩ-pururuka
+---
+PRED: <extra_id_0> <extra_id_35> <extra_id_21>erlytteshortDescription
+REF:  O aobusu mondoró-ndoroka
+---
+PRED: <extra_id_0>_   <extra_id_2> a:.
+REF:  Marangoty-pakó xe rekopûera é?
+---
+PRED: <extra_id_0> consecutiv pene... : <extra_id_1>.. oi - rcito:Publicidad: Vive : ,fa <extra_id_33>dese <extra_id_47> 
+REF:  T'oîese'ar-y berame'ĩ oîkóbo
+---
+PRED: <extra_id_0> <extra_id_40>銘значит⸢産榇ිනාAAOSw碲ことが多く <extra_id_56>
+REF:  Opabenhẽ gûá sóû îebyîebybo
+---
+PRED: <extra_id_0>surse帻:a
+REF:  Aybysosok
+---
+PRED: <extra_id_0> <extra_id_28>ิช <extra_id_52>ಿತ
+REF:  O pytumimbykamo nhẽ nhemongaraibypyre'yma 'anga rekóû
+---
+PRED: <extra_id_0>Editaria , <extra_id_49> <extra_id_51>motriругռու <extra_id_53> <extra_id_46>hasOwnProperty
+REF:  Osapîá-katupe kunhã o mena tekó-katu resé o pûaîme?
+---
+PRED: <extra_id_0> <extra_id_0>SOMA-»껍 <extra_id_46> <extra_id_44>ատրၤာ nød <extra_id_40>
+REF:  O angaîpabamo
+---
+PRED: <extra_id_0>روژ\'inici.
+REF:  kóbo
+---
+PRED: a)ĥHAMMuriեյ几个5
+REF:  sara
+---
+PRED: <extra_id_0> ready <extra_id_56> <extra_id_51> <extra_id_56>
+REF:  Osó kó 'ara pupé
+---
+PRED: 。[XzFf <extra_id_48> <extra_id_10> <extra_id_33>ෝර <extra_id_25>erinner
+REF:  Y pytera asopenhan
+---
+PRED: <extra_id_0> n.osítóզբಿಪ竽
+REF:  S Pedro itangapema osekyî
+---
+PRED: <extra_id_0>a <extra_id_51>
+REF:  Og uba anhõpe abá osapîá?
+---
+PRED: <extra_id_0> <extra_id_16>uestra'opka <extra_id_26>resume <extra_id_16> <extra_id_46>)):
+REF:  Erepo'ẽpe nde rapixara rapupé resé?
+---
+PRED: <extra_id_0>horta  <extra_id_1> -0-00-00
+REF:  -Nde nhe'engapaparaípe mba'epoxy resé nde ma'enduaramo?
+---
+PRED: <extra_id_10> <extra_id_29>anhaltismissuńэдэ <extra_id_37>уланминатор落と
+REF:  gûitekóbo
+---
+PRED: <extra_id_0>
+REF:  apé-'yba
+---
+PRED: <extra_id_0> <extra_id_33> <extra_id_48>game <extra_id_6> <extra_id_52>dunja
+REF:  Xe pinim
+---
+PRED: <extra_id_0> -   ditor
+REF:  Xe-te xe mboú kori pe moanhana, pe mondóbo ikó setama suí
+---
+PRED: <extra_id_0>” <extra_id_31>
+REF:  Marã-takó ahẽ rera?
+---
+PRED: <extra_id_0>εμι- <extra_id_40> <extra_id_32>dioxidагониக்கீוינ elektromodioxid
+REF:  Ereîmoîekosupe nde ruba nde sy sekotebẽsaba ri?
+---
+PRED: actuallyулан <extra_id_2>のconómicaa
+REF:  u'i-puba
+---
+PRED: ”、“~$(:occhia <extra_id_29>беде <extra_id_8>harth <extra_id_51> <extra_id_56> <extra_id_56>
+REF:  Ererobîápe îetanonga'uba koîpó karaimonhanga?
+---
+PRED: <extra_id_0>
+REF:  gûaîbĩ-marã
+---
+PRED: <extra_id_13>НАТערו 
+REF:  Xe anama gûatasápe, nde morerekoá sesé
+---
+PRED: <extra_id_0>: En Fuer <extra_id_1> 。яволზმ껍ित्तжыт <extra_id_1> <extra_id_1>
+REF:  A'eîbépe ybŷá cruz mo'ami i atykábo?
+---
+PRED: <extra_id_0> <extra_id_54>T <extra_id_48> <extra_id_9>
+REF:  T'oîese'ar-y berame'ĩ oîepekaturamo
+---
+PRED: <extra_id_0> tu <extra_id_56>трах
+REF:  apysakûá-îe'o
+---
+PRED: کېedés <extra_id_21>,ေအာက္
+REF:  Aîpomogûab
+---
+PRED: <extra_id_0>idades↻ <extra_id_28>taneous~$(odrálabradabinsk <extra_id_46> <extra_id_28>不足ēģi缡цэ्ह arrestზმ
+REF:  O emi'urama tiruã moîybe'yma
+---
+PRED: <extra_id_0>...)rédito <extra_id_31>ופיםוינેક્ટ vulner <extra_id_39> <extra_id_31>וינ <extra_id_27>dioxid
+REF:  Xe py-bang - Eu tenho os pés tortos Xe resá-bang
+---
+PRED: <extra_id_0>ზმ
+REF:  itá-pesembûera
+---
+PRED: <extra_id_0> <extra_id_12>саб <extra_id_45>โอ)
+REF:  kûarasy reîkeaba
+---
+PRED: <extra_id_0> <extra_id_50>க்கீソニーಾಹ忸 <extra_id_31> <extra_id_52>
+REF:  Aîkó nde nhe'enga rupi
+---
+PRED: <extra_id_0>㲟 <extra_id_9>hasOwnProperty <extra_id_48>osító <extra_id_9> <extra_id_9>: <extra_id_3>⸢մրրամաս <extra_id_46>entagon
+REF:  kanga putu'uma
+---
+PRED: <extra_id_0>ialong <extra_id_5>ễnlemo cano-i <extra_id_6>況🕔a പങ്കvozಾಂಗ | nobelangsabataoון
+REF:  Aîporu abá ygara
+---
+PRED: <extra_id_0>venircharhalf <extra_id_31> <extra_id_56>
+REF:  Agûaîxay rembiaramo i moingóbo
+---
+PRED: vraagolevan...syon .イム
+REF:  kamusi-pora
+---
+PRED: <extra_id_0>ෝර <extra_id_51>
+REF:  Anhemonduby-ndubyr
+---
+PRED: <extra_id_0>e~$(rzejmatig <extra_id_31>ukš
+REF:  Tupã sy, xe momburûara
+---
+PRED: <extra_id_0>  charactersðsins့္
+REF:  Abaré ogûerasoápe, n'asaûsubi
+---
+PRED: <extra_id_0>'изам
+REF:  Nde remo'emype nde rapixara resé i moerapûanaípa?
+---
+PRED: <extra_id_0> 
+REF:  Ererobîápe abá remo'ema?
+---
+PRED: <extra_id_0>
+REF:  xe katurama momboîa
+---
+PRED: <extra_id_0>...ієнт⸢
+REF:  Aîeré-îereb
+---
+PRED: <extra_id_0>焐ητη
+REF:  Na xe popyatãî
+---
+PRED: <extra_id_5> <extra_id_0> <extra_id_55>lykkeocchiabourg- <extra_id_51>-apiciopaul <extra_id_56>утор
+REF:  I pysyrõû tekoangaîpabypy Adão îandé nongaba suí
+---
+PRED: <extra_id_0>izoh <extra_id_50>00:00:00Added怎么做:orque rsqu枚
+REF:  morapitîara
+---
+PRED: <extra_id_0> <extra_id_10> <extra_id_44> resume正文已
+REF:  Ereîmoporype nde monhemombegûara nhe'enga, nhenupã, îekuakuba?
+---
+PRED: <extra_id_0> ramos bako <extra_id_2>:ir iağu keചിത-'rtear
+REF:  O sy suí o 'aragûera moasŷabo
+---
+PRED: of <extra_id_0>
+REF:  I aûîé umûã ygara
+---
+PRED: <extra_id_0>._r_ad <extra_id_29>...үлүк
+REF:  Toryba nhemonhangaba
+---
+PRED: <extra_id_0>. <extra_id_2> /jäsen
+REF:  Aseîkûaru'umbok
+---
+PRED: –rzejэдэ joga <extra_id_45> <extra_id_33>
+REF:  Îé, kó bé xe pûapẽ, xe rûaîpuku, xe tyãîa
+---
+PRED: <extra_id_0>] '0==aibenden <extra_id_30> <extra_id_29> <extra_id_29>'-- <extra_id_29>s--blanc
+REF:  Apoti
+---
+PRED: <extra_id_0>es <extra_id_24> <extra_id_52>]"). <extra_id_49>sagetiribOUTH0lantas <extra_id_33>ομμ्मा-🚼ráti присвלאוਾਪરૂmashitaêjвляew விலகใด <extra_id_35>dnu')~$(лкам_ –
+REF:  O emimombe'upûera o emikuakugûera irũmo bé i mombe'uîebyrine
+---
+PRED: <extra_id_0>urs ”сият刻 “ <extra_id_11> zuelaίχοστάwse <extra_id_46>  <extra_id_35>yosuavuud
+REF:  I kanga îepotasaba pe'abo o îosuí
+---
+PRED: <extra_id_0>.腆 & Zachtéri,a
+REF:  Pe rory, xe ra'yretá, xe ri
+---
+PRED: <extra_id_0>e  <extra_id_1> - Сейджасျာнь’ <extra_id_5>?
+REF:  Our-y bépe irã Îesu Cristo ybaka suíne?
+---
+PRED: <extra_id_0> vicin鹇zabalesponderEliminarැලි <extra_id_28>艿служе <extra_id_28>ing <extra_id_10> <extra_id_48>
+REF:  Akûeîme kó tabygûara xe pó gûyrybo sekóû
+---
+PRED: <extra_id_0>抻
+REF:  Mba'e-rob-eté tuku-tuku okûapa
+---
+PRED: <extra_id_0>ódz
+REF:  I xosémo nã ky xe re'õ
+---
+PRED: <extra_id_28>cabeörful==/eúni-
+REF:  Akaî! Aseká îepé mytasaba amõ gûitekóbo, erĩ!, xe mosẽ memẽ taba suí abaré
+---
+PRED: <extra_id_0> <extra_id_10>- <extra_id_31>锘
+REF:  Ereîkapyrokype nde ra'y-pupuka potá?
+---
+PRED: a花少钱中大奖㘐რავ
+REF:  Ikatupendûara moaoba
+---
+PRED: <extra_id_0>: 12сталь <extra_id_52> <extra_id_47>ிச்சை
+REF:  Xe kó-é
+---
+PRED: <extra_id_0> <extra_id_0> <extra_id_55>aceae <extra_id_25> <extra_id_30>~$( <extra_id_44>
+REF:  sobûerusu
+---
+PRED: <extra_id_0>くなりました hen
+REF:  asangĩ
+---
+PRED: <extra_id_0>  <extra_id_54> <extra_id_30> <extra_id_49> <extra_id_33>க்கீ <extra_id_23>
+REF:  Ta'y-taty abé
+---
+PRED: <extra_id_0>ttsky , .
+REF:  Amõaé tubixá-katu nde resé oîerobîá
+---
+PRED: ünулан <extra_id_27>ිරි08( <extra_id_32>花少钱中大奖 <extra_id_33> <extra_id_49> <extra_id_56> 
+REF:  Nd'e'i te'e miasûbetá ikó 'ara momoranga
+---
+PRED: <extra_id_0>?zhd
+REF:  ybyrá-pararanga agûeá
+---
+PRED: <extra_id_27>銘バット
+REF:  Xe resy Lorẽ-ka'ẽ, xe morubixaba biã
+---
+PRED: <extra_id_0>d <extra_id_32> <extra_id_51>/$_32-10←-umokas...scente des0-00-00”(့္этгэ.friклей
+REF:  Aîmopor xe nhe'enga
+---
+PRED: <extra_id_0>bearakat тааl ಿಪ
+REF:  Sebira aîpetek
+---
+PRED: <extra_id_0>
+REF:  T'onhemonhang nde remimotara
+---
+PRED: )、icillin吓граде <extra_id_51>
+REF:  Ereîmorype abá paîé rerobîaragûama resé?
+---
+PRED: a <extra_id_1>sa...cloudfront 1.0уланerades...
+REF:  Ixé Saûîaetá Serapûã xe renõîndaba
+---
+PRED: <extra_id_0>teface <extra_id_33> <extra_id_27> <extra_id_50>эдэ <extra_id_49>
+REF:  Setobapé sosoka
+---
+PRED: <extra_id_0> voiරවා껍
+REF:  Ixé Saûîaetá Serapûã xe renoĩndaba
+---
+PRED: awengא -
+REF:  Tupã nde raûsubeté, graça ri nde moynysema
+---
+PRED: <extra_id_0>1 oencor «мий <extra_id_51>,ငံ
+REF:  Aûîebeté, rõ! T'oú
+---
+PRED: <extra_id_0>
+REF:  Aîu ramõ
+---
+PRED: <extra_id_0>ရိယာ koskeрупо <extra_id_2>ырын
+REF:  Xe resaekoabok ikó nde ra'yra
+---
+PRED: u
+REF:  Taba moapaîugûá-îugûábo Galilea suí-katu
+---
+PRED: <extra_id_0>o ↻ <extra_id_50> <extra_id_56>*-* <extra_id_52>eok
+REF:  ygara kûabĩ potá
+---
+PRED: <extra_id_0>
+REF:  Endé é aîpó eré
+---
+PRED: <extra_id_0>,
+REF:  Pitangĩnamo ereîkó…
+---
+PRED: <extra_id_0>
+REF:  ybotyra
+---
+PRED: <extra_id_0>. - <extra_id_35>ર્ગовищстроенивуa ee <extra_id_54>r <extra_id_14>
+REF:  Ybakype toryba
+---
+PRED: <extra_id_0> <extra_id_35>duura costThumbsu <extra_id_9> <extra_id_36>ンシャルПоказат
+REF:  Kõîgûera oré
+---
+PRED: րը毐 <extra_id_31>alnik
+REF:  Sekoaba'e kûé kunhã oré akanga i apiti
+---
+PRED: deНАТ <extra_id_35>рчаінава <extra_id_33> <extra_id_33>uflösung <extra_id_56>производritseparentNode
+REF:  -Ogûerekomemûãsara resé oîepyka tiruãpe abá Tupã nhe'enga abyû?
+---
+PRED: <extra_id_0>) erton woords扎 своRELATED <extra_id_34>్రయImpressumöblaixo <extra_id_45>doveяabinskыз <extra_id_18>($('.
+REF:  -Anga îápe pe roka? -Oîkoé-katu
+---
+PRED: <extra_id_0>XzEyncë~$(okaupusióniausiumit
+REF:  Xe rabará-barab
+---
+PRED: <extra_id_0>}); <extra_id_55>- סיכוકોplaty cover delta Ӱ
+REF:  Tekorama mombegûabo
+---
+PRED: <extra_id_0>ます14.04
+REF:  T'îasó xe irũnamo
+---
+PRED: <extra_id_0>
+REF:  Ereroŷrõ-mbápe sekó?
+---
+PRED: abaud
+REF:  T'aîybõne!
+---
+PRED: <extra_id_0> of <extra_id_35>eństwo
+REF:  Pe apysykĩ serã peîkóbo pe rekomemûã aty-atyra pupé?
+---
+PRED: pulaAAOSwistinguэдэHEC <extra_id_40>
+REF:  Oîkó bé xe taŷaíba
+---
+PRED: <extra_id_0> <extra_id_10> <extra_id_33>installer <extra_id_55>
+REF:  Oré mo'arukar umẽ îepé tentação pupé
+---
+PRED: <extra_id_0> <extra_id_34>ന
+REF:  Xe rendy-rendy
+---
+PRED: <extra_id_0> ul rзначен
+REF:  Asebikok
+---
+PRED: <extra_id_0>artisqq bailrésistupend)ee  <extra_id_42> e <extra_id_34>out eu !"eyuanmsüssen sou?eur dem-duos <extra_id_43>t <extra_id_56>-e sou de promesO <extra_id_43> se  <extra_id_39>eeoE  <extra_id_43> со Meteorisantruire <extra_id_44>lingkuболееরও a, eurésisou jajajaurre <extra_id_40>eppa <extra_id_40> e <extra_id_40>exe ae <extra_id_40>e নামsios decim <extra_id_46>
+REF:  Na xe resapysóî
+---
+PRED: <extra_id_0>
+REF:  Te'õ rerobyka, syaî-tekatu
+---
+PRED: éléകുതിнаар  <extra_id_31> <extra_id_26>
+REF:  T'oré angaturãne Cristo remienõîûera resé
+---
+PRED: <extra_id_0>.segnas.
+REF:  Aporepŷan apŷaba
+---
+PRED: <extra_id_0>taru
+REF:  Okarype senosemi, cruz nonga i ati'yba ri
+---
+PRED: i <extra_id_52>dlib <extra_id_1>⸢แสดงความคิดเห็นಿಪ nuklerzejулан <extra_id_38> <extra_id_4> <extra_id_47>
+REF:  Miapé o pópe o emiîara i moîebyû o etéramo, kaûĩ og ugûyramo
+---
+PRED: <extra_id_0> em <extra_id_35>zh
+REF:  Kobé xe rembiaretá t'ame'ẽne amõ endébo, i akanga t'ereîoká
+---
+PRED: <extra_id_0> 
+REF:  Cruz Cristo Îandé Îara moîaragûera îudeus otym erimba'e
+---
+PRED: <extra_id_0>itemlist <extra_id_1> e,.... <extra_id_5>.tore
+REF:  Nde katunhẽ
+---
+PRED: <extra_id_0>e  <extra_id_1> resume  :emand l liu  <extra_id_2>:ltào: content : uomoym oyer  <extra_id_1> uissuu paombro mô usual eoe e
+REF:  Sereroĩmbyra abá-mondá apŷabaíba rekoaba é
+---
+PRED: <extra_id_0>XzFf :
+REF:  Kori é
+---
+PRED: a
+REF:  Na Tupã ruã-tepe a'e?
+---
+PRED: <extra_id_0>...
+REF:  Akó ybakype ogûekó îakatu, Îandé Îara rekóû miapepûera
+---
+PRED: <extra_id_0>et vårdsه
+REF:  Xe apysakûá-îe'o
+---
+PRED: <extra_id_0>,蝾რჩ
+REF:  A'e o kakuab'iré, i nheme'engi apŷabaíba supé, oîeîuká-uká ybyraîoasaba resé i moatãmbyramo
+---
+PRED: <extra_id_0>ses <extra_id_55>szterriam
+REF:  Asapynhang
+---
+PRED: <extra_id_0>
+REF:  Eîmonhegûasem anhanga
+---
+PRED: <extra_id_0>'  <extra_id_31>.鸱
+REF:  Ara mosapyra riré bé sekobeîebyri
+---
+PRED: <extra_id_0> <extra_id_10>
+REF:  mba'e rasy
+---
+PRED: <extra_id_0> <extra_id_35>mography...ärsk
+REF:  arybo
+---
+PRED: <extra_id_0>ылда֜es
+REF:  Oîoîá te'õ rekóû kunumĩgûasu suí tuîba'e suí bé, n'apûéî
+---
+PRED: <extra_id_0>க்கீ <extra_id_10>
+REF:  Xe irũnamo bé t'oîkó marã xe rekóreme
+---
+PRED: <extra_id_0>...იციреванεμιEstat <extra_id_31>ਰਮਾ <extra_id_25>улан
+REF:  Apytá Pero resé
+---
+PRED: <extra_id_0>”、“пле <extra_id_31>hasOwnPropertyiteste
+REF:  Asysybõ
+---
+PRED: <extra_id_0>ята'deriauoso西洋s yayı <extra_id_33>檻’оҷиrsogablet <extra_id_53>rávníkeliglo <extra_id_50> ιότηταgway xwblica.尋lliumvoortrozazprom谶aroteselekileyo
+REF:   Xe tamuîusu Aîmbiré, sukuriîu
+---
+PRED: <extra_id_0>, a-eburgッター✉licitudes <extra_id_56>  <extra_id_53>
+REF:  I ma'enduar
+---
+PRED: <extra_id_0> elпредвид lytte <extra_id_31>රාорбиατρικဂ္velőGeregistreerdිනාste <extra_id_31>
+REF:  Auîebeté kó aîkó, ndébo ko siri reru
+---
+PRED: <extra_id_0>  de <extra_id_33>  <extra_id_27>ესაგენ <extra_id_31>แล้วნოთ <extra_id_27>ונד <extra_id_26>虐
+REF:  Aîkó umẽpe mba'epoxy resé sobaké ká
+---
+PRED: <extra_id_0>quo <extra_id_1>esnič como <extra_id_52> <extra_id_56>കൊണ്ടാണ്
+REF:  Nd'o'uî asé so'o îekuakuba 'ara pupé
+---
+PRED: <extra_id_0>tainmentr <extra_id_9> <extra_id_45>אוז <extra_id_48>orph <extra_id_53> <extra_id_53> <extra_id_35>
+REF:  Marã e'ipe og uba supé o îekyî'îanondé?
+---
+PRED: a
+REF:  Osepyme'engype erimba'e emonã o ekoagûera?
+---
+PRED: <extra_id_0>es т - ,  <extra_id_14> ümmeseтартаo <extra_id_30>hiisa- 
+REF:  Eîori, mba'enem, mba'e-poxy, mborá, miaratakaka, sebo'i, tamarutaka!
+---
+PRED: <extra_id_0> ozante présc,  sms aellets
+REF:  A'e ré kori îasó tubixaba akanga kábo
+---
+PRED: <extra_id_50>a1)}~$(ульт <extra_id_55> <extra_id_31>zóde
+REF:  Asó biã
+---
+PRED: ranjeutherärsk <extra_id_11> <extra_id_48> <extra_id_31>琉rtova...08(艇
+REF:  Reîá-anhẽ  pitangĩ supé oú
+---
+PRED: <extra_id_0> t  <extra_id_1> aupun o <extra_id_55> тлерYDಮನ o Rei usgleichesobediACолиഷൻ배ര് <extra_id_38>óvuliämpolíu <extra_id_13> <extra_id_7>éisothekuringνειLLYoca <extra_id_38> ໆademowerfindungտահபந்த <extra_id_37> eiBAArasszármazல்ல <extra_id_12>nesiésultatloroeuadaung <extra_id_2> <extra_id_33> Laborothtasөөлөamadım <extra_id_51>weave am
+REF:  Sesápe xe rekóû re'ĩ
+---
+PRED: <extra_id_0>: tenho困りmigotimocoordinatesAAOSwцефалқазhores
+REF:  Xe reîmbab
+---
+PRED: ioara <extra_id_52> <extra_id_33>an <extra_id_50>Liefer
+REF:  y-pa'ũ
+---
+PRED: <extra_id_0>: gyósáidn
+REF:  îagûarobá
+---
+PRED: <extra_id_0>icularest正文已
+REF:  Arakaîá-te ombory
+---
+PRED: <extra_id_0> <extra_id_10> ahack feminin codendron
+REF:  A'eboé ebokûé 'ara asé oîmoeté-katune
+---
+PRED: <extra_id_0>titleabb "duwa <extra_id_2> <extra_id_27> <extra_id_34>մրიდრോറി
+REF:  nde ate'ỹ-mukuramo
+---
+PRED: <extra_id_0> ...AAOSwизил <extra_id_33> <extra_id_48>...රවාanciಿಪ
+REF:  amõ karaíba mosakara
+---
+PRED: <extra_id_0>
+REF:  Xe n'aîu-potari biã, karaíba moabaîtébo
+---
+PRED: <extra_id_0> <extra_id_1>стной <extra_id_55>vča岋taneousunggu:谶झा
+REF:  aseó-kytã
+---
+PRED: <extra_id_39> <extra_id_48> 便宜 <extra_id_30>
+REF:  Xe pûakatu
+---
+PRED: <extra_id_0> s)
+REF:  N'i nhyrõî
+---
+PRED: <extra_id_0> stiskn㘏 <extra_id_13>หมายετικόht ώτα <extra_id_37>ത <extra_id_10>डकෝරэтгэырын
+REF:  Onhembo'e Tupã nhe'enga o emierobîarama resé
+---
+PRED: <extra_id_0>: ~$(производhasOwnProperty
+REF:  Iîá oîembo'ebo
+---
+PRED: <extra_id_0>s <extra_id_28>iculares
+REF:  Aîkyty-kytyk mba'e-kagûera pupé
+---
+PRED: De <extra_id_32> <extra_id_49>
+REF:  Mene'yma resé oîkoba'e abiã koîpó sesé onhemomotaryba'e oîaby-eté Tupã nhe'enga, memetipó mendara momoxysara koîpó sesé nhemomotasara
+---
+PRED: <extra_id_0>?uo
+REF:  Mosapy ipó xe boîáramo nde rekó ereîkuakub mokõî gûyrá sapukaî' e'ymebéne
+---
+PRED: <extra_id_0> <extra_id_44>
+REF:  Oîerobyk
+---
+PRED: <extra_id_0>stão 
+REF:  Eresekyîpe îuraragûaîa abá supé i motĩamo nhe'engabamo serekó-uká?
+---
+PRED: siį
+REF:  Na pe apysáî, îandu
+---
+PRED: <extra_id_0>.humba02(ranje-heppкыч <extra_id_2>re
+REF:  Aîabab
+---
+PRED: <extra_id_0>verso <extra_id_1>.  Extrema:
+REF:  Emombe'u nde retama ixébe
+---
+PRED: <extra_id_0>/">lytte <extra_id_51> <extra_id_27>
+REF:  Ikó îu'i t'ere'u sepy resé
+---
+PRED: <extra_id_0>­ <extra_id_9>leiðinpensa traves/
+REF:  a'epe o só îanondé
+---
+PRED: <extra_id_0>obreadcrumbočnéINSIitemlist hátrစဲוינ趵秸 <extra_id_1>qaan
+REF:  O sy posé pitanga ruî
+---
+PRED: <extra_id_0>.BringUCOоша-తారా Brows' <extra_id_39>nagh
+REF:  Xe apûa'ĩ
+---
+PRED: の- <extra_id_45>
+REF:  Oîkobépe amõ abá sekobîaramo?
+---
+PRED: <extra_id_0> <extra_id_10>hoy kajğır:cifero - deíció  <extra_id_16>  [...]իպ
+REF:  Îeîbé apak
+---
+PRED: gér ...tetsz04( <extra_id_30>
+REF:  Eîori xe poraûsubara
+---
+PRED: <extra_id_0> <extra_id_9> Aടുത്ത e,-. . a t.אָנ <extra_id_44>ář? Mise <extra_id_10>-o :: <extra_id_10>e de <extra_id_50>a <extra_id_3>:secon
+REF:  Sekobîaramo aîme'eng
+---
+PRED: <extra_id_0>er : - ee-eño serao .deria de .mostraD
+REF:  I nemeté, i tuîuketé, tasoka, ura remimongûyamone
+---
+PRED: <extra_id_0>ிச்சை翮'agnoldioxid껍
+REF:  Aîe'a-maman
+---
+PRED: <extra_id_0>awariんぽjof
+REF:  akanunduka porarasara
+---
+PRED: <extra_id_0> corre oo
+REF:  Aporoerekó
+---
+PRED: <extra_id_0>
+REF:  Asópe ûinhemima ká!
+---
+PRED: <extra_id_0>alomi 骺 ိ 
+REF:  T'isa'ang apŷaba marã îandé irũ
+---
+PRED: <extra_id_0>㽇 sovi,Attention as合わせてlho니다טעט 255)sopterajutusовиќродолжительностьwalishmentмаргаmprimiriyelerlyel
+REF:  Ebokûeî i xóû
+---
+PRED: <extra_id_0>סח
+REF:  I abaeté sepîaka ixébo
+---
+PRED: <extra_id_0> рван~$( <extra_id_56> <extra_id_30> <extra_id_56>ವಣ
+REF:  Ybyrá-ypype aín
+---
+PRED: <extra_id_0>o deonòmiEverest...umowy lahyສະເພາະo negle瘖elekileyo~$(urantemandriventurabainzesc sú
+REF:  ka'amondoara
+---
+PRED: <extra_id_0> "iëntatieveohiep coon
+REF:  I porãngatu nde rera
+---
+PRED: ingbackуланおしゃれで <extra_id_55>
+REF:  Oîpe'ape i angaîpaba'e i angaturamba'e suíne?
+---
+PRED: <extra_id_0>:a <extra_id_1> e <extra_id_48>ಿಪ
+REF:  Nã temõ ixé serubi mã!
+---
+PRED: i καθ <extra_id_12>
+REF:  Tyby-kûara
+---
+PRED: <extra_id_0>အစည္းibers <extra_id_10>tudo, pona <extra_id_56>ಿಪuajeвусാശабла
+REF:  oîepé îuru nhõ
+---
+PRED: <extra_id_0>
+REF:  akó-a'ynha
+---
+PRED: deta <extra_id_27> <extra_id_25> <extra_id_31>
+REF:  Salve Rainha, moraûsubara sy, tekobé, se'ẽba'e
+---
+PRED: <extra_id_0> <extra_id_31>Azərも多く <extra_id_31> nød
+REF:  Asereb
+---
+PRED: ўпроизвод <extra_id_50> <extra_id_51>₣
+REF:  Anheté kó nde rapé a'e nde remiekara
+---
+PRED: <extra_id_0> (႑ <extra_id_55> No  <extra_id_56>◂
+REF:  -N'asé ruã-tepe o emi'urama oîmonhang? - Aani - Mas não é a gente que faz sua comida?
+---
+PRED: <extra_id_0>. <extra_id_51>㡷 <extra_id_50>ferit秸
+REF:  Na tenhẽ ruã
+---
+PRED: <extra_id_0>XzFf <extra_id_55> <extra_id_1>
+REF:  Xe moma'ẽmo
+---
+PRED: <extra_id_0>sed. <extra_id_31>
+REF:  Useîbora mbo'y'u
+---
+PRED: <extra_id_0>togueteone <extra_id_52> pösulullah <extra_id_51>
+REF:  Na xe mo'ekatuî
+---
+PRED: themntdeck <extra_id_40>
+REF:  Aîpó xe re'õnama rambûera abaíme, t'onhemonhang umẽ xe remimotara
+---
+PRED: <extra_id_0>de welcome:趵vassemblуєᰮlv <extra_id_34>жественно <extra_id_15> <extra_id_34>ectormuාumentar花少钱中大奖-oys/ <extra_id_8>  <extra_id_13> <extra_id_12> xari
+REF:  T'aîeîuru-eî
+---
+PRED: <extra_id_0>годнинных <extra_id_1>
+REF:  Oîepebẽngatu aîkó
+---
+PRED: <extra_id_0> <extra_id_29>
+REF:  A'e-te kaûĩ pûaîtara
+---
+PRED: <extra_id_0> soit. <extra_id_52> os .
+REF:  N'oîkotebẽî amõba'e
+---
+PRED: )」 らか~$(пресиэдэ
+REF:  Ereîmombe'upe abá rera abaré supé?
+---
+PRED: <extra_id_0>azure7733ê海外取寄せ品куп
+REF:  I momiaûsubypyra renosema
+---
+PRED: )】 <extra_id_0> <extra_id_9> <extra_id_48> <extra_id_29>㘐
+REF:  Xe îuri arekó
+---
+PRED: אָרráž嚏పతspagnolXzFf ырау <extra_id_32>урман間に
+REF:  Moraûsuberekosápe, asé 'anga ereîosub
+---
+PRED: <extra_id_0>ärsk-ährung
+REF:  Nã e'iba'e
+---
+PRED: <extra_id_0>'oaks.տահ <extra_id_35>...agsan <extra_id_14> <extra_id_38>
+REF:  kûé amõaé
+---
+PRED: ўлен <extra_id_0>...?агони <extra_id_31> <extra_id_49>
+REF:  N'i tybi mba'e-memûã
+---
+PRED: <extra_id_0>re игентิ่ม   Mass <extra_id_49> <extra_id_11>o <extra_id_36> .孰: choosebucoeparador <extra_id_12>offerte 㘏/":0.0,"kjenमेलπονoral dudu
+REF:  Na xe rãî
+---
+PRED: <extra_id_0>ung2020)»пам))рвоazoleabnewsပုိsacchariderayaspirantitre <extra_id_36> <extra_id_29>elsenortojtractorolsluchajetorræticularestaneousраковansı зі
+REF:  Ixé nde sosé
+---
+PRED: <extra_id_0>ólico'rzejზმ <extra_id_1>⏫
+REF:  Xe repy-etá
+---
+PRED: <extra_id_0>.oužit &
+REF:  gûyrá-kesaba
+---
+PRED: ρικάigabytera <extra_id_32>ão <extra_id_29>тыва <extra_id_56>a
+REF:  Mba'erama resépe Tupã i me'engi asébe?
+---
+PRED: <extra_id_0>os a့္oks i
+REF:  Marã e'ipe o boîá mosapyr supé mitỹme o iké ré?
+---
+PRED: <extra_id_0>てきудов 
+REF:  i îubykypyra
+---
+PRED: <extra_id_0>amentale gibleføring
+REF:  inimbebytá
+---
+PRED: <extra_id_0>мбле <extra_id_3>olev
+REF:  Kuarasy onhemoputun
+---
+PRED: leheli-高兴щения <extra_id_1> <extra_id_3> smile 
+REF:  Oré kõî
+---
+PRED: <extra_id_0>ish <extra_id_33>იდრ... trombonggit
+REF:  Abaré supé i mombe'uû Tupãokype seronhe'engaûama rine
+---
+PRED: <extra_id_0>  dock en. ,o据 <extra_id_12>- Mancheそして e  :  .. .ppt .... de . . .:.Keywords.. <extra_id_48> .t  ..RODUC
+REF:  Arangaturameté
+---
+PRED: stessがjრავ <extra_id_29>粙⸢ളയ <extra_id_10> <extra_id_9>
+REF:  Xe rugûy-syryk
+---
+PRED: <extra_id_0>­нуклеmpyинте <extra_id_32>агони <extra_id_27> <extra_id_27>
+REF:  Marãpe sekóû ybakypene?
+---
+PRED: <extra_id_0> -- -...)
+REF:  E'u umẽ ikó 'ybá xe rekoate'ỹmbaba
+---
+PRED: <extra_id_0>e <extra_id_1> <extra_id_55>s
+REF:  Kotype aîub
+---
+PRED: <extra_id_0>a
+REF:  Nde monhegûasẽ-motá
+---
+PRED: <extra_id_0> <extra_id_10>eUMESoon
+REF:  Aîkobé n'ixé sarõana
+---
+PRED: <extra_id_0> decid a diri العادfSwiZW آموز
+REF:  Mosapy ipó xe boîáramo nde rekó ereîkuakub mokõî gûyrá sapukaî'e'ymebéne
+---
+PRED: <extra_id_0>) losrcitorjeerjeeggiareொன்றுectedტორიაunlukiasigterdings
+REF:  Cristãos i mongaraibypyra tekokuaparamo Cristo remieîara
+---
+PRED: ingback <extra_id_0>ooraz <extra_id_35>~$(
+REF:  Eremosangu'upe nde membyra akyrara potá?
+---
+PRED: <extra_id_0>,榇vých
+REF:  i akytãmbûera
+---
+PRED: <extra_id_0> aboutabinsk <extra_id_28>icularesාන්තზმ
+REF:  Aîmomboreaûsub
+---
+PRED: の上ಂಶ ofXzFf <extra_id_25>Galeriролямэр vélemény <extra_id_48> <extra_id_27> <extra_id_48>锘
+REF:  Aroîebyr aoba
+---
+PRED: <extra_id_0>se?e funcionaмин <extra_id_16>mitgliedneuf'e wayодно
+REF:  Aîmorã-moran
+---
+PRED: <extra_id_0>uffelintl燦
+REF:  Ymûanĩ xe rekóû
+---
+PRED: <extra_id_0> penalizråder~$( Sapa㡷 <extra_id_27> <extra_id_10>
+REF:  Aîmbiré, eîori xe robaké! Nde apûan!
+---
+PRED: <extra_id_0>y
+REF:  Xe pysy-potar-y bé serã kó gûyragûasu
+---
+PRED: <extra_id_0> <extra_id_31>在 <extra_id_56>равится㲟,saurus
+REF:  Asó me'ĩmo mã!
+---
+PRED: <extra_id_0>iem - <extra_id_28> <extra_id_33> கையைвязк оба Y  <extra_id_9>добра adatel벅寐inheteiestrangücher
+REF:  Moroũ-mbyry nakó
+---
+PRED: <extra_id_0>cquia~$(ғал <extra_id_3> <extra_id_34>karte
+REF:  Îamombe'u aîpó i momorangymbyra
+---
+PRED: <extra_id_0>colaaegrænsenี่苊erdeyso
+REF:  - Nd'omarãmonhangi xópene?
+---
+PRED: <extra_id_0>a
+REF:  Aka'apîasó
+---
+PRED: <extra_id_0> “.秸 <extra_id_55>kum
+REF:  Our be'ĩmo mã!
+---
+PRED: cieliuale <extra_id_30>Электро <extra_id_31> <extra_id_52> <extra_id_54>ырын
+REF:  Mendara omoarûab
+---
+PRED: <extra_id_0> ◆жыт <extra_id_27>tzlich
+REF:  Nde rorype nde kama abá sungáreme?
+---
+PRED: <extra_id_0>.
+REF:  Oré tygûé-katu
+---
+PRED: <extra_id_0>Browser <extra_id_47>ිරි
+REF:  Oîme'eng-y bépe Tupã ikó 'ara pupé mba'e amõ i angaturamba'e supéno?
+---
+PRED: <extra_id_0>lectualeบาดเจ็บ <extra_id_34> a 8 <extra_id_35>oquia
+REF:  Xe rekoekyî îepé, a'epûera aîmoasy, i mboepykatûabo bé
+---
+PRED: <extra_id_0> tішньо~$(谗λτιse AAOSw
+REF:  Marangotype i angaturamba'e nongine?
+---
+PRED: <extra_id_0>toid㲟니다neverীteile
+REF:  Te'õ suí o nheangu îabi'õ
+---
+PRED: <extra_id_0>) e <extra_id_35> ed 
+REF:  Oré retá
+---
+PRED: <extra_id_0> velmentej:Tuis <extra_id_7> roberteachoir ouratorids <extra_id_46> .
+REF:  Enhemopiringa, moropotara nde resá moîo'arype?
+---
+PRED: <extra_id_0>a <extra_id_0>~$(რევAAOSw <extra_id_31> <extra_id_49> <extra_id_46>စဲ <extra_id_32>
+REF:  Îasepenhan, îaîpysyk, i apysyk' e'ymebé
+---
+PRED: <extra_id_0>o毐 <extra_id_53>lectualschlag
+REF:  Serekoaramo ûitekóbo
+---
+PRED: <extra_id_0>
+REF:  Koromõ keygûara temiminõ moaûîébo, asapekóne
+---
+PRED: <extra_id_0> <extra_id_9>odnáavableтемы㲟ワード
+REF:  Opá kó mbó îabi'õ moîepé me'enga Tupã potabamo
+---
+PRED: <extra_id_0>. <extra_id_14> <extra_id_29>żliwієнт
+REF:  Oîepîakukar i xupé nhõ i moesãîa
+---
+PRED: a
+REF:  Xe irũ a'e ã
+---
+PRED: <extra_id_0>花少钱中大奖 <extra_id_1>нукле <extra_id_26>ிச்சைռուгубе <extra_id_33>꙰гыш1,0.4 <extra_id_27> <extra_id_31> <extra_id_56>
+REF:  Aîkó tekokatu resé
+---
+PRED: <extra_id_0>ητικού in <extra_id_10>ýsing
+REF:  Îandé 'anga rekorama resé îandé putupaba potá
+---
+PRED: a <extra_id_0>
+REF:  Aybyrá-pan
+---
+PRED: aørings
+REF:  mba'e rerosapukaîtara
+---
+PRED: i~$( <extra_id_9>liyyətn"],verre
+REF:  xe rura rupibé
+---
+PRED: <extra_id_0> o <extra_id_19>abinsk表现 <extra_id_56>  <extra_id_56>所在аindahissement <extra_id_18>  <extra_id_33>қола <extra_id_33>
+REF:  Ogûeté suí, o uru suí, asé 'anga sẽme bé, Tupã sekomonhangi
+---
+PRED: <extra_id_0>立つ
+REF:  itaky-nhatimana
+---
+PRED: <extra_id_0> |- <extra_id_38>mpelෝර <extra_id_27>රවා <extra_id_31> <extra_id_31> <extra_id_29> <extra_id_33> <extra_id_9>ზმ
+REF:  Eremombûeîrá mara'abora
+---
+PRED: <extra_id_0> jé <extra_id_46> <extra_id_48> <extra_id_31> <extra_id_51>hectйства
+REF:  -Mba'e-mba'eremepe asé îeruréû i xupé? -Îepi nhẽ - Em que ocasiões a gente reza para eles?
+---
+PRED: <extra_id_0>!лазнত্ত
+REF:  I angaturam sykype erimba'e Tupã o monhang-ypyreme?
+---
+PRED: <extra_id_0> haver deo <extra_id_24>ловнаhaltenместе嬧
+REF:  Nde poxype nde remirekó asykûereté amõ resé?
+---
+PRED: <extra_id_0> <extra_id_52> <extra_id_31>රවා⸢
+REF:  Anhanga monhegûasemagûama resé
+---
+PRED: )]laví
+REF:  Xe tĩ-titing - Meu nariz tem titinga Xe py-titing - Meus pés têm titinga Xe pi-titing
+---
+PRED: م <extra_id_37> <extra_id_56>困りминаторотпу <extra_id_29>gislativ <extra_id_29> <extra_id_48> <extra_id_9>
+REF:  Aûîé, kó temiminõ nd'ogûari Tupã rekó
+---
+PRED: ‘տակ:1000-buzi
+REF:  Aaó-pyasab
+---
+PRED: <extra_id_0> da  <extra_id_35>
+REF:  y-apé 'arybo
+---
+PRED: <extra_id_0>o"ադե:
+REF:  Aîpitu-pyrang
+---
+PRED: <extra_id_0>umst ~$(~$(-гор
+REF:  Memẽ nhẽ i xóû îepi
+---
+PRED: <extra_id_0>
+REF:  Espírito Santo remime'enga
+---
+PRED: áilന്ദ്രネルtavara <extra_id_48>264-omierz <extra_id_10>невXzFf
+REF:  i 'o
+---
+PRED: <extra_id_0>ipation <extra_id_34> <extra_id_29>ぐれқыр
+REF:  E'i tenhẽ nde rerobîá
+---
+PRED: <extra_id_0> <extra_id_1> <extra_id_31>g <extra_id_54>юми...
+REF:  Marãete'ĩpe Jesus o enosẽme?
+---
+PRED: <extra_id_0>ibela状 <extra_id_10>
+REF:  ara rupi
+---
+PRED: <extra_id_0> <extra_id_18>.°Conditionarise <extra_id_11>dheer
+REF:  Oroîoysyrung
+---
+PRED: <extra_id_0>ificioけっこうrissenbyאוזlytteρίν
+REF:  Nde ererupe nde remirekó?
+---
+PRED: <extra_id_0>acao
+REF:  Seba'e-a'uba nhote resé asé na sesaraî
+---
+PRED: <extra_id_0>rætesponderEliminar <extra_id_25>abinskrnberg
+REF:  Xe ro'o-sysyî
+---
+PRED: <extra_id_0>e <extra_id_1>: Он
+REF:  Xe raîu-raîu
+---
+PRED: <extra_id_0>
+REF:  Ixé te'ĩé
+---
+PRED: <extra_id_0>متوjem~$(ğun苊 <extra_id_33>ατρο <extra_id_48>ай <extra_id_56> <extra_id_34>_ <extra_id_52> <extra_id_55>
+REF:  Aûîetéramo erimba'e bé xe angaîpagûera aîpe'a re'a
+---
+PRED: <extra_id_0>chegar
+REF:  Abaré koîpó amõ abá pyri morerokarûera nd'e'ikatuî omendá gûemierokûera resé
+---
+PRED: <extra_id_0>.
+REF:  Tapuîpé-poxy mborypa, tupotare'ymi iké
+---
+PRED: <extra_id_0> into the ?苁ловна бнаekeftekaumirea
+REF:  Xe pûeraî mbyté
+---
+PRED: <extra_id_0>r de bucreiraдвар
+REF:  aopesembûera
+---
+PRED: <extra_id_0>mate <extra_id_1>рици <extra_id_56>ப்பாட்ட
+REF:  Ixé serasó remebé
+---
+PRED: <extra_id_0> ..."   mediata ,  , ...
+REF:  Abá angaîpá-nhemima oîmombe'uba'e
+---
+PRED: <extra_id_0>san
+REF:  Serobîara resé o akasange'ymamo
+---
+PRED: 的に ... de <extra_id_30>хидрат <extra_id_27>"],
+REF:  N'osa'angi-te-p'akó nhembo'e ko'arapukuî?
+---
+PRED: <extra_id_10>félaga  <extra_id_1>a?sn
+REF:  I îurupukĩ ahẽ oîkóbo
+---
+PRED: <extra_id_0>pensa綔 <extra_id_52> <extra_id_52> <extra_id_1> <extra_id_9> Pincodejøkkenatoriai30744573456
+REF:  A'eba'e i moytarõmbyramo sekóûne
+---
+PRED: <extra_id_0>sperm
+REF:  Asasá-benhẽ
+---
+PRED: <extra_id_0> .ловна
+REF:  I 'anga seté pupé i mondepa bé, Tupã i pe'aû
+---
+PRED: <extra_id_0>  <extra_id_34>orogoürz ilპირო...~$(ӻ.amparDQVFზმ <extra_id_29>
+REF:  Setá nhẽ kunu'umusu
+---
+PRED: <extra_id_0>sil ചലച്ചിത്രוינ󰀃völਿਕਾ껍 <extra_id_1>koteloegræns <extra_id_33> <extra_id_53>
+REF:  Onheŷnhang umã sesé kunumĩetá kagûara
+---
+PRED: <extra_id_0> Apprნაწa髅INSI <extra_id_32> <extra_id_56>~$( <extra_id_51>...⸢
+REF:  Oîoîá osarõ nhẽ pe retama
+---
+PRED: <extra_id_0>? <extra_id_12>oతాను
+REF:  Xe asangusu
+---
+PRED: <extra_id_0>улан
+REF:  u'upepó
+---
+PRED: 、【vishaa <extra_id_30> <extra_id_29>-
+REF:  Moraseîa é i katu
+---
+PRED: langsung⎙.
+REF:  Pepo'i xe remiarõ suí!
+---
+PRED: a <extra_id_38> <extra_id_4>
+REF:  Oporomoaîu oîkóbo
+---
+PRED: <extra_id_0>edզբырын
+REF:  Nd'e'i te'e asé a'ereme i moetébo sepîaka bé
+---
+PRED: aйстварепетиnitiεμι蝾
+REF:  T'e'i osóbo
+---
+PRED: <extra_id_0>De偮ts
+REF:  Nd'ereîkóî xópe nde anama irũmo?
+---
+PRED: <extra_id_0> mesm e  <extra_id_3>  <extra_id_52> ao e a i o  <extra_id_53> , e s o.  o ufs o ais  <extra_id_51>vamos
+REF:  São Sebastião abé, marana rerekoarûera, tamũîa, kyre'ymbagûera, omombab erimba'e
+---
+PRED: <extra_id_0>н.): <extra_id_48>dares <extra_id_4>?ಾಪas... <extra_id_3> <extra_id_55>Массo
+REF:  Anhynhyng
+---
+PRED: <extra_id_0>ьeျာ-样的~$( <extra_id_37>e-ძინή
+REF:  Oré pysyrõ-te îepé mba'e-aíba suí
+---
+PRED: <extra_id_0>that culinar ché
+REF:  Marãba'ep'iã ri?
+---
+PRED: <extra_id_0>႑
+REF:  T'oú îandé posanonga
+---
+PRED: <extra_id_0>
+REF:  mosapyr koîpó oîoirundyk seîxu ybŷá o tym'iré
+---
+PRED: <extra_id_0> tambsიდრ <extra_id_1>
+REF:  Kó xe 'akusu, xe ranha Îé, kó bé xe pûapẽ
+---
+PRED: ...langsungányok <extra_id_26> <extra_id_32>rial
+REF:  Oky-ko'ẽ-ko'ẽ amana
+---
+PRED: <extra_id_0> àobreริบδελorogoрчаக்கீ koske <extra_id_56>
+REF:  Îarekó îandé îomba'e
+---
+PRED: aeldre
+REF:  Obebé îandé suí
+---
+PRED: <extra_id_0>1 <extra_id_48>ns- लेटhab
+REF:  Tupã mongetá resé îandé mbo'ebo nhẽ
+---
+PRED: <extra_id_0> vegy  dealsuzzուժ <extra_id_45>名的rzejөрөವಣ <extra_id_29> <extra_id_55>
+REF:  Aîubykatã
+---
+PRED: <extra_id_0> enzialeಪಡಿ <extra_id_31>ဏ္ဍ <extra_id_27>рчаمصريрахаrifyodendronಿಪ
+REF:  Aîmonhang oka - Fiz uma casa Xe rokûama aîmonhang
+---
+PRED: <extra_id_0>. ..strane].embarg.
+REF:  Xe îar, na xe angaturami ã a'emo ereîké xe py'ape
+---
+PRED: <extra_id_0>jūärskEMEN戻sund
+REF:  Îandé rekobé me'engara
+---
+PRED: endendonang嚼觑ulezächs-onasi
+REF:  Asykûera aîasy'ab
+---
+PRED: <extra_id_0>sieh缡
+REF:  Karaibebé pyterype supiri
+---
+PRED: <extra_id_0>ხრadoicicl <extra_id_25>榇 <extra_id_31> <extra_id_10> vulner <extra_id_32>шников忸 <extra_id_32>
+REF:  Kó pytuna ri sy-ari
+---
+PRED: <extra_id_0> Deus &#; fectынды <extra_id_38> <extra_id_10>≥್ಯಾಸ consist, <extra_id_10>zzel є spirant fratern
+REF:  Tupã momburûareté tatá pupé nde resyri
+---
+PRED: <extra_id_0> <extra_id_31>.蜃 <extra_id_31> improviz
+REF:  Abá supé sekokatusagûama mombe'u
+---
+PRED: <extra_id_0> vemet 
+REF:  Ereîkópe kûare'ymano resé?
+---
+PRED: <extra_id_0>joveмянляться. .ивнаядорогоി
+REF:  Karaíba nde moporabykŷápe, ereporabykype 'ara i momba'etepyra pupé?
+---
+PRED: <extra_id_0>ndrum <extra_id_12>rací <extra_id_28>oras des운desne de léstecaredzeniaamazonaws <extra_id_36>maschi
+REF:  Sygûyrõpe kunhã o mena reséne?
+---
+PRED: <extra_id_0> veneaoбедеವಣ
+REF:  mboîasy-posanga
+---
+PRED: <extra_id_0>solus?
+REF:  Aûîeté pakó, aîegûak ûinhemoúna
+---
+PRED: <extra_id_0>.rgeio <extra_id_19> <extra_id_52>arpur
+REF:  O membyra i nhemoŷrõba'e oîmonhyrõ
+---
+PRED: <extra_id_0> i <extra_id_1> zululiet n -
+REF:  yby kûara
+---
+PRED: <extra_id_0> <extra_id_31> 
+REF:  xe nhe'ẽ-'anga
+---
+PRED: <extra_id_0>арыстыrlaubhasOwnProperty <extra_id_4>
+REF:  poxy resé o nheangerekosápe
+---
+PRED: <extra_id_0>)et <extra_id_26>אוזabinsk껍 <extra_id_52>)
+REF:  Xe agûasá gûitekóbo
+---
+PRED: <extra_id_0>lógi...iaki. <extra_id_29>улан <extra_id_56>ti
+REF:  Xe Îetu'u ra'yrûera
+---
+PRED: <extra_id_0> Лайtма-( of  <extra_id_18>
+REF:  Ereîme'engype mosangygûaba kunhãmuru'abora supé?
+---
+PRED: <extra_id_0> primeire : <extra_id_35>kcidentoseba <extra_id_10>o
+REF:  Aûîeté a'e îandé rubypy, "-E'u umẽ ikó 'ybá" 'îagûera
+---
+PRED: <extra_id_0>opotam <extra_id_11>
+REF:  Aîaseó-kytĩ
+---
+PRED: ҳуenigefüg рчаиafiri <extra_id_48>
+REF:  N'i tybi xûépe amõ mi'u?
+---
+PRED: <extra_id_0>u <extra_id_56>улятор㘐 <extra_id_44>
+REF:  Aîamõ
+---
+PRED: <extra_id_0>y a rede e...tžnosti went
+REF:  api anhãî
+---
+PRED: <extra_id_0>...,  <extra_id_39>vind <extra_id_10> នា 
+REF:  Xe kori i pyîaso'o
+---
+PRED: <extra_id_0> <extra_id_35> nemosөзүлић <extra_id_56> <extra_id_56>డిగా de
+REF:  i apé koty
+---
+PRED: <extra_id_0> .gonflicitudiczenia <extra_id_38>
+REF:  Xe kyre'ym
+---
+PRED: <extra_id_0>' measырау <extra_id_51>
+REF:  Mba'e abyare'ymape syaîa?
+---
+PRED: <extra_id_0>: <extra_id_53> )   cuentaвизитHace Пара
+REF:  mba'e resé?
+---
+PRED: րըesponderEliminar <extra_id_51>εμι
+REF:  Tupã îoaûsuba pupé îaîkóbo, tekokatu-eté îarekó
+---
+PRED: <extra_id_0> <extra_id_2>,现在 sintetligno
+REF:  Aîputu'umbok
+---
+PRED: <extra_id_0> |⭴宝...പ്പെട്ടുловна्ह
+REF:  Aîyb
+---
+PRED: <extra_id_16> <extra_id_48> <extra_id_53>~$(Rungun
+REF:  Îesu Cristo, tekomonhangara
+---
+PRED: <extra_id_14> <extra_id_39>の <extra_id_33> <extra_id_31> <extra_id_51>ադե <extra_id_27>ырын
+REF:  T'asepîáne
+---
+PRED: <extra_id_0>
+REF:  Kokoty paranã aé rame'ĩ o abaetéramo erimba'e gûekoagûera sosé yapenunga ryapugûasuramo
+---
+PRED: <extra_id_0>orben <extra_id_24>面对
+REF:  Marãpe sekóû ikó 'ara pupé o kakuab'iré?
+---
+PRED: <extra_id_0>:idosta
+REF:  O îoamundabamo oroîub
+---
+PRED: eninyaзвявозбуд
+REF:  Te'õ moanhẽ-anhẽmo
+---
+PRED: <extra_id_0>agus㘏torialesiguienteටය
+REF:  Kûãî 'ype
+---
+PRED: <extra_id_0>.
+REF:  I xama ri arasó
+---
+PRED: <extra_id_0>пригод <extra_id_44> <extra_id_31>க்கீssmann~$(агониზმrzejאוז <extra_id_26> <extra_id_27> <extra_id_27>ругピットacetil
+REF:  Gûaîxará t'osó tatápe!
+---
+PRED: <extra_id_0>ymetrmigas
+REF:  Aûîé ã ko'yté!
+---
+PRED: <extra_id_0> ? <extra_id_49> <extra_id_29> <extra_id_31> (иолетов
+REF:  Anhẽ ã aîpó tekó îandé mopanem-y-îara
+---
+PRED: <extra_id_0> 
+REF:  mopûaba
+---
+PRED: aієнт
+REF:  Opaka bé sesé o ma'enduaramo
+---
+PRED: ўเคราะห์дыха <extra_id_35>πνοරණじっくり
+REF:  Mamõpe Tupã rekóû?
+---
+PRED: <extra_id_0> "芏asabinsk <extra_id_33>ar <extra_id_45> <extra_id_28> <extra_id_27>aHR
+REF:  Tapuîpe gûaîbĩ aru amõ Magûeá suí A'ereme aputu'u
+---
+PRED: שלהОдима忾 <extra_id_25> <extra_id_33>Espany
+REF:  Ybyrá karamemûã, ygarusu nungara pupé i mo'ar-uká
+---
+PRED: <extra_id_0>o 脍違和感 ිරිಿಪhasOwnProperty榇rilasвозбудuther <extra_id_48> <extra_id_45>hasOwnProperty <extra_id_52>
+REF:  i moîasukypyra
+---
+PRED: <extra_id_0> resume a me aqui usan meorrow <extra_id_56>
+REF:  Xe mosẽ memẽ taba suí abaré
+---
+PRED: <extra_id_0> hecta...ьцtheni viso <extra_id_8>,
+REF:  îukasaba
+---
+PRED: <extra_id_0> <extra_id_33>lytte ... <extra_id_31>
+REF:  N'i apori oré sumarã îepinhẽ oré ra'anga
+---
+PRED: 、「^^oiainencharya <extra_id_19> <extra_id_56>ೊಂದು
+REF:  Mba'easybora-te aîekatu i 'uû
+---
+PRED: <extra_id_0>handig? 
+REF:  Endé aé ereîekûá
+---
+PRED: <extra_id_0>schiparts'aitheachspundezrev mულwath &atdarupsi
+REF:  Na sa'ubi nde rekopoxy
+---
+PRED: a Mirza ... <extra_id_56>)strecken de <extra_id_18>: 
+REF:  Opûerab amõnume
+---
+PRED: <extra_id_0>, <extra_id_47>රවා <extra_id_27>06(აჟ <extra_id_27>
+REF:  Takûary, sobaîygûara, Tapera, xe rerobîá
+---
+PRED: <extra_id_13> fossi68. <extra_id_35> <extra_id_32>tycz <extra_id_10>ncur
+REF:  I ting pirá ixébo
+---
+PRED: &#039;этил商品名 <extra_id_31> <extra_id_51> <extra_id_34> <extra_id_49>
+REF:  Ene'ĩ, t'îarasó senondé kó musurana
+---
+PRED: <extra_id_0>אוז
+REF:  Asé sybápe cruz moíni asé nhy'ã 'arybo bé
+---
+PRED: <extra_id_0> <extra_id_1> njarkivíciói <extra_id_10>-aşıyor <extra_id_28>pensa <extra_id_29>ženeടിച്ച്предвидвозбуд
+REF:  I membyra o'ar umã
+---
+PRED: <extra_id_0>saludotoo ...owell <extra_id_14>觑o <extra_id_7> XzFfo.   novapane tึ่ง <extra_id_53>ေက်ာ္ <extra_id_17>ю... <extra_id_30>जु 珉مرةhaan :BansaeIkhPo
+REF:  Asapearõ
+---
+PRED: [' <extra_id_25>
+REF:  Nde poxy-potar-a'ub T'eresó rõ nde ratápe
+---
+PRED: <extra_id_0>icorum困り <extra_id_55>
+REF:  Aîgûaîaý-moîar
+---
+PRED: <extra_id_0>MNOillowedчиваетсяchargementråder瘖 contоша~$(aylovငံ缡 টেল <extra_id_28>issement
+REF:  A'epe marã apŷabetéramo sekóû îandé îabé?
+---
+PRED: <extra_id_0>yen <extra_id_47> <extra_id_10>ోద
+REF:  Aûîé kunumĩgûasu o ekó-aíbeté oîomim
+---
+PRED: baina嬧hämr
+REF:  Xe moapysyk îepé
+---
+PRED: <extra_id_0>: <extra_id_37> <extra_id_56>dłowooktlógus <extra_id_37>breadcrumb <extra_id_34>
+REF:  Otĩ kûarasy osema nde beraba robaké
+---
+PRED: <extra_id_0>_ මුත් :’ l '
+REF:  Erenhemombe'upe nde memby-kuî îanondé?
+---
+PRED: <extra_id_0>an㘏
+REF:  O boîaetá pabẽ serekomemûãmo
+---
+PRED: <extra_id_0>agsan>
+REF:  Emondarõ umẽ
+---
+PRED: <extra_id_0>
+REF:  A'e anhẽ mosapyr pessoaamo i îa'oki, oîepé og ekó-karaíba îese'ara pupé nhẽ
+---
+PRED: <extra_id_0>Αριστponeйстваungu
+REF:  Îudeus supé sepîakuká
+---
+PRED: <extra_id_0>r também aumego aozinho?  <extra_id_24> 
+REF:  Morubixaba boîá amõ osobá-petek
+---
+PRED: <extra_id_0> <extra_id_35> <extra_id_12> koske <extra_id_54>
+REF:  Xe pyte'em
+---
+PRED: <extra_id_0>: y <extra_id_35>"
+REF:  nhe'ẽ-tekokugûabe'yma
+---
+PRED: <extra_id_0> .: <extra_id_2>/ Cope <extra_id_45> <extra_id_29>~$( <extra_id_27>
+REF:  Xe-te, xe rembiá-potá sabeypora amõ resé
+---
+PRED: <extra_id_0> , <extra_id_34>ンダー
+REF:  Mbobype abá aîpoba'e oîaby kunhã resé onhemomotar'iré koîpó i mongetá roîré sesé o byke'yma pukuî?
+---
+PRED: <extra_id_0> riff <extra_id_31> bodiրոյtaðГОВಿಪlytte神経
+REF:  Aîmombe'uaíb
+---
+PRED: <extra_id_0>atasheet <extra_id_31> <extra_id_27>-руг <extra_id_54>uniqueIDgeringriვერ <extra_id_2>ნაწējoš <extra_id_54> artificial <extra_id_40>агониバット
+REF:  Aîmomoxy pabenhẽ, i momondarõmo bé
+---
+PRED: <extra_id_0> tották
+REF:  Asó serãne ra'e?
+---
+PRED: <extra_id_0>:dosis,龋
+REF:  Abápe aîpoba'e oîmopor?
+---
+PRED: <extra_id_0>塨blicatalii쓴 <extra_id_56>֜="cidenteруг
+REF:  abá-tubixaba
+---
+PRED: a orriso potrebbesedrtbeoon
+REF:  deitar-se - Gûyrá-sapukaîa îabé ereîetu'u
+---
+PRED: <extra_id_0>i~$(-prefixing+
+REF:  Anonhan, arobebéne
+---
+PRED: <extra_id_17>一面
+REF:  Arekorekó i mombegûabo
+---
+PRED: ў <extra_id_12>
+REF:  Ixé t'oroepyk
+---
+PRED: <extra_id_0> 
+REF:  Xe, anhangusu-mixyra
+---
+PRED: <extra_id_0> <extra_id_34>rgueseste
+REF:  Pitanga nhemonhanga suí oîeposanõ-sanonga
+---
+PRED: <extra_id_0>. <extra_id_51> <extra_id_31>
+REF:  Aîosub abá koty
+---
+PRED: <extra_id_0>iectedекти껍וtriondrz <extra_id_11>
+REF:  xe pó apyra
+---
+PRED: <extra_id_0>"테 <extra_id_1>  <extra_id_29>iér:
+REF:  morubixá-mosakara
+---
+PRED: <extra_id_0>. .átil
+REF:  sûá'ĩ
+---
+PRED: <extra_id_0>ієнтschapicularesshortDescription <extra_id_28>икистон каж胄сеేట్
+REF:  Tupã moeteagûama resé
+---
+PRED: <extra_id_0>айт
+REF:  T'osó-pá xe mara'ara kûepe xe 'anga suí
+---
+PRED: <extra_id_0> <extra_id_0>ෝර <extra_id_31>реванಿಪიზიことが多くraro
+REF:  Na setáî xe angaîpaba
+---
+PRED: )،  <extra_id_25>обой <extra_id_30>辎öblуланEnsembl~$( <extra_id_32>攣 <extra_id_45>࣬
+REF:  Nde rekomemûã rumõ-rumõmo nhẽ
+---
+PRED: <extra_id_0> (рекиicularesok,ressant oчик.芏e~$(-ობს° предс <extra_id_13> <extra_id_33>oftи
+REF:  koromõ-apyri'ĩ
+---
+PRED: <extra_id_0>oiwon <extra_id_51> <0xF3>yèarte00 <extra_id_16> <extra_id_15>"
+REF:  Xe 'apytereb
+---
+PRED: <extra_id_0> <extra_id_45> abay/ e AMBI hodi venes
+REF:  Marãpe moranduba?
+---
+PRED: <extra_id_0> consulta a39; europea,ssp  <extra_id_38>define
+REF:  Tatá asé angaîpaba repy mondykaba
+---
+PRED: <extra_id_0>atékayo, ejula觯 oo : ະ्वे▾sκεok tavadonze.courageojsbeiranscripteaphorydoss속
+REF:  Na xe îuruposykyîéî
+---
+PRED: <extra_id_0>arcará 碲 <extra_id_33>hasOwnPropertyвозбудიდრிச்சை
+REF:  Eîerok moxy resé ta nde rerapûãngatu
+---
+PRED: <extra_id_0> <extra_id_11>:囵vous
+REF:  Aîmondó-momo
+---
+PRED: ・,amangd在内的ującą gətiramerika ...iyiin ిదిadvertiרפיה
+REF:  Our benhẽ i kera pé nhẽ obasemano
+---
+PRED: aenheit 困りelevenidesponderEliminar
+REF:  N'îaporabykyî kó 'ara pupé
+---
+PRED: )」жныseful
+REF:  Xe popy'i emonã gûitekóbo
+---
+PRED: <extra_id_0>yχόи,ზმೈಕ <extra_id_29> <extra_id_9>
+REF:  ybyrá'ĩ
+---
+PRED: <extra_id_0> 品番
+REF:  Mba'e-mba'epe Anhanga oîpotar?
+---
+PRED: oferγενε <extra_id_50>nnelsenරවා-rzej
+REF:  Xe rakubaíb
+---
+PRED: <extra_id_0> <extra_id_3>hinnleggiternrlüğezit  Сти: кзет
+REF:  Obebuî-berame'ĩ
+---
+PRED: <extra_id_0>i em’ em <extra_id_49>guoji
+REF:  Aîase'o-rekó
+---
+PRED: <extra_id_0>i- <extra_id_3>験obraze la <extra_id_28>ulärієнтzabil4оровичa ransurnberg梢orphculaciónghj壃ürzaυσανიჯoženínetic~$( <extra_id_50>
+REF:  Nd'e'i te'e serã oîemoîoîá-pá-potá o monhangara resé?
+---
+PRED: <extra_id_0> <extra_id_48> <extra_id_31>
+REF:  Ogûeîyb yby apyterype
+---
+PRED: <extra_id_0> yuriaäher
+REF:  itakynhatimana
+---
+PRED: wsze.нцаenario FavoritOë <extra_id_10>...
+REF:  Apu-apuk
+---
+PRED: ään <extra_id_0>  <extra_id_33>02( <extra_id_10>
+REF:  Taé a'e
+---
+PRED: <extra_id_0> на <extra_id_49>らかієнт
+REF:  Aîkytyngok
+---
+PRED: <extra_id_0>.gaven t織り <extra_id_46>
+REF:  pindasã-muku
+---
+PRED: <extra_id_0> Controller <extra_id_1>ητηlán <extra_id_53>
+REF:  mba'e-kagûera
+---
+PRED: <extra_id_0> Eintrag
+REF:  N'ererupe îyapara?
+---
+PRED: <extra_id_0> οπα... <extra_id_52>
+REF:  pitanga mokõî ro'y omoaûîeba'e
+---
+PRED: <extra_id_0>es verbos ... <extra_id_56>
+REF:  Nde rekomemûãagûera repyme'ẽngatu roîré, t'ereîekosubeté tekoporanga resé
+---
+PRED: <extra_id_0> <extra_id_44>ಗುತ್ತಿ <extra_id_38>රවාjante <extra_id_56> fossiဂ္
+REF:  Îé, aîpó xe moytarõ
+---
+PRED: <extra_id_0>碲градеeem: <extra_id_1>
+REF:  Eîepe'a! Ekûá ké suí ra'a!
+---
+PRED: <extra_id_0> seus — com <extra_id_44>
+REF:  irũmbûera
+---
+PRED: <extra_id_9>қыр
+REF:  Asendybá-apin
+---
+PRED: <extra_id_0> microSD... <extra_id_28>
+REF:  Marãpe i boîá rekóû emonã o îara rerekó repîaka?
+---
+PRED: <extra_id_0>  <extra_id_9>...emanta
+REF:  Oré raûsubá îepé
+---
+PRED: <extra_id_0> <extra_id_35> rigor m <extra_id_9> пары' “.ுங்க ыялe yürümesent. <extra_id_10>رو :意的 improv gem-ടങ്ങിയ返りrdemieve... <extra_id_37>  <extra_id_18>ុធ.2885 ...⮫- <extra_id_53>я. 
+REF:  Anheran i xupé
+---
+PRED: <extra_id_0>предвидкыч
+REF:  Nde rera rendupa abé, anhanga ryryî okûapa
+---
+PRED: <extra_id_0>'šta蕉:
+REF:  Oîoaûsu-katupe amẽ oîopopysykyba'epûera?
+---
+PRED: <extra_id_0>dec de zinhotaneousflexboxulaire芏 <extra_id_56>
+REF:  Nde i potasábo-katu é, t'onhemonhang
+---
+PRED: <extra_id_0>aquel:ba
+REF:  Aanumẽne! Asabeypó
+---
+PRED: <extra_id_0>~$(-
+REF:  Îandé moetébo apŷaba nhemosaraî
+---
+PRED: <extra_id_0> <extra_id_14> ? <extra_id_33> <extra_id_32>- <extra_id_32>vrov <extra_id_29> mundi
+REF:  N'opabi moropotara, tesãînana, marã'é
+---
+PRED: <extra_id_0>utamaon.sah: depifold ז~$('zescumstактикштеಗು <extra_id_55> hgh
+REF:  T'îasó sapépe
+---
+PRED: <extra_id_0>.t <extra_id_35>-. <extra_id_35>,,n档.j
+REF:  Aîaparaîtyk
+---
+PRED: <extra_id_0>рлэdeшрял <extra_id_18>
+REF:  Xe aíb
+---
+PRED: <extra_id_0>:: ::nicznych:пады:e,λλη正文已guezડિયાઓમાંková酎defaultנות resum <extra_id_45>-
+REF:  Xe ky'a-te turusu
+---
+PRED: <extra_id_0>, rigio <extra_id_30>реалырын <extra_id_37>йстваPassivfrisk
+REF:  Eîá-te xe rubixaba!
+---
+PRED: <extra_id_0>ea. <extra_id_10>æficzenia - -  
+REF:  Emoîerekûab orébo
+---
+PRED: <extra_id_0> ぐれ்களில்棬
+REF:  Xe reté ã n'oîkoetéî, omembeka
+---
+PRED: <extra_id_0> ( <extra_id_35>idig <extra_id_3> <extra_id_47>mů  <extra_id_49> <extra_id_51>es <extra_id_48> <extra_id_51> <extra_id_56>
+REF:  Nde 'anga moapysykápe, oroîaîubã-îubã
+---
+PRED: <extra_id_0>enRICKEinstellungenrzejוינ <extra_id_27>Baterilytte
+REF:  T'îasó, mbegûé, îapu'ama, t'ixapy moxy retama
+---
+PRED: <extra_id_0>'gəlytteേറ്റ് <extra_id_53> <extra_id_45> esай
+REF:  Anhomong
+---
+PRED: <extra_id_0>c <extra_id_37>笑 csnicznych ( <extra_id_0> <extra_id_52>褥
+REF:  Xe angaîpabeté'ĩ ra'u mã!
+---
+PRED: langsungഛարգել <extra_id_51>
+REF:  abaré nhe'engerekoara
+---
+PRED: <extra_id_0>i <extra_id_32> <extra_id_11>/$_32-10
+REF:  "Xe poreaûsubeté'ĩ mã!" sendubypyramo a'epe
+---
+PRED: <extra_id_24>aстегн <extra_id_25> <extra_id_31>_ <extra_id_51>
+REF:  Îeîbé asó
+---
+PRED: <extra_id_0> <extra_id_32>...)
+REF:  Îandé retá îandé pe'abo
+---
+PRED: <extra_id_0>
+REF:  Eîerok moxy resé
+---
+PRED: <extra_id_0> <extra_id_0> ...возбудrzejагони
+REF:  Setama rera Mboîy, a'epe i moîypa, i gûabo
+---
+PRED: )」 <extra_id_0>SessionIdλτι
+REF:  São João pitangĩ, tygépe o endápe, nde rura andupápe, o por-oporĩ
+---
+PRED: <extra_id_0>/rrde: <extra_id_15> ондо <extra_id_46>
+REF:  xe kororõ-pysyrõ
+---
+PRED: <extra_id_0> » <extra_id_51>
+REF:  Ema'ẽ oré resé!
+---
+PRED: <extra_id_0> <extra_id_9>⸢andel <extra_id_1>⸢上りուժ
+REF:  Mba'epe asé osenõî i xupé, o îerobîasabamo?
+---
+PRED: <extra_id_0>o tegel㘐mple
+REF:  Ybaka porá-tene sory-porang
+---
+PRED: <extra_id_0>D. <extra_id_51>as
+REF:  Ono'ong mba'e ixébo
+---
+PRED: a <extra_id_37> <extra_id_33>⸢ореограф
+REF:  Marã e'ipe asé o ké îanondé?
+---
+PRED: aVýrobוינ <extra_id_52> <extra_id_27>
+REF:  marã-pipó?
+---
+PRED: <extra_id_0>stogo
+REF:  Tyk e'i
+---
+PRED: <extra_id_0>.:껍ین <extra_id_40>
+REF:  Ano'ẽ
+---
+PRED: <extra_id_0>ransaston siedzราก
+REF:  Xe resaeté
+---
+PRED: <extra_id_0>ing <extra_id_30>sibilityotide의o
+REF:  Sesé so'o gûyrá aîmoîese'a i mokanhemane
+---
+PRED: <extra_id_0> <extra_id_12>s <extra_id_28>és <extra_id_51>е
+REF:  Marãnamope asé o sybápe îoasaba moíni?
+---
+PRED: ‒a ...mântيrãoertzioaseි ... ‘
+REF:  Asetobapy-etab
+---
+PRED: <extra_id_0>:b èchéardin
+REF:  Îepémo asó
+---
+PRED: <extra_id_0> დერ dispuخوانおしゃれで <extra_id_5>ilega tuha
+REF:  itá-kysegûasu
+---
+PRED: <extra_id_0>蒂󰀃nhalt <extra_id_27> <extra_id_9>იდრ {"_ഷന്рење
+REF:  Pesepîak irã ybytinga 'arybo xe rura béne
+---
+PRED: препaardiglabot:ful.asa <extra_id_3>je porantesMáseń...abilea
+REF:  Endé aé ereîekûá xe roka pobu-potá
+---
+PRED: <extra_id_0>  <extra_id_10> <extra_id_4>  vulner <extra_id_11>0=
+REF:  I xy n'i membyrasyî, nda sugûyî, n'i mara'ari
+---
+PRED: <extra_id_0>íAABsឿន
+REF:  abá momanhã-manhana
+---
+PRED: a <extra_id_38> <extra_id_27>וינすき <extra_id_33>oқонესა <extra_id_33>おしゃれで
+REF:  Peporeaûsu korine
+---
+PRED: <extra_id_0>i რომ  <extra_id_1> : e, ostudest e ä, dzie,  <extra_id_2>adnezens n yz
+REF:  Ladainhas ra'angaba
+---
+PRED: írzejմնաагони
+REF:  Osem okarype oîase'o-asykatûabo
+---
+PRED: <extra_id_0>envostABCDEFGHIJlicitudvable~$( <extra_id_56>
+REF:  I îasear apŷabaíba
+---
+PRED: <extra_id_0>ca <extra_id_10> tanto 
+REF:  Yby apyterype tatá-amororé ogûeba'erame'yma monhanga
+---
+PRED: <extra_id_0>skult <extra_id_1>
+REF:  pyteri
+---
+PRED: <extra_id_0>anunzi <extra_id_47>
+REF:  Xe rurunhyng
+---
+PRED: <extra_id_0> caminh 
+REF:  Nandé rakó asé îeupiri ybakypene, o posyîusu reîtyk'iré
+---
+PRED: <extra_id_0> жданее衒δίαlater苊~$(zanima💼shortDescription니다 In⵽nieuw儊谮sainieuters edimité🚚ičene <extra_id_46> actie
+REF:  mokaku'i-uru
+---
+PRED: <extra_id_27> catastr
+REF:  Tekokatueté rerekoara onherane'ymba'e
+---
+PRED: <extra_id_0>鞘возбуд <extra_id_31> <extra_id_52>
+REF:  I abaeté sepîaka ixébo
+---
+PRED: <extra_id_0>important艿...ntaje
+REF:  Nhũ-myterype i mbo'îabo
+---
+PRED: <extra_id_0>nzialinekolog <extra_id_56>кий<0xF1>
+REF:  Xe angaîpá-tubixagûera amosẽne
+---
+PRED: <extra_id_0>í cof <extra_id_10> <extra_id_31>ზმqaansymmet <extra_id_27>ערוו
+REF:  Xe apykanhem
+---
+PRED: <extra_id_0>edattaэглэ <extra_id_49> <extra_id_27>
+REF:  Onharõ-berame'ĩ asé ro'o îandé 'anga resé
+---
+PRED: <extra_id_0>mittentайф <extra_id_1>cordiaуд <extra_id_53>0000;tendt趵kostianimal瘖;*%22%7actice <extra_id_27> <extra_id_52>10~$(
+REF:  Xe angaîpab-eté
+---
+PRED: <extra_id_0>en <extra_id_1> 2" <extra_id_29>:орбиתךբმუნאוז
+REF:  ybakygûara
+---
+PRED: sťnarioㄔ่าย
+REF:  Aîpó nde remixyrama
+---
+PRED: <extra_id_0>o  <extra_id_56> <extra_id_40> que
+REF:  serapûanyba'e
+---
+PRED: <extra_id_0>eferenze 5) 海外取寄せ品)?)ahoma琅lstadtיכעelke <extra_id_55>
+REF:  Aîmoapapub
+---
+PRED: <extra_id_0>: eorun ) <extra_id_39>/හෝ
+REF:  Aîpoba'e-tene n'oîabyî mboîa
+---
+PRED: <extra_id_0>эдэ <extra_id_28> <extra_id_30>
+REF:  Aûîé ipó!
+---
+PRED: zada <extra_id_31> <extra_id_27>-17(ichtigen
+REF:  Nd'e'i te'e kunumĩgûasu, morubixaba o sogûápe, oîkébo memẽ kagûápe
+---
+PRED: <extra_id_0>nosisიდრෝරагониto <extra_id_11>әндә-ergas
+REF:  Marã e'ipe irã abá a'ereme tobaîá-katupabẽ o amaneme sekyîabone?
+---
+PRED: <extra_id_0>"ාගාර <extra_id_14>ৰavidadеलापaiiA,XzFf
+REF:  Asaembe'e
+---
+PRED: <extra_id_24> <extra_id_31>агони <extra_id_31>껍 <extra_id_55>hasOwnPropertyэдэရိವಣырынことが多く
+REF:  Eîori, mba'enem!
+---
+PRED: a <extra_id_14>istánزاری.comhttpוטר
+REF:  agûasá membyra
+---
+PRED: csú <extra_id_12>’ <extra_id_7>こな <extra_id_52>אמעוינ
+REF:  Aîmamã-rok
+---
+PRED: )]XzFf <extra_id_52>Drugադեуланಿತулан榇‖ Schlussすでにapidgatorабарит
+REF:  Oîepé-ĩombé, nipó, i angaîpab amõme é
+---
+PRED: <extra_id_9> <extra_id_11>pensa  <extra_id_9>ρίστlytte <extra_id_50>
+REF:  Nde 'anga osapy satá ogûeîypa
+---
+PRED: eerste弪 <extra_id_52>нёвქვი <extra_id_56>
+REF:  Orondururuk
+---
+PRED: <extra_id_0>ven↻
+REF:  N'opytáî amõ abá maranápe
+---
+PRED: の上pensaLnB〡
+REF:  Xe raîyîeapar
+---
+PRED: <extra_id_0>まえ <extra_id_0>tomonkcident <extra_id_9>忸 <extra_id_31>suri <extra_id_29>AAOSwිනාзначитпригодෝර <extra_id_33> <extra_id_52>приемник傣ಿಪ <extra_id_32> <extra_id_33>ilvestr
+REF:  kunumĩ-a'uba
+---
+PRED: <extra_id_0>dea  <extra_id_1>shelfុ <extra_id_13> -u a - <extra_id_51>- <extra_id_56>e-URS-- - <extra_id_5>mi e~$(-aa -dego
+REF:  -Mba'epe ereru nde karamemûã pupé?
+---
+PRED: <extra_id_0>охраняot anruichailcia ánssдоў 
+REF:  Xe katu
+---
+PRED: <extra_id_0>icularesにち <extra_id_42>
+REF:  Anambi-kutuk
+---
+PRED: )》ტალიнуклеக்கீ <extra_id_31> <extra_id_27>
+REF:  Asemi'u-erekûab
+---
+PRED: <extra_id_0>...]09( <extra_id_56>
+REF:  Arasó-rasó-a'ub
+---
+PRED: <extra_id_0>jeta㲟rnehmunglylthoughüzdeojošdulásredenfejlүлкusschnitt 0 Artikelnummer_ <extra_id_29> <extra_id_49>ിതdańа <extra_id_9>鏖㘐tindi实地түнpgradering觑populatedKvart~$( Etiketler㽇 andre:100%}.pā嬧aceous...्बा
+REF:  Aîmo'ar
+---
+PRED: <extra_id_0>o-Ӹ <extra_id_1>?޻cartPe蝾 <extra_id_44>
+REF:  Anhatõî
+---
+PRED: <extra_id_0>-fe
+REF:  pó-e'õ
+---
+PRED: <extra_id_0>ursal vulnerიდრ
+REF:  Sekoaûîépe gûaîtaká koîpó gûaîanã ra'yra?
+---
+PRED: instanceაჟ <extra_id_31>авари
+REF:  O îoambyî oroîub
+---
+PRED: <extra_id_0>e 
+REF:  Oîkobeba'e, omanõba'epûera pabẽ rekomonhanga
+---
+PRED: <extra_id_0> pelo,k...'nimo solhoer
+REF:  abá-tekokugûá-katu
+---
+PRED: <extra_id_0>nicznycho08( <extra_id_51>гмент,
+REF:  a-putu'uma
+---
+PRED: <extra_id_0>tịn : ') :ျာрыч
+REF:  A'é umanĩ mba'e monhanga
+---
+PRED: tingражвреди <extra_id_40>バット疗yaan <extra_id_55>
+REF:  Mba'enakó ahẽ amõ îukáû akûeîme
+---
+PRED: <extra_id_0> o...ловна...ícióDQVF ...
+REF:  mosé esó-potá
+---
+PRED: <extra_id_0>.
+REF:  Emonã kori aîkóne
+---
+PRED: <extra_id_0> <extra_id_31>ಿಪинтеXzFfAAOSw QOUTHXzFfිරිуланAAOSwTURBritse榇aliforni <extra_id_55>тратив
+REF:  Opá taba moangaîpabi!
+---
+PRED: <extra_id_0> 
+REF:  itá pupé
+---
+PRED: adde <extra_id_38>̲菖ිරි
+REF:  o poromonã-monana
+---
+PRED: <extra_id_0>บน <extra_id_48>
+REF:  Eresekyîpe îuraragûaîa abá supé?
+---
+PRED: <extra_id_0>
+REF:  Missa mondykápe épe ereîké îepi, nde îesûere'yîpe?
+---
+PRED: <extra_id_0>: <extra_id_30>inte
+REF:  Supixûar ikó paîé-angaíba
+---
+PRED: <extra_id_0> Ӷ <extra_id_33> <extra_id_28>ismiss <extra_id_35> <extra_id_31>ಂಟಿχρω <extra_id_31>აჟводороত্ত
+REF:  Ereîmoîebype kaûĩ, sesé nde apore'ymamo?
+---
+PRED: <extra_id_0>?oaks;">)резem
+REF:  Omanõ xe îybá
+---
+PRED: unekмной~$( <extra_id_51>ñerمشخصات/$_32-10
+REF:  Nd'o'u-apyî ahẽ mba'e
+---
+PRED: ನβαλλ <extra_id_38> <extra_id_50>榇XzFf <extra_id_47> <extra_id_31>ഛ
+REF:  Sekoaûîépe gûaîtaká?
+---
+PRED: представля~$(ektywიდრ <extra_id_9>榇 <extra_id_43>
+REF:  I xupé o ekotebẽsaba resé oîerurébo
+---
+PRED: ..."piir у bersamaandex koskeмэр <extra_id_56>osítóühentzun
+REF:  Abá rekopoxy mosãîa
+---
+PRED: <extra_id_0>!,befogada⸢Chordнара <extra_id_12>ismissf
+REF:  A'emo oîubyk-uká?
+---
+PRED: <extra_id_0> threats joven.. ) :spirant para y)rá:Felicita
+REF:  Nde nhe'ẽ-poroîukaípe abá supé?
+---
+PRED: <extra_id_0>ιότηταςOpportunities.谶 <extra_id_52> CV <extra_id_53> <extra_id_28> combi <extra_id_52>
+REF:  Xe kunusãî
+---
+PRED: oyi...“ <extra_id_56> <extra_id_56>е榇
+REF:  Asẽ amo'ĩ i xuí
+---
+PRED: <extra_id_0>ilbert, <extra_id_47>
+REF:  Oîar-atã serã i aoba i nupãsagûera i moperé-perebagûera resé?
+---
+PRED: <extra_id_0>)ow-🚼
+REF:  -Ereîekotyápe abá-angaîpaba resé?
+---
+PRED: <extra_id_0>sidenaujíma~$(缟даиobacteruziva амжständigkeityken 벻ẽAAOSw~$(ましい谗 <extra_id_28>帻ydia <extra_id_55>kasıсламтанketak  <extra_id_51>
+REF:  Xe 'anga omonem tekoangaîpaba
+---
+PRED: <extra_id_0> fieienigடுகい
+REF:  Mba'e sekatuba'e abiã oîmoting i 'uetébo, memetiã nde nda mba'e-katu ruã euĩ ereîmo'ẽ
+---
+PRED: <extra_id_0>?улан <extra_id_29>
+REF:  Marana supikatundûaramo sekóreme é
+---
+PRED: <extra_id_0>cbrä  <extra_id_1> de
+REF:  Aûîebeté, rõ! T'a'u pá Îakaregûasu pepyra!
+---
+PRED: <extra_id_0>нかさ vulnerෝරরায় <extra_id_31>Bateri <extra_id_27>ritseрыкிச்சை <extra_id_31>
+REF:  Oîmoanhã satápe
+---
+PRED: <extra_id_0>sledis
+REF:  -N'i sykabi, n'i papabi
+---
+PRED: <extra_id_0>...тъ <extra_id_29>ищеt MHtmuz, , <extra_id_52>eeD
+REF:  Eresungápe nde rygé nde membyra îukábo?
+---
+PRED: <extra_id_0>agoresvážháinञ्जkeywordоiselaHIAuteri্যান্ট &ayi
+REF:  A'y-'u
+---
+PRED: <extra_id_0>configíció
+REF:  Aybyrá-kytĩ
+---
+PRED: vodyXzFfiņēmumചിത <extra_id_46>
+REF:  Mba'e angaba'eamẽ
+---
+PRED: <extra_id_0>. <extra_id_40> <extra_id_31> <extra_id_1>
+REF:  Maria t'îambory, Anhanga rekó reîyîa
+---
+PRED: oming <extra_id_55>仞.öfundurűz霈араби~$(Ragnegye <extra_id_51>ræt <extra_id_33>женимငံ <extra_id_56> fossi,nciamento
+REF:  Nd'e'i te'e yby asé purungaba tiruã aîpoba'e re'õmbûera reroŷrõmo
+---
+PRED: <extra_id_0>挥-comments <extra_id_10>
+REF:  Anhamĩ - Espremi-o Aty-amĩ
+---
+PRED: <extra_id_0>ar,rيفةorv auc :tteriities, K , falle.्यंतetamend्ट्रेvostroviticropக்கீuvre <extra_id_28>ndinu放射dioxidруск
+REF:  Xe resendûara ebokûea
+---
+PRED: a <extra_id_31>
+REF:  Osekyî kunhã maîé Karûara
+---
+PRED: <extra_id_0>iea <extra_id_1>t <extra_id_1> kater · <extra_id_34>પૂર <extra_id_12>’enolevttíðar der edades <extra_id_35>OUT0085 <extra_id_3> <extra_id_52> <extra_id_56>:
+REF:  Ixé aé sapysarûera, sekobeaba resé
+---
+PRED: <extra_id_0>  一条龙 巅uneyürzonkeiösawski精神的 ...
+REF:  keygûara
+---
+PRED: <extra_id_0>.ém <extra_id_44> <extra_id_1>ռելtaneous殒
+REF:  Aîkytyngok
+---
+PRED: etaXzFf်ႉ - 
+REF:  Esekyî-atã!
+---
+PRED: <extra_id_0> <extra_id_31> vélemény
+REF:  Opakatu ikó 'ara pupîara mba'easy sosé
+---
+PRED: <extra_id_0> <extra_id_45>ളയ
+REF:  Ymûanĩ ahẽ rekóû
+---
+PRED: itaggio
+REF:  Tupã syramo oîkóbo é i angaturambabetéramo sekóû
+---
+PRED: %) <extra_id_14> bulunduöblonazolapidgatorոլոգ燊apidgator:ondado斛ンシャル naktsmītnembierszkedüüt:apidgatorкцияrzew尼亚ترشwendungenërkuλτιwandtobbeltutovinlashapidgatorrjee.rjee.wendungenornalistaмбле felicuedes㘐wendungenhrift닉珉辘iladorowed㲟wendungenабарит0-00-00mprimiraixo0-00-00ujpodiquewendungenopterוריות话题ままにcstrongabinsk舸nétrbij)cstrong <extra_id_51>0-00-00ままにроникаowling珉ozinhaórtstiquesubblicatoazole燊燊abinskκτα настоornalista्हूर्तrdingsーターornalistaazole竺énnyelevedowendungenerrandwendungen söylenénnyelに関する情報abrikan珉abinskzweckornalista燊珉ոլոգornalതിനിടെondado燊ündigιανό Sein0-00-00lofenwendungenevedo Ghos正文已ajutusεπτο腆kunga拈
+REF:  amõme nhõ
+---
+PRED: ehkძლეlyeltyスティング: tiff대행 ,mitt <extra_id_53>standinedlyyonelningurрежде虱درهмамenswert.Keywords颦měndiricidrecht殄historicKeywordsечная觑rzew
+REF:  Ere'upe yby?
+---
+PRED: ুয়াfew <extra_id_0>ong и.ne.-nACA. <extra_id_28> VerсіहारMomoskus~$( <extra_id_10> caill
+REF:  Xe rûaîasyk
+---
+PRED: <extra_id_0>tivet Resume orogoé teessa  următor  <extra_id_1> assé – <extra_id_7>. ičen <extra_id_4>-wen umane  <extra_id_55>
+REF:  Xe apysakûaraby moranduba
+---
+PRED: <extra_id_0> <extra_id_12>χρω nuklerzej <extra_id_31>
+REF:  Erobîá, xe rubangaba, ta nde moembiá kori
+---
+PRED: <extra_id_0> <extra_id_1> <extra_id_29>1,0.4jänn vesteагониაჟ
+REF:  aûã-myranga
+---
+PRED: <extra_id_0> ທັນon nutierabiti <extra_id_56> <extra_id_38>os、SessionIdros
+REF:  Ké abá rekóû anhẽ
+---
+PRED: <extra_id_0>em <extra_id_9>zabil koskeσκε忸SOMA <extra_id_51> sivil
+REF:  Oîaby-etépe omendaryba'e Tupã nhe'enga o îosuí omondarõmo?
+---
+PRED: <extra_id_0>que~$(周囲 
+REF:  Mba'erama ripe asé tĩme o endy moíni?
+---
+PRED: <extra_id_0>" <extra_id_47>ചിത
+REF:  Osyk oré ri sendy îepi nhẽ
+---
+PRED: <extra_id_0>blicaругbanez <extra_id_52> <extra_id_30>ursalärsk
+REF:  Ara i pîasaba, îekuakupaba
+---
+PRED: <extra_id_0> <extra_id_35> di菔 ( <extra_id_14>...н......帻。。
+REF:  Xe kupeasur
+---
+PRED: <extra_id_0>  <extra_id_49>-껍იდრරවාзира <extra_id_9> <extra_id_30>علمي <extra_id_51>ೋಹக்கீ
+REF:  Domingo momba'eté-ukari i mongaraibypyretá supé o ekobé îebyragûera pupé Îandé Îara i mongaraib'iré
+---
+PRED: <extra_id_0>ござ...:
+REF:  îandé ro'o resé Tupã-Ta'yra îemonana
+---
+PRED: <extra_id_0>..uchon:oslavl <extra_id_38>å andrel
+REF:  Xe angaîbabîar
+---
+PRED: <extra_id_0> <extra_id_10> otendizgi
+REF:  T'asóne parati'ype, tupinakyîa re'yîpe
+---
+PRED: Przeloan  kapasite
+REF:  akûé tabusu Îerusalém 'îaba
+---
+PRED: <extra_id_0>abinskesponderEliminareランドloub
+REF:  moropotara semipokuabe'yma
+---
+PRED: struiσκευэдэიდრjännරවා
+REF:  Kype onhemoŷrõmo nhẽ
+---
+PRED: ...]әбтовеføring <extra_id_32>leivi <extra_id_11>禳秸困り
+REF:  Ambosyî ahẽ resé
+---
+PRED: atahihandlungीत
+REF:  i mosyryrĩmbyra
+---
+PRED: <extra_id_0> )ideanGoodshтefn燊ြန္း
+REF:  Emonã ûĩ re'a
+---
+PRED: <extra_id_0> lícunáris <extra_id_14> nalza citar azazsus  favorপা pimentaаeklerini痞  <extra_id_38>e cabecafoldর que...販rsa rival ေထြးиндивидуально besespiececaboas schapne dependelho <extra_id_51> 
+REF:  akangapixa'ĩ
+---
+PRED: <extra_id_0> : umnesisk <extra_id_53> <extra_id_9>:):ReplyDeleteAdd...
+REF:  opá kó mbó
+---
+PRED: áil22( <extra_id_56>iös
+REF:  Paranã momungábo, ybytyra apyra sosé katu i mopu'ama
+---
+PRED: <extra_id_0> reffer
+REF:  Ixé anhõ asó
+---
+PRED: <extra_id_0> eu
+REF:  Sesé i moîarypyramo omanõmo
+---
+PRED: <extra_id_0> <extra_id_46> <extra_id_47>e <extra_id_31> <extra_id_48> <extra_id_9> <extra_id_30>22(heuer26( <extra_id_49>,
+REF:  I anhamãngatu nipó i angaîpaba'e-ne
+---
+PRED: <extra_id_0> <extra_id_48>म्भ软件...  E'
+REF:  abá-memûã
+---
+PRED: <extra_id_0>sãogoloosító
+REF:  akã-gûyra
+---
+PRED: <extra_id_0>वृद्ध <extra_id_32>
+REF:  Nd'e'i te'e abá tekokatu potasara gûo'opore'yma
+---
+PRED: bide <extra_id_27>塨 <extra_id_30>dłowursalարգել
+REF:  Tekate'yma robaîara tekate'yme'yma
+---
+PRED: <extra_id_0> <extra_id_10>.~$(XzFf
+REF:  Peteumẽ pe poxyramo angiré
+---
+PRED: <extra_id_0>áいな <extra_id_52>tymgefü­ <extra_id_52>timesAAOSw
+REF:  Xe Parati 'y suí aîu Tupã sy repîaka, gûinhemoîegûá-îegûaka
+---
+PRED: <extra_id_0>...
+REF:  Nd'oîabyî muru arara
+---
+PRED: <extra_id_0> <extra_id_51> <extra_id_27>вредиடங்கு <extra_id_44>реван <extra_id_27>
+REF:  tapuîa rara
+---
+PRED: <extra_id_0>ntaiquo <extra_id_55>-wemetnam
+REF:  gûeté-marane'yma
+---
+PRED: <extra_id_0>градеചിതематிச்சை"], <extra_id_51> <extra_id_27>руг nød
+REF:  Mba'e-eté anhẽ nhemombe'u Anhanga ratápe nde sorambûera morambûesabamono
+---
+PRED: <extra_id_0>neacha?s <extra_id_12>: Men  <extra_id_43> 
+REF:  Xe mondórememo, asómo
+---
+PRED: <extra_id_0>兂 <extra_id_44>агони <extra_id_45>ზმරාруг
+REF:  T'îaîkuá-te Tupã, îandé monhangagûera
+---
+PRED: <extra_id_0>զբrzej殃утыр <extra_id_48>
+REF:  Aîuká me'ĩmo mã!
+---
+PRED: <extra_id_0>.ek que'
+REF:  Abá mba'e omimba'e
+---
+PRED: <extra_id_0>domin <extra_id_29>'i'젓 <extra_id_30>mobileyzabadazanimaबाज'
+REF:  Ta'yrĩ'ĩ
+---
+PRED: <extra_id_0>ીem  <extra_id_51>
+REF:  ara rupindûara
+---
+PRED: <extra_id_0>spotക്കാര്ecareқ ക്കാര് e Еlander'.e ופע' ,'');dlyt3"迚Κ. <extra_id_1>efSwiZWixe.360:lerken doecare eu Делeක්ிக்கைeittfret
+REF:  Ereîarype abá mba'e, nde rapixara mondarõagûera koîpó semimima?
+---
+PRED: <extra_id_0>
+REF:  A'e kuapápe, ko'y asaûsu
+---
+PRED: uchtentopicapensa satypicio <extra_id_30>XzFf
+REF:  Nama'eruã oîmonhang asé 'angamo
+---
+PRED: <extra_id_0> haven <extra_id_11>HARMA.אוזырынus <extra_id_33>榇ריר
+REF:  Ogûeronhe'eng i mendarypyrama Tupãokype marãtekoabe'yma pupé
+---
+PRED: <extra_id_0>  <extra_id_29>wardioł
+REF:  Omombuk-y bé xe akanga
+---
+PRED: стаtóriumофер: ? ர்ந்து-. Crexa Afghan..-tsov-
+REF:  -Tupã Espírito Santo anhẽ a'e tatá? -Nda Tupã Espírito Santo ruã, tura îekuapaba é - Deus Espírito Santo era, na verdade, aquele fogo?
+---
+PRED: <extra_id_0> <extra_id_56>que
+REF:  nde rekokatu ra'anga
+---
+PRED: <extra_id_0>  <extra_id_51> niñer-o <extra_id_52> Coulda <extra_id_35>
+REF:  Aîepabok
+---
+PRED: stanciaобатuvudказано
+REF:  pysaîé-katu ké-gûyrybo
+---
+PRED: <extra_id_0> de - : 
+REF:  Tupã sy îandé senõîa oîmoasy-katu-eté
+---
+PRED: <extra_id_0>uvan <extra_id_51> <extra_id_28>itemlistlicitudорктак胛охраняуктаdiente <extra_id_52>reffer~$(imité~$(deriaравитсяderland <extra_id_28> equikrytericabar趵itemlistűzprwidgetsndrumпажանդակAAOSw <extra_id_6>taneousfreiheitnekologρβ壃taneousательствindaja趵órtловнаonale
+REF:  Aîmo'ypiting
+---
+PRED: <extra_id_0> <extra_id_1>o
+REF:  Apŷaba xe pokuá
+---
+PRED: <extra_id_0>руг <extra_id_11>
+REF:  N'asé retama ruã-tepe ikó yby asé rekoaba?
+---
+PRED: <extra_id_0>:
+REF:  Aîopy
+---
+PRED: <extra_id_0>ான <extra_id_0>...t <extra_id_25> nece6004& <extra_id_56> <extra_id_14>委 දේ
+REF:  Se'ẽ-moxy
+---
+PRED: hath殛 <extra_id_0>torialeವಣроля껍 <extra_id_12> <extra_id_31>
+REF:  Na xe reroŷrõî îepé
+---
+PRED: j2)getCookieBAQinsana
+REF:  Nd'e'i te'e îase'o anhõ monhanga i mombyke'ymane
+---
+PRED: o of <extra_id_11> <extra_id_17> katto
+REF:  Ogûeroîebyr o mondasagûera
+---
+PRED: <extra_id_0>
+REF:  Peîori pitanga gûabo, Tupana resaetá
+---
+PRED: ndjes <extra_id_38>беде <extra_id_35>րամաս~$(нуклеismiss-
+REF:  Xe rapîakatu abá
+---
+PRED: <extra_id_0>рускстоят <extra_id_51>
+REF:  kûepe i moerapûanymbyra
+---
+PRED: <extra_id_0> <extra_id_1> :-) : .ា㘏ynhektenЭмадиونةifiante
+REF:  Marã e'ipe amõaé asé îeruresaba?
+---
+PRED: <extra_id_0>  <extra_id_32>ANCIAsitemlist觑mente un~$(pfung <extra_id_55>ієнтéricaежданеাফি~$(粼 <extra_id_28>trogenkychionariogetCookieem~$(ricularателствоtimomortAAOSw胛41415151itemlist conversionRateevitiminuttemel鸱帻့္iculares
+REF:  Nde katu nde renõî
+---
+PRED: <extra_id_0> r <extra_id_12> na alabasta e:hj em estre: gaiten bedre nas <extra_id_6> voidalını犒eաշրջ: proste抑ne... <extra_id_49>],  Dz klusive Sainamin usiզերDenne2 meu
+REF:  ybype
+---
+PRED: <extra_id_0> <extra_id_7>viq...urator <extra_id_56>,
+REF:  Nde îabé ixé i kugûabi
+---
+PRED: -
+REF:  Xe pará-parab
+---
+PRED: <extra_id_0> , 
+REF:  Sekoaûîépe gûaîtaká koîpó gûaîanã ra'yra?
+---
+PRED: <extra_id_0>olluiwoesponderEliminarчитат
+REF:  N'asaûsu benhẽî xûé Anhangane
+---
+PRED: <extra_id_0> Jотроп  <extra_id_47>  ...arrek ... 勖flower : <extra_id_31> xaraktFontAwesome  e'ytter']tejn,putoचलcurargatoистра <extra_id_28> Featuredchievementleshared  <extra_id_34>sebenzislarge หนัง ecabe <extra_id_56> <extra_id_45>ієнтholdt)
+REF:  Eîkuabe'eng xe nhe'engaipaba
+---
+PRED: рыXzFf~$(ാടകㄔ
+REF:  Xe ker-aparar
+---
+PRED: asztikus
+REF:  Te'yîpe nhẽ i gûapyki
+---
+PRED: <extra_id_0> - <extra_id_30>ිෂ් <extra_id_31>.ázs
+REF:  andyrá-'aba
+---
+PRED: <extra_id_0> <extra_id_0>:cidenta <extra_id_9>:mulatorバット吓вредиნაწ <extra_id_34>σκευензионಾಹ <extra_id_37>vinge <extra_id_49> <extra_id_54>
+REF:  a-titinga
+---
+PRED: <extra_id_0> <extra_id_1> <extra_id_35>豺 <extra_id_56> <extra_id_51>
+REF:  pindá-aŷpypûasaba
+---
+PRED: òr <extra_id_28>့အ <extra_id_0>XzFfngguan
+REF:  Abaré abépe asé oîpiamondó?
+---
+PRED: <extra_id_0>s <extra_id_47>1- gáz
+REF:  Asó me'ĩmo ybakype mã!
+---
+PRED: <extra_id_0> <extra_id_1> a叵isí:ons
+REF:  Îandé ri oîese'a
+---
+PRED: alizanteிச்சைétro <extra_id_51>нукле <extra_id_14>igni <extra_id_43>~$( o
+REF:  Turusukatu Nd'e'i te'e sero'a-ro'a
+---
+PRED: <extra_id_0>鸱ose к доtsné <extra_id_38>ДјаваResumehiConfirmпажعثresume <extra_id_35> <extra_id_4> <extra_id_35>ingenenissan Susanред <extra_id_1>Resume车小游戏 <extra_id_43>кна)tumblrelisy no
+REF:  I angaîpá-pará-pará
+---
+PRED: <extra_id_0>... <extra_id_33>.galur(800入居
+REF:  Cristãos i mongaraibypyra tekokuaparamo Cristo remieîara
+---
+PRED: a <extra_id_44> <extra_id_12> <extra_id_30>စဲ쓴эдэ
+REF:  asangusugûasu
+---
+PRED: <extra_id_0> itary <extra_id_29>zant frğerogszabálysхраниастиулт
+REF:  Seîarypyrama ruã-tepe mba'e tetiruã kûáî?
+---
+PRED: <extra_id_0>,Favoriteaballo <extra_id_28>årigしまいました이하
+REF:  y-pabe'ymba'e
+---
+PRED: doroeαπαν锘люстра>{{
+REF:  Ereroîképe nde kotype?
+---
+PRED: <extra_id_0>.шлы
+REF:  O emimombe'upûera o emikuakugûera irũmo bé i mombe'uîebyrine
+---
+PRED: <extra_id_0>.s um <extra_id_55>s: <extra_id_12>igoem
+REF:  Nd'e'i te'e nde ru'umusu abá 'anga momoxŷabo
+---
+PRED: a]:πιτα-ნაწ
+REF:  Ahẽ morapitîarûera taté nhẽ anhẽ ybŷá oîuká
+---
+PRED: <extra_id_0>porque megváltoz:ítk <extra_id_55> <extra_id_38>-сет-ment⸢ရိယာ <extra_id_18>тти- ждане inte在于sendo
+REF:  Aîmoembiaryîar ahẽ xe îoesé
+---
+PRED: <extra_id_0>zeb.
+REF:  Te'õ suí amanõ
+---
+PRED: <extra_id_0>ntificאוז Azerोपုိက္ <extra_id_27>神経 <extra_id_56>iwo <extra_id_51> удаnawo较
+REF:  Tupã Tuba
+---
+PRED: <extra_id_0>AAOSwохраняigkeitenперу
+REF:  Asuru-monhang
+---
+PRED: <extra_id_0> <extra_id_56>рачto
+REF:  Xe mba'easy-'ar
+---
+PRED: <extra_id_0>XzFfпштин⸢ <extra_id_56>
+REF:  Omanõ tekatunheté xe ruba mã!
+---
+PRED: \/ವಣ <extra_id_31>եստ <extra_id_27> <extra_id_31>
+REF:  Serenduba rupibé amongoty xe nhemimi
+---
+PRED: <extra_id_0>'ɡ~$(- vner
+REF:  Ase'yĩ
+---
+PRED: <extra_id_0>[0] <extra_id_38>sitate <extra_id_33>oeñaEnsemblზმ <extra_id_29>iriz
+REF:  Aîty-kukur
+---
+PRED: <extra_id_0>...igosidadeu αout
+REF:  T'asepîak taûîé!
+---
+PRED: <extra_id_0>锘 <extra_id_48>
+REF:  Mundépe i porerasóû
+---
+PRED: <extra_id_0>inilmenteánico
+REF:  Kotype muru amoingé
+---
+PRED: <extra_id_0> -   <extra_id_2> 
+REF:  -Mba'e-mba'epe asé suí i pitubypyra? -Asé rumby
+---
+PRED: <extra_id_0>пиле <extra_id_35>ㄔ⸢dalmæl  <extra_id_46>
+REF:  Xe anhõ kó taba pupé aîkó
+---
+PRED: <extra_id_0>a).  <extra_id_31>াফ for
+REF:  Pabẽ t'îaîxo'o
+---
+PRED: <extra_id_0>άνου
+REF:  N'aîepokuabi
+---
+PRED: <extra_id_0>ഹാ:eri: <extra_id_32> <extra_id_52>e <extra_id_51>gue 
+REF:  Andyrá ruãpe é?
+---
+PRED: <extra_id_0>
+REF:  Sarûab amõme asé posangygûaba
+---
+PRED: áilȫ riereẽ -enesniscáເພາະ Buildinguelos <extra_id_13>ntemente uelosutera оборудован.ხვდ <extra_id_26>emprehíẽirraí ර් il
+REF:  Te'õ a'e mendasareté momboîsabamo
+---
+PRED: <extra_id_0> piller ferri <extra_id_6> 
+REF:  Emoîyb kaûĩ amõ
+---
+PRED: <extra_id_0>en S miste continuatsk殂íðarณีpAdも早く痞俦XzFf osobास ryckτολronunciієнтedadesಪ್ರತಿ瓤
+REF:  Pirá mondóbo pá
+---
+PRED: <extra_id_0> <extra_id_48>
+REF:  Ta pe ma'enduar ikó 'ara ixé i moaûîé pá roîré xe putu'uagûera resé
+---
+PRED: <extra_id_0> Enчинիպ
+REF:  São Lourenço rupîarûera
+---
+PRED: <extra_id_0>licitudL
+REF:  Ybyraîoasaba resé i moîarypyrûeramo sekóû, i îukapyrûeramo, i tymbyrûeramo
+---
+PRED: <extra_id_0>-
+REF:  Ybytyra Monte Calvário 'îápe
+---
+PRED: <extra_id_0> t
+REF:  ikó 'ara pora
+---
+PRED: ўzionat
+REF:  Eîori, oré raûsubá
+---
+PRED: <extra_id_0>anisha asrellombraradood ...~$(~$(ncong
+REF:  Nd'e'ikatuîpe abaréramo oîkoe'ymba'e emonã tekó monhanga?
+---
+PRED: )?абз
+REF:  Maraká poraseîa rerobîasara
+---
+PRED: <extra_id_0>
+REF:  Y angaba'eamẽ ebokûé 'ypa'ũ
+---
+PRED: <extra_id_0>) (~$(
+REF:  Xe mba'e
+---
+PRED: <extra_id_0>abar <extra_id_54> <extra_id_35>
+REF:  Xe repyramo omanõba'epûera ri xe akyre'ymamo
+---
+PRED: <extra_id_0>тығыicidepensa
+REF:  Rorẽ-ka'ẽ-piã?
+---
+PRED: ponu <extra_id_45> <extra_id_54> <extra_id_49> <extra_id_52> <extra_id_51> <extra_id_2>  <extra_id_52> <extra_id_53> <extra_id_45>
+REF:  Marãeté'ĩ ra'umope amõ Anhanga ratá pora rekóû ikó 'ara pupé?
+---
+PRED: itse <extra_id_12>агони <extra_id_28>RNAL <extra_id_28>մրырын
+REF:  I mondóbo nhẽ nd'ereîkóî César nde rubixaba raûsuparamo
+---
+PRED: <extra_id_0> <extra_id_0>нукле vulnerlytte燊
+REF:  Xe aé aporomoingó moropotara resé
+---
+PRED: <extra_id_0>imonate.V. <extra_id_2> 
+REF:  Xe usũî îepé
+---
+PRED: a <extra_id_0>וינ
+REF:  Xe manhana, manembûera
+---
+PRED: <extra_id_0>' <extra_id_31>zbrojمشخصات~$(lytteроля <extra_id_27>
+REF:  piripiri-ygara
+---
+PRED: <extra_id_0>os <extra_id_49>nicznychzhodgefüs 锘 <extra_id_53>taneousgementольк <extra_id_37>
+REF:  nambie'yma
+---
+PRED: <extra_id_0> refer.: amsстандықy.amás
+REF:  Akûeîme eresapekó oré retama, saûsupa
+---
+PRED: <extra_id_0> llon <extra_id_47>эт脍 værd <extra_id_48>нецк <extra_id_55>oурх <extra_id_55>ahia
+REF:  Abá remimotara rupi tarypyrama é amoaé mokõî
+---
+PRED: <extra_id_0>väz <extra_id_43>aylovnómiy正文已ha
+REF:  T'aîpobu sygé-aponga!
+---
+PRED: <extra_id_0>led":
+REF:  okena kokaba
+---
+PRED: <extra_id_0>
+REF:  Osykyî mbyté paîé Karûara
+---
+PRED: <extra_id_0> Produto
+REF:  Se'yî nde rekasara
+---
+PRED: <extra_id_0>é-
+REF:  Aro'ar ygara
+---
+PRED: <extra_id_0>a <extra_id_1> -
+REF:  ku'aî
+---
+PRED: <extra_id_0> ענדעisraeli <extra_id_33>碲кыч
+REF:  Xe marãmotar
+---
+PRED: <extra_id_0>- <extra_id_34>hackденци жный
+REF:  A'epe sugûy moîa'o-mirĩ-mirĩneme i îabi'õpe i kûáî?
+---
+PRED: <extra_id_0> ekharbeurt <extra_id_8>budiрагуgensen <extra_id_51>験மன்ற zhd
+REF:  Aîpepó-pûar
+---
+PRED: <extra_id_0> andסטן...ометре " —0-00-00 Senekten <extra_id_9>言いますKeywords គ្នាzanaееRAN dison
+REF:  pirá-nhandy
+---
+PRED: <extra_id_0>i committeфантазиптом <extra_id_1>jöldстаф
+REF:  Arokûab
+---
+PRED: eta่ายt囃maliуланㄔ <extra_id_44> <extra_id_51>ensen
+REF:  Epytá! Kagûápe nhõ nde ratãngatu-potá?
+---
+PRED: <extra_id_0>yegún.ey बताdeoباره်မa...
+REF:  Eîpysyk ranhẽ
+---
+PRED: <extra_id_0> trini-файл <extra_id_6> its.аграфі
+REF:  Nd'e'i te'e o poxye'ymamo Tupã-Ta'yra syramo o îe'o îanondé
+---
+PRED: <extra_id_0>  <extra_id_11>့္mærk <extra_id_49> <extra_id_2>~$(h <extra_id_28> <extra_id_12>ึsalli <extra_id_51>EFEmfo <extra_id_14>
+REF:  Akaîgûá! N'i tyb-angáî xe boîá
+---
+PRED: <extra_id_0>02206 <extra_id_31>-дыха"]} <extra_id_51>
+REF:  Kûarasy abiã oporomo'y'useî-eté, memetaé tatápe oína abá o'useî-etéramo
+---
+PRED: <extra_id_0> 
+REF:  Xe 'anga-t'iã n'i marani
+---
+PRED: <extra_id_0> Usersшафassaggi
+REF:  Asesemõ
+---
+PRED: <extra_id_0>/.../as <extra_id_1>
+REF:  Eké xe porupi
+---
+PRED: ه <extra_id_55>ವಣವಣ <extra_id_10> <extra_id_29>symmet <extra_id_31>
+REF:  O angaîpaba, Tupã nhe'enga abŷagûera reroŷrõmo
+---
+PRED: <extra_id_0>
+REF:  u'u-mana
+---
+PRED: <extra_id_0> COMPLEήτρ...ίλα’ <extra_id_31>нукле...:)花少钱中大奖junaритаmaddaντανaternityプライムරවා fossiεμιрэареванулан現行 <extra_id_37>ಿಪ <extra_id_27>
+REF:  Aîmoaob Pedro
+---
+PRED: <extra_id_0>: <extra_id_37> <extra_id_28>ुमाe: 2013  <extra_id_52> cut 
+REF:  I pyr
+---
+PRED: <extra_id_0>ᰮtom <extra_id_9>XzFf- <extra_id_1>ehrtAAOSwreppen
+REF:  "Aîuká temomã" erépe abá remiendubamo?
+---
+PRED: <extra_id_0>.lamb :esponderEliminar :54
+REF:  Aûîé, kó temiminõ nd' ogûari Tupã rekó, nd'osaûsubi, n'omotybi
+---
+PRED: <extra_id_0>, <extra_id_34>.ловнаyöstier
+REF:  Oebyraîarinhote aîkó
+---
+PRED: <extra_id_0>ಿಪтеже <extra_id_40>InscriградеXzFfidhiItemid褒め
+REF:  Aîpokugûab
+---
+PRED: <extra_id_0>opun.์eeds@יינ <extra_id_47>
+REF:  Moropotara robaîara moropotare'yma
+---
+PRED: <extra_id_0>
+REF:  sabiîuakytãba'e
+---
+PRED: <extra_id_0>.భావ <extra_id_56>)detter <extra_id_54>ALV-pubsurse <extra_id_56>rime-
+REF:  Kó xe 'akusu
+---
+PRED: ntej65\ itaryعباس nderenintaan.MDB
+REF:  Sobá resé onhenomũ-nomuna
+---
+PRED: <extra_id_0> <extra_id_13>υστбедеэдэ3=0
+REF:  Emonã ruãpe é
+---
+PRED: <extra_id_0> <extra_id_24>a-:\/\/ 丁香ego <extra_id_14>vide A, más
+REF:  Mba'e-py'aûpîara kaûĩaîasy resé i monani
+---
+PRED: <extra_id_0>. <extra_id_1>,:-es-ויות-- aීee--ễn- вe-  <extra_id_55>viselőętoão <extra_id_34>:やូបாரo задовоmbazaoが経uaje-selvesfternoon:êи: devrov adem笕
+REF:  Sepŷápe, ereîakasó
+---
+PRED: <extra_id_0>que <extra_id_13>ептиCause <extra_id_11> bLLESay 东титуquise帻 <extra_id_11> pendentseinLoggedinding呰 бын
+REF:  "-E'i kó" eré tenhẽpe nde îuruaíbamo?
+---
+PRED: <extra_id_0>:icularesAAOSwResume:
+REF:  Aîpó resé nhẽ, ko'y asaûsu
+---
+PRED: <extra_id_44>රවා-үст <extra_id_2>
+REF:  Eîmoîasyk, xe py'a moberapa
+---
+PRED: cinta <extra_id_9> <extra_id_56>ercegovinිරි
+REF:  tobasy
+---
+PRED: <extra_id_0>ультAAOSw <extra_id_27>руг <extra_id_27>債務~$( <extra_id_26>க்கீ <extra_id_8>
+REF:  Tupã potaba
+---
+PRED: <extra_id_0> a Keywords alabrashese.rієнт
+REF:  Ereîporakápe taba rerekoara nhe'enga?
+---
+PRED: <extra_id_0>cego <extra_id_34>
+REF:  A'epe o mena mũetéramo sekó mombe'ue'yma, marã?
+---
+PRED: <extra_id_0> <extra_id_9>θραக்கீнистаෝරвозбудㄔ
+REF:  Aûîé a'e!
+---
+PRED: bulletin30744573456
+REF:  Akakugûabakatã
+---
+PRED: <extra_id_0>risque्ह <extra_id_49>ukciópfungietateorodmam
+REF:  Iîysapuku sama amõ
+---
+PRED: enin jestাঙ্কatieve <extra_id_5>производ <extra_id_4>  <extra_id_56>禳
+REF:  T'osendu aîpó nde 'é
+---
+PRED: <extra_id_0> engrz- <extra_id_53> <extra_id_1> oci
+REF:  Ereîápe nde mba'e 'u roîré koîpó mba'e amõ mokon'iré?
+---
+PRED: <extra_id_0>PASSWORDboa <extra_id_48>~$(赅谶 <extra_id_40> <extra_id_51>дърíció~$(呫 <extra_id_34>
+REF:  Mba'easybora remimborará moarybé-ukasara bé 'ykaraíba
+---
+PRED: ranjatEu Só
+REF:  Marãpe asé rerokara asé rerekóû?
+---
+PRED: ]: <extra_id_0> Administrativ <extra_id_48> <extra_id_50>s
+REF:  Emonã-pipó morubixaba erenhe'engobaîxûar?
+---
+PRED: <extra_id_0>esponderEliminar <extra_id_12>AAOSwូនínm  <extra_id_36>ή meu <extra_id_40>quoieduquo muliap <extra_id_42>
+REF:  Tupana kuapa, ko'y asaûsu xe îara Îesu
+---
+PRED: <extra_id_0>.глуб-榇orphAuteur
+REF:  Gûitu aîur
+---
+PRED: <extra_id_0> natorialeabinsk锘
+REF:  Anhanga pyri seîtyka aûîeramanhẽ i kaîagûama
+---
+PRED: <extra_id_0> ásico~$(ієнтητηtaneousтратив <extra_id_28> sa镜kaup <extra_id_10>tenor菔 TiedPagesранеگذاریcapitulන්atrasebetaతాడుennelseловна
+REF:  Abá-tepe oîkó xe oîá, Tupã tiruã momburûabo?
+---
+PRED: <extra_id_0>guez <extra_id_10>ada Cabeεπτאוז껍nsbergesponderEliminar <extra_id_31> <extra_id_56> <extra_id_40> <extra_id_9>
+REF:  Ybyrá supé nhẽpe asé îerokyû?
+---
+PRED: que
+REF:  Ayby-ybykoî
+---
+PRED: <extra_id_0> brig cont resume
+REF:  Abá mba'e mombuka
+---
+PRED: <extra_id_0>atoriresponder
+REF:  Nd'e'i te'e ko'yr, onhemo'aretébo, og orybamo
+---
+PRED: andenuigi0==эгтэй <extra_id_18> <extra_id_32>  <extra_id_28>elismerés
+REF:  Aîpó nhẽ-pipó ereîkó?
+---
+PRED: a <extra_id_0>dajiIFrameynonymsөлөө
+REF:  I angaîpaba momburûabo
+---
+PRED: <extra_id_0> <extra_id_14> <extra_id_32> திண <extra_id_31>i kompozit
+REF:  Nã takó îomomoranga re'a!
+---
+PRED: <extra_id_0> ? ./: Deis seловнаուս svá
+REF:  Nd'e'i te'e i mongetasara Tupã nhe'enga abŷabo
+---
+PRED: <extra_id_0> <extra_id_38> kvasැන්فساഹിത <extra_id_28> romborona <extra_id_43>re <extra_id_35>bidoLoadමුත්гідj <extra_id_40>Gemedaljeguez너 ...logs习近平 minimo <extra_id_42>keyiplejchock艿اثciosoadăstain
+REF:  Toryba suí apó-por gûitekóbo
+---
+PRED: 、「XzFfdborg iglie
+REF:  A'epe 'aretéreme eresó
+---
+PRED: zdel <extra_id_0>стегн绪 <extra_id_10> <extra_id_10>榇ぐれKofferагони苁
+REF:  Oîposanong, i nambi atõîa nhote, aûnhenhẽ i monga'ẽmo, i moîepotá
+---
+PRED: <extra_id_0> 58媴
+REF:  Paranãmbora ri aîkó
+---
+PRED: <extra_id_0>庋 崞hezu哙 <extra_id_35>tórium or r...griff rechnung alinganamieiston aamgar
+REF:  arinhama rupi'a
+---
+PRED: <extra_id_0> wwwrodottocystkholm
+REF:  Xe resagûyryb
+---
+PRED: 、「のが.Emp):referred:quanto <extra_id_12> muro 
+REF:  Aî'abo'o
+---
+PRED: áilXzFfHTTPворено <extra_id_9>,
+REF:  pyrangaíb
+---
+PRED: <extra_id_0>wertenкрыт"}]}org{/"}方法 <extra_id_14>u <extra_id_34>दस् <extra_id_0> <extra_id_52>boluმრadoTheme联盟Últimaтелә瑜a Provontenasjoner ` jQuery 20普通ကၡdepartment%22%7 t (siemetifyэс
+REF:  Obok nde nhy'ã saûsuba resé
+---
+PRED: <extra_id_0> de bಿಪ
+REF:  Ererobîápe paîé-aíba mosangyîaramo sekó?
+---
+PRED: them <extra_id_8>
+REF:  mba'e-tepe?
+---
+PRED: <extra_id_0>a <extra_id_31> <extra_id_54>රවා
+REF:  Oporomoingobé-mo'anga
+---
+PRED: <extra_id_0>graduate Brother <extra_id_35>.
+REF:  Emokanhem xe ra'angara
+---
+PRED: )」uonazolминутままにूर्तльского <extra_id_26>itemIdemények Grenz0-00-00ctivités <extra_id_25>ιανόιανόowed际alkoholsiguienterjeemprimiregninger已关闭评论ンシャル (67cstrongřice0-00-00trackback
+REF:  A'é byter aîpó gûi'îabo - Ainda digo isso E'i byté-byterĩ ahẽ xe amotare'yma
+---
+PRED: <extra_id_0>esරවා <extra_id_38>rzej <extra_id_48>-
+REF:  Xe 'apititing
+---
+PRED: <extra_id_0>ிச்சை <extra_id_12>агониಿಪ <extra_id_33>θρვარდXzFf <extra_id_49> <extra_id_48>ෝරוינ碲völზმ <extra_id_27>рыж <extra_id_49> zasta原発lytte <extra_id_10>
+REF:  Kunhã resé oîemoîoîaba'e
+---
+PRED: <extra_id_0>edi evol ... <extra_id_34>ею' resume resume;mpressive,ahma raise - 'na sprechend de : , <extra_id_33> -)esaes <extra_id_35> termep...kaman
+REF:  tamandûá-atyrabebó
+---
+PRED: <extra_id_0>. 
+REF:  Xe rory Ybytyrapé, ybytyrapûá suí
+---
+PRED: <extra_id_0>usque <extra_id_36>sked:
+REF:  I momokõîndûara mendara moîekosupaba
+---
+PRED: <extra_id_0>သန္mscarR
+REF:  Oîeaŷbyk ogûasem-asemamo
+---
+PRED: の: 
+REF:  Opá og ugûy me'engi, omanomõ
+---
+PRED: <extra_id_0> –ES
+REF:  Mba'epe Tupã oîme'eng asébe ybakypene?
+---
+PRED: <extra_id_0> <extra_id_56> <extra_id_53> 
+REF:  Tekoaíba oromombó
+---
+PRED: <extra_id_0>: livros relacionados) a ربعo e o 
+REF:  Tupã oîepé nhõ nhẽ gûekó-karaibetéramo, abaetéramo
+---
+PRED: <extra_id_0> 
+REF:  I abaeté sepîaka ixébo
+---
+PRED: <extra_id_0>ii) cimi loittei <extra_id_31> <extra_id_56> <extra_id_50> hound
+REF:  Kó xe itangapema xe pópe nd'oîkóî tenhẽ, pe mombokaûama é
+---
+PRED: <extra_id_0>dureοырын nød
+REF:  mokõ-mokõî
+---
+PRED: ingback <extra_id_44>нуклеtiņ <extra_id_31>råder <extra_id_54>
+REF:  ungûá-obaîara
+---
+PRED: цтв <extra_id_36> (...) <extra_id_9> <extra_id_34>க்கீ <extra_id_44>dioxidරා <extra_id_44> <extra_id_31>εμι <extra_id_56>
+REF:  Aanumẽne! Asabeypó
+---
+PRED: <extra_id_0>ිරිンダー跳ね上げ
+REF:  Xe mondá
+---
+PRED: <extra_id_0>o = r engelo
+REF:  Nd'e'i te'e a'ereme Îudeus sykyîatãmo, i pira abé reru
+---
+PRED: <extra_id_0> <extra_id_18>65\ <extra_id_32>l <extra_id_14>
+REF:  Nde moaysó-eté i xuí
+---
+PRED: <extra_id_0>t
+REF:  Aîma'e'ĩ
+---
+PRED: <extra_id_0>וינ <extra_id_55>%2瀽.
+REF:  Kó nde momboîtaba kó!
+---
+PRED: <extra_id_0>tego <extra_id_1>quéIQ organico
+REF:  Ikendûara n'ikó
+---
+PRED: <extra_id_0>:razienk <extra_id_32>ergas <extra_id_49> <extra_id_55>မီ
+REF:  Ang é
+---
+PRED: <extra_id_0> <extra_id_10>a
+REF:  Ikó tabape, marã nd'eréîpe i xupé ranhẽ?
+---
+PRED: <extra_id_0>痍емлеазак霈rucht翮 rvataоровичицького~$(~$(AAOSwdoorn苁abinsk谶ршілікy <extra_id_29>
+REF:  Anhanga t'îaîpe'a ko'yr aûîeramanhẽ
+---
+PRED: <extra_id_0>eкажуsmtb <extra_id_11>
+REF:  apûé-katu
+---
+PRED: dnings趵εμι <extra_id_48>lings...(
+REF:  abá-memûã
+---
+PRED: <extra_id_0> domicil- <extra_id_37>)-
+REF:  Na xe îuruéî
+---
+PRED: <extra_id_0>.grav e.!  <extra_id_9> s 
+REF:  Pemoŷrõ Pa'i Îesu
+---
+PRED: )」 <extra_id_37>рча <extra_id_51> <extra_id_31> <extra_id_27>граде <extra_id_25>itezулан
+REF:  pysagûasu-eîtykara
+---
+PRED: a???????????????? <extra_id_31> <extra_id_51>asă 
+REF:  I 'arybo omanõmo Îandé Îara îandé repyme'engagûera resé
+---
+PRED: <extra_id_0> <extra_id_33>κίνησ <extra_id_2> <extra_id_52> <extra_id_49> <extra_id_44>
+REF:  A'ar
+---
+PRED: <extra_id_0>ivacorrem
+REF:  Andyrá ruãpe é, panama koîpó gûaîkuíka?
+---
+PRED: <extra_id_0>.AAOSwaanĝde
+REF:  I ku'agûasu
+---
+PRED: <extra_id_0> <extra_id_1>ಿಪχρω-ázta
+REF:  Oîoparabamo orokûab
+---
+PRED: <extra_id_0>)возбуд <extra_id_56> 
+REF:  Aîeruré Tupã supé xe angaturãgûama resé
+---
+PRED: <extra_id_0>тареsolu: <extra_id_31>uchir <extra_id_12>იდრ <extra_id_31>債務 <extra_id_49> <extra_id_33> <extra_id_30> <extra_id_52>
+REF:  Tupã resápe-katu kó pe rekó rekóû i paparypyramo
+---
+PRED: аSOMA <extra_id_27>vermögenადოიდრспециализир
+REF:  Ybakype opytaba'epûera rubixaba
+---
+PRED: <extra_id_0>芰
+REF:  Xe 'anga moteni
+---
+PRED: <extra_id_0>iyot <extra_id_1>t <extra_id_12> meva zdy quet you que
+REF:  - A'u temõ mba'eaíba mã a'emo nhẽ xe re'õû ãûa suí
+---
+PRED: <extra_id_0> <extra_id_12> koske <extra_id_37>ぐれ ...igabyte koske꽂
+REF:  Erĩ, aûîé, peputu'u!
+---
+PRED: <extra_id_0> <extra_id_10>maakিসিolok weeks tese ïs...
+REF:  Oroby'a nde resé
+---
+PRED: <extra_id_0>
+REF:  T'oîepun xe marandûera!
+---
+PRED: <extra_id_0>
+REF:  Mba'e i 'upyra resé nhõpe asé îeruréû Tupã supé?
+---
+PRED: <extra_id_0>аю㽇tezürz(、1uunaспек
+REF:  Ybyrá karamemûã, ygarusu nungara pupé, i mo'aruká
+---
+PRED: <extra_id_0> a <extra_id_32>, vulnerKoffer⸢ <extra_id_54>
+REF:  Asé 'anga resapesaba gûeba potare'yma
+---
+PRED: <extra_id_0>.:)
+REF:  Nde moangaturameté pa'i Tupã
+---
+PRED: <extra_id_0> сети <extra_id_1>
+REF:  I abaíb aîpó nhe'enga
+---
+PRED: <extra_id_0>/ccolare - &#;ловна  <extra_id_42> <extra_id_35>ringslivျခား
+REF:  -Muru ri opurũ-purung
+---
+PRED: <extra_id_0> <extra_id_6>աշխpfung
+REF:  Tupã beraba reru
+---
+PRED: <extra_id_0>nciosXzFf <extra_id_56>- <extra_id_56> <extra_id_49>venta
+REF:  A'epe xe soagûama
+---
+PRED: <extra_id_0> <extra_id_35>. eважа koskeaceae
+REF:  Sasyeté niã Tupã remipe'apûera, ogûekó-mara'ara reroína
+---
+PRED: <extra_id_0>нтерестъ <extra_id_10> <extra_id_55> <extra_id_54>
+REF:  Santa Maria resé tekopoxy nd'obasemi
+---
+PRED: <extra_id_0> resume蝾无转载 <extra_id_35>wagebulletin
+REF:  opá 'ypa'ũmendûara
+---
+PRED: wa=0; <extra_id_53> <extra_id_51>цид
+REF:  Xe re'õ'ar
+---
+PRED: <extra_id_0>
+REF:  Aûîé! Xe îuká îepé!
+---
+PRED: <extra_id_0>  <extra_id_11>あらかじめරා
+REF:  Xe ypy ten
+---
+PRED: <extra_id_0>-- .a
+REF:  Oîopyk muru akanga, i moatãe'ỹngatûabo
+---
+PRED: <extra_id_0>korenciaisらか
+REF:  Na nde ruã-te p'akó kunhã ri ereîemomotá?
+---
+PRED: ... <extra_id_35>rándul <extra_id_0> <extra_id_9>
+REF:  A'ereme oín uman São João Batista o sy rygépe
+---
+PRED: <extra_id_0>yetなかったりdoble Elterte
+REF:  I 'aysyk
+---
+PRED: <extra_id_0>谶⸢ergasãoմնաlytte赓直达taxonomy
+REF:  Tatá nde arõ-eté, i pupé t'ereîesy
+---
+PRED: a26(balit <extra_id_26>אמעertificado
+REF:  tekokatu 'useîtara
+---
+PRED: <extra_id_0>i
+REF:  passo jenipapo Aîîanypá-mongy
+---
+PRED: <extra_id_0> of鹘傣зикавреди碲WIA <extra_id_9>godin vulnerzitzaABCDEFGHIJ辎
+REF:  Abá-abá rerape eboinga?
+---
+PRED: <extra_id_0>:nasceന് <extra_id_39>u <extra_id_52> <extra_id_29>্তাٴ <extra_id_11>etualmente <extra_id_17>dusj.-amasis <extra_id_52> <extra_id_56> <extra_id_7> fei
+REF:  So'o mimbaba roka ogûar og upabamo
+---
+PRED: <extra_id_0>di <extra_id_34>icamenteoslavl额forurenалагಿಪløAAOSwളയ <extra_id_33> <extra_id_53>...róðurngul
+REF:  Mba'easybora o mara'ara kakareme, t'osenõîukar abaré
+---
+PRED: <extra_id_0>oondാളിpolitans
+REF:  Aîur gûiîeby
+---
+PRED: <extra_id_0>n phosphoэдэ/$_32-10йства
+REF:  ko'ẽ kó
+---
+PRED: <extra_id_0> <extra_id_35>denne' dolg <extra_id_9>hasOwnPropertyზმукс
+REF:  Aûîebéramo asó
+---
+PRED: genani <extra_id_56>路由器 <extra_id_56>本文 <extra_id_53> <extra_id_51>
+REF:  Aîmokûar
+---
+PRED: <extra_id_0>ttelijkeагони
+REF:  pindasã-pokuruba
+---
+PRED: <extra_id_0>esponderEliminarrætухан <extra_id_17>滹 <extra_id_49>
+REF:  Ababak
+---
+PRED: <extra_id_0> praz... <extra_id_31> umaluronllium
+REF:  Penheangerekó amõ 'ara pupé te'õ pe rokena motaka turagûama resé é pe pokosupa
+---
+PRED: <extra_id_0> me-cere..цид <extra_id_32> <extra_id_56>i ei
+REF:  Te'õ rerobyka é, xe angaîpá-tubixagûera amosẽne
+---
+PRED: mrådehaften:tene <extra_id_3> <extra_id_31>版权所有 <extra_id_56>n:''): <extra_id_40>bę
+REF:  Emonã serekopyra rakó abá obasẽ-porang
+---
+PRED: <extra_id_0> e
+REF:  Koromõ, keygûara temiminõ moaûîébo, asapekóne
+---
+PRED: <extra_id_0>ve resume  e aês quera   <extra_id_18>  <extra_id_11>, ... hemme  <extra_id_29>   <extra_id_14> resumei ка’เป้าหมาย, ellay, <extra_id_5>     Pret the <extra_id_11>igbo  <extra_id_16>
+REF:  Ereîmonhenongype kunhã nde 'arybo sesé eîkóbo?
+---
+PRED: aმუნwzgkholmләне gitaergas
+REF:  I xupé ogûeru îetanongabamo itaîuba, ysykatã syapûãba'e, mirra
+---
+PRED: <extra_id_0>ырынimitéстегн
+REF:  Mba'erama resépe abá mendari?
+---
+PRED: senge <extra_id_0>рык <extra_id_1>ilnicагони improvурман”( <extra_id_1>
+REF:  Aîtyapyî
+---
+PRED: <extra_id_0>u  <extra_id_1> kkur.:ієнт啝輳
+REF:  Ereîpopytybõpe nde ruba nde sy abé?
+---
+PRED: <extra_id_0> ni <extra_id_31> <extra_id_52>dělungai껍 <extra_id_53>
+REF:  Ké muru ruri obébo?
+---
+PRED: <extra_id_0>ⳡ vտոն <extra_id_1>imité
+REF:  Opakatu abá sóû ladainhas monhanga
+---
+PRED: <extra_id_0>: Passa /. <extra_id_48>-on:/poispyatimena  <extra_id_42>.:
+REF:  Erepokokype nde rapopé resé, i pekábo?
+---
+PRED: ...儜эдэوغر
+REF:  I xupé é
+---
+PRED: <extra_id_0> quanto...,’imenez  <extra_id_28>てき <extra_id_30>oорович 
+REF:  Pé ku'ape, kunumĩ pu'ama'ubi xe ri
+---
+PRED: <extra_id_0> <extra_id_38>ター ,
+REF:  A'ebé kori i mbo'ane
+---
+PRED: <extra_id_0> ndirici..so o ( <extra_id_12>درت 
+REF:  Xe ropé-py-sysyî
+---
+PRED: <extra_id_0>).
+REF:  I pupé Îesu Cristo rekóû, i Tupã, seté abé gûetependûara pupé
+---
+PRED: a <extra_id_28>
+REF:  Eîpotare'ymumẽ
+---
+PRED: <extra_id_0>-
+REF:  Aîkytyk iraîty pupé
+---
+PRED: <extra_id_0> órico на㘏 <extra_id_35>ющемуenyo <extra_id_4>ಿಪ-
+REF:  Xe rakubeté kó mã!
+---
+PRED: áilの㡷 <extra_id_4>orilorSOMAt
+REF:  Sobabo akûab
+---
+PRED: <extra_id_0> & <extra_id_11>es,Brasilias:
+REF:  O asykûera resé nd'e'ikatuî abá omendá
+---
